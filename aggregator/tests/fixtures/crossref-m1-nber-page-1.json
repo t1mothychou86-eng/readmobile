@@ -1,0 +1,3353 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 481,
+    "items": [
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:33Z",
+          "timestamp": 1791765933750,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35864",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "From Importer to Exporter: Oil Shocks and the U.S. Economy"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Diego",
+            "family": "Känzig",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "James",
+            "family": "Stock",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Luca",
+            "family": "Zanotti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:10Z",
+          "timestamp": 1791763330000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35864.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35864",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:32Z",
+          "timestamp": 1791765932347,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35870",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Aligning Platform and User Incentives in Social Media Age Restrictions"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Leonardo",
+            "family": "Bursztyn",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rafael",
+            "family": "Jiménez-Durán",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Aaron",
+            "family": "Leonard",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Filip",
+            "family": "Milojević",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher",
+            "family": "Roth",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:11Z",
+          "timestamp": 1791763331000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35870.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35870",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931381,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35856",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Andrew",
+            "family": "Barr",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Laura",
+            "family": "Kawano",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bruce",
+            "family": "Sacerdote",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael",
+            "family": "Stevens",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:09Z",
+          "timestamp": 1791763329000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35856.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35856",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:33Z",
+          "timestamp": 1791765933444,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35874",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Tax Planning and Multinational Behavior"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Rosanne",
+            "family": "Altshuler",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lysle",
+            "family": "Boller",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kevin",
+            "family": "Roberts",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Juan Carlos",
+            "family": "Suárez Serrato",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:12Z",
+          "timestamp": 1791763332000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35874.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35874",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:33Z",
+          "timestamp": 1791765933741,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35866",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Gang Crackdowns"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Nikita",
+            "family": "Melnikov",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Carlos",
+            "family": "Schmidt-Padilla",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "María Micaela",
+            "family": "Sviatschi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:10Z",
+          "timestamp": 1791763330000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35866.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35866",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:34Z",
+          "timestamp": 1791765934614,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35873",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "In Utero Exposure to the 1982 Tylenol Recall and Neurodevelopmental Outcomes"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Christopher",
+            "family": "Worsham",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Charles",
+            "family": "Bray",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joshua",
+            "family": "Rothman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Brian",
+            "family": "Kwan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anupam",
+            "family": "Jena",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:12Z",
+          "timestamp": 1791763332000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35873.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35873",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T04:05:30Z",
+          "timestamp": 1791777930759,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35865",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Financing the AI Buildout"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:10Z",
+          "timestamp": 1791763330000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35865.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35865",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:29Z",
+          "timestamp": 1791765929177,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35788",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Beliefs Over Contracts"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Francis",
+            "family": "Annan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Collin",
+            "family": "Raymond",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:01Z",
+          "timestamp": 1791763321000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35788.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35788",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:28Z",
+          "timestamp": 1791765928850,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35800",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Inference for Regression with Clustered or Spatially Correlated Data I: Framework and Clustering"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "A. Colin",
+            "family": "Cameron",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Douglas",
+            "family": "Miller",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:02Z",
+          "timestamp": 1791763322000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35800.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35800",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931425,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35847",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Targeted Acceleration in Middle School Math:  Impacts on College Entry, Degree Completion, and STEM"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "David",
+            "family": "Card",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Laura",
+            "family": "Giuliano",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:08Z",
+          "timestamp": 1791763328000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35847.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35847",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:32Z",
+          "timestamp": 1791765932345,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35861",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Labor Supply and Wages over the Life Cycle: Human Capital and Disability Benefits"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Richard",
+            "family": "Blundell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Monica",
+            "family": "Costa-Dias",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Graham",
+            "family": "Mazeine",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Costas",
+            "family": "Meghir",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tom",
+            "family": "Waters",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:10Z",
+          "timestamp": 1791763330000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35861.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35861",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:30Z",
+          "timestamp": 1791765930593,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35835",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Does Food Assistance Drive Spending on Sugary Foods? Evidence from the Pandemic Electronic Benefit Transfer Program"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Georgina",
+            "family": "Cisneros",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Brandyn",
+            "family": "Churchill",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:06Z",
+          "timestamp": 1791763326000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35835.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35835",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931056,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35854",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Marius",
+            "family": "Ring",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:09Z",
+          "timestamp": 1791763329000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35854.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35854",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931378,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35844",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Aging Out of Coverage: Lessons from the West Virginia $1,000 Adult Dental Benefit"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Daniel",
+            "family": "Grossman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kole",
+            "family": "Reddig",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jane",
+            "family": "Ruseski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fotinos",
+            "family": "Panagakos",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:08Z",
+          "timestamp": 1791763328000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35844.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35844",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:30Z",
+          "timestamp": 1791765930180,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35837",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Approximating the Equilibrium Effects of Informed School Choice"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Claudia",
+            "family": "Allende",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Francisco",
+            "family": "Gallego",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher",
+            "family": "Neilson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:07Z",
+          "timestamp": 1791763327000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35837.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35837",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931614,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35853",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Randomized to Opportunity: Measuring Place Effects for Refugee Children"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "N. Meltem",
+            "family": "Daysal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Joseph",
+            "family": "Doyle",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Naeim",
+            "family": "Samandari",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Emil",
+            "family": "Simonsen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mircea",
+            "family": "Trandafir",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:09Z",
+          "timestamp": 1791763329000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35853.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35853",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:32Z",
+          "timestamp": 1791765932349,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35869",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Voluntary Corporate Climate Targets in a Patchwork Policy Landscape"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Joseph",
+            "family": "Aldy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael",
+            "family": "Toffel",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alison",
+            "family": "Ong",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lavender",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:11Z",
+          "timestamp": 1791763331000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35869.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35869",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:32Z",
+          "timestamp": 1791765932350,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35859",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "How Heavily Are PhD Students Offloading Their Scientific Writing to AI? Evidence from US STEM PhD Dissertations"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Daniel",
+            "family": "Gross",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dror",
+            "family": "Shvadron",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hansen",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:09Z",
+          "timestamp": 1791763329000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35859.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35859",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:33Z",
+          "timestamp": 1791765933735,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35871",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Effects of Long-Term Exposure to Pollution on Health"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Joshua",
+            "family": "Graff Zivin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Johnny",
+            "family": "Huynh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Timothy Frank",
+            "family": "Justicz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Adriana",
+            "family": "Lleras-Muney",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Matthew",
+            "family": "Neidell",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:11Z",
+          "timestamp": 1791763331000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35871.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35871",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931401,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35839",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Large Language Models as Voting Mechanisms"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Raša",
+            "family": "Karapandža",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yaw",
+            "family": "Nyarko",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:07Z",
+          "timestamp": 1791763327000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35839.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35839",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931050,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35845",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Limits to Arbitrage and Prediction Market Efficiency: the Case of PredictIt"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Eric",
+            "family": "Zitzewitz",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:08Z",
+          "timestamp": 1791763328000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35845.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35845",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931419,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35841",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Soft Reserves, Learning and Bid Adjustment in Advertising Auctions"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Joshua",
+            "family": "Gans",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:07Z",
+          "timestamp": 1791763327000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35841.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35841",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:34Z",
+          "timestamp": 1791765934201,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35851",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Latent Human Capital: How Early Investments in Parents Buffer Against Future Schooling Shocks"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Shruti",
+            "family": "Jha",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "John",
+            "family": "List",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rebecca",
+            "family": "Royer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anya",
+            "family": "Samek",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:08Z",
+          "timestamp": 1791763328000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35851.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35851",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:34Z",
+          "timestamp": 1791765934228,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35868",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Optimal Line-Drawing for Legal Rules"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Jacob",
+            "family": "Goldin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Weisbach",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:11Z",
+          "timestamp": 1791763331000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35868.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35868",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "institution": [
+          {
+            "name": "National Bureau of Economic Research",
+            "acronym": [
+              "NBER"
+            ],
+            "place": [
+              "Cambridge, MA"
+            ]
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:45:31Z",
+          "timestamp": 1791765931604,
+          "version": "4.3.4"
+        },
+        "publisher-location": "Cambridge, MA",
+        "reference-count": 0,
+        "publisher": "National Bureau of Economic Research",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.3386/w35850",
+        "type": "report",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T00:01:21Z",
+          "timestamp": 1791244881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Debt Sustainability and the Range of Multiple Equilibria"
+        ],
+        "prefix": "10.3386",
+        "author": [
+          {
+            "given": "Olivier",
+            "family": "Blanchard",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pedro",
+            "family": "Martínez-Bruera",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gonzalo",
+            "family": "Huertas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1960",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2026-10-12T00:02:08Z",
+          "timestamp": 1791763328000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "http://www.nber.org/papers/w35850.pdf"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.3386/w35850",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

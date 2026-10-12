@@ -1,0 +1,5290 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 62,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T16:58:05Z",
+          "timestamp": 1791478685966,
+          "version": "4.3.4"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.17016/8799.1",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T16:38:12Z",
+          "timestamp": 1791477492000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Survey of Consumer Finances"
+        ],
+        "prefix": "10.17016",
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Federal Reserve Bulletin"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T16:38:12Z",
+          "timestamp": 1791477492000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/scfindex.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.17016/8799.1",
+        "ISSN": [
+          "0014-9209"
+        ],
+        "issn-type": [
+          {
+            "value": "0014-9209",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:50:41Z",
+          "timestamp": 1791435041353,
+          "version": "4.3.3"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2026-10-01T00:00:00Z",
+              "timestamp": 1790812800000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>Real-time monitoring of U.S. manufacturing activity typically relies on high-frequency national aggregates that lack industry detail. In this Note, we assess the Business Trends and Outlook Survey (BTOS), an experimental, biweekly product of the U.S. Census Bureau, as a timely source that bridges this gap by providing industry detail. We compare BTOS diffusion indices against established manufacturing indicators and find strong co-movement at the aggregate level, particularly for prices and supplier delivery times.</jats:p>",
+        "DOI": "10.17016/2380-7172.4178",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:03:46Z",
+          "timestamp": 1791432226000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Beyond Aggregates: Measuring Manufacturing Subsector Heterogeneity with the Business Trends and Outlook Survey"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Fariha",
+            "family": "Kamal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Atreya",
+            "family": "Bhamidi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Federal Reserve Board of Governors"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nicole",
+            "family": "Hoffmann",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-aggregates-measuring-manufacturing-subsector-heterogeneity-business-trends-and-outlook-survey-20261001.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-aggregates-measuring-manufacturing-subsector-heterogeneity-business-trends-and-outlook-survey-20261001.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:23:09Z",
+          "timestamp": 1791433389000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-aggregates-measuring-manufacturing-subsector-heterogeneity-business-trends-and-outlook-survey-20261001.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.17016/2380-7172.4178",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:49:54Z",
+          "timestamp": 1791434994125,
+          "version": "4.3.3"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-10-01-2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2026-10-01T00:00:00Z",
+              "timestamp": 1790812800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2026-10-01T00:00:00Z",
+              "timestamp": 1790812800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>Recent history has shown that input cost shocks can propagate quickly and broadly across sectors. When supply chain disruptions, commodity price swings, and demand shocks raise the prices firms pay for materials and services, those pressures can pass through to downstream consumers.</jats:p>",
+        "DOI": "10.17016/2380-7172.4191",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:09:26Z",
+          "timestamp": 1791432566000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Pricing Sentiment:  Measuring Input Cost Pressure from ISM Survey Responses"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Tomaz",
+            "family": "Cajner",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3006-6564",
+            "authenticated-orcid": false,
+            "given": "Leland D.",
+            "family": "Crane",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9105-3997",
+            "authenticated-orcid": false,
+            "given": "Christopher J.",
+            "family": "Kurz",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8278-8246",
+            "authenticated-orcid": false,
+            "given": "Paul E.",
+            "family": "Soto",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0002-5025-4618",
+            "authenticated-orcid": false,
+            "given": "Betsy",
+            "family": "Vrankovich",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:09:26Z",
+          "timestamp": 1791432566000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/pricing-sentiment-measuring-input-cost-pressure-from-ism-survey-responses-20261001.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-10-01-2",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                10
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4191",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:50:30Z",
+          "timestamp": 1791435030631,
+          "version": "4.3.3"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-068",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2026-10-01T00:00:00Z",
+              "timestamp": 1790812800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2026-10-01T00:00:00Z",
+              "timestamp": 1790812800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their contribution varies across historical episodes. Using pseudo-real-time information sets for 25 series, we estimate 16 combinations of dynamic heterogeneity, stochastic volatility, time-varying long-run growth, and a multiplicative outlier adjustment. We evaluate their marginal contributions to point, density, and quantile score forecasts using balanced paired factorial contrasts. Dynamic heterogeneity improves point, density, and tail forecasts, and it is the only feature that helps consistently across all three criteria. Stochastic volatility improves density and tail forecasts in some periods but not point forecasts consistently. Time-varying long-run growth lowers squared-error loss in some periods but worsens tail forecasts. The outlier adjustment does not improve point or density forecasts overall, has favorable but imprecisely estimated effects on upper-tail quantile scores during the pandemic, and worsens those scores afterward.</jats:p>",
+        "DOI": "10.17016/feds.2026.068",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:16:17Z",
+          "timestamp": 1791432977000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Bells and Whistles of Nowcasting Models: Which Matter and When?"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Freddy",
+            "family": "García-Albán",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0044-1194",
+            "authenticated-orcid": false,
+            "given": "Manuel",
+            "family": "Gonzalez-Astudillo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026068pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026068pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:16:17Z",
+          "timestamp": 1791432977000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-068",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                10
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2026.068",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:50:21Z",
+          "timestamp": 1791435021557,
+          "version": "4.3.3"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-10-02",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2026-10-01T00:00:00Z",
+              "timestamp": 1790812800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2026-10-01T00:00:00Z",
+              "timestamp": 1790812800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>Goods-producing industries have accounted for a declining share of U.S. jobs and economic output in recent decades, which has long been a topic of intense policy and research focus. Some commonly cited facts are reported in figure 1.</jats:p>",
+        "DOI": "10.17016/2380-7172.4184",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:11:30Z",
+          "timestamp": 1791432690000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Beyond the factory gate: The continued importance of goods production"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Ryan A.",
+            "family": "Decker",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-factory-gate-the-continued-importance-of-goods-production-20261002.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-factory-gate-the-continued-importance-of-goods-production-20261002.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T04:11:31Z",
+          "timestamp": 1791432691000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-the-factory-gate-the-continued-importance-of-goods-production-20261002.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-10-02",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                10
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4184",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T19:13:12Z",
+          "timestamp": 1790881992603,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2016-085r1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  22
+                ]
+              ],
+              "date-time": "2026-09-22T00:00:00Z",
+              "timestamp": 1790035200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<jats:p>We present a calibrated DSGE model with an occasionally binding effective lower bound (ELB) constraint on the short-term nominal rate that matches key features of the macroeconomy and the term structure of interest rates in the United States. We show that the ELB constraint induces state dependency in term premiums by affecting macroeconomic uncertainty and interest rate sensitivity to economic activity, typically lowering the absolute size of term premiums and generating distinct dynamics near the ELB. The central bank's forward guidance at the ELB lowers the expected short-rate path, but increases or decreases term premiums depending on whether demand or supply shocks are dominant.</jats:p>",
+        "DOI": "10.17016/feds.2016.085r1",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:41:14Z",
+          "timestamp": 1790880074000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Equilibrium Yield Curves and the Interest Rate Lower Bound"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Taisuke",
+            "family": "Nakata",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Tokyo"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hiroatsu",
+            "family": "Tanaka",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Federal Reserve Board of Governors"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2016085r1pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:41:14Z",
+          "timestamp": 1790880074000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/equilibrium-yield-curves-and-the-interest-rate-lower-bound.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2016-085r1",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                22
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2016.085r1",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2026-09-10T20:09:00Z",
+          "timestamp": 1789070940554,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2025-089r1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  2
+                ]
+              ],
+              "date-time": "2026-09-02T00:00:00Z",
+              "timestamp": 1788307200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>Does the virtue of complexity extend to exchange rate forecasting? We test whether Ridge regression with Random Fourier Features (Ridge–RFF) outperforms OLS and the driftless random walk for eight major USD currency pairs across two predictor sets — traditional monetary and Taylor-rule fundamentals — using the Kelly et al. (2024) framework to diagnose why complexity fails and what signal conditions its success would require. Ridge–RFF substantially outperforms OLS at short training windows, reducing MSPE by up to 97% under Taylor-rule fundamentals, but predictive equality tests against the random walk favour Ridge–RFF for only three currencies (AUD, CHF, and JPY) under Taylor-rule fundamentals and one (JPY) under traditional monetary fundamentals. At longer training windows, the Taylor-rule gains persist robustly across intercept specifications while traditional monetary fundamentals offer no reliable random walk out performance. Taylor-rule market-timing strategies generate portfolio Sharpe ratios approaching 0.40 at the longest training window, but these collapse once an intercept is included, exposing drift capture rather than genuine directional predictability. Tracing the VoC curve across the full regularisation spectrum confirms the failure is structural: the cross-currency mean out-of-sample R2 is bounded above by zero everywhere. The average predictive signal per feature is indistinguishable from zero, implying an optimal regularisation 1012–1013 times above the equity baseline — quantifying both why complexity fails in FX and what signal conditions would be needed for it to succeed.</jats:p>",
+        "DOI": "10.17016/feds.2025.089r1",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2026-09-10T19:35:57Z",
+          "timestamp": 1789068957000
+        },
+        "page": "1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Virtue or Mirage? Complexity in Exchange Rate Prediction"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0005-2650-3823",
+            "authenticated-orcid": false,
+            "given": "Rehim",
+            "family": "Kılıç",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2025089pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2025089r1pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2026-09-10T19:42:47Z",
+          "timestamp": 1789069367000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/virtue-or-mirage-complexity-in-exchange-rate-prediction.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2025-089r1",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                2
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2025.089r1",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2026-09-10T20:11:28Z",
+          "timestamp": 1789071088134,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2025-061r1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  2
+                ]
+              ],
+              "date-time": "2026-09-02T00:00:00Z",
+              "timestamp": 1788307200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>This paper examines which representations of persistence and nonlinearity are most useful for forecasting realized volatility and whether machine learning adds value beyond econometric models designed for long memory and regime dependence. We compare HAR, ARFIMA, threshold HAR, smooth-transition HAR, and Markov-switching HAR with XGBoost and several neural-network models for the S\\&amp;P~500 and 40 U.S. equities. Models are evaluated under a baseline information set using realized-volatility history and an extended set of predictors selected by Elastic Net. Forecast performance is assessed using MSFE, MAE, QLIKE, Model Confidence Sets, Diebold--Mariano tests, realized utility, and filtered-historical-simulation VaR and expected shortfall. The results reveal a robust horizon-dependent ranking: Markov-switching HAR performs best at short horizons, ARFIMA generally leads at the monthly horizon, and the five-day horizon is intermediate. Machine-learning models sometimes improve on HAR but do not systematically outperform the broader econometric set. These findings are robust across estimation windows, re-estimation frequencies, richer information sets, log-volatility targets, and individual equities; stock-level results are also robust to an alternative realized-volatility measure. Overall, forecast performance depends primarily on capturing the persistence and nonlinear dynamics most relevant at each horizon.</jats:p>",
+        "DOI": "10.17016/feds.2025.061r1",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2026-09-10T19:58:39Z",
+          "timestamp": 1789070319000
+        },
+        "page": "1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Linear and Nonlinear Econometric Models versus Machine-Learning Models: Evidence from Realized-Volatility Forecasting"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0005-2650-3823",
+            "authenticated-orcid": false,
+            "given": "Rehim",
+            "family": "Kılıç",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2025061pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2025061r1pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2026-09-10T20:02:58Z",
+          "timestamp": 1789070578000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/linear-and-nonlinear-econometric-models-against-machine-learning-models.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2025-061r1",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                2
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2025.061r1",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T21:06:12Z",
+          "timestamp": 1789160772477,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-062",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>In the pandemic era, people moved from high-density, expensive areas to more affordable areas, putting upward pressure on local housing prices. We examine the geographic distribution of rent growth and its impacts on renters compared to their income. We use administrative new lease data from RealPage and household-level data on rent and income from the American Community Survey. We analyze rents and incomes using Public Use Microdata Areas grouped in two ways: by pre-pandemic rent levels and by pre-pandemic rent-to-income ratios. Rents grew more in areas with lower pre-pandemic rents but not in areas with lower rent-to-income ratios, consistent with higher-income remote workers moving away from high rent areas to more affordable areas. Lower-income households experienced larger increases in rent relative to their income compared to the median renter. However, area-level rent-to-income ratios reflect both compositional changes in renter populations from mobility and changes in local rents. We highlight the need for future work to track affordability for the same households over time to fully understand pandemic era affordability trends.</jats:p>",
+        "DOI": "10.17016/feds.2026.062",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:12:04Z",
+          "timestamp": 1789157524000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "The Flight to Affordability: Effects of Pandemic Rent Increases on Renters By Geography"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1965-5803",
+            "authenticated-orcid": false,
+            "given": "Erin",
+            "family": "Troland",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Isabella",
+            "family": "Agnes",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6194-7415",
+            "authenticated-orcid": false,
+            "given": "Jessica",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fatimah",
+            "family": "Shaalan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michelle",
+            "family": "Tran",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0003-1475-6917",
+            "authenticated-orcid": false,
+            "given": "Douglas A.",
+            "family": "Webber",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026062pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026062pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:12:04Z",
+          "timestamp": 1789157524000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/the-flight-to-affordability-effects-of-pandemic-rent-increases-on-renters-by-geography.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-062",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2026.062",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:10:12Z",
+          "timestamp": 1790878212269,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-28-1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>The motor vehicle industry suffered severe production disruptions during 2021 and 2022, as semiconductor shortages—triggered by pandemic-era plant closures and shifting demand patterns—brought some assembly lines to a standstill. Having recovered to nearly pre-pandemic levels by the fourth quarter of 2020, aggregate U.S. light vehicle production plunged in early 2021, ultimately falling 20 percent below 2020:Q4 levels by the third quarter (figure 1).</jats:p>",
+        "DOI": "10.17016/2380-7172.4155",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:47:50Z",
+          "timestamp": 1790876870000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "When the Chips Went Down: Motor Vehicle Production and the 2021-2022 Semiconductor Shortages"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Adrian",
+            "family": "Hamins-Puertolas",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3181-0172",
+            "authenticated-orcid": false,
+            "given": "Maria D.",
+            "family": "Tito",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/when-the-chips-went-down-motor-vehicle-production-and-the-2021-2022-semiconductor-shortages-20260928.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/when-the-chips-went-down-motor-vehicle-production-and-the-2021-2022-semiconductor-shortages-20260928.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:47:51Z",
+          "timestamp": 1790876871000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/when-the-chips-went-down-motor-vehicle-production-and-the-2021-2022-semiconductor-shortages-20260928.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-28-1",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4155",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T19:54:28Z",
+          "timestamp": 1790884468256,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-066",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>Adoption of the current expected credit losses (CECL) methodology for loan loss provisioning significantly altered how banks recognize loan losses in their capital calculations. Because capital is a more costly funding source for banks, the accounting change affects banks' cost of funding loans. Using variation in the timing and effect of CECL implementation across firms and loan types, this paper finds that loan loss allowances have a similar causal effect on credit supply as capital requirements. Within our sample, the effect of CECL adoption on loan allowances reduced loan growth by approximately 77 basis points annually in the years following adoption. We find no significant effect of CECL on capital distributions.</jats:p>",
+        "DOI": "10.17016/feds.2026.066",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:58:56Z",
+          "timestamp": 1790881136000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "How Did CECL Affect Bank Lending?"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Ben",
+            "family": "Ranish",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9252-5351",
+            "authenticated-orcid": false,
+            "given": "Cindy M.",
+            "family": "Vojtech",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026066pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026066pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:58:56Z",
+          "timestamp": 1790881136000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/how-did-cecl-affect-bank-lending.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-066",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2026.066",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              23
+            ]
+          ],
+          "date-time": "2026-09-23T21:02:25Z",
+          "timestamp": 1790197345230,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "064",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>Multiple-horizon forecast panels are increasingly used to infer perceived monetary policy rules, but inference depends on how coefficients are pooled across forecasters, dates, and horizons. We treat this pooling structure as the object of inference. In a participant-date-horizon Taylor-rule regression model, we compare pooling patterns using Bayesian marginal likelihoods, applying the framework to the Blue Chip Financial Forecasts, Survey of Professional Forecasters, and the Summary of Economic Projections. The preferred specifications place much of the systematic variation in policy-rate forecasts in intercepts that vary across forecast horizons and survey dates. Evidence of ``changing perceptions\" of monetary policy via economically meaningful time-varying response coefficients is weak overall.</jats:p>",
+        "DOI": "10.17016/feds.2026.064",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              23
+            ]
+          ],
+          "date-time": "2026-09-23T20:14:14Z",
+          "timestamp": 1790194454000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Optimal Pooling in Taylor Rule Estimation with Multiple-Horizon Forecast Panels"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0008-0921-3738",
+            "authenticated-orcid": false,
+            "given": "Edward P.",
+            "family": "Herbst",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Karen",
+            "family": "Page",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026064pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026064pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              23
+            ]
+          ],
+          "date-time": "2026-09-23T20:14:14Z",
+          "timestamp": 1790194454000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/optimal-pooling-in-taylor-rule-estimation-with-multiple-horizon-forecast-panels.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "064",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2026.064",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T16:08:57Z",
+          "timestamp": 1788883737645,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-061",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>Central banks monitor macroeconomic risk through two traditions: scenario analysis, regularly used since the mid-1990s, and distributional forecasting, practiced since the late 1960s. The two are complementary but separate: scenarios provide narratives without probabilities, while predictive distributions provide probabilities with limited economic interpretation. Treating baseline forecasts and scenarios as conditional predictive densities, and distributional forecasts as reference predictive distributions, places both within a common framework and clarifies their roles. The Scenario Synthesis assigns weights to scenarios consistent with the reference distribution, offering a practical and reproducible tool for risk assessment and policy deliberation under deep uncertainty.</jats:p>",
+        "DOI": "10.17016/feds.2026.061",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T15:35:36Z",
+          "timestamp": 1788881736000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Risks and Uncertainty in Monetary Policy"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9379-9592",
+            "authenticated-orcid": false,
+            "given": "Tobias",
+            "family": "Adrian",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3850-2586",
+            "authenticated-orcid": false,
+            "given": "Domenico",
+            "family": "Giannone",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4659-9376",
+            "authenticated-orcid": false,
+            "given": "Matteo",
+            "family": "Luciani",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7297-7801",
+            "authenticated-orcid": false,
+            "given": "Mike",
+            "family": "West",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026061pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026061pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T15:35:36Z",
+          "timestamp": 1788881736000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-061",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2026.061",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T21:09:41Z",
+          "timestamp": 1789160981850,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "1446",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Int. finance discuss. pap."
+        ],
+        "abstract": "<jats:p>We study an income-account channel of exchange-rate transmission using matched data on Japanese multinational parents and their foreign affiliates. During the sharp yen depreciation of 2021–22, we find that (i) foreign affiliates with greater exchange-rate exposure expanded their activity and generated more profits, with larger payments to their Japanese parents, and (ii) more exposed parents increased their average wages and shifted employment toward commercial branches and offices involved in sales, purchasing, and related business functions, with offsetting declines in other employment. A multinational firm model in which scarce parent-side support inputs are allocated between domestic operations and foreign affiliates rationalizes these findings. To study the aggregate implications, we embed this mechanism in a two-country general-equilibrium model with trade and multinational production. The model shows that moving foreign-market activity from exports to affiliate production reduces the domestic real GDP response to depreciation and shifts more of the external adjustment from trade and toward income earned abroad. Depreciation therefore need not generate a large expansion in domestic production.</jats:p>",
+        "DOI": "10.17016/ifdp.2026.1446",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:58:15Z",
+          "timestamp": 1789160295000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Exchange Rate Transmission through Multinational Firms: Evidence from Japan"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Ryan",
+            "family": "Kim",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bin",
+            "family": "Ni",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9081-7046",
+            "authenticated-orcid": false,
+            "given": "Hyunseung",
+            "family": "Oh",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2837-3146",
+            "authenticated-orcid": false,
+            "given": "Choongryul",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "International Finance Discussion Paper"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1446.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1446.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:58:15Z",
+          "timestamp": 1789160295000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/ifdp/exchange-rate-transmission-through-multinational-firms-evidence-from-japan.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1446",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/ifdp.2026.1446",
+        "ISSN": [
+          "1073-2500",
+          "2767-4509"
+        ],
+        "issn-type": [
+          {
+            "value": "1073-2500",
+            "type": "print"
+          },
+          {
+            "value": "2767-4509",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:03:51Z",
+          "timestamp": 1790877831140,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-22",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>Global imbalances have returned to the forefront of policy debates, with China at the center of those discussions. China's trade surplus has reached exceptionally large levels, raising concerns about its implications for the rest of the world (de Soyres et al. 2026).</jats:p>",
+        "DOI": "10.17016/2380-7172.4156",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:30:06Z",
+          "timestamp": 1790875806000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Revisiting China's Current Account: Evidence from Recent Revisions"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-7198-2051",
+            "authenticated-orcid": false,
+            "given": "Harun",
+            "family": "Alp",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-1439-9721",
+            "authenticated-orcid": false,
+            "given": "Sina T.",
+            "family": "Ates",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Colin C.",
+            "family": "Caines",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4205-8625",
+            "authenticated-orcid": false,
+            "given": "Nathan",
+            "family": "Converse",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0837-749X",
+            "authenticated-orcid": false,
+            "given": "Jasper",
+            "family": "Hoek",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Eva",
+            "family": "Van Leemput",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/revisiting-chinas-current-account-evidence-from-recent-revisions-20260922.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/revisiting-chinas-current-account-evidence-from-recent-revisions-20260922.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:30:07Z",
+          "timestamp": 1790875807000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/revisiting-chinas-current-account-evidence-from-recent-revisions-20260922.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-22",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4156",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2026-10-02T19:59:48Z",
+          "timestamp": 1790971188781,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-30",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>Artificial intelligence (AI) technologies have the potential to transform production processes and labor markets, yet their ultimate effects on employment, occupations, and skill demand remain uncertain (Acemoglu and Restrepo, 2018). While research continues to explore implications of AI adoption for productivity and employment, firms' hiring decisions provide a timely measure of employers' evolving skill requirements (Deming and Kahn, 2018; Hershbein and Kahn, 2018; Acemoglu et al., 2022).</jats:p>",
+        "DOI": "10.17016/2380-7172.4158",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2026-10-02T19:48:18Z",
+          "timestamp": 1790970498000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "AI on the Factory Floor: Evidence from Manufacturing Job Postings"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-3181-0172",
+            "authenticated-orcid": false,
+            "given": "Maria D.",
+            "family": "Tito",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/ai-on-the-factory-floor-evidence-from-manufacturing-job-postings-20260930.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/ai-on-the-factory-floor-evidence-from-manufacturing-job-postings-20260930.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2026-10-02T19:48:19Z",
+          "timestamp": 1790970499000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/ai-on-the-factory-floor-evidence-from-manufacturing-job-postings-20260930.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-30",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4158",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T18:10:08Z",
+          "timestamp": 1788891008826,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-03-2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>In 2025, world international reserves held in gold surpassed foreign official holdings of U.S. Treasury securities (figure 1), a fact drawing attention from media and policymakers (Nangle, 2025; European Central Bank, 2026; Storbeck and Hook, 2026, for example). Should this be interpreted as gold overtaking U.S. Treasury securities in its appeal as a reserve asset? I argue that the answer is no, as a comparison of world gold reserves and aggregate foreign official holdings of U.S. Treasury securities is problematic for a couple reasons.</jats:p>",
+        "DOI": "10.17016/2380-7172.4147",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T17:49:11Z",
+          "timestamp": 1788889751000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Why Gold Didn't Actually Overtake Treasury Securities as the World's \"Favorite\" Reserve Asset"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1110-7570",
+            "authenticated-orcid": false,
+            "given": "Colin",
+            "family": "Weiss",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/why-gold-didnt-actually-overtake-treasury-securities-as-the-worlds-favorite-reserve-asset-20260903.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/why-gold-didnt-actually-overtake-treasury-securities-as-the-worlds-favorite-reserve-asset-20260903.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T17:49:11Z",
+          "timestamp": 1788889751000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/why-gold-didnt-actually-overtake-treasury-securities-as-the-worlds-favorite-reserve-asset-20260903.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-03-2",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4147",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              23
+            ]
+          ],
+          "date-time": "2026-09-23T20:08:56Z",
+          "timestamp": 1790194136547,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "065",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>We introduce the Financial Vulnerability Index (FVI), a novel indicator of financial vulnerabilities in the U.S. Unlike financial condition indices, which measure current credit market conditions and spike during periods of financial turmoil, the FVI displays the gradual build-up of structural financial weaknesses and declines as such episodes materialize. We demonstrate that the FVI exhibits properties consistent with theoretical mechanisms of financial vulnerabilities. When the index is high, adverse shocks are substantially amplified, generating larger declines in consumption and investment. We provide new empirical evidence that monetary tightening is associated with gradual declines in the FVI, with this effect substantially delayed, taking a few years to fully materialize. Moreover, monetary policy transmission to prices depends on the state of financial vulnerabilities, with significantly stronger effects when vulnerabilities are low.</jats:p>",
+        "DOI": "10.17016/feds.2026.065",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              23
+            ]
+          ],
+          "date-time": "2026-09-23T19:54:07Z",
+          "timestamp": 1790193247000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Beyond Financial Conditions: Measuring Structural Vulnerabilities in the U.S. Financial System"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0006-6649-1211",
+            "authenticated-orcid": false,
+            "given": "Michele",
+            "family": "Modugno",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Benjamin",
+            "family": "Roscoe",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0249-9610",
+            "authenticated-orcid": false,
+            "given": "Sarah",
+            "family": "Zoi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026065pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026065pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              23
+            ]
+          ],
+          "date-time": "2026-09-23T19:54:07Z",
+          "timestamp": 1790193247000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/beyond-financial-conditions-measuring-structural-vulnerabilities-in-the-us-financial-system.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "065",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2026.065",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T21:08:15Z",
+          "timestamp": 1789160895930,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-03-3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>This note examines the heterogeneous exposure of states in terms of their consumption of direct consumer goods imports, which is an important channel through which states are exposed to increases in trade costs such as tariffs. Building on the methodology that Hottman and Monarch (2020) and Hottman and Monarch (2026) used to construct a similar measure for U.S. income deciles and other demographic groups, we construct a new state-level measure using a recent year of data.</jats:p>",
+        "DOI": "10.17016/2380-7172.4157",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:27:29Z",
+          "timestamp": 1789158449000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Which states are most exposed to tariff increases? A new measure based on the consumption channel"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Nick",
+            "family": "Heyman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9886-5448",
+            "authenticated-orcid": false,
+            "given": "Colin J.",
+            "family": "Hottman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2853-0893",
+            "authenticated-orcid": false,
+            "given": "Ryan",
+            "family": "Monarch",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/which-states-are-most-exposed-to-tariff-increases-a-new-measure-based-on-the-consumption-channel-20260903.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/which-states-are-most-exposed-to-tariff-increases-a-new-measure-based-on-the-consumption-channel-20260903.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:27:29Z",
+          "timestamp": 1789158449000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/which-states-are-most-exposed-to-tariff-increases-a-new-measure-based-on-the-consumption-channel-20260903.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-03-3",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4157",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T16:07:26Z",
+          "timestamp": 1788883646716,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "1444",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Int. finance discuss. pap."
+        ],
+        "abstract": "<jats:p>We investigate Barro's random walk hypothesis according to which distortionary labor taxes should follow a random walk for any stochastic process of government expenditures, see Barro (1979). When agents experience cognitive discounting as in Gabaix (2020), they perceive government debt as wealth, and the random walk result breaks down except for knife-edge combinations of limited rationality by policymakers and the private sector. For these specific parameter values, the result can reemerge, but minor deviations from these knife-edge combinations lead to stationary equilibrium dynamics, reflecting the wealth effect of government debt. However, the dynamics turn explosive when policymakers discount the future excessively. Our results extend to other models with limited foresight such as Blanchard (1985), Weil (1989), or Woodford (2019).</jats:p>",
+        "DOI": "10.17016/ifdp.2026.1444",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T15:23:26Z",
+          "timestamp": 1788881006000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Optimal Monetary and Fiscal Policy under Limited Foresight"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-4400-3719",
+            "authenticated-orcid": false,
+            "given": "Martin",
+            "family": "Bodenstein",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Junzhu",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "International Finance Discussion Paper"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1444.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/ifdp/files/ifdp1444.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2026-09-08T15:23:26Z",
+          "timestamp": 1788881006000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/ifdp/optimal-monetary-and-fiscal-policy-under-limited-foresight.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1444",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/ifdp.2026.1444",
+        "ISSN": [
+          "1073-2500",
+          "2767-4509"
+        ],
+        "issn-type": [
+          {
+            "value": "1073-2500",
+            "type": "print"
+          },
+          {
+            "value": "2767-4509",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:10:15Z",
+          "timestamp": 1790878215460,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-28-2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>Light vehicles (NAICS 33611) account for approximately 7 percent of U.S. merchandise goods imports, making it an economically significant trade category. Because motor vehicles also receive a sizable weight in the Bureau of Labor Statistics (BLS) Import Price Index, changes in vehicle prices can materially influence overall import price inflation, making this sector particularly important for understanding broader trade price dynamics.</jats:p>",
+        "DOI": "10.17016/2380-7172.4174",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:53:07Z",
+          "timestamp": 1790877187000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Beyond Face Value: How Composition Changes Affect Import Unit Values of Light Vehicles"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0000-5474-9488",
+            "authenticated-orcid": false,
+            "given": "Robin",
+            "family": "Braun",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-3181-0172",
+            "authenticated-orcid": false,
+            "given": "Maria D.",
+            "family": "Tito",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-face-value-how-composition-changes-affect-import-unit-values-of-light-vehicles-20260928.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-face-value-how-composition-changes-affect-import-unit-values-of-light-vehicles-20260928.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:53:09Z",
+          "timestamp": 1790877189000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/beyond-face-value-how-composition-changes-affect-import-unit-values-of-light-vehicles-20260928.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-28-2",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4174",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T18:06:34Z",
+          "timestamp": 1790877994100,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-25",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>For decades, China was a major destination for foreign direct investment (FDI) by U.S. companies. In the last decade, however, trade tensions, geopolitical risks, and investment screening have interrupted these FDI flows and led firms to shift production toward third countries (Reyes-Heroles et al., 2020).</jats:p>",
+        "DOI": "10.17016/2380-7172.4076",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:38:26Z",
+          "timestamp": 1790876306000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Decoupling Direct Investment: American Firms’ Retreat from China"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Cody",
+            "family": "Kallen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/decoupling-direct-investment-american-firms-retreat-from-china-20260925.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/decoupling-direct-investment-american-firms-retreat-from-china-20260925.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T17:38:26Z",
+          "timestamp": 1790876306000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/decoupling-direct-investment-american-firms-retreat-from-china-20260925.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-25",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4076",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T21:08:41Z",
+          "timestamp": 1789160921915,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-04",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>The money supply is defined as a group of safe assets with stable values that households and businesses can use to make payments or to hold as short-term investments. In the U.S., the Federal Reserve measures the money supply using officially defined monetary aggregates, which classify assets according to their liquidity and function—a store of value versus a medium of exchange.</jats:p>",
+        "DOI": "10.17016/2380-7172.4150",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:44:27Z",
+          "timestamp": 1789159467000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "New Forms of Money and the U.S. Monetary Aggregates"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Kristen",
+            "family": "Payne",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mary-Frances",
+            "family": "Styczynski",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/new-forms-of-money-and-the-u-s-monetary-aggregates-20260904.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/new-forms-of-money-and-the-u-s-monetary-aggregates-20260904.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:44:27Z",
+          "timestamp": 1789159467000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/new-forms-of-money-and-the-u-s-monetary-aggregates-20260904.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-04",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4150",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T21:08:13Z",
+          "timestamp": 1789160893540,
+          "version": "build-2803163510"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-09-03-1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS Notes"
+        ],
+        "abstract": "<jats:p>Amid the largest global oil supply shock in history, oil futures prices moved up much less than many expected. The steep backwardation in oil futures from the Strait of Hormuz's closure sparked a spirited debate over whether futures prices were too sanguine about the risks of prolonged disruption. For institutions, including central banks, that use futures as a guide for market expectations of future commodity prices, understanding the performance of futures in forecasting is essential (Bernanke 2008, Baumeister 2023).</jats:p>",
+        "DOI": "10.17016/2380-7172.4171",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:37:21Z",
+          "timestamp": 1789159041000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Revisiting the Forecasting Potential of Futures Prices"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "given": "Alex",
+            "family": "Haag",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9886-5448",
+            "authenticated-orcid": false,
+            "given": "Colin J.",
+            "family": "Hottman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amanda",
+            "family": "Tinkham",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "FEDS Notes"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/revisiting-the-forecasting-potential-of-futures-prices-20260903.html",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/revisiting-the-forecasting-potential-of-futures-prices-20260903.html",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ],
+          "date-time": "2026-09-11T20:37:21Z",
+          "timestamp": 1789159041000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/notes/feds-notes/revisiting-the-forecasting-potential-of-futures-prices-20260903.html"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-09-03-1",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/2380-7172.4171",
+        "ISSN": [
+          "2380-7172"
+        ],
+        "issn-type": [
+          {
+            "value": "2380-7172",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T19:58:16Z",
+          "timestamp": 1790884696006,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Board of Governors of the Federal Reserve System",
+        "issue": "2026-067",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2026-09-01T00:00:00Z",
+              "timestamp": 1788220800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://www.usa.gov/publicdomain/label/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "FEDS"
+        ],
+        "abstract": "<jats:p>We consider official and alternative data sources for measuring and projecting the role of U.S. manufacturing in the global semiconductor manufacturing industry.  We find that the government sources we consider face significant limitations for tracking semiconductor fab investment in real time: they use industry and product categories that are too broad and come with substantial publication lags. We then analyze project-level alternative data from Semiconductor Equipment and Materials International (SEMI), which provides quarterly tracking of individual fab projects with greater timeliness and specificity. Comparing SEMI data with official statistics through 2023, we find broad consistency in investment levels, validating SEMI as a credible supplement to official statistics. This work provides both a practical guide for tracking real-time trends in semiconductor manufacturing and a case study in synthesizing government and alternative data sources.</jats:p>",
+        "DOI": "10.17016/feds.2026.067",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T19:21:16Z",
+          "timestamp": 1790882476000
+        },
+        "page": "1-1",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity"
+        ],
+        "prefix": "10.17016",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-8226-5181",
+            "authenticated-orcid": false,
+            "given": "David M.",
+            "family": "Byrne",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9709-4194",
+            "authenticated-orcid": false,
+            "given": "Robert J.",
+            "family": "Kurtzman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "id": [
+                  {
+                    "id": "https://ror.org/00v448643",
+                    "id-type": "ROR",
+                    "asserted-by": "publisher"
+                  }
+                ],
+                "name": "Board of Governors of the Federal Reserve System (U.S.)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Heidi L.",
+            "family": "Williams",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "6751",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "Finance and Economics Discussion Series"
+        ],
+        "link": [
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026067pap.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.federalreserve.gov/econres/feds/files/2026067pap.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2026-10-01T19:21:16Z",
+          "timestamp": 1790882476000
+        },
+        "score": 0.0,
+        "resource": {
+          "primary": {
+            "URL": "https://www.federalreserve.gov/econres/feds/measuring-and-projecting-us-investment-in-semiconductor-manufacturing-capacity.htm"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "2026-067",
+          "published-online": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.17016/feds.2026.067",
+        "ISSN": [
+          "1936-2854",
+          "2767-3898"
+        ],
+        "issn-type": [
+          {
+            "value": "1936-2854",
+            "type": "print"
+          },
+          {
+            "value": "2767-3898",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 25,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

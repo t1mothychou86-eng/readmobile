@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ecta-without-type",
+    "url": "https://api.crossref.org/journals/0012-9682/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-15",
+      "sort": "published",
+      "order": "desc",
+      "rows": 25
+    },
+    "status": 200,
+    "count": 0,
+    "sample": []
+  },
+  {
+    "name": "ecta-current-doi",
+    "url": "https://api.crossref.org/works/10.3982%2FECTA23242",
+    "params": {},
+    "status": 200,
+    "count": 1,
+    "sample": [
+      {
+        "DOI": "10.3982/ecta23242",
+        "type": "journal-article",
+        "ISSN": [
+          "0012-9682"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "published-print": null,
+        "published-online": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "container-title": [
+          "Econometrica"
+        ]
+      }
+    ]
+  }
+]

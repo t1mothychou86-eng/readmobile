@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "papercart"
 version = "0.0.0"
-description = "PaperCart metadata aggregator skeleton"
+description = "PaperCart metadata aggregator"
 requires-python = ">=3.10"
 dependencies = ["httpx>=0.28,<0.29", "feedparser>=6,<7", "pyyaml>=6,<7"]
 

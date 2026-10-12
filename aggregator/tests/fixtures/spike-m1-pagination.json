@@ -1,0 +1,12 @@
+[
+  {
+    "source": "aer",
+    "status": "ok",
+    "pages": 2,
+    "received": 4,
+    "kept": 4,
+    "filtered": 0,
+    "error": null,
+    "checked_at": "2026-10-12T17:43:41.435221+00:00"
+  }
+]

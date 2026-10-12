@@ -1,0 +1,20 @@
+[
+  {
+    "label": "year-start",
+    "from_pub_date": "2026-01-01",
+    "doi": "10.3982/ecta23242",
+    "status": 200,
+    "total_results": 1,
+    "dois": [
+      "10.3982/ecta23242"
+    ]
+  },
+  {
+    "label": "window-start",
+    "from_pub_date": "2026-06-15",
+    "doi": "10.3982/ecta23242",
+    "status": 200,
+    "total_results": 0,
+    "dois": []
+  }
+]

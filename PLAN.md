@@ -132,7 +132,8 @@
     5. 拉取 `journalArticle` 和 `report` 两种条目模板，存为 fixture。
   - **验收**：`SPIKES.md` 对每一项都给出明确结论；两边的空测试都能跑通。
   - **CORS 判定**：如果 Zotero 不允许跨域，**停下来报告**，由用户决定是否改走 Cloudflare Worker 中转。
-- [ ] **M1 Crossref 抓取**：实现 fetcher、normalize、非论文过滤和 JATS 标签清理；用录制的 fixture 做单元测试。
+- [x] **M1 Crossref 抓取**：实现 fetcher、normalize、非论文过滤和 JATS 标签清理；用录制的 fixture 做单元测试。
+  - 完成：实现限两页且间隔至少一秒的 Crossref 抓取、Paper 规范化、非论文/JATS 清理、NBER/FEDS 系列过滤和邮箱脱敏；查明 ECTA 年份日期导致空窗口并记录在 SPIKES.md。82 项离线 fixture 测试通过，真实 AER 两页及 NBER/FEDS 抓取复验通过，未开始 M2。
 - [ ] **M2 RSS 抓取与合并**：实现 RSS fetcher、URL 规范化、以 DOI 优先的去重、摘要回填；输出 `feed.json` 并按 schema 校验。
   - 命令行入口：`python -m papercart.build --out web/public/data/feed.json`。
 - [ ] **M3 Zotero 映射**：实现 `zotero_map`，对每种来源各做一条快照测试，并断言产出的字段名都在 M0 拉取的模板字段集合内。

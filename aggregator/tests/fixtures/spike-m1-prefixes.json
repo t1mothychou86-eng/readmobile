@@ -1,0 +1,22 @@
+[
+  {
+    "source": "nber",
+    "status": "ok",
+    "pages": 1,
+    "received": 25,
+    "kept": 25,
+    "filtered": 0,
+    "error": null,
+    "checked_at": "2026-10-12T17:40:04.250343+00:00"
+  },
+  {
+    "source": "feds",
+    "status": "ok",
+    "pages": 1,
+    "received": 25,
+    "kept": 10,
+    "filtered": 15,
+    "error": null,
+    "checked_at": "2026-10-12T17:40:06.853418+00:00"
+  }
+]

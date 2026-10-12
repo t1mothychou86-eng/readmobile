@@ -12,14 +12,16 @@ import os
 from pathlib import Path
 import re
 import subprocess
+import sys
 import time
 
 import feedparser
 import httpx
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT / "aggregator/src"))
+from papercart.privacy import protect_http_logs, redact
 FIXTURES = ROOT / "aggregator/tests/fixtures"
-EMAIL = re.compile(r"[\w.%+\-]+@[\w.\-]+\.[a-zA-Z]{2,}")
 ORIGIN = "https://example.github.io"
 JOURNALS = {
     "aer": ("0002-8282", "1944-7981"),
@@ -49,7 +51,7 @@ RSS = {
 
 
 def clean(value):
-    return EMAIL.sub("papercart@example.invalid", value)
+    return redact(value)
 
 
 def save(name, value):
@@ -75,15 +77,26 @@ def wait_headers(headers):
 def probe(client, name, url, params=None):
     record = {"checked_at": datetime.now(timezone.utc).isoformat(), "url": url}
     try:
+        target = httpx.URL(url)
+        def metadata_url(target):
+            if target.scheme != "https" or target.userinfo:
+                return False
+            if target.host == "api.crossref.org":
+                return bool(re.fullmatch(r"/(?:journals/[0-9X-]+(?:/works)?|prefixes/10\.[0-9]+/works|works(?:/10\..+)?)", target.path))
+            if target.host == "api.zotero.org":
+                return target.path == "/items/new"
+            return any(target.host == httpx.URL(feed).host and target.path == httpx.URL(feed).path for feed in RSS.values())
+        if not metadata_url(target):
+            raise ValueError("Refusing non-metadata URL")
         # Follow at most one redirect, with the same one-second request spacing.
-        response = client.get(url, params=params)
+        response = client.get(url, params=params, follow_redirects=False)
         if response.is_redirect:
             record["redirect"] = response.headers.get("location")
             wait_headers(response.headers)
             target = response.url.join(response.headers["location"])
-            if target.path.lower().endswith(".pdf"):
-                raise ValueError("Refusing PDF redirect")
-            response = client.get(target)
+            if not metadata_url(target):
+                raise ValueError("Refusing non-metadata redirect")
+            response = client.get(target, follow_redirects=False)
         record.update(status=response.status_code, headers={
             k: v for k, v in response.headers.items()
             if k.startswith("access-control-") or k in ("content-type", "date", "backoff", "retry-after")
@@ -112,6 +125,7 @@ def main():
     if "CROSSREF_MAILTO" not in os.environ:
         print("WARNING: CROSSREF_MAILTO 未设置，使用 papercart@example.invalid", flush=True)
     FIXTURES.mkdir(parents=True, exist_ok=True)
+    protect_http_logs()
     results = {}
     with httpx.Client(timeout=30, headers={"User-Agent": "PaperCart-M0/0.0", "Origin": ORIGIN}) as client:
         if args.section == "crossref":
@@ -143,6 +157,9 @@ def main():
                 print(source, record.get("status"), record.get("count"), flush=True)
         elif args.section == "rss":
             for source, url in RSS.items():
+                if source == "bfi":  # D5: keep historical evidence, don't probe the disabled source.
+                    results[source] = {"status": "disabled"}
+                    continue
                 record, body = probe(client, f"rss-{source}.xml", url)
                 if body:
                     feed = feedparser.parse(body)

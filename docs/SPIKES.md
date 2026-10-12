@@ -75,7 +75,7 @@ select=DOI,title,type,ISSN,container-title,abstract,published,prefix,publisher,a
 
 AER 两条缺摘要的是 Front Matter；QJE 一条是 Correction；JF 三条是 Announcements、Issue Information、American Finance Association。排除这些已识别非论文后，AER 23/23、QJE 18/18、JF 22/22 都有摘要。这只是本批样本观察，不代表未来完整覆盖。
 
-ECTA 的 zero-result 不等于没有发表论文，更不能把覆盖率写成 0%；RSS 包含 2026 年论文。当前记录无法解释 Crossref 窗口为空的原因，不能推断出版社不再登记 DOI。JFE 的 404 只说明该候选 ISSN 当前不能用作 Crossref journal endpoint，不证明 ISSN 本身无效。
+ECTA 的 zero-result 不等于没有发表论文，更不能把覆盖率写成 0%；RSS 包含 2026 年论文。M0 当时未能解释原因；M1 的对照验证已查明年份日期的精度问题，见 §7，不能推断出版社不再登记 DOI。JFE 的 404 只说明该候选 ISSN 当前不能用作 Crossref journal endpoint，不证明 ISSN 本身无效。
 
 逐请求状态、响应头、期刊名称和 ISSN 集合见 [spike-crossref.json](../aggregator/tests/fixtures/spike-crossref.json)；补充 ECTA/JFE journals 元数据见 [spike-followup.json](../aggregator/tests/fixtures/spike-followup.json)。对应 `crossref-{source}-{ISSN}.json` 均为该页真实响应，使用 API 的 `select` 减少无关字段，并替换邮箱。
 
@@ -130,7 +130,7 @@ npm test
 npm run build
 ```
 
-实测：Python 3.10 可编辑安装成功；pytest 收集 0 项、退出 0；Vitest 4 收集 0 项、退出 0；`tsc --noEmit` 和 Vite 7 build 成功。M0 空测试通过不是业务正确性证明。pytest 只转换 NO_TESTS_COLLECTED，不掩盖测试失败。
+M0 实测：Python 3.10 可编辑安装成功；pytest 收集 0 项、退出 0；Vitest 4 收集 0 项、退出 0；`tsc --noEmit` 和 Vite 7 build 成功。M0 空测试通过不是业务正确性证明。当时 pytest 只转换 NO_TESTS_COLLECTED，不掩盖测试失败；M1 已添加业务测试并移除此空套件特例。
 
 本机 venv 初次创建因缺 `ensurepip` 失败，使用系统已有的 pip `--python aggregator/.venv install pip` 在虚拟环境内修复，无需 sudo。构建使用 setuptools，属于 pyproject 的构建工具；应用直接依赖全部来自白名单。Vitest 初始 3.x 安装的依赖审计有漏洞，升级同一白名单依赖到 4.x 后 npm install 的审计报告为 0 vulnerabilities，测试和构建仍通过。
 
@@ -146,3 +146,40 @@ fixtures 只录制元数据。邮箱替换为 `papercart@example.invalid`；HTTP
 - D6：ECB 的开放获取 PDF URL 可以保存、展示供用户点击，程序不会请求 PDF 或全文 URL；不再要求另行批准该链接。
 - D8：真实 mailto 仅从环境读取用于 Crossref 请求；文件、fixture 和日志使用占位符，不记录真实值。
 - GitHub 仓库、Zotero Key 和集合留待对应后续里程碑；CORS 不触发 Worker 决策。
+
+## 7. M1：ECTA 空窗口原因（D3）
+
+验证日期仍为 2026-10-13（Asia/Singapore），仅请求 api.crossref.org 的元数据，不请求出版商页面、DOI 跳转页、PDF 或全文。
+
+| 对照 | 参数/响应 | 结论 |
+|---|---|---|
+| 移除类型过滤 | `/journals/0012-9682/works?filter=from-pub-date:2026-06-15` 返回 200、0 条 | 不是 `type:journal-article` 排除了当期数据 |
+| 查询 RSS 中的当期 DOI | `/works/10.3982%2FECTA23242` 返回 `type: journal-article`、ISSN `0012-9682`、`published`/`published-online`/`issued` 均为 `[[2026]]`，没有月日 | 身份与类型正确；日期只有年份 |
+| 同一 DOI 加年初条件 | `/works`，`filter=doi:10.3982/ecta23242,from-pub-date:2026-01-01,type:journal-article`，返回 1 条 | 记录存在且满足 journal-article 条件 |
+| 同一 DOI 加 M0 窗口条件 | 仅把上述日期换为 `2026-06-15`，返回 0 条 | 日期条件直接造成排除 |
+| 扩大期刊窗口到年初 | `/journals/0012-9682/works`，`filter=from-pub-date:2026-01-01,type:journal-article`，共 76 条，最新 25 条的 published 全部为 `[[2026]]` | 不是单个 DOI 的偶发现象，样本普遍缺月日 |
+
+RSS 将该论文列在 2026 年 9 月刊；Crossref 元数据没有这层月日精度。[Crossref 官方日期规则](https://github.com/CrossRef/rest-api-doc#notes-on-dates) 说明缺失的月份/日期按最早可能日期参与 API 筛选，因此 `[[2026]]` 被当作 2026-01-01；6 月 15 日窗口会漏掉这些当期论文。上述同一 DOI 的 A/B 对照与规则一致，明确排除类型过滤作为原因。
+
+结论限于本次可见元数据和样本，不推断出版社内部原因，也不声称全部 76 条都经过逐条审查。按 D3 保持 **RSS primary、Crossref auxiliary**；未扩大生产 Crossref 的时间窗口，也未用 Crossref 创建/索引日期冒充论文发表日期。规范化输出保留 `2026`、`2026-09`、`2026-09-30` 的真实精度，后续 M2 用 RSS 的当期日期信息。
+
+真实响应：`ecta-without-type.json`、`ecta-current-doi.json`、`ecta-date-control-year-start.json`、`ecta-date-control-window-start.json`、`ecta-year-sample.json`。请求状态与对照记录：`spike-m1-ecta.json`、`spike-m1-ecta-controls.json`、`spike-m1-ecta-year-sample.json`。全部位于 `aggregator/tests/fixtures/`，邮箱已脱敏。
+
+复现：`LIVE_TEST=1` 运行 `aggregator/scripts/verify_crossref.py` 的 `ecta-metadata`、`ecta-controls`、`ecta-year-sample` 模式；每次每源最多两次单页请求，间隔至少一秒。
+
+## 8. M1：抓取、规范化与系列过滤（D7/D8）
+
+- `sources.py` 加载 schema 1，保留 disabled 源，校验重复 ID、验证日期、ISSN/前缀和系列表达式。ECTA primary RSS 不影响显式辅助 Crossref 请求；BFI disabled 不发送请求。
+- `crossref.py` 按 ISSN 或前缀取元数据。实测期刊的 `rows=2&offset=0/2` 两页成功，使用最多两页的小范围 offset 分页；期刊带 journal-article 类型条件，前缀不限定为 report（FEDS 存在 journal-article 类型）。响应不足一页、达到 total-results 或发生错误时停止。每次运行每源最多两页，无自动重试；同一 fetcher 中跨页、跨源请求均至少间隔一秒。
+- 单源错误返回安全的错误状态，不中断其他源；第二页失败保留第一页、标记 partial。HTTP 重定向禁止跟随；唯一可请求目标是由合法 ISSN/前缀构造的 Crossref API 路径，响应中的 `URL`、`resource` 和 `link` 从不被请求。
+- `normalize.py` 输出 Paper 的 DOI ID、来源、类型、标题、作者、纯文本摘要、日期、URL、工作论文编号和后续 Zotero 映射所需书目字段。清理 JATS/HTML 标签、实体及段落空白；过滤 front/back matter、勘误、编辑报告、公告、致审稿人名单等。缺摘要为 null；M3 的 Zotero 字段暂为空，不提前实现映射。
+- 按 D7，NBER 严格匹配 `10.3386/w<数字>`，FEDS 只接受 `10.17016/feds.` 开头；DOI 比较不区分大小写。修复 M0 配置中过度转义的系列正则，并增加测试，防止只看前缀或误收其他系列。
+- 真实 M1 抓取器验证：NBER 25 条接收、25 条保留；FEDS 25 条接收、10 条保留、15 条其他系列剔除。证据为 `crossref-m1-nber-page-1.json`、`crossref-m1-feds-page-1.json` 与 `spike-m1-prefixes.json`。
+- `privacy.py` 从环境读取联系信息用于请求，保存元数据前递归替换原文及 URL 编码的邮箱；httpx INFO 日志也过滤请求邮箱，错误不包含 URL 或底层异常详情。单元测试使用占位联系信息，不接触开发者的真实邮箱。
+- M0 诊断脚本一并加强只读元数据 URL 白名单，拒绝 PDF/全文请求及跳转，BFI 停用后不再请求其候选 feed。没有实现 RSS 抓取器、去重、摘要回填或 feed.json 构建；这些仍属于 M2。
+
+单元测试使用录制的真实响应与 respx：覆盖所有 8 刊、NBER/FEDS 系列筛选、日期对照、分页上限/间隔、短页/空页、失败隔离、非法响应、PDF/全文跳转拒绝、JATS 清理、非论文过滤及邮箱脱敏。默认通过 socket guard 禁止真实网络连接；网络脚本只有 `LIVE_TEST=1` 才运行。没有任何 Zotero 写入。
+
+最终验证：`python -m pytest aggregator -q` **82 passed**（Python 3.10）；源码与诊断脚本编译检查通过。真实抓取器的 AER 分页复验为两页、4 条接收/保留，记录在 `crossref-m1-aer-page-1.json`、`crossref-m1-aer-page-2.json`、`spike-m1-pagination.json`。仓库文本与全部 JSON fixture 检查通过，真实 CROSSREF_MAILTO 及其 URL 编码形式均不存在于文件中。
+
+本次环境的原仓库 `.git` 为只读挂载，正常 git add/commit 因不能创建 index.lock 而失败。为保持里程碑提交顺序，在 `/tmp/papercart-milestones` 的独立 Git 仓库生成 M0、M1 提交，代码保存在原工作区，另交付 bundle 供可写 Git 环境导入；没有替换原仓库 `.git` 或修改其分支。

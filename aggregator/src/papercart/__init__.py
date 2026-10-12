@@ -1,1 +1,1 @@
-"""PaperCart metadata aggregator. Implementation starts in M1."""
+"""PaperCart metadata aggregator. Crossref retrieval and normalization (M1)."""

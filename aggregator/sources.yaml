@@ -1,4 +1,4 @@
-# M0 observations only; status=passed means endpoint/identity verified, not runtime implemented.
+# Verified metadata sources; status=passed means endpoint/identity verified.
 # verified is the Asia/Singapore verification date; null means not verified.
 # checked records an attempt, including failures. Candidate values are not usable endpoints.
 schema: 1
@@ -77,8 +77,9 @@ sources:
     verified: '2026-10-13'
     status: no_recent_items
     evidence: crossref-journal-ecta.json
-    reason: Both ISSNs identify Econometrica, but the 2026-06-15 onward works samples
-      contain zero items.
+    reason: M1 confirmed year-only 2026 dates; Crossref treats them as January 1,
+      so from-pub-date:2026-06-15 excludes these records. Not caused by type filtering;
+      RSS remains primary under D3.
     online_issn: 1468-0262
   rss:
     url: https://onlinelibrary.wiley.com/feed/14680262/most-recent
