@@ -152,7 +152,8 @@
   - 命令行入口：`python -m papercart.build --out web/public/data/feed.json`。
 - [x] **M3 Zotero 映射**：实现 `zotero_map`，对每种来源各做一条快照测试，并断言产出的字段名都在 M0 拉取的模板字段集合内。
   - 完成：实现 journalArticle/report 映射、M0 模板字段及作者格式校验，接入 build/schema 并兼容旧 M2 feed/state；12 个启用来源各一条快照，BFI 保留停用空快照，生成 36 条前端样本及 zotero-write.md。落实审查 F1–F4：关闭 JFE RSS、增加同源缺 DOI 的精确标题去重、统一非论文及历史记录过滤，记录 ECB 缺作者限制；201 项离线测试通过，离线重建及一次真实 build 各 586 条并通过 schema，各源重复标题均为 0；真实 NBER RSS 返回 503，state 保留 222 条/42 条摘要。未调用 Zotero 写入接口、未提交、未开始 M4，详情见 SPIKES.md。
-- [ ] **M4 PWA 界面**：
+- [x] **M4 PWA 界面**：
+  - 完成：实现中文移动端三 Tab、safe-area/深色模式、筛选/已读/摘要、IndexedDB 购物车与设置，以及持久化 Zotero 批次/Token/共享退避/412 核对保护；加入相对路径 PWA、图标和 feed 网络优先缓存。审查后修复初始化阻塞、超时/错误重试及窄屏收缩换行；36 项 mock Vitest、npm run build、本机子路径静态冒烟、Chromium 51 项布局/故障回归与六张主题截图检查及 git diff --check 通过。未访问 Zotero 写入或 PDF，iPhone 真机/授权接口/实际 SW 离线行为留待 M6，未提交、未开始 M5。
   - 信息流：按 group 和来源筛选，未读优先，点击展开摘要；
   - 加购：每条一个按钮，状态依次为“未加购 → 写入中 → 已入库 / 失败可重试”；
   - 购物车页；设置页（输入 Key 并校验、选择集合、可选默认标签）；

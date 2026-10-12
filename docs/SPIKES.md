@@ -353,3 +353,30 @@ JPE 原有 7 条摘要跨运行保留，54 条仍缺摘要的 DOI 命中既有�
 | BFI | 0 / 0 | 0 / 0 | —（停用） | 0 |
 
 真实运行共 21 次元数据请求，Semantic Scholar HTTP 请求为 0（复用 state 缓存）。NBER RSS 本次 HTTP 503，Crossref 成功；source.status 为 partial，旧 RSS 元数据/摘要通过 state 保留，未重试该 host。其余启用源 status 为 ok，ECTA Crossref 为空但 RSS 正常，BFI 保持 disabled。真实响应、manifest 和两次安全统计分别见 `aggregator/tests/fixtures/m3/review-live/`、`review-live.report.json`、`review-offline.report.json`；manifest 不含 mailto，响应沿用邮箱脱敏。确认没有请求 PDF、全文或 Zotero 写入接口。无新增需用户决定事项；NBER RSS 暂时不可用、ECB 缺作者及既定 JFE 缺摘要是当前限制，M4 未开始，未提交。
+
+
+## M4：中文移动端 PWA（2026-10-13）
+
+- 信息流、购物车、设置三 Tab，手写 CSS；支持 safe-area、系统深色模式、至少 44px 的主要操作目标。卡片显示来源简称、标题外链、截断作者及保留精度的日期；无发表日期标“首次收录”，点击展开纯文本摘要，无摘要显示“无摘要”。不渲染摘要 HTML、不预取论文链接、不创建附件。
+- 按 Top5 / 金融 / 工作论文与单来源筛选；进入信息流时未读优先，已看过的卡片滚出上边界即保存已读。当前阅读过程固定顺序，避免状态更新引起卡片跳动；离开再进入或刷新后重排。“全部标为已读”作用于整个 feed。
+- IndexedDB（idb-keyval）保存 Key、userID、集合、标签、筛选、已读、包含论文快照的购物车、原始批次正文/Token/逐条结果和共享冷却时间。持久化完成才发送写入；双击与重复已入库条目不会新建批次。中断后显示未确认失败，须手动沿用原批次重试。
+- Zotero client 的所有读写共享串行队列，至少一秒间隔；所有响应读取 Backoff/Retry-After，429/503 最多重试三次，等待取已有冷却、响应头和指数退避的最大值。HTTP 日期 Retry-After 也支持。网络错误设 30 秒超时，同一正文/Token 重试；写入结果按 successful / unchanged / failed 的数组下标解析。只有已确认条目显示“已入库”，明确失败才允许新批次；412 及缺失逐条结果显示核对提示并阻止重发。
+- `/keys/current` 的 userID 与 access.user.library/write 结构按[官方同步文档](https://www.zotero.org/support/dev/web_api/v3/syncing#verify_key_access)核对；集合 data.name/key 与分页按[官方基础文档](https://www.zotero.org/support/dev/web_api/v3/basics)核对，结果按[官方多对象写入文档](https://www.zotero.org/support/dev/web_api/v3/write_requests#creating_multiple_objects)解析。只做文档核对和 mock 验证，未使用真实 Key 或授权 API 响应；真实授权字段及权限行为尚未实测。集合最多两页/200 条，存在 00 Inbox 时默认选择，否则写入文库根目录；满 200 条时明确提示列表上限。
+- 生产只读取相对路径 data/feed.json；开发缺文件（404 或 Vite HTML fallback）才加载既有 36 条样本，服务异常不偷偷替换为样本。生产包没有开发样本 chunk。设置显示 feed 生成时间和逐源状态/原因；清除本地数据需用户在界面确认，活动请求期间禁止清除，也清除 feed 缓存，不删除远端文献。
+- Vite base 为 `./`；manifest 使用相对 scope/start_url、standalone，提供 192/512 PNG 与 180px apple-touch-icon。Service Worker 预缓存静态资源，feed 不预缓存，NetworkFirst 同时处理网络错误和 HTTP 非成功状态，失败读缓存。缓存匹配限定同源 `/data/feed.json`，无跨站论文/PDF 请求规则。
+- **首轮验证**：`cd web && npm test` **30 passed**（client 16、store 8、feed 6）；所有 HTTP 使用 mock fetch，IndexedDB 用内存 mock 适配器。覆盖 Token 复用、共享限流/HTTP 日期/429/503/最大重试数、逐条解析、412、50 条上限及 101 条切批、写前持久化/重载恢复/失败新批次/重复点击保护、已读/清除/设置持久化、开发回退及生产拒绝样本。`npm run build`（TypeScript + Vite + PWA）通过；`git diff --check` 通过。
+- 本机静态服务器挂载到 `/papercart/`，验证 HTML 的 JS/CSS/manifest/图标引用均可读取且为相对路径；manifest standalone/scope/start_url、PNG 尺寸、生成 SW 的 NetworkFirst/HTTP 失败回退、feed 非预缓存均通过检查。此冒烟只请求本机生成文件，不访问 Zotero 或任何论文/PDF。
+- **首轮未验证（后续 Chromium 验证见下节）**：当时未发现可用浏览器/真机；iPhone 刘海布局、滚动 IntersectionObserver、IndexedDB 实际持久性、添加到主屏幕、实际 Service Worker 断网/更新行为、真实 Key 校验/集合读取与 Zotero 入库同步尚需 M6 联调。没有声称 mock 或静态冒烟能替代这些验证。既有 ECB 缺作者、JFE 无摘要、BFI 停用限制在界面直接展示。
+- 没有新增依赖、账号或密钥，没有访问 Zotero 写入接口或 PDF；M4 已完成，未提交 git、未开始 M5。
+
+
+### M4 审查修复 B1/B2：初始化与窄屏（2026-10-13）
+
+- **B1 实测原因**：原版按协调方 CLI 导出的 DOM 确实停留在“正在打开本地数据…”，但通过 CDP 保持同一个页面实际等待 8.5 秒后，586 篇信息流正常显示、Runtime 无异常。`--timeout=8000` 是命令最长等待时间，不保证异步初始化完成后截图；原版在绘制后的 useEffect 才开始 IndexedDB/feed 初始化，且用 ready 把所有内容挡住。另有真实缺陷：IndexedDB 出错仅报告消息，却不改变 ready；没有超时，未 resolve 的事务也会一直等待。
+- **B1 修复**：在 useLayoutEffect 启动初始化；信息流、购物车、设置不再被存储状态整页阻塞。存储有 loading/ready/unavailable 明确状态，完整读取/首写事务在 5 秒内完成或报告超时；失败后仅浏览，禁止保存 Key、已读与 Zotero 写入，提供重试入口。超时的迟到读取不能覆盖当前状态或发起旧初始化的首写。feed 请求及 JSON 读取同样有 5 秒上限，错误单独显示并可重试，不影响进入设置/购物车。
+- **B2 实测原因**：给定 Chromium `--window-size=390,844 --force-device-scale-factor=2` 启动时 `innerWidth=500`、document clientWidth=500、scrollWidth=500；是 Chromium 桌面窗口最小宽度造成 390px 截图裁切 500px 布局，并非长 URL 将 document 撑到 500px。原筛选 chips 在 320px 时也存在内部横向滚动。改用 CDP `Emulation.setDeviceMetricsOverride` 的 width/height/deviceScaleFactor/mobile 明确指定手机视口，并等待页面状态及两帧绘制再截图。
+- **B2 修复**：根容器/main 宽度限定为可用宽度，flex 子元素及 select 设 min-width:0；Tab 使用零基准等分，刷新按钮不收缩，筛选 chips 窄屏换行；卡片元信息、源状态与确认按钮允许换行，长标题/DOI/URL/摘要/错误文字使用 overflow-wrap:anywhere；移除顶栏/Tab 的 backdrop-filter，避免无 GPU 截图在连续改视口时偶发丢失合成层。新增 `#feed`/`#cart`/`#settings` 路由，支持直接进入与浏览器前进后退。
+- **离线回归**：`npm test` **36 passed**。新增首次运行空状态、IndexedDB open 拒绝、首次事务失败、未 resolve/迟到结果、feed 未 resolve、JSON 读取卡住的测试；原 Zotero 和状态测试继续通过。`npm run build` 与 `git diff --check` 通过，无新增依赖。
+- **浏览器回归**：新增 `web/scripts/browser-check.mjs`，只用 Node 标准库/WebSocket 调用 CDP，对 vite preview 的实际 dist 检查。三个页面 × 两种主题 × 320/360/375/390/414/430px，加存储不可用/超时与 feed 失败/超时、800 字符 DOI/URL 的标题/摘要/源错误，共 **51 项布局检查**通过（scrollWidth == clientWidth；header/刷新/Tab/卡片/表单在视口内）。初次打开用隔离的新 browser context 实测 IndexedDB，故障场景在浏览器本地注入 mock；非 localhost 请求被阻止，没有 Zotero 授权、写入或 PDF 请求。
+- **截图**：逐张查看 390×844、DPR=2 的信息流/购物车/设置浅色与深色图，刷新按钮与三个 Tab 完整、无裁切。文件为 `/tmp/papercart-m4/{feed,cart,settings}-{light,dark}.png`；故障与长链接图为同目录的 `idb-unavailable.png`、`idb-timeout.png`、`feed-failed.png`、`feed-timeout.png`、`long-url.png`；测量结果 `checks.json`。截图在 /tmp，不提交仓库。
+- 仍未验证真实 iPhone safe-area/主屏幕安装、长期存储、实际 SW 离线/更新与真实 Zotero 同步；没有把 Chromium 移动视口模拟当作真机验收。M4 收尾，未开始 M5、未执行 git commit。

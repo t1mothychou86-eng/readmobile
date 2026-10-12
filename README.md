@@ -3,7 +3,7 @@
 文献购物车：定时聚合元数据，供 iPhone PWA 浏览，并把选中的条目加入 Zotero。
 完整范围和里程碑见 [PLAN.md](PLAN.md)，工作约定见 [AGENTS.md](AGENTS.md)。
 
-目前完成 M0–M3：Crossref/RSS、合并、DOI 摘要补全、持久化 state、feed 校验及 Zotero 模板映射。IndexedDB、PWA 和 CI 留待对应后续里程碑。
+目前完成 M0–M4：元数据聚合、Zotero 映射，以及中文移动端 PWA（信息流、购物车、设置、IndexedDB 和离线缓存）。CI/CD 与真机联调留给 M5/M6。
 技术验证、失败原因和需要用户决定的事项见 [docs/SPIKES.md](docs/SPIKES.md)。
 
 ## Python（≥3.10）
@@ -34,7 +34,11 @@ npm run build
 npm run dev
 ```
 
-Vitest 的 M0 空套件使用 `--passWithNoTests`。PWA 插件和 IndexedDB 依赖已声明，实际功能留给 M4。
+Vitest 使用 mock fetch 和 mock IndexedDB 适配器，默认不访问网络。生产构建包含 manifest、图标和 Service Worker。
+开发时若 `public/data/feed.json` 不存在，会使用 36 条录制样本；生产环境必须提供生成的 `data/feed.json`。
+页面支持 `#feed`、`#cart`、`#settings`。存储或 feed 初始化失败/超时会显示明确错误并提供重试；本地存储不可用时可以浏览，无法保存设置或加购。
+Key 在设置页输入并校验，集合默认选 `00 Inbox`（若存在）。Key、集合、标签、筛选、已读、购物车、写入批次及冷却时间均存于本机 IndexedDB。
+写入未确认时重试沿用原正文和 Token；412 需先在 Zotero 核对，界面阻止重发。真实 Key 校验及写入仅供后续真机联调，本次测试没有调用授权接口。
 
 ## 重现 M0 网络采样
 
@@ -119,7 +123,7 @@ LIVE_TEST=1 aggregator/.venv/bin/python -m papercart.build \
 
 fixture 保留实际响应的元数据；Crossref 录制删除未使用的引用/许可/资助字段以控制体积，邮箱统一脱敏。
 连续两次真实验证各生成 610 条；NBER 各 222 条、42 条有摘要，第二次 S2 HTTP 请求为 0，first_seen 和摘要未改变。两次各源统计见 SPIKES.md。
-不要执行 git commit；协调方审查后提交。M4 必须另行指派。
+不要执行 git commit；协调方审查后提交。每次只执行被指派的里程碑。
 
 ## M3 Zotero 映射
 
@@ -134,3 +138,6 @@ aggregator/.venv/bin/python aggregator/scripts/make_feed_sample.py
 输出为 web/src/fixtures/feed.sample.json，共 36 条；BFI 停用不生成论文。此命令只重放录制 fixture，不访问网络。
 
 M3 审查修复后，离线重建及一次真实 build 均输出 586 条，各源重复标题数为 0；NBER RSS 本次 503，由 state 保留条目与摘要。ECB 官方 RSS 未提供作者，保留空 creators。逐源计数、覆盖率及限制见 SPIKES.md。
+
+
+可选的 M4 浏览器回归（无需额外 npm 依赖）：先运行 `npm run build` 与 `npx vite preview --port 4174 --strictPort`，用本机 Chromium 启动 `--remote-debugging-port=9224`，另一个终端在 web 目录运行 `node scripts/browser-check.mjs`。脚本明确模拟手机视口，检查页面就绪/错误状态、320–430px 宽度与两种主题，并把截图保存到 `/tmp/papercart-m4`。可通过 CDP_URL、PREVIEW_URL、SCREENSHOT_DIR 改地址或输出目录；检查完结束 Chromium 和 preview。脚本不访问外部服务。
