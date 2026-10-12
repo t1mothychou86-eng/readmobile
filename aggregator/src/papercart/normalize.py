@@ -63,7 +63,8 @@ def matches_series(source: Source, doi: str) -> bool:
 
 NON_PAPER = re.compile(
     r"^(?:front\s*matter|back\s*matter|table of contents|issue information|"
-    r"editorial(?: report)?|editor(?:['’]s|s['’]) report|report (?:of|from) the editor|"
+    r"editorial(?: report| board)?|editor(?:['’]s|s['’]) report|report (?:of|from) the editor|"
+    r"recent referees|jpe turnaround times|"
     r"announcements?|american finance association|(?:acknowledg(?:e)?ments?|thanks) to (?:reviewers|referees)|"
     r"(?:list of |acknowledg(?:e)?ments? (?:of |to )?)referees|"
     r"correction(?: to)?|erratum(?: to)?|corrigendum(?: to)?|retraction(?: of)?)"

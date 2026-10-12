@@ -1,10 +1,19 @@
-"""DOI-first merge with normalized URL aliases; never match abstracts by title."""
+"""DOI/URL merge, with an exact same-source title fallback for missing DOI.
+
+Title fallback joins identities, never fills abstracts without a matching DOI.
+"""
 
 from dataclasses import replace
 import re
+import unicodedata
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
-from .normalize import Paper
+from .normalize import Paper, plain_text
+
+
+def normalize_title(value: str) -> str:
+    text = unicodedata.normalize("NFKC", plain_text(value)).casefold()
+    return re.sub(r"[\W_]+", " ", text).strip()
 
 
 def normalize_url(value: str) -> str:
@@ -31,13 +40,20 @@ def _urls(paper):
 
 def merge_papers(papers: list[Paper]) -> list[Paper]:
     groups: list[Paper] = []
-    by_doi, by_url = {}, {}
-    for incoming in papers:
+    by_doi, by_url, by_title = {}, {}, {}
+    # DOI records are canonical even when a sparse RSS record arrived first.
+    # Stable ordering preserves the caller's primary choice among DOI records.
+    for incoming in sorted(papers, key=lambda p: not bool(p.doi)):
         urls = _urls(incoming)
         index = by_doi.get(incoming.doi) if incoming.doi else None
         if index is None:
             index = next((by_url[u] for u in sorted(urls) if u in by_url and
                           (not incoming.doi or not groups[by_url[u]].doi or incoming.doi == groups[by_url[u]].doi)), None)
+        if index is None and not incoming.doi:
+            candidates = by_title.get((incoming.source, normalize_title(incoming.title)), [])
+            # Conflicting DOIs with the same title are ambiguous; don't guess.
+            if len(candidates) == 1:
+                index = candidates[0]
         if index is None:
             index = len(groups)
             groups.append(incoming)
@@ -62,6 +78,9 @@ def merge_papers(papers: list[Paper]) -> list[Paper]:
         merged = groups[index]
         if merged.doi:
             by_doi[merged.doi] = index
+            title_key = (merged.source, normalize_title(merged.title))
+            if title_key[1] and index not in by_title.setdefault(title_key, []):
+                by_title[title_key].append(index)
         for u in urls | _urls(merged):
             by_url[u] = index
     # A late DOI record can bridge a URL-only record and an existing DOI record.

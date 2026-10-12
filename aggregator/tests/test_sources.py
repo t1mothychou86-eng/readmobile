@@ -36,3 +36,11 @@ def test_duplicate_and_unverified_sources_rejected(tmp_path, sources):
     path.write_text(yaml.safe_dump({"schema": 1, "sources": [entry]}))
     with pytest.raises(ValueError, match="verified"):
         load_sources(path)
+
+
+def test_jfe_rss_disable_retains_verified_url():
+    from papercart.sources import DEFAULT_CONFIG
+    raw=yaml.safe_load(DEFAULT_CONFIG.read_text())
+    jfe=next(s for s in raw['sources'] if s['id']=='jfe')
+    assert jfe['rss']['enabled'] is False and jfe['rss']['url']
+    assert jfe['rss']['verified'] and jfe['rss']['reason']

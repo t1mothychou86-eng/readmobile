@@ -1,0 +1,31 @@
+{
+  "paper_id": "doi:10.3386/w35897",
+  "zotero": {
+    "itemType": "report",
+    "title": "Inverted Gravity",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "James E.",
+        "lastName": "Anderson"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Mario",
+        "lastName": "Larch"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Yoto V.",
+        "lastName": "Yotov"
+      }
+    ],
+    "abstractNote": "We invert structural gravity to recover trade cost changes delivering targeted outcomes. For attainable welfare targets, one instrument per target yields a unique solution. At unchanged producer prices and to first order, each instrument must change by the welfare target divided by its own expenditure share; the required domestic change is about the size of the target, while the import change is several times larger. Inverting observed trade flows gives a separate trade cost change for each of the two directions in which a pair of countries trades. Applications to NAFTA and world trade illustrate the benefits of our approach.",
+    "DOI": "10.3386/w35897",
+    "url": "https://doi.org/10.3386/w35897",
+    "reportType": "Working Paper",
+    "institution": "National Bureau of Economic Research",
+    "seriesTitle": "NBER Working Papers",
+    "reportNumber": "35897"
+  }
+}

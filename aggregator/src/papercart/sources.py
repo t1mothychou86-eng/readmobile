@@ -107,7 +107,9 @@ def load_sources(path: str | Path = DEFAULT_CONFIG) -> list[Source]:
             raise ValueError(f"Source {source_id}: invalid primary")
         rss = None
         raw_rss = entry.get("rss")
-        if isinstance(raw_rss, dict) and raw_rss.get("status") == "passed" and raw_rss.get("verified") and raw_rss.get("url"):
+        if isinstance(raw_rss, dict) and type(raw_rss.get("enabled", True)) is not bool:
+            raise ValueError(f"Source {source_id}: RSS enabled must be boolean")
+        if isinstance(raw_rss, dict) and raw_rss.get("enabled", True) and raw_rss.get("status") == "passed" and raw_rss.get("verified") and raw_rss.get("url"):
             rss = RSSConfig(raw_rss["url"], raw_rss.get("abstract_location"))
         sources.append(Source(source_id, entry["name"], entry["short"], entry["group"], entry["kind"], verified, entry["status"], primary, config, rss))
     return sources

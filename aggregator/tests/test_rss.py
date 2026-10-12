@@ -18,7 +18,7 @@ def pacer():
     return Pacer(sleep=lambda _: None, clock=lambda: 0)
 
 
-@pytest.mark.parametrize("sid,total,abstracts", [("qje",15,15),("jpe",18,0),("ecta",12,12),("res",18,18),("jf",34,33),("jfe",32,0),("rfs",8,8),("nber",22,22),("feds",15,15),("ecb",14,14),("bis",25,25)])
+@pytest.mark.parametrize("sid,total,abstracts", [("qje",15,15),("jpe",16,0),("ecta",12,12),("res",18,18),("jf",34,33),("rfs",8,8),("nber",22,22),("feds",15,15),("ecb",14,14),("bis",25,25)])
 def test_recorded_rss_metadata(sid, total, abstracts, sources):
     name = "rss-rfs-correct.xml" if sid == "rfs" else f"rss-{sid}.xml"
     data = feedparser.parse((FIXTURES / name).read_bytes())
@@ -76,3 +76,33 @@ def test_invalid_rss_and_disabled_source(sources, pacer):
 def test_article_urls_cannot_be_rss_endpoints(url):
     with pytest.raises(ValueError):
         RSSConfig(url, "description")
+
+
+@pytest.mark.parametrize('title',['Editorial Board','Issue Information','Front Matter','Backmatter',
+                                  'Editorial Report','Recent Referees','JPE Turnaround Times'])
+def test_non_paper_rules_apply_to_rss_and_crossref(title,sources,fixture_json):
+    from papercart.normalize import normalize_crossref
+    entry={'title':title,'link':'https://example.invalid/paper','summary':'Not an abstract'}
+    assert normalize_entry(entry,sources['qje']) is None
+    item=fixture_json('crossref-aer-0002-8282.json')['message']['items'][0]
+    item['title']=[title]
+    assert normalize_crossref(item,sources['aer']) is None
+
+
+@respx.mock
+def test_jfe_disabled_rss_never_requested(sources,pacer):
+    assert sources['jfe'].active and sources['jfe'].crossref is not None and sources['jfe'].rss is None
+    with httpx.Client() as client:
+        assert RSSFetcher(client,pacer=pacer).fetch(sources['jfe']).status=='not_applicable'
+    assert len(respx.calls)==0
+
+
+def test_ecb_recording_has_no_author_metadata(sources):
+    import xml.etree.ElementTree as ET
+    root=ET.fromstring((FIXTURES/'rss-ecb.xml').read_bytes())
+    items=root.findall('./channel/item')
+    assert len(items)==15
+    assert {child.tag for item in items for child in item} == {'title','link','description','pubDate','guid'}
+    entries=feedparser.parse((FIXTURES/'rss-ecb.xml').read_bytes()).entries
+    papers=[p for e in entries if (p:=normalize_entry(e,sources['ecb']))]
+    assert len(papers)==14 and all(p.authors==[] for p in papers)

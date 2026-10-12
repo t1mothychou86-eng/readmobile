@@ -150,7 +150,8 @@
 - [x] **M2 RSS 抓取与合并**：实现 RSS fetcher、URL 规范化、以 DOI 优先的去重、摘要回填；输出 `feed.json` 并按 schema 校验。
   - 完成：落实 D2/D4/D6 与 E1–E5，实现 RSS 合并、统一 state/首次发现日期/摘要持久化、NBER 优先补全和全运行请求上限；143 项离线测试通过，连续两次真实 build 各输出 610 条并通过 schema，NBER 各 222 条/42 条有摘要，第二次 S2 请求 0 且 first_seen/摘要未改变。未提交、未开始 M3，详情见 SPIKES.md。
   - 命令行入口：`python -m papercart.build --out web/public/data/feed.json`。
-- [ ] **M3 Zotero 映射**：实现 `zotero_map`，对每种来源各做一条快照测试，并断言产出的字段名都在 M0 拉取的模板字段集合内。
+- [x] **M3 Zotero 映射**：实现 `zotero_map`，对每种来源各做一条快照测试，并断言产出的字段名都在 M0 拉取的模板字段集合内。
+  - 完成：实现 journalArticle/report 映射、M0 模板字段及作者格式校验，接入 build/schema 并兼容旧 M2 feed/state；12 个启用来源各一条快照，BFI 保留停用空快照，生成 36 条前端样本及 zotero-write.md。落实审查 F1–F4：关闭 JFE RSS、增加同源缺 DOI 的精确标题去重、统一非论文及历史记录过滤，记录 ECB 缺作者限制；201 项离线测试通过，离线重建及一次真实 build 各 586 条并通过 schema，各源重复标题均为 0；真实 NBER RSS 返回 503，state 保留 222 条/42 条摘要。未调用 Zotero 写入接口、未提交、未开始 M4，详情见 SPIKES.md。
 - [ ] **M4 PWA 界面**：
   - 信息流：按 group 和来源筛选，未读优先，点击展开摘要；
   - 加购：每条一个按钮，状态依次为“未加购 → 写入中 → 已入库 / 失败可重试”；

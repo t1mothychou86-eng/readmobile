@@ -1,0 +1,36 @@
+{
+  "paper_id": "doi:10.1086/742715",
+  "zotero": {
+    "itemType": "journalArticle",
+    "title": "Online Business Models, Digital Ads, and User Welfare",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Daron",
+        "lastName": "Acemoglu"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Daniel",
+        "lastName": "Huttenlocher"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Asuman",
+        "lastName": "Ozdaglar"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "James",
+        "lastName": "Siderius"
+      }
+    ],
+    "DOI": "10.1086/742715",
+    "url": "https://doi.org/10.1086/742715",
+    "date": "2026-09-30",
+    "publicationTitle": "Journal of Political Economy",
+    "journalAbbreviation": "JPE",
+    "pages": "000-000",
+    "ISSN": "0022-3808"
+  }
+}

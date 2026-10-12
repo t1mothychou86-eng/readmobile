@@ -1,0 +1,27 @@
+{
+  "paper_id": "doi:10.17016/feds.2026.068",
+  "zotero": {
+    "itemType": "report",
+    "title": "Bells and Whistles of Nowcasting Models: Which Matter and When?",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Freddy",
+        "lastName": "García-Albán"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Manuel",
+        "lastName": "Gonzalez-Astudillo"
+      }
+    ],
+    "abstractNote": "This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their contribution varies across historical episodes. Using pseudo-real-time information sets for 25 series, we estimate 16 combinations of dynamic heterogeneity, stochastic volatility, time-varying long-run growth, and a multiplicative outlier adjustment. We evaluate their marginal contributions to point, density, and quantile score forecasts using balanced paired factorial contrasts. Dynamic heterogeneity improves point, density, and tail forecasts, and it is the only feature that helps consistently across all three criteria. Stochastic volatility improves density and tail forecasts in some periods but not point forecasts consistently. Time-varying long-run growth lowers squared-error loss in some periods but worsens tail forecasts. The outlier adjustment does not improve point or density forecasts overall, has favorable but imprecisely estimated effects on upper-tail quantile scores during the pandemic, and worsens those scores afterward.",
+    "DOI": "10.17016/feds.2026.068",
+    "url": "https://doi.org/10.17016/feds.2026.068",
+    "date": "2026-10-02",
+    "reportType": "Working Paper",
+    "institution": "Board of Governors of the Federal Reserve System",
+    "seriesTitle": "Finance and Economics Discussion Series",
+    "reportNumber": "2026.068"
+  }
+}

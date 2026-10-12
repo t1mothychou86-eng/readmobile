@@ -1,8 +1,9 @@
-"""Build schema-1 static metadata feed. Zotero mapping remains an M3 task."""
+"""Build schema-1 static metadata feed with template-verified Zotero mapping."""
 
 import argparse
 from collections import Counter
 from datetime import date, datetime, timedelta, timezone
+from dataclasses import replace
 import calendar
 import json
 import logging
@@ -18,12 +19,13 @@ from .crossref import CrossrefFetcher
 from .dedupe import merge_papers
 from .enrichment import AbstractEnricher
 from .network import Pacer
-from .normalize import Paper
+from .normalize import Paper, NON_PAPER
 from .privacy import redact_metadata, protect_http_logs
 from .rss import RSSFetcher
 from .schema import validate_feed
 from .sources import load_sources
 from .state import DEFAULT_STATE, State, timestamp
+from .zotero_map import to_zotero
 
 LOGGER = logging.getLogger(__name__)
 LEGACY_CACHE = Path(__file__).resolve().parents[2] / ".cache/abstracts.json"
@@ -50,11 +52,14 @@ def empty_enrichment():
 
 
 def migrate_previous(previous):
-    """Upgrade the pre-E2 schema-1 artifact without inventing publication dates."""
+    """Upgrade older schema-1 artifacts without inventing publication dates."""
     previous = redact_metadata(previous)
     for paper in previous["papers"]:
         paper.setdefault("first_seen", previous["generated_at"])
         paper.setdefault("date_precision", "published" if paper["published"] else "first_seen")
+        # M2 feeds/state contain an empty mapping. Always derive it again from
+        # current normalized metadata, including newly acquired abstracts.
+        paper["zotero"] = to_zotero(Paper(**paper))
     for source in previous["sources"]:
         source["enrichment"].setdefault("deferred", 0)
     validate_feed(previous)
@@ -62,7 +67,7 @@ def migrate_previous(previous):
 
 
 def allowed_paper(paper, active):
-    return paper.source in active and (paper.source != "ecb" or bool(re.search(r"/ecb\.wp[0-9]+", urlsplit(paper.url).path)))
+    return paper.source in active and not NON_PAPER.match(paper.title) and (paper.source != "ecb" or bool(re.search(r"/ecb\.wp[0-9]+", urlsplit(paper.url).path)))
 
 
 def effective_date(paper):
@@ -117,6 +122,7 @@ def build_feed(sources, *, client, now, state, pacer=None, previous=None, enrich
             report["enrichment"] = stats
             if stats["error"]:
                 report["errors"].append(stats["error"])
+    merged = [replace(p, zotero=to_zotero(p)) for p in merged]
     state.remember(merged)
     merged.sort(key=lambda p: (effective_date(p), p.id), reverse=True)
     for report in reports:

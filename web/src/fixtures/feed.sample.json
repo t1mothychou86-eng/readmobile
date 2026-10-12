@@ -1,0 +1,2689 @@
+{
+  "schema": 1,
+  "generated_at": "2026-10-12T18:00:00Z",
+  "sources": [
+    {
+      "id": "aer",
+      "name": "American Economic Review",
+      "short": "AER",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 49,
+          "filtered": 4,
+          "error": null
+        },
+        "rss": {
+          "status": "not_applicable",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "qje",
+      "name": "The Quarterly Journal of Economics",
+      "short": "QJE",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 19,
+          "filtered": 1,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 15,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "jpe",
+      "name": "Journal of Political Economy",
+      "short": "JPE",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 0,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 64,
+          "filtered": 9,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 19,
+          "filtered": 3,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "ecta",
+      "name": "Econometrica",
+      "short": "ECTA",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "empty",
+          "pages": 1,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 14,
+          "filtered": 2,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "res",
+      "name": "The Review of Economic Studies",
+      "short": "RES",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 18,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 54,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 18,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "jf",
+      "name": "The Journal of Finance",
+      "short": "JF",
+      "group": "finance",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 38,
+          "filtered": 6,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 37,
+          "filtered": 3,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "jfe",
+      "name": "Journal of Financial Economics",
+      "short": "JFE",
+      "group": "finance",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 0,
+      "excluded_date_count": 18,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 66,
+          "filtered": 4,
+          "error": null
+        },
+        "rss": {
+          "status": "not_applicable",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "rfs",
+      "name": "The Review of Financial Studies",
+      "short": "RFS",
+      "group": "finance",
+      "kind": "journal",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 7,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 37,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 8,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "nber",
+      "name": "National Bureau of Economic Research",
+      "short": "NBER",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 2,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 2,
+          "received": 200,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 22,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "feds",
+      "name": "Finance and Economics Discussion Series",
+      "short": "FEDS",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 62,
+          "filtered": 33,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 15,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "ecb",
+      "name": "European Central Bank Working Papers",
+      "short": "ECB WP",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "not_applicable",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 15,
+          "filtered": 1,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "bis",
+      "name": "BIS Working Papers",
+      "short": "BIS WP",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 3,
+      "abstract_count": 3,
+      "excluded_date_count": 4,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "not_applicable",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 25,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "bfi",
+      "name": "Becker Friedman Institute Working Papers",
+      "short": "BFI WP",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "disabled",
+      "count": 0,
+      "abstract_count": 0,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "disabled",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "disabled",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    }
+  ],
+  "papers": [
+    {
+      "id": "url:https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3297~601502aed4.en.pdf",
+      "doi": null,
+      "source": "ecb",
+      "kind": "report",
+      "title": "Fiscal integration as a Pareto improvement",
+      "authors": [],
+      "abstract": "Fiscal integration in a currency union is generally understood as a transfer from fiscally strong to fiscally weak countries. I show that this changes when common debt is paired with a non-defaultable common tax, even if national debt remains defaultable. The risky country gains from intertemporal trade: it receives a grant financed by a perpetual obligation it discounts more heavily than lenders do. The cost to the safe member is second-order and the tax removes it by insuring imperfectly correlated cycles rather than transferring resources in expectation. The calibration delivers a narrow Pareto-improving region: the tax that eliminates the risky country’s perverse incentive to default is negligible, while the tax that compensates the safe country is an order of magnitude larger. Joint spending on a public good expands the region and reverses that ordering: the safe country gains even before the common budget balances.",
+      "published": "2026-10-12",
+      "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3297~601502aed4.en.pdf",
+      "wp_number": "3297",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "European Central Bank Working Papers",
+      "series_title": "European Central Bank Working Papers",
+      "zotero": {
+        "itemType": "report",
+        "title": "Fiscal integration as a Pareto improvement",
+        "creators": [],
+        "abstractNote": "Fiscal integration in a currency union is generally understood as a transfer from fiscally strong to fiscally weak countries. I show that this changes when common debt is paired with a non-defaultable common tax, even if national debt remains defaultable. The risky country gains from intertemporal trade: it receives a grant financed by a perpetual obligation it discounts more heavily than lenders do. The cost to the safe member is second-order and the tax removes it by insuring imperfectly correlated cycles rather than transferring resources in expectation. The calibration delivers a narrow Pareto-improving region: the tax that eliminates the risky country’s perverse incentive to default is negligible, while the tax that compensates the safe country is an order of magnitude larger. Joint spending on a public good expands the region and reverses that ordering: the safe country gains even before the common budget balances.",
+        "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3297~601502aed4.en.pdf",
+        "date": "2026-10-12",
+        "reportType": "Working Paper",
+        "institution": "European Central Bank",
+        "seriesTitle": "Working Paper Series",
+        "reportNumber": "3297"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "url:https://www.bis.org/publications/working-paper-1381-transformative-ai-and-demand-bottlenecks",
+      "doi": null,
+      "source": "bis",
+      "kind": "report",
+      "title": "Transformative AI and demand bottlenecks",
+      "authors": [
+        {
+          "given": "Phurichai",
+          "family": "Rungcharoenkitkul"
+        }
+      ],
+      "abstract": "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investment in output, potentially starving AI innovation of returns from a shrinking consumer market.",
+      "published": "2026-10-12",
+      "url": "https://www.bis.org/publications/working-paper-1381-transformative-ai-and-demand-bottlenecks",
+      "wp_number": "1381",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "BIS Working Papers",
+      "series_title": "BIS Working Papers",
+      "zotero": {
+        "itemType": "report",
+        "title": "Transformative AI and demand bottlenecks",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Phurichai",
+            "lastName": "Rungcharoenkitkul"
+          }
+        ],
+        "abstractNote": "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investment in output, potentially starving AI innovation of returns from a shrinking consumer market.",
+        "url": "https://www.bis.org/publications/working-paper-1381-transformative-ai-and-demand-bottlenecks",
+        "date": "2026-10-12",
+        "reportType": "Working Paper",
+        "institution": "Bank for International Settlements",
+        "seriesTitle": "BIS Working Papers",
+        "reportNumber": "1381"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.3386/w35897",
+      "doi": "10.3386/w35897",
+      "source": "nber",
+      "kind": "report",
+      "title": "Inverted Gravity",
+      "authors": [
+        {
+          "given": "James E.",
+          "family": "Anderson"
+        },
+        {
+          "given": "Mario",
+          "family": "Larch"
+        },
+        {
+          "given": "Yoto V.",
+          "family": "Yotov"
+        }
+      ],
+      "abstract": "We invert structural gravity to recover trade cost changes delivering targeted outcomes. For attainable welfare targets, one instrument per target yields a unique solution. At unchanged producer prices and to first order, each instrument must change by the welfare target divided by its own expenditure share; the required domestic change is about the size of the target, while the import change is several times larger. Inverting observed trade flows gives a separate trade cost change for each of the two directions in which a pair of countries trades. Applications to NAFTA and world trade illustrate the benefits of our approach.",
+      "published": null,
+      "url": "https://doi.org/10.3386/w35897",
+      "wp_number": "35897",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "National Bureau of Economic Research",
+      "series_title": "National Bureau of Economic Research",
+      "zotero": {
+        "itemType": "report",
+        "title": "Inverted Gravity",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "James E.",
+            "lastName": "Anderson"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mario",
+            "lastName": "Larch"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Yoto V.",
+            "lastName": "Yotov"
+          }
+        ],
+        "abstractNote": "We invert structural gravity to recover trade cost changes delivering targeted outcomes. For attainable welfare targets, one instrument per target yields a unique solution. At unchanged producer prices and to first order, each instrument must change by the welfare target divided by its own expenditure share; the required domestic change is about the size of the target, while the import change is several times larger. Inverting observed trade flows gives a separate trade cost change for each of the two directions in which a pair of countries trades. Applications to NAFTA and world trade illustrate the benefits of our approach.",
+        "DOI": "10.3386/w35897",
+        "url": "https://doi.org/10.3386/w35897",
+        "reportType": "Working Paper",
+        "institution": "National Bureau of Economic Research",
+        "seriesTitle": "NBER Working Papers",
+        "reportNumber": "35897"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "first_seen"
+    },
+    {
+      "id": "doi:10.3386/w35896",
+      "doi": "10.3386/w35896",
+      "source": "nber",
+      "kind": "report",
+      "title": "When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds",
+      "authors": [
+        {
+          "given": "Aleksandar",
+          "family": "Andonov"
+        },
+        {
+          "given": "Kristy A. E.",
+          "family": "Jansen"
+        },
+        {
+          "given": "Joshua",
+          "family": "Rauh"
+        }
+      ],
+      "abstract": "Pension funds are long-horizon investors with predictable liability structures. As such, they are often perceived as investors who can provide liquidity and stabilize markets. However, pension funds increasingly face negative operating cash flows as benefit payments exceed contributions. Using aggregate data on U.S. public pension funds combined with granular holdings obtained through public records requests, we document three findings that challenge the conventional view of pension funds as stabilizing investors. First, pension funds with more negative cash flows do not adjust their target asset allocations and maintain low allocations to safe and liquid assets. Second, because of these limited safe asset buffers, pension funds meet cash flow shocks primarily by selling equities, absorbing $0.67 per dollar of shock through equity sales. At the security level, pension funds sell across equities rather than following a safe and liquid-assets-first approach. Third, pension funds sell equities even when equity returns are negative, indicating that these trades reflect liquidity needs rather than portfolio rebalancing. Together, these findings show that pension funds have become regular sellers in equity markets rather than contrarian, stabilizing investors.",
+      "published": null,
+      "url": "https://doi.org/10.3386/w35896",
+      "wp_number": "35896",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "National Bureau of Economic Research",
+      "series_title": "National Bureau of Economic Research",
+      "zotero": {
+        "itemType": "report",
+        "title": "When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Aleksandar",
+            "lastName": "Andonov"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kristy A. E.",
+            "lastName": "Jansen"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Joshua",
+            "lastName": "Rauh"
+          }
+        ],
+        "abstractNote": "Pension funds are long-horizon investors with predictable liability structures. As such, they are often perceived as investors who can provide liquidity and stabilize markets. However, pension funds increasingly face negative operating cash flows as benefit payments exceed contributions. Using aggregate data on U.S. public pension funds combined with granular holdings obtained through public records requests, we document three findings that challenge the conventional view of pension funds as stabilizing investors. First, pension funds with more negative cash flows do not adjust their target asset allocations and maintain low allocations to safe and liquid assets. Second, because of these limited safe asset buffers, pension funds meet cash flow shocks primarily by selling equities, absorbing $0.67 per dollar of shock through equity sales. At the security level, pension funds sell across equities rather than following a safe and liquid-assets-first approach. Third, pension funds sell equities even when equity returns are negative, indicating that these trades reflect liquidity needs rather than portfolio rebalancing. Together, these findings show that pension funds have become regular sellers in equity markets rather than contrarian, stabilizing investors.",
+        "DOI": "10.3386/w35896",
+        "url": "https://doi.org/10.3386/w35896",
+        "reportType": "Working Paper",
+        "institution": "National Bureau of Economic Research",
+        "seriesTitle": "NBER Working Papers",
+        "reportNumber": "35896"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "first_seen"
+    },
+    {
+      "id": "doi:10.1093/restud/rdag112",
+      "doi": "10.1093/restud/rdag112",
+      "source": "res",
+      "kind": "journalArticle",
+      "title": "The Direct and Indirect Effects of Online Job Search Advice",
+      "authors": [
+        {
+          "given": "Steffen",
+          "family": "Altmann"
+        },
+        {
+          "given": "Anita M",
+          "family": "Glenny"
+        },
+        {
+          "given": "Robert",
+          "family": "Mahlstedt"
+        },
+        {
+          "given": "Alexander",
+          "family": "Sebald"
+        }
+      ],
+      "abstract": "Abstract We study how online job search advice affects job search behavior and labor market outcomes of unemployed workers. In a large-scale field experiment embedded in the online platform of the Danish public employment service, we provide job seekers with vacancy information and occupational recommendations. Using a two-stage randomized design with regionally varying treatment intensities, we examine both direct effects of advice and treatment spillovers. We find that advice significantly increases employment and earnings when provided to a limited share of job seekers. As treatment intensity rises, these effects diminish and eventually disappear. The decline is driven by negative spillovers among treated job seekers, consistent with increased congestion in the occupations toward which job seekers redirect their search. Spillover effects on untreated job seekers are heterogeneous and depend on how advice alters occupation-specific competition in local labor markets.",
+      "published": "2026-10-12",
+      "url": "https://doi.org/10.1093/restud/rdag112",
+      "wp_number": null,
+      "publication_title": "Review of Economic Studies",
+      "journal_abbreviation": "RES",
+      "volume": null,
+      "issue": null,
+      "pages": "rdag112",
+      "issn": "0034-6527",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "The Direct and Indirect Effects of Online Job Search Advice",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Steffen",
+            "lastName": "Altmann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Anita M",
+            "lastName": "Glenny"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Robert",
+            "lastName": "Mahlstedt"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Alexander",
+            "lastName": "Sebald"
+          }
+        ],
+        "abstractNote": "Abstract We study how online job search advice affects job search behavior and labor market outcomes of unemployed workers. In a large-scale field experiment embedded in the online platform of the Danish public employment service, we provide job seekers with vacancy information and occupational recommendations. Using a two-stage randomized design with regionally varying treatment intensities, we examine both direct effects of advice and treatment spillovers. We find that advice significantly increases employment and earnings when provided to a limited share of job seekers. As treatment intensity rises, these effects diminish and eventually disappear. The decline is driven by negative spillovers among treated job seekers, consistent with increased congestion in the occupations toward which job seekers redirect their search. Spillover effects on untreated job seekers are heterogeneous and depend on how advice alters occupation-specific competition in local labor markets.",
+        "DOI": "10.1093/restud/rdag112",
+        "url": "https://doi.org/10.1093/restud/rdag112",
+        "date": "2026-10-12",
+        "publicationTitle": "Review of Economic Studies",
+        "journalAbbreviation": "RES",
+        "pages": "rdag112",
+        "ISSN": "0034-6527"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/restud/rdag113",
+      "doi": "10.1093/restud/rdag113",
+      "source": "res",
+      "kind": "journalArticle",
+      "title": "Quality Regulation and Competition: Evidence from Pharmaceutical Markets",
+      "authors": [
+        {
+          "given": "Juan Pablo",
+          "family": "Atal"
+        },
+        {
+          "given": "José Ignacio",
+          "family": "Cuesta"
+        },
+        {
+          "given": "Morten",
+          "family": "Sæthre"
+        }
+      ],
+      "abstract": "Abstract Quality regulation seeks to ensure quality and foster competition by reducing vertical differentiation, but it may also have adverse effects on market structure. We study this trade-off in the context of pharmaceutical bioequivalence, which is the primary quality standard for generic drugs. By exploiting the introduction of bioequivalence in Chile, we find that stronger regulation reduced the number of drugs in the market by 18% and increased average paid prices by 13%. We estimate a model of drug entry, certification, and demand to study how drug quality, aversion to generics, and certification costs shape the equilibrium effects of quality regulation. We find that quality regulation increased demand for generic drugs by resolving asymmetric information and reducing aversion to unbranded generics, which induced the entry of high-quality drugs in place of low-quality drugs. Consumer welfare increased despite higher prices and a lower number of firms. We compare minimum quality standards with alternative designs of quality regulation, including quality disclosure.",
+      "published": "2026-10-10",
+      "url": "https://doi.org/10.1093/restud/rdag113",
+      "wp_number": null,
+      "publication_title": "Review of Economic Studies",
+      "journal_abbreviation": "RES",
+      "volume": null,
+      "issue": null,
+      "pages": "rdag113",
+      "issn": "0034-6527",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Quality Regulation and Competition: Evidence from Pharmaceutical Markets",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Juan Pablo",
+            "lastName": "Atal"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "José Ignacio",
+            "lastName": "Cuesta"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Morten",
+            "lastName": "Sæthre"
+          }
+        ],
+        "abstractNote": "Abstract Quality regulation seeks to ensure quality and foster competition by reducing vertical differentiation, but it may also have adverse effects on market structure. We study this trade-off in the context of pharmaceutical bioequivalence, which is the primary quality standard for generic drugs. By exploiting the introduction of bioequivalence in Chile, we find that stronger regulation reduced the number of drugs in the market by 18% and increased average paid prices by 13%. We estimate a model of drug entry, certification, and demand to study how drug quality, aversion to generics, and certification costs shape the equilibrium effects of quality regulation. We find that quality regulation increased demand for generic drugs by resolving asymmetric information and reducing aversion to unbranded generics, which induced the entry of high-quality drugs in place of low-quality drugs. Consumer welfare increased despite higher prices and a lower number of firms. We compare minimum quality standards with alternative designs of quality regulation, including quality disclosure.",
+        "DOI": "10.1093/restud/rdag113",
+        "url": "https://doi.org/10.1093/restud/rdag113",
+        "date": "2026-10-10",
+        "publicationTitle": "Review of Economic Studies",
+        "journalAbbreviation": "RES",
+        "pages": "rdag113",
+        "ISSN": "0034-6527"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1111/jofi.70089",
+      "doi": "10.1111/jofi.70089",
+      "source": "jf",
+      "kind": "journalArticle",
+      "title": "Generative AI and Firm Values",
+      "authors": [
+        {
+          "given": "ANDREA L.",
+          "family": "EISFELDT"
+        },
+        {
+          "given": "GREGOR",
+          "family": "SCHUBERT"
+        },
+        {
+          "given": "MIAO BEN",
+          "family": "ZHANG"
+        },
+        {
+          "given": "BLEDI",
+          "family": "TASKA"
+        }
+      ],
+      "abstract": "ABSTRACT How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure of firms' workforce exposures to Generative AI and show that an “Artificial‐Minus‐Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor‐exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor‐technology substitution channel.",
+      "published": "2026-10-08",
+      "url": "https://doi.org/10.1111/jofi.70089",
+      "wp_number": null,
+      "publication_title": "The Journal of Finance",
+      "journal_abbreviation": "JF",
+      "volume": null,
+      "issue": null,
+      "pages": "jofi.70089",
+      "issn": "0022-1082",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Generative AI and Firm Values",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "ANDREA L.",
+            "lastName": "EISFELDT"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "GREGOR",
+            "lastName": "SCHUBERT"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "MIAO BEN",
+            "lastName": "ZHANG"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "BLEDI",
+            "lastName": "TASKA"
+          }
+        ],
+        "abstractNote": "ABSTRACT How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure of firms' workforce exposures to Generative AI and show that an “Artificial‐Minus‐Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor‐exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor‐technology substitution channel.",
+        "DOI": "10.1111/jofi.70089",
+        "url": "https://doi.org/10.1111/jofi.70089",
+        "date": "2026-10-08",
+        "publicationTitle": "The Journal of Finance",
+        "journalAbbreviation": "JF",
+        "pages": "jofi.70089",
+        "ISSN": "0022-1082"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1111/jofi.70084",
+      "doi": "10.1111/jofi.70084",
+      "source": "jf",
+      "kind": "journalArticle",
+      "title": "The Financial Premium",
+      "authors": [
+        {
+          "given": "JENS",
+          "family": "DICK‐NIELSEN"
+        },
+        {
+          "given": "PETER",
+          "family": "FELDHÜTTER"
+        },
+        {
+          "given": "DAVID",
+          "family": "LANDO"
+        }
+      ],
+      "abstract": "ABSTRACT We show that bonds issued by financial firms have higher spreads than bonds issued by industrial firms with the same rating and maturity, a difference that we refer to as the financial premium. Over the period 1987 to 2020, in the United States, this premium is 43 basis points on average, with the premium higher for lower ratings, higher during financial crises, and increasing in bond beta. We derive a model that explains the financial premium: banks hold diversified portfolios of nonfinancial debt, and bank debt therefore reflects more systematic risk than nonfinancial debt.",
+      "published": "2026-10-08",
+      "url": "https://doi.org/10.1111/jofi.70084",
+      "wp_number": null,
+      "publication_title": "The Journal of Finance",
+      "journal_abbreviation": "JF",
+      "volume": null,
+      "issue": null,
+      "pages": "jofi.70084",
+      "issn": "0022-1082",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "The Financial Premium",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "JENS",
+            "lastName": "DICK‐NIELSEN"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "PETER",
+            "lastName": "FELDHÜTTER"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "DAVID",
+            "lastName": "LANDO"
+          }
+        ],
+        "abstractNote": "ABSTRACT We show that bonds issued by financial firms have higher spreads than bonds issued by industrial firms with the same rating and maturity, a difference that we refer to as the financial premium. Over the period 1987 to 2020, in the United States, this premium is 43 basis points on average, with the premium higher for lower ratings, higher during financial crises, and increasing in bond beta. We derive a model that explains the financial premium: banks hold diversified portfolios of nonfinancial debt, and bank debt therefore reflects more systematic risk than nonfinancial debt.",
+        "DOI": "10.1111/jofi.70084",
+        "url": "https://doi.org/10.1111/jofi.70084",
+        "date": "2026-10-08",
+        "publicationTitle": "The Journal of Finance",
+        "journalAbbreviation": "JF",
+        "pages": "jofi.70084",
+        "ISSN": "0022-1082"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1111/jofi.70080",
+      "doi": "10.1111/jofi.70080",
+      "source": "jf",
+      "kind": "journalArticle",
+      "title": "Feedback and Contagion through Distressed Competition",
+      "authors": [
+        {
+          "given": "HUI",
+          "family": "CHEN"
+        },
+        {
+          "given": "WINSTON WEI",
+          "family": "DOU"
+        },
+        {
+          "given": "HONGYE",
+          "family": "GUO"
+        },
+        {
+          "given": "YAN",
+          "family": "JI"
+        }
+      ],
+      "abstract": "ABSTRACT Firms tend to compete more aggressively when facing financial distress. This intensified competition reduces profit margins, pushing them further into distress and adversely affecting their industry peers. To study such feedback and contagion effects, we incorporate strategic competition in a dynamic model with long‐term defaultable debt, exploring various peer interactions such as predation and price wars. The feedback effect represents a novel source of financial distress costs associated with leverage, which helps explain the negative profitability‐leverage relation across industries. Owing to the contagion effect, firms' optimal leverage is often excessively high from an industry perspective, undermining the industry's financial stability.",
+      "published": "2026-10-08",
+      "url": "https://doi.org/10.1111/jofi.70080",
+      "wp_number": null,
+      "publication_title": "The Journal of Finance",
+      "journal_abbreviation": "JF",
+      "volume": null,
+      "issue": null,
+      "pages": "jofi.70080",
+      "issn": "0022-1082",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Feedback and Contagion through Distressed Competition",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "HUI",
+            "lastName": "CHEN"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "WINSTON WEI",
+            "lastName": "DOU"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "HONGYE",
+            "lastName": "GUO"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "YAN",
+            "lastName": "JI"
+          }
+        ],
+        "abstractNote": "ABSTRACT Firms tend to compete more aggressively when facing financial distress. This intensified competition reduces profit margins, pushing them further into distress and adversely affecting their industry peers. To study such feedback and contagion effects, we incorporate strategic competition in a dynamic model with long‐term defaultable debt, exploring various peer interactions such as predation and price wars. The feedback effect represents a novel source of financial distress costs associated with leverage, which helps explain the negative profitability‐leverage relation across industries. Owing to the contagion effect, firms' optimal leverage is often excessively high from an industry perspective, undermining the industry's financial stability.",
+        "DOI": "10.1111/jofi.70080",
+        "url": "https://doi.org/10.1111/jofi.70080",
+        "date": "2026-10-08",
+        "publicationTitle": "The Journal of Finance",
+        "journalAbbreviation": "JF",
+        "pages": "jofi.70080",
+        "ISSN": "0022-1082"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "url:https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
+      "doi": null,
+      "source": "ecb",
+      "kind": "report",
+      "title": "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
+      "authors": [],
+      "abstract": "This paper develops novel firm-level measures of shareholder geographical concentration and examines how elevated home bias in equity holdings affects investment resilience in the euro area. We combine security-level holdings data from the ECB’s Securities Holdings Statistics (SHS-S) with firm-level financial-statement data from Compustat, and document that equity ownership remains strongly concentrated domestically, with limited cross-border diversification within the monetary union. Using a difference-in-differences design around the COVID-19 shock, combined with a propensity score matching approach, we then analyse whether equity home bias shapes firms’ responses to macroeconomic disruptions. Against an average 16% decline in exports among the firms in the sectors most affected by the pandemic, those with more concentrated, home-biased shareholder bases reduced investment by 20% more than their more diversified peers after the shock. The effect operates mainly through weaker equity resilience, with equity declining by 13%, while sales and bank financing remain comparable. Our findings highlight the benefits of deeper cross-border equity integration for corporate resilience.",
+      "published": "2026-10-07",
+      "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
+      "wp_number": "3296",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "European Central Bank Working Papers",
+      "series_title": "European Central Bank Working Papers",
+      "zotero": {
+        "itemType": "report",
+        "title": "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
+        "creators": [],
+        "abstractNote": "This paper develops novel firm-level measures of shareholder geographical concentration and examines how elevated home bias in equity holdings affects investment resilience in the euro area. We combine security-level holdings data from the ECB’s Securities Holdings Statistics (SHS-S) with firm-level financial-statement data from Compustat, and document that equity ownership remains strongly concentrated domestically, with limited cross-border diversification within the monetary union. Using a difference-in-differences design around the COVID-19 shock, combined with a propensity score matching approach, we then analyse whether equity home bias shapes firms’ responses to macroeconomic disruptions. Against an average 16% decline in exports among the firms in the sectors most affected by the pandemic, those with more concentrated, home-biased shareholder bases reduced investment by 20% more than their more diversified peers after the shock. The effect operates mainly through weaker equity resilience, with equity declining by 13%, while sales and bank financing remain comparable. Our findings highlight the benefits of deeper cross-border equity integration for corporate resilience.",
+        "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
+        "date": "2026-10-07",
+        "reportType": "Working Paper",
+        "institution": "European Central Bank",
+        "seriesTitle": "Working Paper Series",
+        "reportNumber": "3296"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "url:https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf",
+      "doi": null,
+      "source": "ecb",
+      "kind": "report",
+      "title": "Monitoring banks’ vulnerabilities using stressed depletion indices",
+      "authors": [],
+      "abstract": "We introduce two indicators to track the build-up of vulnerabilities in the euro area banking sector on a quarterly basis by leveraging the information collected in EU-wide solvency stress tests. First, we introduce an indicator of conditional capital depletion, the Stress Vulnerability Index (SVI), which quantifies potential losses under adverse scenarios when tail credit risk is highest. Second, we introduce an indicator of earnings vulnerability, the Profitability Vulnerability Index (PVI), which assesses the capacity of the banking sector to generate capital organically. While the two indices spike synchronously during systemic crises, they can also decouple. We show that this occurs when tail risks to capital subside but earnings remain compressed, or conversely, when recessionary fears mount while current profitability strengthens. These divergences provide actionable signals for macroprudential policy by distinguishing between the accumulation of solvency risks and the impairment of loss absorption capacity. In doing so, the indices support decisions on the activation, build-up, stability or release of prudential buffers. We validate the usefulness of the indicators by showing that both indicators were strongly associated with the probability that euro area banks received state aid in the aftermath of the Great Financial Crisis.",
+      "published": "2026-10-07",
+      "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf",
+      "wp_number": "3295",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "European Central Bank Working Papers",
+      "series_title": "European Central Bank Working Papers",
+      "zotero": {
+        "itemType": "report",
+        "title": "Monitoring banks’ vulnerabilities using stressed depletion indices",
+        "creators": [],
+        "abstractNote": "We introduce two indicators to track the build-up of vulnerabilities in the euro area banking sector on a quarterly basis by leveraging the information collected in EU-wide solvency stress tests. First, we introduce an indicator of conditional capital depletion, the Stress Vulnerability Index (SVI), which quantifies potential losses under adverse scenarios when tail credit risk is highest. Second, we introduce an indicator of earnings vulnerability, the Profitability Vulnerability Index (PVI), which assesses the capacity of the banking sector to generate capital organically. While the two indices spike synchronously during systemic crises, they can also decouple. We show that this occurs when tail risks to capital subside but earnings remain compressed, or conversely, when recessionary fears mount while current profitability strengthens. These divergences provide actionable signals for macroprudential policy by distinguishing between the accumulation of solvency risks and the impairment of loss absorption capacity. In doing so, the indices support decisions on the activation, build-up, stability or release of prudential buffers. We validate the usefulness of the indicators by showing that both indicators were strongly associated with the probability that euro area banks received state aid in the aftermath of the Great Financial Crisis.",
+        "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf",
+        "date": "2026-10-07",
+        "reportType": "Working Paper",
+        "institution": "European Central Bank",
+        "seriesTitle": "Working Paper Series",
+        "reportNumber": "3295"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/restud/rdag110",
+      "doi": "10.1093/restud/rdag110",
+      "source": "res",
+      "kind": "journalArticle",
+      "title": "Are Markups Too High? Competition, Strategic Innovation, and Industry Dynamics",
+      "authors": [
+        {
+          "given": "Laurent",
+          "family": "Cavenaile"
+        },
+        {
+          "given": "Murat Alp",
+          "family": "Celik"
+        },
+        {
+          "given": "Xu",
+          "family": "Tian"
+        }
+      ],
+      "abstract": "Abstract To study competition, innovation, and industry dynamics that arise as a result of their interaction, we develop a new oligopolistic general-equilibrium Schumpeterian growth model. This model ties together the endogenous growth, oligopolistic competition, and dynamic industrial organization literatures in a single unified framework. Within each industry, there are an endogenously determined number of large firms (“superstars”) that compete á la Cournot and a continuum of small firms which collectively constitute a competitive fringe. Firms dynamically choose their innovation strategies, cognizant of other firms' choices, and their entry and exit are endogenous. The model is consistent with the macroeconomic trends observed in the United States since the 1970s, such as the domination of industries by a small number of superstar firms, the rise of markups, market concentration, profits, and R&D spending, and the decline in business dynamism, productivity growth, and the labor share. It replicates the empirical relationship between innovation and competition within and across industries. As an application, we estimate the model to disentangle the effects of separate mechanisms on the structural transition observed in the United States, which yields striking results: (1) While the increase in the average markup causes a significant static welfare loss, this loss is overshadowed by the dynamic welfare gains from increased innovation in response to higher profit opportunities. (2) The increasing costs of innovation are found to be the primary determinant of lackluster productivity growth, i.e., ideas are getting harder to find.",
+      "published": "2026-10-07",
+      "url": "https://doi.org/10.1093/restud/rdag110",
+      "wp_number": null,
+      "publication_title": "Review of Economic Studies",
+      "journal_abbreviation": "RES",
+      "volume": null,
+      "issue": null,
+      "pages": "rdag110",
+      "issn": "0034-6527",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Are Markups Too High? Competition, Strategic Innovation, and Industry Dynamics",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Laurent",
+            "lastName": "Cavenaile"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Murat Alp",
+            "lastName": "Celik"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Xu",
+            "lastName": "Tian"
+          }
+        ],
+        "abstractNote": "Abstract To study competition, innovation, and industry dynamics that arise as a result of their interaction, we develop a new oligopolistic general-equilibrium Schumpeterian growth model. This model ties together the endogenous growth, oligopolistic competition, and dynamic industrial organization literatures in a single unified framework. Within each industry, there are an endogenously determined number of large firms (“superstars”) that compete á la Cournot and a continuum of small firms which collectively constitute a competitive fringe. Firms dynamically choose their innovation strategies, cognizant of other firms' choices, and their entry and exit are endogenous. The model is consistent with the macroeconomic trends observed in the United States since the 1970s, such as the domination of industries by a small number of superstar firms, the rise of markups, market concentration, profits, and R&D spending, and the decline in business dynamism, productivity growth, and the labor share. It replicates the empirical relationship between innovation and competition within and across industries. As an application, we estimate the model to disentangle the effects of separate mechanisms on the structural transition observed in the United States, which yields striking results: (1) While the increase in the average markup causes a significant static welfare loss, this loss is overshadowed by the dynamic welfare gains from increased innovation in response to higher profit opportunities. (2) The increasing costs of innovation are found to be the primary determinant of lackluster productivity growth, i.e., ideas are getting harder to find.",
+        "DOI": "10.1093/restud/rdag110",
+        "url": "https://doi.org/10.1093/restud/rdag110",
+        "date": "2026-10-07",
+        "publicationTitle": "Review of Economic Studies",
+        "journalAbbreviation": "RES",
+        "pages": "rdag110",
+        "ISSN": "0034-6527"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "url:https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
+      "doi": null,
+      "source": "bis",
+      "kind": "report",
+      "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
+      "authors": [
+        {
+          "given": "Rafael",
+          "family": "Guerra"
+        },
+        {
+          "given": "Gabriel",
+          "family": "Zelpo"
+        }
+      ],
+      "abstract": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling be tween such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment",
+      "published": "2026-10-06",
+      "url": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
+      "wp_number": "1380",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "BIS Working Papers",
+      "series_title": "BIS Working Papers",
+      "zotero": {
+        "itemType": "report",
+        "title": "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Rafael",
+            "lastName": "Guerra"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gabriel",
+            "lastName": "Zelpo"
+          }
+        ],
+        "abstractNote": "This paper analyses the state-dependent effects of geopolitical risks on gold prices (i.e. the safe-haven role of gold), conditional on financial conditions. Geopolitical risks are often associated with tighter financial conditions. However, recent data reveal a decoupling be tween such shocks and more restrictive financial conditions, raising the question of how gold returns are affected by geopolitical shocks, conditional on the macro-financial environment",
+        "url": "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
+        "date": "2026-10-06",
+        "reportType": "Working Paper",
+        "institution": "Bank for International Settlements",
+        "seriesTitle": "BIS Working Papers",
+        "reportNumber": "1380"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/rfs/hhag090",
+      "doi": "10.1093/rfs/hhag090",
+      "source": "rfs",
+      "kind": "journalArticle",
+      "title": "Directing the Labor Market: Shared Directors and Employee Flows",
+      "authors": [
+        {
+          "given": "Taylor A",
+          "family": "Begley"
+        },
+        {
+          "given": "Peter",
+          "family": "Haslag"
+        },
+        {
+          "given": "Daniel",
+          "family": "Weagley"
+        }
+      ],
+      "abstract": "Abstract Using résumé data on over 20 million U.S. workers, we find that the flow of employees between a pair of firms sharply drops by about 20% during periods in which the firms share a board director. This relationship is stronger in settings where firms have greater potential gains from limiting worker mobility and is most pronounced for higher-skilled employees. Moreover, we find more connected firms have lower rates of internal promotion and no improvements in employee satisfaction. The evidence is consistent with shared directors serving as a mechanism for labor market coordination. (JEL G34, G38, J42, J62, J08, K21, K31, M50)",
+      "published": "2026-10-06",
+      "url": "https://doi.org/10.1093/rfs/hhag090",
+      "wp_number": null,
+      "publication_title": "The Review of Financial Studies",
+      "journal_abbreviation": "RFS",
+      "volume": null,
+      "issue": null,
+      "pages": "hhag090",
+      "issn": "0893-9454",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Directing the Labor Market: Shared Directors and Employee Flows",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Taylor A",
+            "lastName": "Begley"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Peter",
+            "lastName": "Haslag"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Daniel",
+            "lastName": "Weagley"
+          }
+        ],
+        "abstractNote": "Abstract Using résumé data on over 20 million U.S. workers, we find that the flow of employees between a pair of firms sharply drops by about 20% during periods in which the firms share a board director. This relationship is stronger in settings where firms have greater potential gains from limiting worker mobility and is most pronounced for higher-skilled employees. Moreover, we find more connected firms have lower rates of internal promotion and no improvements in employee satisfaction. The evidence is consistent with shared directors serving as a mechanism for labor market coordination. (JEL G34, G38, J42, J62, J08, K21, K31, M50)",
+        "DOI": "10.1093/rfs/hhag090",
+        "url": "https://doi.org/10.1093/rfs/hhag090",
+        "date": "2026-10-06",
+        "publicationTitle": "The Review of Financial Studies",
+        "journalAbbreviation": "RFS",
+        "pages": "hhag090",
+        "ISSN": "0893-9454"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/rfs/hhag089",
+      "doi": "10.1093/rfs/hhag089",
+      "source": "rfs",
+      "kind": "journalArticle",
+      "title": "Central Bank Economic Transparency and Managerial Learning",
+      "authors": [
+        {
+          "given": "Oliver",
+          "family": "Binz"
+        },
+        {
+          "given": "Elia",
+          "family": "Ferracuti"
+        },
+        {
+          "given": "Gary",
+          "family": "Lind"
+        }
+      ],
+      "abstract": "Abstract Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)",
+      "published": "2026-10-06",
+      "url": "https://doi.org/10.1093/rfs/hhag089",
+      "wp_number": null,
+      "publication_title": "The Review of Financial Studies",
+      "journal_abbreviation": "RFS",
+      "volume": null,
+      "issue": null,
+      "pages": "hhag089",
+      "issn": "0893-9454",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Central Bank Economic Transparency and Managerial Learning",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Oliver",
+            "lastName": "Binz"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Elia",
+            "lastName": "Ferracuti"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gary",
+            "lastName": "Lind"
+          }
+        ],
+        "abstractNote": "Abstract Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)",
+        "DOI": "10.1093/rfs/hhag089",
+        "url": "https://doi.org/10.1093/rfs/hhag089",
+        "date": "2026-10-06",
+        "publicationTitle": "The Review of Financial Studies",
+        "journalAbbreviation": "RFS",
+        "pages": "hhag089",
+        "ISSN": "0893-9454"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.17016/feds.2026.068",
+      "doi": "10.17016/feds.2026.068",
+      "source": "feds",
+      "kind": "report",
+      "title": "Bells and Whistles of Nowcasting Models: Which Matter and When?",
+      "authors": [
+        {
+          "given": "Freddy",
+          "family": "García-Albán"
+        },
+        {
+          "given": "Manuel",
+          "family": "Gonzalez-Astudillo"
+        }
+      ],
+      "abstract": "This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their contribution varies across historical episodes. Using pseudo-real-time information sets for 25 series, we estimate 16 combinations of dynamic heterogeneity, stochastic volatility, time-varying long-run growth, and a multiplicative outlier adjustment. We evaluate their marginal contributions to point, density, and quantile score forecasts using balanced paired factorial contrasts. Dynamic heterogeneity improves point, density, and tail forecasts, and it is the only feature that helps consistently across all three criteria. Stochastic volatility improves density and tail forecasts in some periods but not point forecasts consistently. Time-varying long-run growth lowers squared-error loss in some periods but worsens tail forecasts. The outlier adjustment does not improve point or density forecasts overall, has favorable but imprecisely estimated effects on upper-tail quantile scores during the pandemic, and worsens those scores afterward.",
+      "published": "2026-10-02",
+      "url": "https://doi.org/10.17016/feds.2026.068",
+      "wp_number": "2026.068",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": "2026-068",
+      "pages": "1-1",
+      "issn": null,
+      "institution": "Board of Governors of the Federal Reserve System",
+      "series_title": "Finance and Economics Discussion Series",
+      "zotero": {
+        "itemType": "report",
+        "title": "Bells and Whistles of Nowcasting Models: Which Matter and When?",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Freddy",
+            "lastName": "García-Albán"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Manuel",
+            "lastName": "Gonzalez-Astudillo"
+          }
+        ],
+        "abstractNote": "This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their contribution varies across historical episodes. Using pseudo-real-time information sets for 25 series, we estimate 16 combinations of dynamic heterogeneity, stochastic volatility, time-varying long-run growth, and a multiplicative outlier adjustment. We evaluate their marginal contributions to point, density, and quantile score forecasts using balanced paired factorial contrasts. Dynamic heterogeneity improves point, density, and tail forecasts, and it is the only feature that helps consistently across all three criteria. Stochastic volatility improves density and tail forecasts in some periods but not point forecasts consistently. Time-varying long-run growth lowers squared-error loss in some periods but worsens tail forecasts. The outlier adjustment does not improve point or density forecasts overall, has favorable but imprecisely estimated effects on upper-tail quantile scores during the pandemic, and worsens those scores afterward.",
+        "DOI": "10.17016/feds.2026.068",
+        "url": "https://doi.org/10.17016/feds.2026.068",
+        "date": "2026-10-02",
+        "reportType": "Working Paper",
+        "institution": "Board of Governors of the Federal Reserve System",
+        "seriesTitle": "Finance and Economics Discussion Series",
+        "reportNumber": "2026.068"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1257/aer.20251879",
+      "doi": "10.1257/aer.20251879",
+      "source": "aer",
+      "kind": "journalArticle",
+      "title": "Truth Elicitation in a Nonstrategic Environment",
+      "authors": [
+        {
+          "given": "Jacob",
+          "family": "Glazer"
+        },
+        {
+          "given": "Ariel",
+          "family": "Rubinstein"
+        }
+      ],
+      "abstract": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
+      "published": "2026-10-01",
+      "url": "https://doi.org/10.1257/aer.20251879",
+      "wp_number": null,
+      "publication_title": "American Economic Review",
+      "journal_abbreviation": "AER",
+      "volume": "116",
+      "issue": "10",
+      "pages": "3942-3958",
+      "issn": "0002-8282",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Truth Elicitation in a Nonstrategic Environment",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Jacob",
+            "lastName": "Glazer"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ariel",
+            "lastName": "Rubinstein"
+          }
+        ],
+        "abstractNote": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
+        "DOI": "10.1257/aer.20251879",
+        "url": "https://doi.org/10.1257/aer.20251879",
+        "date": "2026-10-01",
+        "publicationTitle": "American Economic Review",
+        "journalAbbreviation": "AER",
+        "volume": "116",
+        "issue": "10",
+        "pages": "3942-3958",
+        "ISSN": "0002-8282"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1257/aer.20250206",
+      "doi": "10.1257/aer.20250206",
+      "source": "aer",
+      "kind": "journalArticle",
+      "title": "Screening and Segmenting: A Consumer Surplus Perspective",
+      "authors": [
+        {
+          "given": "Dirk",
+          "family": "Bergemann"
+        },
+        {
+          "given": "Tibor",
+          "family": "Heumann"
+        },
+        {
+          "given": "Michael C.",
+          "family": "Wang"
+        }
+      ],
+      "abstract": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
+      "published": "2026-10-01",
+      "url": "https://doi.org/10.1257/aer.20250206",
+      "wp_number": null,
+      "publication_title": "American Economic Review",
+      "journal_abbreviation": "AER",
+      "volume": "116",
+      "issue": "10",
+      "pages": "3768-3801",
+      "issn": "0002-8282",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Screening and Segmenting: A Consumer Surplus Perspective",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Dirk",
+            "lastName": "Bergemann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tibor",
+            "lastName": "Heumann"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Michael C.",
+            "lastName": "Wang"
+          }
+        ],
+        "abstractNote": "We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)",
+        "DOI": "10.1257/aer.20250206",
+        "url": "https://doi.org/10.1257/aer.20250206",
+        "date": "2026-10-01",
+        "publicationTitle": "American Economic Review",
+        "journalAbbreviation": "AER",
+        "volume": "116",
+        "issue": "10",
+        "pages": "3768-3801",
+        "ISSN": "0002-8282"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1257/aer.20250115",
+      "doi": "10.1257/aer.20250115",
+      "source": "aer",
+      "kind": "journalArticle",
+      "title": "Who Marries Whom? The Role of Segregation by Race and Class",
+      "authors": [
+        {
+          "given": "Benjamin",
+          "family": "Goldman"
+        },
+        {
+          "given": "Jamie",
+          "family": "Gracie"
+        },
+        {
+          "given": "Sonya R.",
+          "family": "Porter"
+        }
+      ],
+      "abstract": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
+      "published": "2026-10-01",
+      "url": "https://doi.org/10.1257/aer.20250115",
+      "wp_number": null,
+      "publication_title": "American Economic Review",
+      "journal_abbreviation": "AER",
+      "volume": "116",
+      "issue": "10",
+      "pages": "3623-3673",
+      "issn": "0002-8282",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Who Marries Whom? The Role of Segregation by Race and Class",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Benjamin",
+            "lastName": "Goldman"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jamie",
+            "lastName": "Gracie"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Sonya R.",
+            "lastName": "Porter"
+          }
+        ],
+        "abstractNote": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)",
+        "DOI": "10.1257/aer.20250115",
+        "url": "https://doi.org/10.1257/aer.20250115",
+        "date": "2026-10-01",
+        "publicationTitle": "American Economic Review",
+        "journalAbbreviation": "AER",
+        "volume": "116",
+        "issue": "10",
+        "pages": "3623-3673",
+        "ISSN": "0002-8282"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/qje/qjag035",
+      "doi": "10.1093/qje/qjag035",
+      "source": "qje",
+      "kind": "journalArticle",
+      "title": "Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty",
+      "authors": [
+        {
+          "given": "Ned",
+          "family": "Augenblick"
+        },
+        {
+          "given": "B Kelsey",
+          "family": "Jack"
+        },
+        {
+          "given": "Supreet",
+          "family": "Kaur"
+        },
+        {
+          "given": "Felix",
+          "family": "Masiye"
+        },
+        {
+          "given": "Nicholas",
+          "family": "Swanson"
+        }
+      ],
+      "abstract": "Abstract People may fail to recall and use information they already know when making decisions. We empirically investigate whether such “retrieval failures” distort consumption-smoothing behavior among Zambian farmers, who derive their income from one annual harvest and spend it over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for undersaving. To improve recall, we randomize an intervention that prompts people to think through their future expenses associatively in categories—without providing any external information or guidance. Treated individuals increase “remembered” expenses by 36%–60%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, six weeks after the intervention, treated households hold 15% higher savings. They subsequently enter the hungry season—the final months of the year when consumption typically declines sharply—with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year’s crop revenue. We replicate the intervention’s effect on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.",
+      "published": "2026-10-01",
+      "url": "https://doi.org/10.1093/qje/qjag035",
+      "wp_number": null,
+      "publication_title": "The Quarterly Journal of Economics",
+      "journal_abbreviation": "QJE",
+      "volume": "141",
+      "issue": "4",
+      "pages": "2735-2801",
+      "issn": "0033-5533",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Ned",
+            "lastName": "Augenblick"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "B Kelsey",
+            "lastName": "Jack"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Supreet",
+            "lastName": "Kaur"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Felix",
+            "lastName": "Masiye"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Nicholas",
+            "lastName": "Swanson"
+          }
+        ],
+        "abstractNote": "Abstract People may fail to recall and use information they already know when making decisions. We empirically investigate whether such “retrieval failures” distort consumption-smoothing behavior among Zambian farmers, who derive their income from one annual harvest and spend it over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for undersaving. To improve recall, we randomize an intervention that prompts people to think through their future expenses associatively in categories—without providing any external information or guidance. Treated individuals increase “remembered” expenses by 36%–60%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, six weeks after the intervention, treated households hold 15% higher savings. They subsequently enter the hungry season—the final months of the year when consumption typically declines sharply—with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year’s crop revenue. We replicate the intervention’s effect on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.",
+        "DOI": "10.1093/qje/qjag035",
+        "url": "https://doi.org/10.1093/qje/qjag035",
+        "date": "2026-10-01",
+        "publicationTitle": "The Quarterly Journal of Economics",
+        "journalAbbreviation": "QJE",
+        "volume": "141",
+        "issue": "4",
+        "pages": "2735-2801",
+        "ISSN": "0033-5533"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.3386/w35875",
+      "doi": "10.3386/w35875",
+      "source": "nber",
+      "kind": "report",
+      "title": "High and Rising Institutional Concentration of Award-Winning Economists",
+      "authors": [
+        {
+          "given": "Richard",
+          "family": "Freeman"
+        },
+        {
+          "given": "Danxia",
+          "family": "Xie"
+        },
+        {
+          "given": "Hanzhe",
+          "family": "Zhang"
+        },
+        {
+          "given": "Hanzhang",
+          "family": "Zhou"
+        }
+      ],
+      "abstract": null,
+      "published": "2026-10",
+      "url": "https://doi.org/10.3386/w35875",
+      "wp_number": "35875",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "National Bureau of Economic Research",
+      "series_title": "National Bureau of Economic Research",
+      "zotero": {
+        "itemType": "report",
+        "title": "High and Rising Institutional Concentration of Award-Winning Economists",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Richard",
+            "lastName": "Freeman"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Danxia",
+            "lastName": "Xie"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hanzhe",
+            "lastName": "Zhang"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hanzhang",
+            "lastName": "Zhou"
+          }
+        ],
+        "DOI": "10.3386/w35875",
+        "url": "https://doi.org/10.3386/w35875",
+        "date": "2026-10",
+        "reportType": "Working Paper",
+        "institution": "National Bureau of Economic Research",
+        "seriesTitle": "NBER Working Papers",
+        "reportNumber": "35875"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1016/j.jfineco.2026.104359",
+      "doi": "10.1016/j.jfineco.2026.104359",
+      "source": "jfe",
+      "kind": "journalArticle",
+      "title": "Anatomy of a run: The Terra Luna crash",
+      "authors": [
+        {
+          "given": "Jiageng",
+          "family": "Liu"
+        },
+        {
+          "given": "Igor",
+          "family": "Makarov"
+        },
+        {
+          "given": "Antoinette",
+          "family": "Schoar"
+        }
+      ],
+      "abstract": null,
+      "published": "2026-10",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104359",
+      "wp_number": null,
+      "publication_title": "Journal of Financial Economics",
+      "journal_abbreviation": "JFE",
+      "volume": "184",
+      "issue": null,
+      "pages": "104359",
+      "issn": "0304-405X",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Anatomy of a run: The Terra Luna crash",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Jiageng",
+            "lastName": "Liu"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Igor",
+            "lastName": "Makarov"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Antoinette",
+            "lastName": "Schoar"
+          }
+        ],
+        "DOI": "10.1016/j.jfineco.2026.104359",
+        "url": "https://doi.org/10.1016/j.jfineco.2026.104359",
+        "date": "2026-10",
+        "publicationTitle": "Journal of Financial Economics",
+        "journalAbbreviation": "JFE",
+        "volume": "184",
+        "pages": "104359",
+        "ISSN": "0304-405X"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1016/j.jfineco.2026.104356",
+      "doi": "10.1016/j.jfineco.2026.104356",
+      "source": "jfe",
+      "kind": "journalArticle",
+      "title": "Tax loss carryforwards and firms’ risk",
+      "authors": [
+        {
+          "given": "Jack",
+          "family": "Favilukis"
+        },
+        {
+          "given": "Ron",
+          "family": "Giammarino"
+        },
+        {
+          "given": "Jose",
+          "family": "Pizarro"
+        },
+        {
+          "given": "Mikhail",
+          "family": "Simutin"
+        }
+      ],
+      "abstract": null,
+      "published": "2026-10",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104356",
+      "wp_number": null,
+      "publication_title": "Journal of Financial Economics",
+      "journal_abbreviation": "JFE",
+      "volume": "184",
+      "issue": null,
+      "pages": "104356",
+      "issn": "0304-405X",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Tax loss carryforwards and firms’ risk",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Jack",
+            "lastName": "Favilukis"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Ron",
+            "lastName": "Giammarino"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jose",
+            "lastName": "Pizarro"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mikhail",
+            "lastName": "Simutin"
+          }
+        ],
+        "DOI": "10.1016/j.jfineco.2026.104356",
+        "url": "https://doi.org/10.1016/j.jfineco.2026.104356",
+        "date": "2026-10",
+        "publicationTitle": "Journal of Financial Economics",
+        "journalAbbreviation": "JFE",
+        "volume": "184",
+        "pages": "104356",
+        "ISSN": "0304-405X"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1016/j.jfineco.2026.104352",
+      "doi": "10.1016/j.jfineco.2026.104352",
+      "source": "jfe",
+      "kind": "journalArticle",
+      "title": "Macroprudential regulation and banks’ supply of liquidity services",
+      "authors": [
+        {
+          "given": "Josef",
+          "family": "Schroth"
+        }
+      ],
+      "abstract": null,
+      "published": "2026-10",
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104352",
+      "wp_number": null,
+      "publication_title": "Journal of Financial Economics",
+      "journal_abbreviation": "JFE",
+      "volume": "184",
+      "issue": null,
+      "pages": "104352",
+      "issn": "0304-405X",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Macroprudential regulation and banks’ supply of liquidity services",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Josef",
+            "lastName": "Schroth"
+          }
+        ],
+        "DOI": "10.1016/j.jfineco.2026.104352",
+        "url": "https://doi.org/10.1016/j.jfineco.2026.104352",
+        "date": "2026-10",
+        "publicationTitle": "Journal of Financial Economics",
+        "journalAbbreviation": "JFE",
+        "volume": "184",
+        "pages": "104352",
+        "ISSN": "0304-405X"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/qje/qjag048",
+      "doi": "10.1093/qje/qjag048",
+      "source": "qje",
+      "kind": "journalArticle",
+      "title": "The Origin of Risk",
+      "authors": [
+        {
+          "given": "Alexandr",
+          "family": "Kopytov"
+        },
+        {
+          "given": "Mathieu",
+          "family": "Taschereau-Dumouchel"
+        },
+        {
+          "given": "Zebang",
+          "family": "Xu"
+        }
+      ],
+      "abstract": "Abstract We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their impact on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.",
+      "published": "2026-09-30",
+      "url": "https://doi.org/10.1093/qje/qjag048",
+      "wp_number": null,
+      "publication_title": "The Quarterly Journal of Economics",
+      "journal_abbreviation": "QJE",
+      "volume": null,
+      "issue": null,
+      "pages": "qjag048",
+      "issn": "0033-5533",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "The Origin of Risk",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Alexandr",
+            "lastName": "Kopytov"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Mathieu",
+            "lastName": "Taschereau-Dumouchel"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Zebang",
+            "lastName": "Xu"
+          }
+        ],
+        "abstractNote": "Abstract We propose a tractable model in which risk, at both the micro and macro levels, is endogenous and driven by incentives. In the model, each firm chooses the mean and the variance of its productivity process, as well as how it covaries with the productivity of other firms. Aggregate risk arises when firms select productivity processes that are correlated with one another. The theory predicts that larger firms and those with lower markups are less volatile and less correlated with aggregate productivity. We find support for these predictions in the data. Through their impact on risk-taking decisions, distortions such as taxes and markups can make GDP more volatile in equilibrium. In a calibrated version of the model, removing distortions significantly reduces GDP volatility.",
+        "DOI": "10.1093/qje/qjag048",
+        "url": "https://doi.org/10.1093/qje/qjag048",
+        "date": "2026-09-30",
+        "publicationTitle": "The Quarterly Journal of Economics",
+        "journalAbbreviation": "QJE",
+        "pages": "qjag048",
+        "ISSN": "0033-5533"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1086/742715",
+      "doi": "10.1086/742715",
+      "source": "jpe",
+      "kind": "journalArticle",
+      "title": "Online Business Models, Digital Ads, and User Welfare",
+      "authors": [
+        {
+          "given": "Daron",
+          "family": "Acemoglu"
+        },
+        {
+          "given": "Daniel",
+          "family": "Huttenlocher"
+        },
+        {
+          "given": "Asuman",
+          "family": "Ozdaglar"
+        },
+        {
+          "given": "James",
+          "family": "Siderius"
+        }
+      ],
+      "abstract": null,
+      "published": "2026-09-30",
+      "url": "https://doi.org/10.1086/742715",
+      "wp_number": null,
+      "publication_title": "Journal of Political Economy",
+      "journal_abbreviation": "JPE",
+      "volume": null,
+      "issue": null,
+      "pages": "000-000",
+      "issn": "0022-3808",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Online Business Models, Digital Ads, and User Welfare",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Daron",
+            "lastName": "Acemoglu"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Daniel",
+            "lastName": "Huttenlocher"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Asuman",
+            "lastName": "Ozdaglar"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "James",
+            "lastName": "Siderius"
+          }
+        ],
+        "DOI": "10.1086/742715",
+        "url": "https://doi.org/10.1086/742715",
+        "date": "2026-09-30",
+        "publicationTitle": "Journal of Political Economy",
+        "journalAbbreviation": "JPE",
+        "pages": "000-000",
+        "ISSN": "0022-3808"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.17016/feds.2026.067",
+      "doi": "10.17016/feds.2026.067",
+      "source": "feds",
+      "kind": "report",
+      "title": "Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity",
+      "authors": [
+        {
+          "given": "David M.",
+          "family": "Byrne"
+        },
+        {
+          "given": "Robert J.",
+          "family": "Kurtzman"
+        },
+        {
+          "given": "Heidi L.",
+          "family": "Williams"
+        }
+      ],
+      "abstract": "We consider official and alternative data sources for measuring and projecting the role of U.S. manufacturing in the global semiconductor manufacturing industry. We find that the government sources we consider face significant limitations for tracking semiconductor fab investment in real time: they use industry and product categories that are too broad and come with substantial publication lags. We then analyze project-level alternative data from Semiconductor Equipment and Materials International (SEMI), which provides quarterly tracking of individual fab projects with greater timeliness and specificity. Comparing SEMI data with official statistics through 2023, we find broad consistency in investment levels, validating SEMI as a credible supplement to official statistics. This work provides both a practical guide for tracking real-time trends in semiconductor manufacturing and a case study in synthesizing government and alternative data sources.",
+      "published": "2026-09-29",
+      "url": "https://doi.org/10.17016/feds.2026.067",
+      "wp_number": "2026.067",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": "2026-067",
+      "pages": "1-1",
+      "issn": null,
+      "institution": "Board of Governors of the Federal Reserve System",
+      "series_title": "Finance and Economics Discussion Series",
+      "zotero": {
+        "itemType": "report",
+        "title": "Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "David M.",
+            "lastName": "Byrne"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Robert J.",
+            "lastName": "Kurtzman"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Heidi L.",
+            "lastName": "Williams"
+          }
+        ],
+        "abstractNote": "We consider official and alternative data sources for measuring and projecting the role of U.S. manufacturing in the global semiconductor manufacturing industry. We find that the government sources we consider face significant limitations for tracking semiconductor fab investment in real time: they use industry and product categories that are too broad and come with substantial publication lags. We then analyze project-level alternative data from Semiconductor Equipment and Materials International (SEMI), which provides quarterly tracking of individual fab projects with greater timeliness and specificity. Comparing SEMI data with official statistics through 2023, we find broad consistency in investment levels, validating SEMI as a credible supplement to official statistics. This work provides both a practical guide for tracking real-time trends in semiconductor manufacturing and a case study in synthesizing government and alternative data sources.",
+        "DOI": "10.17016/feds.2026.067",
+        "url": "https://doi.org/10.17016/feds.2026.067",
+        "date": "2026-09-29",
+        "reportType": "Working Paper",
+        "institution": "Board of Governors of the Federal Reserve System",
+        "seriesTitle": "Finance and Economics Discussion Series",
+        "reportNumber": "2026.067"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/qje/qjag043",
+      "doi": "10.1093/qje/qjag043",
+      "source": "qje",
+      "kind": "journalArticle",
+      "title": "Busing to Opportunity? The Impacts of the Metco Voluntary School Desegregation Program on Urban Students of Color",
+      "authors": [
+        {
+          "given": "Elizabeth",
+          "family": "Setren"
+        }
+      ],
+      "abstract": "Abstract School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts, to relatively wealthier and predominantly white suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher-achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower-performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.",
+      "published": "2026-09-26",
+      "url": "https://doi.org/10.1093/qje/qjag043",
+      "wp_number": null,
+      "publication_title": "The Quarterly Journal of Economics",
+      "journal_abbreviation": "QJE",
+      "volume": "141",
+      "issue": "4",
+      "pages": "3331-3389",
+      "issn": "0033-5533",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Busing to Opportunity? The Impacts of the Metco Voluntary School Desegregation Program on Urban Students of Color",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Elizabeth",
+            "lastName": "Setren"
+          }
+        ],
+        "abstractNote": "Abstract School assignment policies are a key lever for expanding access to high-performing schools and promoting racial and socioeconomic integration. For over 50 years, the Metropolitan Council for Educational Opportunity (METCO) has bussed students of color from Boston, Massachusetts, to relatively wealthier and predominantly white suburbs. I estimate the effects of attending a high-performing suburban school by comparing applicants who receive enrollment offers with applicants who do not. A two-stage least squares approach exploits waitlist assignment priorities and controls for a rich set of characteristics from birth records and application data. Attending a suburban school boosts math and English test scores, reduces dropout, and increases on-time high school graduation. Four-year college aspirations, enrollment, and graduation increase along with earnings in adulthood. Students whose parents did not attend college and boys experience the largest effects. The evidence points to several mechanisms, including access to higher value-added schools, higher-achieving peers, and schools with stronger college-going norms. Participants are more likely to be tracked into lower-performing classes, implying that effects could be larger with access to more advanced coursework. District value-added estimates suggest that students’ educational trajectories shift at least as much as they would from growing up in the suburban districts.",
+        "DOI": "10.1093/qje/qjag043",
+        "url": "https://doi.org/10.1093/qje/qjag043",
+        "date": "2026-09-26",
+        "publicationTitle": "The Quarterly Journal of Economics",
+        "journalAbbreviation": "QJE",
+        "volume": "141",
+        "issue": "4",
+        "pages": "3331-3389",
+        "ISSN": "0033-5533"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.17016/feds.2026.066",
+      "doi": "10.17016/feds.2026.066",
+      "source": "feds",
+      "kind": "report",
+      "title": "How Did CECL Affect Bank Lending?",
+      "authors": [
+        {
+          "given": "Ben",
+          "family": "Ranish"
+        },
+        {
+          "given": "Cindy M.",
+          "family": "Vojtech"
+        }
+      ],
+      "abstract": "Adoption of the current expected credit losses (CECL) methodology for loan loss provisioning significantly altered how banks recognize loan losses in their capital calculations. Because capital is a more costly funding source for banks, the accounting change affects banks' cost of funding loans. Using variation in the timing and effect of CECL implementation across firms and loan types, this paper finds that loan loss allowances have a similar causal effect on credit supply as capital requirements. Within our sample, the effect of CECL adoption on loan allowances reduced loan growth by approximately 77 basis points annually in the years following adoption. We find no significant effect of CECL on capital distributions.",
+      "published": "2026-09-25",
+      "url": "https://doi.org/10.17016/feds.2026.066",
+      "wp_number": "2026.066",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": "2026-066",
+      "pages": "1-1",
+      "issn": null,
+      "institution": "Board of Governors of the Federal Reserve System",
+      "series_title": "Finance and Economics Discussion Series",
+      "zotero": {
+        "itemType": "report",
+        "title": "How Did CECL Affect Bank Lending?",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Ben",
+            "lastName": "Ranish"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Cindy M.",
+            "lastName": "Vojtech"
+          }
+        ],
+        "abstractNote": "Adoption of the current expected credit losses (CECL) methodology for loan loss provisioning significantly altered how banks recognize loan losses in their capital calculations. Because capital is a more costly funding source for banks, the accounting change affects banks' cost of funding loans. Using variation in the timing and effect of CECL implementation across firms and loan types, this paper finds that loan loss allowances have a similar causal effect on credit supply as capital requirements. Within our sample, the effect of CECL adoption on loan allowances reduced loan growth by approximately 77 basis points annually in the years following adoption. We find no significant effect of CECL on capital distributions.",
+        "DOI": "10.17016/feds.2026.066",
+        "url": "https://doi.org/10.17016/feds.2026.066",
+        "date": "2026-09-25",
+        "reportType": "Working Paper",
+        "institution": "Board of Governors of the Federal Reserve System",
+        "seriesTitle": "Finance and Economics Discussion Series",
+        "reportNumber": "2026.066"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1086/742710",
+      "doi": "10.1086/742710",
+      "source": "jpe",
+      "kind": "journalArticle",
+      "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
+      "authors": [
+        {
+          "given": "Greg",
+          "family": "Buchak"
+        },
+        {
+          "given": "Gregor",
+          "family": "Matvos"
+        },
+        {
+          "given": "Tomasz",
+          "family": "Piskorski"
+        },
+        {
+          "given": "Amit",
+          "family": "Seru"
+        }
+      ],
+      "abstract": null,
+      "published": "2026-09-25",
+      "url": "https://doi.org/10.1086/742710",
+      "wp_number": null,
+      "publication_title": "Journal of Political Economy",
+      "journal_abbreviation": "JPE",
+      "volume": null,
+      "issue": null,
+      "pages": "000-000",
+      "issn": "0022-3808",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Greg",
+            "lastName": "Buchak"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Gregor",
+            "lastName": "Matvos"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tomasz",
+            "lastName": "Piskorski"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Amit",
+            "lastName": "Seru"
+          }
+        ],
+        "DOI": "10.1086/742710",
+        "url": "https://doi.org/10.1086/742710",
+        "date": "2026-09-25",
+        "publicationTitle": "Journal of Political Economy",
+        "journalAbbreviation": "JPE",
+        "pages": "000-000",
+        "ISSN": "0022-3808"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1093/rfs/hhag088",
+      "doi": "10.1093/rfs/hhag088",
+      "source": "rfs",
+      "kind": "journalArticle",
+      "title": "Original Sin Redux: Role of Duration Risk*",
+      "authors": [
+        {
+          "given": "Carol",
+          "family": "Bertaut"
+        },
+        {
+          "given": "Valentina",
+          "family": "Bruno"
+        },
+        {
+          "given": "Hyun Song",
+          "family": "Shin"
+        }
+      ],
+      "abstract": "Abstract We highlight the role of duration and exchange rate risks on portfolio flows by using a unique and comprehensive database of U.S. investor flows into emerging market government bonds denominated in local currency. Borrowing long-term mitigates rollover risk but amplifies valuation changes that further interact with currency movements. Our analysis highlights the double-edged nature of long-term borrowing and draws attention to market stress dynamics due to strategic complementarities among mutual fund investors.",
+      "published": "2026-09-24",
+      "url": "https://doi.org/10.1093/rfs/hhag088",
+      "wp_number": null,
+      "publication_title": "The Review of Financial Studies",
+      "journal_abbreviation": "RFS",
+      "volume": null,
+      "issue": null,
+      "pages": "hhag088",
+      "issn": "0893-9454",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Original Sin Redux: Role of Duration Risk*",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Carol",
+            "lastName": "Bertaut"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Valentina",
+            "lastName": "Bruno"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Hyun Song",
+            "lastName": "Shin"
+          }
+        ],
+        "abstractNote": "Abstract We highlight the role of duration and exchange rate risks on portfolio flows by using a unique and comprehensive database of U.S. investor flows into emerging market government bonds denominated in local currency. Borrowing long-term mitigates rollover risk but amplifies valuation changes that further interact with currency movements. Our analysis highlights the double-edged nature of long-term borrowing and draws attention to market stress dynamics due to strategic complementarities among mutual fund investors.",
+        "DOI": "10.1093/rfs/hhag088",
+        "url": "https://doi.org/10.1093/rfs/hhag088",
+        "date": "2026-09-24",
+        "publicationTitle": "The Review of Financial Studies",
+        "journalAbbreviation": "RFS",
+        "pages": "hhag088",
+        "ISSN": "0893-9454"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "url:https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios",
+      "doi": null,
+      "source": "bis",
+      "kind": "report",
+      "title": "Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios",
+      "authors": [
+        {
+          "given": "Stefan",
+          "family": "Avdjiev"
+        },
+        {
+          "given": "Kristin J",
+          "family": "Forbes"
+        },
+        {
+          "given": "Tsvetelina",
+          "family": "Nenova"
+        },
+        {
+          "given": "Marjorie",
+          "family": "Santos"
+        }
+      ],
+      "abstract": "This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.",
+      "published": "2026-09-23",
+      "url": "https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios",
+      "wp_number": "1379",
+      "publication_title": null,
+      "journal_abbreviation": null,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "issn": null,
+      "institution": "BIS Working Papers",
+      "series_title": "BIS Working Papers",
+      "zotero": {
+        "itemType": "report",
+        "title": "Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Stefan",
+            "lastName": "Avdjiev"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Kristin J",
+            "lastName": "Forbes"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Tsvetelina",
+            "lastName": "Nenova"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Marjorie",
+            "lastName": "Santos"
+          }
+        ],
+        "abstractNote": "This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios. These imbalances have recently increased sharply, with a deterioration in the US net international investment position (NIIP) mirrored by NIIP improvements in most other major economies.",
+        "url": "https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios",
+        "date": "2026-09-23",
+        "reportType": "Working Paper",
+        "institution": "Bank for International Settlements",
+        "seriesTitle": "BIS Working Papers",
+        "reportNumber": "1379"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.1086/744130",
+      "doi": "10.1086/744130",
+      "source": "jpe",
+      "kind": "journalArticle",
+      "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+      "authors": [
+        {
+          "given": "Priit",
+          "family": "Jeenas"
+        }
+      ],
+      "abstract": null,
+      "published": "2026-09-22",
+      "url": "https://doi.org/10.1086/744130",
+      "wp_number": null,
+      "publication_title": "Journal of Political Economy",
+      "journal_abbreviation": "JPE",
+      "volume": null,
+      "issue": null,
+      "pages": "744130",
+      "issn": "0022-3808",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Priit",
+            "lastName": "Jeenas"
+          }
+        ],
+        "DOI": "10.1086/744130",
+        "url": "https://doi.org/10.1086/744130",
+        "date": "2026-09-22",
+        "publicationTitle": "Journal of Political Economy",
+        "journalAbbreviation": "JPE",
+        "pages": "744130",
+        "ISSN": "0022-3808"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.3982/ecta24284",
+      "doi": "10.3982/ecta24284",
+      "source": "ecta",
+      "kind": "journalArticle",
+      "title": "Genetic Prediction and Adverse Selection",
+      "authors": [
+        {
+          "given": "Eduardo",
+          "family": "Azevedo"
+        },
+        {
+          "given": "Jonathan P.",
+          "family": "Beauchamp"
+        },
+        {
+          "given": "Richard Karlsson",
+          "family": "Linnér"
+        }
+      ],
+      "abstract": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology. Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
+      "published": "2026-09-01",
+      "url": "https://doi.org/10.3982/ecta24284",
+      "wp_number": null,
+      "publication_title": "Econometrica",
+      "journal_abbreviation": "ECTA",
+      "volume": "94",
+      "issue": "5",
+      "pages": null,
+      "issn": "0012-9682",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Genetic Prediction and Adverse Selection",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Eduardo",
+            "lastName": "Azevedo"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jonathan P.",
+            "lastName": "Beauchamp"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Richard Karlsson",
+            "lastName": "Linnér"
+          }
+        ],
+        "abstractNote": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology. Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
+        "DOI": "10.3982/ecta24284",
+        "url": "https://doi.org/10.3982/ecta24284",
+        "date": "2026-09-01",
+        "publicationTitle": "Econometrica",
+        "journalAbbreviation": "ECTA",
+        "volume": "94",
+        "issue": "5",
+        "ISSN": "0012-9682"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.3982/ecta23897",
+      "doi": "10.3982/ecta23897",
+      "source": "ecta",
+      "kind": "journalArticle",
+      "title": "Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy",
+      "authors": [
+        {
+          "given": "Anish",
+          "family": "Agarwal"
+        },
+        {
+          "given": "Rahul",
+          "family": "Singh"
+        }
+      ],
+      "abstract": "We study causal inference with high‐dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error‐in‐variable balancing weight for estimation and inference on cross‐sectional causal parameters with heterogeneous effects. We study causal inference with high-dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error-in-variable balancing weight for estimation and inference on cross-sectional causal parameters with heterogeneous effects.",
+      "published": "2026-09-01",
+      "url": "https://doi.org/10.3982/ecta23897",
+      "wp_number": null,
+      "publication_title": "Econometrica",
+      "journal_abbreviation": "ECTA",
+      "volume": "94",
+      "issue": "5",
+      "pages": null,
+      "issn": "0012-9682",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Anish",
+            "lastName": "Agarwal"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Rahul",
+            "lastName": "Singh"
+          }
+        ],
+        "abstractNote": "We study causal inference with high‐dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error‐in‐variable balancing weight for estimation and inference on cross‐sectional causal parameters with heterogeneous effects. We study causal inference with high-dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error-in-variable balancing weight for estimation and inference on cross-sectional causal parameters with heterogeneous effects.",
+        "DOI": "10.3982/ecta23897",
+        "url": "https://doi.org/10.3982/ecta23897",
+        "date": "2026-09-01",
+        "publicationTitle": "Econometrica",
+        "journalAbbreviation": "ECTA",
+        "volume": "94",
+        "issue": "5",
+        "ISSN": "0012-9682"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    },
+    {
+      "id": "doi:10.3982/ecta23874",
+      "doi": "10.3982/ecta23874",
+      "source": "ecta",
+      "kind": "journalArticle",
+      "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
+      "authors": [
+        {
+          "given": "Joao",
+          "family": "Guerreiro"
+        },
+        {
+          "given": "Jonathon",
+          "family": "Hazell"
+        },
+        {
+          "given": "Chen",
+          "family": "Lian"
+        },
+        {
+          "given": "Christina",
+          "family": "Patterson"
+        }
+      ],
+      "abstract": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers. How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu-cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch-up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
+      "published": "2026-09-01",
+      "url": "https://doi.org/10.3982/ecta23874",
+      "wp_number": null,
+      "publication_title": "Econometrica",
+      "journal_abbreviation": "ECTA",
+      "volume": "94",
+      "issue": "5",
+      "pages": null,
+      "issn": "0012-9682",
+      "institution": null,
+      "series_title": null,
+      "zotero": {
+        "itemType": "journalArticle",
+        "title": "Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs",
+        "creators": [
+          {
+            "creatorType": "author",
+            "firstName": "Joao",
+            "lastName": "Guerreiro"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Jonathon",
+            "lastName": "Hazell"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Chen",
+            "lastName": "Lian"
+          },
+          {
+            "creatorType": "author",
+            "firstName": "Christina",
+            "lastName": "Patterson"
+          }
+        ],
+        "abstractNote": "How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers. How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu-cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch-up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.",
+        "DOI": "10.3982/ecta23874",
+        "url": "https://doi.org/10.3982/ecta23874",
+        "date": "2026-09-01",
+        "publicationTitle": "Econometrica",
+        "journalAbbreviation": "ECTA",
+        "volume": "94",
+        "issue": "5",
+        "ISSN": "0012-9682"
+      },
+      "first_seen": "2026-10-12T18:00:00Z",
+      "date_precision": "published"
+    }
+  ]
+}

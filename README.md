@@ -3,7 +3,7 @@
 文献购物车：定时聚合元数据，供 iPhone PWA 浏览，并把选中的条目加入 Zotero。
 完整范围和里程碑见 [PLAN.md](PLAN.md)，工作约定见 [AGENTS.md](AGENTS.md)。
 
-目前完成 M0–M2：Crossref/RSS、合并、DOI 摘要补全、持久化 state 和 feed 校验。Zotero 映射、IndexedDB、PWA 和 CI 留待对应后续里程碑。
+目前完成 M0–M3：Crossref/RSS、合并、DOI 摘要补全、持久化 state、feed 校验及 Zotero 模板映射。IndexedDB、PWA 和 CI 留待对应后续里程碑。
 技术验证、失败原因和需要用户决定的事项见 [docs/SPIKES.md](docs/SPIKES.md)。
 
 ## Python（≥3.10）
@@ -62,7 +62,7 @@ BFI 不合格 feed 的录制删去了 `content:encoded`，只保留判定内容�
 `fetch_all()` 隔离每个源的失败；默认最多两页、每页 100 条，请求之间至少一秒，禁用重定向。
 只请求 Crossref 的 journal/prefix 元数据端点，不跟进响应中的 DOI、resource、link 或 PDF 地址。
 ECTA 可以显式请求辅助 Crossref 数据，但 `primary: rss` 决策保持不变；BFI disabled 时不会发请求。
-NBER/FEDS 同时按配置和 D7 限制系列。`Paper` 保留日期的年/月/日精度，缺摘要为 null，Zotero 映射留待 M3。
+NBER/FEDS 同时按配置和 D7 限制系列。`Paper` 保留日期的年/月/日精度，缺摘要为 null，build 在合并和摘要回填后生成 Zotero 映射。
 
 可选的真实验证（每个命令每个源最多两页；不要并发运行）：
 
@@ -83,8 +83,8 @@ aggregator/.venv/bin/python -m papercart.build --out web/public/data/feed.json
 ```
 
 构建按源合并 Crossref 与 RSS；ECTA 和 NBER 优先 RSS（NBER 以 RSS 摘要为准），其他源优先 Crossref，BFI 停用。ECB 仅保留 Working Paper Series，排除 Discussion Papers 等其他系列。
-RSS 只请求配置中已验证的 feed 地址，解析 description 或 content:encoded；不请求条目链接。
-先按 DOI 合并，再按规范化 URL/元数据 URL 别名去重；摘要回填只用相同 DOI，禁止标题近似匹配。
+RSS 只请求配置中已验证且 enabled 未关闭的 feed 地址，解析 description 或 content:encoded；不请求条目链接。JFE RSS 按 F1 设 enabled: false，保留 URL，但因无 DOI/摘要且重复 Crossref 而不再请求。
+先按 DOI 合并，再按规范化 URL/元数据 URL 别名去重；同源规范化标题完全相同、缺 DOI 且能唯一对应有 DOI 条目时，合并到有 DOI 的条目。不同 DOI、不同来源或近似标题不会按标题合并，摘要回填仍只用相同 DOI。Crossref、RSS 和历史 feed/state 共用非论文过滤，排除 Editorial Board、Recent Referees、JPE Turnaround Times 等。
 ECB PDF 链接仅保存为 url；下载/请求 PDF 或全文的代码不存在。
 
 保留发表日期范围与最近 120 天重叠的条目，保留年月日期精度、不伪造日。无日期条目使用持久化 first_seen 参与排序和保留，published 仍为 null。
@@ -106,7 +106,7 @@ aggregator/.venv/bin/python -m papercart.build --out web/public/data/feed.json \
 ```
 
 feed.schema.json 是 schema 1 的校验依据，使用白名单之外零依赖的标准库校验器验证该 schema 所用关键词，同时检查 DOI/URL 身份、日期与重复 ID。
-zotero 当前仍为 `{}`，完整模板映射属于 M3；当前 feed 尚不能直接用作 Zotero 写入负载。
+每条 paper.zotero 含经过 M0 模板字段检查的 journalArticle/report 元数据；collections 和 tags 由前端补充。旧 M2 feed/state 的空映射会在构建时重新生成。
 源的状态、错误、各后端计数、摘要覆盖和日期排除计数都写入 sources，单源失败不阻断其他源；输出经校验后原子替换。
 
 真实网络验证并录制脱敏响应：
@@ -119,4 +119,18 @@ LIVE_TEST=1 aggregator/.venv/bin/python -m papercart.build \
 
 fixture 保留实际响应的元数据；Crossref 录制删除未使用的引用/许可/资助字段以控制体积，邮箱统一脱敏。
 连续两次真实验证各生成 610 条；NBER 各 222 条、42 条有摘要，第二次 S2 HTTP 请求为 0，first_seen 和摘要未改变。两次各源统计见 SPIKES.md。
-不要执行 git commit；协调方审查后提交。M3 必须另行指派。
+不要执行 git commit；协调方审查后提交。M4 必须另行指派。
+
+## M3 Zotero 映射
+
+`to_zotero(paper)` 是纯元数据映射，不发请求。工作论文按 NBER/FEDS/ECB/BIS 填写 institution/seriesTitle，reportNumber 来自 wp_number；缺失字段省略，无 given 的作者使用 name 单字段形式。feed 校验同时检查模板字段、作者格式与 paper 元数据的一致性。
+
+前端约定和 Write-Token/Backoff 处理见 [docs/zotero-write.md](docs/zotero-write.md)。离线开发样本每个启用来源三条，可复现：
+
+```bash
+aggregator/.venv/bin/python aggregator/scripts/make_feed_sample.py
+```
+
+输出为 web/src/fixtures/feed.sample.json，共 36 条；BFI 停用不生成论文。此命令只重放录制 fixture，不访问网络。
+
+M3 审查修复后，离线重建及一次真实 build 均输出 586 条，各源重复标题数为 0；NBER RSS 本次 503，由 state 保留条目与摘要。ECB 官方 RSS 未提供作者，保留空 creators。逐源计数、覆盖率及限制见 SPIKES.md。

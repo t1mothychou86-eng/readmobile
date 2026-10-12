@@ -1,0 +1,33 @@
+{
+  "paper_id": "doi:10.3982/ecta24284",
+  "zotero": {
+    "itemType": "journalArticle",
+    "title": "Genetic Prediction and Adverse Selection",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Eduardo",
+        "lastName": "Azevedo"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Jonathan P.",
+        "lastName": "Beauchamp"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Richard Karlsson",
+        "lastName": "Linnér"
+      }
+    ],
+    "abstractNote": "Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology. Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.",
+    "DOI": "10.3982/ecta24284",
+    "url": "https://doi.org/10.3982/ecta24284",
+    "date": "2026-09-01",
+    "publicationTitle": "Econometrica",
+    "journalAbbreviation": "ECTA",
+    "volume": "94",
+    "issue": "5",
+    "ISSN": "0012-9682"
+  }
+}

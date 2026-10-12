@@ -1,0 +1,29 @@
+{
+  "paper_id": "doi:10.1257/aer.20251879",
+  "zotero": {
+    "itemType": "journalArticle",
+    "title": "Truth Elicitation in a Nonstrategic Environment",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Jacob",
+        "lastName": "Glazer"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Ariel",
+        "lastName": "Rubinstein"
+      }
+    ],
+    "abstractNote": "A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)",
+    "DOI": "10.1257/aer.20251879",
+    "url": "https://doi.org/10.1257/aer.20251879",
+    "date": "2026-10-01",
+    "publicationTitle": "American Economic Review",
+    "journalAbbreviation": "AER",
+    "volume": "116",
+    "issue": "10",
+    "pages": "3942-3958",
+    "ISSN": "0002-8282"
+  }
+}

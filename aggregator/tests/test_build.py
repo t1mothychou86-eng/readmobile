@@ -41,15 +41,15 @@ def replay_feed(tmp_path):
 
 def test_recorded_complete_build_and_schema(replay_feed):
     validate_feed(replay_feed)
-    assert len(replay_feed["papers"]) == 610
+    assert len(replay_feed["papers"]) == 586
     by_source = {s["id"]:s for s in replay_feed["sources"]}
     assert by_source["ecta"]["count"] == 12 and by_source["ecta"]["abstract_count"] == 12
     assert by_source["nber"]["count"] == 222
     assert by_source["nber"]["abstract_count"] == 22
-    assert by_source["jfe"]["count"] == 62
+    assert by_source["jfe"]["count"] == 44
     assert by_source["ecb"]["count"] == 14
     assert by_source["bfi"]["status"] == "disabled"
-    assert all(p["zotero"] == {} for p in replay_feed["papers"])
+    assert all(p["zotero"]["itemType"] == p["kind"] for p in replay_feed["papers"])
 
 
 @pytest.mark.parametrize("published,expected", [(None,False),("2026",True),("2026-06",True),("2026-06-01",False),("2026-11",False),("2026-02-30",False),("2026-10-12",True)])
@@ -63,7 +63,7 @@ def test_retains_recent_previous_records_on_source_failure(replay_feed, tmp_path
     with httpx.Client(transport=httpx.MockTransport(failure)) as client:
         feed = build_feed(load_sources(), client=client, now=NOW, state=State(tmp_path/"state.json"), previous=replay_feed,
                           pacer=Pacer(sleep=lambda _:None, clock=lambda:0), enrich=False)
-    assert len(feed["papers"]) == 610
+    assert len(feed["papers"]) == 586
     assert next(s for s in feed["sources"] if s["id"] == "ecta")["status"] == "partial"
 
 
@@ -133,3 +133,49 @@ def test_build_nber_same_doi_uses_rss_abstract(tmp_path, sources, fixture_json):
                         pacer=Pacer(sleep=lambda _:None,clock=lambda:0),enrich=False)
     assert len(feed['papers'])==1 and feed['papers'][0]['abstract']=='RSS version'
     assert feed['papers'][0]['doi']==doi and feed['papers'][0]['date_precision']=='published'
+
+
+def test_previous_feed_title_duplicates_and_non_papers_are_cleaned(replay_feed,tmp_path):
+    from dataclasses import replace
+    from collections import Counter
+    from papercart.normalize import Paper
+    from papercart.zotero_map import to_zotero
+    feed=deepcopy(replay_feed)
+    original=Paper(**next(p for p in feed['papers'] if p['source']=='jfe'))
+    for title,suffix in [(original.title,'duplicate'),('Editorial Board','editorial'),('Issue Information','issue')]:
+        url='https://example.invalid/'+suffix
+        p=replace(original,doi=None,id='url:'+url,url=url,title=title,aliases=[])
+        p=replace(p,zotero=to_zotero(p))
+        feed['papers'].append(p.to_dict())
+    with httpx.Client(transport=httpx.MockTransport(lambda request:httpx.Response(503))) as client:
+        rebuilt=build_feed(load_sources(),client=client,now=NOW,state=State(tmp_path/'state.json'),previous=feed,
+                           pacer=Pacer(sleep=lambda _:None,clock=lambda:0),enrich=False)
+    assert len(rebuilt['papers'])==586
+    from papercart.dedupe import normalize_title
+    titles=Counter((p['source'],normalize_title(p['title'])) for p in rebuilt['papers'])
+    assert max(titles.values())==1
+    jfe=[p for p in rebuilt['papers'] if p['source']=='jfe']
+    assert len(jfe)==44 and all(p['doi'] for p in jfe)
+
+
+def test_legacy_jfe_rss_fixture_merges_by_title_without_doi(replay_feed,sources):
+    from dataclasses import replace
+    import feedparser
+    import yaml
+    from papercart.sources import DEFAULT_CONFIG, RSSConfig
+    from papercart.rss import normalize_entry
+    from papercart.normalize import Paper
+    from papercart.dedupe import normalize_title,merge_papers
+    raw=next(s for s in yaml.safe_load(DEFAULT_CONFIG.read_text())['sources'] if s['id']=='jfe')['rss']
+    legacy_source=replace(sources['jfe'],rss=RSSConfig(raw['url'],raw['abstract_location']))
+    recording=Path(__file__).parent/'fixtures/rss-jfe.xml'
+    entries=feedparser.parse(recording.read_bytes()).entries
+    legacy=[p for e in entries if (p:=normalize_entry(e,legacy_source))]
+    assert len(entries)==32 and len(legacy)==31
+    assert all(p.doi is None and p.abstract is None for p in legacy)
+    doi_papers={normalize_title(p['title']):Paper(**p) for p in replay_feed['papers'] if p['source']=='jfe'}
+    rss=next(p for p in legacy if normalize_title(p.title) in doi_papers)
+    doi=replace(doi_papers[normalize_title(rss.title)],aliases=[])
+    assert rss.url!=doi.url
+    merged=merge_papers([rss,doi])
+    assert len(merged)==1 and merged[0].id==doi.id and merged[0].doi==doi.doi

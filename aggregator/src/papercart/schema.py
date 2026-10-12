@@ -10,6 +10,9 @@ from pathlib import Path
 import re
 from urllib.parse import urlsplit
 
+from .normalize import Paper
+from .zotero_map import to_zotero, validate_zotero
+
 SCHEMA_PATH = Path(__file__).resolve().parents[2] / "feed.schema.json"
 KEYWORDS = {"$schema", "title", "description", "type", "properties", "required", "additionalProperties", "items", "enum", "const", "pattern", "minLength", "minimum", "format"}
 
@@ -72,6 +75,9 @@ def validate_feed(feed):
         raise ValueError("Duplicate source IDs")
     seen = set()
     for paper in feed["papers"]:
+        validate_zotero(paper["zotero"])
+        if paper["zotero"] != to_zotero(Paper(**paper)):
+            raise ValueError("Zotero mapping does not match paper metadata")
         if paper["source"] not in sources or paper["id"] in seen:
             raise ValueError("Unknown source or duplicate paper ID")
         seen.add(paper["id"])

@@ -1,0 +1,37 @@
+{
+  "paper_id": "doi:10.1111/jofi.70089",
+  "zotero": {
+    "itemType": "journalArticle",
+    "title": "Generative AI and Firm Values",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "ANDREA L.",
+        "lastName": "EISFELDT"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "GREGOR",
+        "lastName": "SCHUBERT"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "MIAO BEN",
+        "lastName": "ZHANG"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "BLEDI",
+        "lastName": "TASKA"
+      }
+    ],
+    "abstractNote": "ABSTRACT How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure of firms' workforce exposures to Generative AI and show that an “Artificial‐Minus‐Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor‐exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor‐technology substitution channel.",
+    "DOI": "10.1111/jofi.70089",
+    "url": "https://doi.org/10.1111/jofi.70089",
+    "date": "2026-10-08",
+    "publicationTitle": "The Journal of Finance",
+    "journalAbbreviation": "JF",
+    "pages": "jofi.70089",
+    "ISSN": "0022-1082"
+  }
+}

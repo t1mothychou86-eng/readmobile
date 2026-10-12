@@ -23,10 +23,10 @@ def test_true_d2_batch_and_cache(papers, fixture_json, tmp_path):
     with httpx.Client() as client:
         adapter = AbstractEnricher(client, state=State(tmp_path/"state.json"), now=1000, pacer=Pacer(sleep=lambda _:None, clock=lambda:0))
         output, report = adapter.enrich(papers)
-        assert report["requested"] == 24 and report["matched"] == 15 and report["filled"] == 4
+        assert report["requested"] == 22 and report["matched"] == 15 and report["filled"] == 4
         assert sum(bool(p.abstract) for p in output) == 4
         output2, report2 = adapter.enrich(papers)
-        assert report2["cache_hits"] == 24 and report2["filled"] == 4 and route.call_count == 1
+        assert report2["cache_hits"] == 22 and report2["filled"] == 4 and route.call_count == 1
         assert [p.abstract for p in output2] == [p.abstract for p in output]
 
 
@@ -71,7 +71,7 @@ def test_newest_nber_first_and_global_budget(papers, sources, fixture_json, tmp_
         _, report = adapter.enrich(nber)
         assert report["pages"] == 1 and report["requested"] == 500 and report["deferred"] == 100
         _, report2 = adapter.enrich(papers)
-        assert report2["requested"] == 0 and report2["deferred"] == 24
+        assert report2["requested"] == 0 and report2["deferred"] == 22
     ids = json.loads(route.calls[0].request.content)["ids"]
     assert ids[0] == "DOI:10.3386/w30599" and ids[-1] == "DOI:10.3386/w30100"
     assert route.call_count == 1
@@ -106,5 +106,5 @@ def test_positive_and_negative_cache_reused_across_processes(papers, fixture_jso
         AbstractEnricher(client,state=state,now=1000).enrich(papers)
         state.save()
         out,stats=AbstractEnricher(client,state=State(path),now=1001).enrich(papers)
-    assert stats['cache_hits']==24 and stats['requested']==0 and route.call_count==1
+    assert stats['cache_hits']==22 and stats['requested']==0 and route.call_count==1
     assert sum(bool(p.abstract) for p in out)==4

@@ -1,0 +1,44 @@
+{
+  "paper_id": "doi:10.1093/qje/qjag035",
+  "zotero": {
+    "itemType": "journalArticle",
+    "title": "Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty",
+    "creators": [
+      {
+        "creatorType": "author",
+        "firstName": "Ned",
+        "lastName": "Augenblick"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "B Kelsey",
+        "lastName": "Jack"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Supreet",
+        "lastName": "Kaur"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Felix",
+        "lastName": "Masiye"
+      },
+      {
+        "creatorType": "author",
+        "firstName": "Nicholas",
+        "lastName": "Swanson"
+      }
+    ],
+    "abstractNote": "Abstract People may fail to recall and use information they already know when making decisions. We empirically investigate whether such “retrieval failures” distort consumption-smoothing behavior among Zambian farmers, who derive their income from one annual harvest and spend it over the course of the year. We document that individuals underestimate upcoming spending by 50%, creating scope for undersaving. To improve recall, we randomize an intervention that prompts people to think through their future expenses associatively in categories—without providing any external information or guidance. Treated individuals increase “remembered” expenses by 36%–60%; as predicted by the memory literature, effects are concentrated among small, irregular, and stochastic items. Immediate spending drops and, six weeks after the intervention, treated households hold 15% higher savings. They subsequently enter the hungry season—the final months of the year when consumption typically declines sharply—with one additional month of savings, leading to a flatter spending profile over the year. Households use the increased savings to self-finance additional farm investment, resulting in a 9% increase in the next year’s crop revenue. We replicate the intervention’s effect on beliefs among low-income Americans, suggesting that retrieval failures generalize across settings and populations.",
+    "DOI": "10.1093/qje/qjag035",
+    "url": "https://doi.org/10.1093/qje/qjag035",
+    "date": "2026-10-01",
+    "publicationTitle": "The Quarterly Journal of Economics",
+    "journalAbbreviation": "QJE",
+    "volume": "141",
+    "issue": "4",
+    "pages": "2735-2801",
+    "ISSN": "0033-5533"
+  }
+}

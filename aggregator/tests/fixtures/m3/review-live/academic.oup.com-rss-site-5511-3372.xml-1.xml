@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/">
+  <channel>
+    <title>The Review of Financial Studies Current Issue</title>
+    <link>http://academic.oup.com/rfs</link>
+    <description>
+    </description>
+    <language>en-us</language>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:47:31 GMT</lastBuildDate>
+    <generator>Silverchair</generator>
+    <item>
+      <title>What Hundreds of Economic News Events Say About Belief Overreaction in the Stock Market</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3191/8739216?rss=1</link>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We measure the nature and severity of a variety of belief distortions in market reactions to hundreds of economic news events by synthesizing structural estimation with algorithmic machine learning to quantify bias. We find that investors systematically overreact to perceptions about multiple fundamental shocks, a phenomenon we show often dampens rather than amplifies market volatility via a “shock composition effect.” Such effects imply that the stock market can underreact to news, even when investors overreact to all shocks.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3191</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3239</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag062</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag062</guid>
+    </item>
+    <item>
+      <title>Partial Equilibrium Thinking, Extrapolation, and Bubbles</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3122/8700953?rss=1</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We develop a dynamic theory of “Partial Equilibrium Thinking” (PET), which micro-founds time-varying return extrapolation: extrapolative beliefs are present at all times, but only sometimes manifest themselves in explosive ways. We formalize the distinction between normal times shocks and “displacement shocks,” and study their interaction with extrapolative beliefs. In normal times, PET generates constant extrapolation and momentum. After a displacement shock that increases uncertainty, PET leads to stronger and time-varying extrapolation, triggering bubbles and endogenous crashes. Our theory sheds light on both market dynamics in normal times and Kindleberger’s narrative of bubbles within a unified framework.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3122</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3190</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag053</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag053</guid>
+    </item>
+    <item>
+      <title>What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3276/8660476?rss=1</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We present a portfolio choice demand model that allows for the nonparametric estimation of investors’ (subjective) expectations and risk preferences. Using comprehensive 401(k)-plan-level data from 2009 through 2019, we explore heterogeneity in asset allocations using our empirical framework. We recover investors’ beliefs about each asset and examine the implications and potential sources of those beliefs. Heterogeneity in expectations across investors accounts for twice as much variation in portfolio holdings as heterogeneity in risk aversion. Belief heterogeneity is partly driven by investors’ characteristics and experiences, reflecting local sources of information such as county-level GDP and employers’ past performance.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3276</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3329</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag044</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag044</guid>
+    </item>
+    <item>
+      <title>Dynamics of Asset Demands with Confidence Heterogeneity</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3079/8660473?rss=1</link>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;To understand the dynamics of investors’ asset demands, we develop a general-equilibrium model driven by a single latent variable: heterogeneity in investors’ confidence about mean endowment growth. The model predicts persistent heterogeneity in asset demands and concentrated portfolios. Consistent with the data, limited confidence reduces investors’ demand elasticities and makes stock prices excessively volatile—driven by latent demand rather than observable characteristics. The underlying economic mechanisms are driven primarily by investors’ desire to hedge changes in future beliefs instead of current disagreement. Finally, consistent with survey data, investors’ expectations correlate positively with past returns and negatively with future returns.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3079</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3121</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag041</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag041</guid>
+    </item>
+    <item>
+      <title>What Drives Momentum and Reversal? Evidence from Day and Night Signals</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3378/8626980?rss=1</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We study how intraday and overnight components of past returns predict future stock returns from 1926 to 2019. Portfolios formed on past intraday returns display momentum without long-term reversal, whereas portfolios formed on past overnight returns display no momentum. We link this asymmetric day-night pattern to the fact that most trading occurs intraday, which has remained stable over time. Evidence from international stock markets, intraday intervals, and analyst expectations suggests that investors underreact to private information revealed through trading. This underreaction mechanism is most consistent with Hong and Stein’s (1999) theory of momentum.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3378</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3411</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag036</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag036</guid>
+    </item>
+    <item>
+      <title>Who Clears the Market When Passive Investors Trade?</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3330/8572664?rss=1</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We find that firms are the primary sellers who clear the market for index fund buying, providing shares at a nearly one-for-one rate. Most demand-side institutions trade in the same direction as index funds rather than accommodating passive demand. We use two instruments for index fund demand and show that firms causally &lt;span style="font-style:italic;"&gt;respond&lt;/span&gt; to exogenous passive demand, with prices serving as the coordinating mechanism. Firms satisfy passive demand mostly through nonprimary market issuance, for example, through employee stock-based compensation. Our results suggest that passive investing has systematically supplied capital to firms by enabling equity issuance over the last two decades.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3330</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3377</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag032</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag032</guid>
+    </item>
+    <item>
+      <title>Beliefs and Portfolios: Causal Evidence</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3240/8561088?rss=1</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We causally test alternative theories of expectation formation. Using a randomized information experiment we show overreaction is a key feature of individuals’ return expectations, and individuals’ response to the price-earnings ratio is opposite of academic consensus. Our evidence is inconsistent with standard models of expectation formation, but subjective mental models that deviate from objective benchmarks can jointly explain the updating behavior in the experiment, the link between individuals’ prior perceptions and expectations, and the heterogeneity of updating. Conditional on their beliefs, individuals’ sensitivity of equity shares in a hypothetical portfolio choice experiment is consistent with the standard Merton model.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3240</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3275</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag011</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag011</guid>
+    </item>
+    <item>
+      <title>Machine Learning and the Implementable Efficient Frontier</title>
+      <link>https://academic.oup.com/rfs/article/39/10/3035/8524346?rss=1</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We propose that investment strategies should be evaluated based on their net-of-trading-cost return for each level of risk, which we term the “implementable efficient frontier.” While numerous studies use machine learning return forecasts to generate portfolios, their agnosticism toward trading costs leads to excessive reliance on fleeting small-scale characteristics, resulting in poor net returns. We develop a framework that produces a superior frontier by integrating trading-cost-aware portfolio optimization with machine learning. The superior net-of-cost performance is achieved by learning directly about portfolio weights using an economic objective. Further, our model gives rise to a new measure of “economic feature importance.”&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">39</prism:volume>
+      <prism:number xmlns:prism="prism">10</prism:number>
+      <prism:startingPage xmlns:prism="prism">3035</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3078</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/rfs/hhag022</prism:doi>
+      <guid>http://doi.org/10.1093/rfs/hhag022</guid>
+    </item>
+  </channel>
+</rss>

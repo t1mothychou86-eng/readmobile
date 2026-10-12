@@ -149,12 +149,13 @@ sources:
         not prove the ISSN itself invalid.
   rss:
     url: https://rss.sciencedirect.com/publication/science/0304405X
+    enabled: false
     verified: '2026-10-13'
     status: passed
     evidence: rss-jfe.xml
     abstract_location: null
-    reason: Valid journal feed, but descriptions/content contain bibliographic metadata
-      only, no paper abstracts.
+    reason: Disabled under F1; entries have neither abstracts nor DOI, duplicate
+      Crossref titles and include Editorial Board. URL retained for provenance.
 - id: rfs
   name: The Review of Financial Studies
   short: RFS

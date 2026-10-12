@@ -1,0 +1,142 @@
+{
+  "mode": "live build with existing state",
+  "generated_at": "2026-10-12T18:50:39.048858Z",
+  "papers": 586,
+  "schema_valid": true,
+  "metadata_requests": 21,
+  "semantic_scholar_requests": 0,
+  "sources": [
+    {
+      "id": "aer",
+      "status": "ok",
+      "count": 45,
+      "abstract_count": 42,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 93.3,
+      "missing_author_count": 0
+    },
+    {
+      "id": "qje",
+      "status": "ok",
+      "count": 18,
+      "abstract_count": 18,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 100.0,
+      "missing_author_count": 0
+    },
+    {
+      "id": "jpe",
+      "status": "ok",
+      "count": 55,
+      "abstract_count": 7,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 12.7,
+      "missing_author_count": 0
+    },
+    {
+      "id": "ecta",
+      "status": "ok",
+      "count": 12,
+      "abstract_count": 12,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 100.0,
+      "missing_author_count": 0
+    },
+    {
+      "id": "res",
+      "status": "ok",
+      "count": 54,
+      "abstract_count": 54,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 100.0,
+      "missing_author_count": 0
+    },
+    {
+      "id": "jf",
+      "status": "ok",
+      "count": 34,
+      "abstract_count": 33,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 97.1,
+      "missing_author_count": 1
+    },
+    {
+      "id": "jfe",
+      "status": "ok",
+      "count": 44,
+      "abstract_count": 0,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 0.0,
+      "missing_author_count": 0
+    },
+    {
+      "id": "rfs",
+      "status": "ok",
+      "count": 37,
+      "abstract_count": 37,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 100.0,
+      "missing_author_count": 0
+    },
+    {
+      "id": "nber",
+      "status": "partial",
+      "count": 222,
+      "abstract_count": 42,
+      "errors": [
+        "RSS HTTP 503"
+      ],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 18.9,
+      "missing_author_count": 0
+    },
+    {
+      "id": "feds",
+      "status": "ok",
+      "count": 30,
+      "abstract_count": 30,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 100.0,
+      "missing_author_count": 1
+    },
+    {
+      "id": "ecb",
+      "status": "ok",
+      "count": 14,
+      "abstract_count": 14,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 100.0,
+      "missing_author_count": 14
+    },
+    {
+      "id": "bis",
+      "status": "ok",
+      "count": 21,
+      "abstract_count": 21,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": 100.0,
+      "missing_author_count": 0
+    },
+    {
+      "id": "bfi",
+      "status": "disabled",
+      "count": 0,
+      "abstract_count": 0,
+      "errors": [],
+      "duplicate_title_count": 0,
+      "abstract_coverage_percent": null,
+      "missing_author_count": 0
+    }
+  ]
+}

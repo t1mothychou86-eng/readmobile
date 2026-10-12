@@ -1,0 +1,112 @@
+{
+  "mode": "offline replay with existing feed/state",
+  "generated_at": "2026-10-12T18:00:00Z",
+  "papers": 586,
+  "schema_valid": true,
+  "sources": [
+    {
+      "id": "aer",
+      "status": "ok",
+      "count": 45,
+      "abstract_count": 42,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "qje",
+      "status": "ok",
+      "count": 18,
+      "abstract_count": 18,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "jpe",
+      "status": "ok",
+      "count": 55,
+      "abstract_count": 7,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "ecta",
+      "status": "ok",
+      "count": 12,
+      "abstract_count": 12,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "res",
+      "status": "ok",
+      "count": 54,
+      "abstract_count": 54,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "jf",
+      "status": "ok",
+      "count": 34,
+      "abstract_count": 33,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "jfe",
+      "status": "ok",
+      "count": 44,
+      "abstract_count": 0,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "rfs",
+      "status": "ok",
+      "count": 37,
+      "abstract_count": 37,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "nber",
+      "status": "ok",
+      "count": 222,
+      "abstract_count": 42,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "feds",
+      "status": "ok",
+      "count": 30,
+      "abstract_count": 30,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "ecb",
+      "status": "ok",
+      "count": 14,
+      "abstract_count": 14,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "bis",
+      "status": "ok",
+      "count": 21,
+      "abstract_count": 21,
+      "errors": [],
+      "duplicate_title_count": 0
+    },
+    {
+      "id": "bfi",
+      "status": "disabled",
+      "count": 0,
+      "abstract_count": 0,
+      "errors": [],
+      "duplicate_title_count": 0
+    }
+  ]
+}

@@ -316,3 +316,40 @@ JPE 原有 7 条摘要跨运行保留，54 条仍缺摘要的 DOI 命中既有�
 最终 **143 项离线测试通过**（Python 3.10），覆盖无日期保留/过期不重置、URL 到 DOI 身份升级、真实日期替代 first_seen、RSS 摘要优先、从 state 独立恢复元数据/摘要、S2 正负缓存跨进程复用、最新优先/全局请求预算、响应时刻冷却、E1 系列过滤及 E5 不请求 JFE。原有 schema、限流、源失败、PDF/全文红线测试也通过。源码和脚本编译检查、最终 feed schema 校验及真实邮箱/编码形式文件检查通过。
 
 遗留属于后续里程碑：M3 完整 Zotero 映射；M5 为 state 配置 CI 持久化。NBER Crossref 两页上限和 API 索引/摘要覆盖率限制仍存在，当前覆盖率是这次产出数据的覆盖率，不是所有 NBER 论文的普查。OpenAlex 免费 Key 由用户以后决定，当前 M2 无需新决定。
+
+## M3：Zotero 元数据映射（2026-10-13）
+
+- 仅使用 M0 录制的 `zotero-journalArticle.json` / `zotero-report.json` 模板确定顶层字段集合；运行时固定完整集合，每次映射断言并验证。离线测试逐字段比较固定集合与真实模板，`report` 中的 DOI 可直接使用，不需要 extra 回退。
+- 期刊映射 journalArticle；工作论文映射 report/Working Paper。institution/seriesTitle 按 NBER、FEDS、ECB、BIS 固定来源身份填写，避免把 RSS 展示名误写成机构；编号只取 wp_number。NBER/FEDS 机构来自已录制 Crossref 元数据，ECB/BIS 来源身份由已录制官方 RSS 验证。单字段作者使用 name，拆分姓名使用 firstName/lastName，均带 creatorType=author；单字段格式另核对 [官方写入文档](https://www.zotero.org/support/dev/web_api/v3/write_requests)。
+- 摘要、DOI、url、date 按实际存在与否填写；日期保留原精度，first_seen 不映射为 date。ECB 开放 PDF 地址仅写 url，不请求该地址。collections/tags 留给前端。
+- build 在合并及摘要补全后重新生成映射，并将结果存入 state。旧 M2 feed/state 的空映射可迁移；feed 校验拒绝未知字段、不同 itemType 的非法字段、非法作者格式及映射与 paper 元数据不一致的情况。
+- 186 项离线测试通过（含 12 个启用来源的固定快照、BFI 停用空快照、模板字段一致性、日期/作者边界、摘要补全后映射、旧 feed/state 迁移与样本复现）。测试使用 MockTransport/fixture，默认 socket 禁用；本轮没有抓取新元数据或调用 Zotero 写入接口。
+- `make_feed_sample.py` 重放 M2 的 build manifest，固定原录制时间与临时 state，每个启用来源取 3 条，共 36 条；NBER 包含 2 条无日期 RSS 论文和 1 条有日期 Crossref 论文。BFI 状态仍为 disabled、0 条，不伪造条目。样本及现有 610 条 public feed 的离线迁移均通过 schema；public feed 是被 git 忽略的生成产物。
+- 前端写入、批次结果和 token/冷却语义见 [zotero-write.md](zotero-write.md)。未新增依赖、账号或需用户决定的事项；既有 JFE 缺摘要及 BFI 停用决策保持有效。M4 未开始。
+
+### M3 审查修复 F1–F4（2026-10-13）
+
+- **F1**：JFE RSS 配置增加 `enabled: false`，保留原已验证 URL 和失败增益说明；loader 不再创建该 RSS 后端，本次真实请求记录中没有 ScienceDirect RSS 请求。去重增加同源规范化标题完全相同的兜底，仅将缺 DOI 条目合并到唯一的有 DOI 条目；规范化包含 HTML 文本、Unicode NFKC、大小写、标点与空白。不跨源、不合并冲突 DOI、不做近似匹配，摘要仍必须按相同 DOI 补全。DOI 条目作为主记录，保留 RSS URL 别名及最早 first_seen。
+- **F2**：RSS 原已调用 normalize.NON_PAPER；补足共享规则中的 Editorial Board，以及从现有 feed 实测发现的 Recent Referees/JPE Turnaround Times（JPE 审稿人名单/周转统计）。同一规则也用于历史 feed/state 的保留过滤，防止旧非论文再次出现。JFE 从 62 条降至 44 条（移除 14 条无 DOI RSS 重复记录及 4 条 Editorial Board），JPE 从 61 条降至 55 条（移除 6 条非论文）。
+- **F3 已知限制**：逐条检查 `rss-ecb.xml` 全部 15 条原始 item，含 14 条 WP 和 1 条已过滤 DP；XML 子字段只有 title、link、description、pubDate、guid，feedparser 也无 author/authors/dc:creator 等作者字段。description 是摘要文本，无作者列表/署名。因此 ECB 的 14 条 WP 保留 `authors: []` / Zotero `creators: []`，不猜测、不请求 PDF/出版社正文。
+- **F4 验证**：201 项离线测试通过；新增真实 JFE RSS fixture 的标题去重、RSS/Crossref 共用非论文规则、停用 RSS 零请求、历史 feed 清理及跨源/冲突 DOI/近似标题保护回归测试。更新 JFE 快照并重新生成 36 条样本，样本仍通过 schema。保留原 state/摘要进行离线重建，再以 `LIVE_TEST=1 python -m papercart.build --out web/public/data/feed.json --state aggregator/state/state.json --record-fixtures aggregator/tests/fixtures/m3/review-live` 真实运行一次；两次均为 586 条并通过 schema，统计如下。
+
+重复标题数按同源 normalize_title 分组后的额外条目数计算，两次每个来源均为 0。摘要统计包含已持久化的摘要，并非仅本次响应新增。
+
+| 来源 | 离线条数 / 有摘要 | 真实条数 / 有摘要 | 真实摘要覆盖率 | 两次重复标题数 |
+|---|---:|---:|---:|---:|
+| AER | 45 / 42 | 45 / 42 | 93.3% | 0 |
+| QJE | 18 / 18 | 18 / 18 | 100% | 0 |
+| JPE | 55 / 7 | 55 / 7 | 12.7% | 0 |
+| ECTA | 12 / 12 | 12 / 12 | 100% | 0 |
+| RES | 54 / 54 | 54 / 54 | 100% | 0 |
+| JF | 34 / 33 | 34 / 33 | 97.1% | 0 |
+| JFE | 44 / 0 | 44 / 0 | 0% | 0 |
+| RFS | 37 / 37 | 37 / 37 | 100% | 0 |
+| NBER | 222 / 42 | 222 / 42 | 18.9% | 0 |
+| FEDS | 30 / 30 | 30 / 30 | 100% | 0 |
+| ECB | 14 / 14 | 14 / 14 | 100% | 0 |
+| BIS | 21 / 21 | 21 / 21 | 100% | 0 |
+| BFI | 0 / 0 | 0 / 0 | —（停用） | 0 |
+
+真实运行共 21 次元数据请求，Semantic Scholar HTTP 请求为 0（复用 state 缓存）。NBER RSS 本次 HTTP 503，Crossref 成功；source.status 为 partial，旧 RSS 元数据/摘要通过 state 保留，未重试该 host。其余启用源 status 为 ok，ECTA Crossref 为空但 RSS 正常，BFI 保持 disabled。真实响应、manifest 和两次安全统计分别见 `aggregator/tests/fixtures/m3/review-live/`、`review-live.report.json`、`review-offline.report.json`；manifest 不含 mailto，响应沿用邮箱脱敏。确认没有请求 PDF、全文或 Zotero 写入接口。无新增需用户决定事项；NBER RSS 暂时不可用、ECB 缺作者及既定 JFE 缺摘要是当前限制，M4 未开始，未提交。
