@@ -1,0 +1,229 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:prism="http://purl.org/rss/1.0/modules/prism/">
+  <channel>
+    <title>The Review of Economic Studies Current Issue</title>
+    <link>http://academic.oup.com/restud</link>
+    <description>
+    </description>
+    <language>en-us</language>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:46:39 GMT</lastBuildDate>
+    <generator>Silverchair</generator>
+    <item>
+      <title>Selection in Surveys: Using Randomized Incentives to Detect and Account for Nonresponse Bias</title>
+      <link>https://academic.oup.com/restud/article/93/5/3086/8494738?rss=1</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We show how to use randomized participation incentives to test and account for nonresponse bias in surveys. We first use data from a survey about labour market conditions, linked to full-population administrative data, to provide evidence of large differences in labour market outcomes between survey participants and nonparticipants, differences which would not be observable to an analyst who only has access to the survey data. These differences persist even after correcting for observable characteristics. We then use the randomized incentives in our survey to directly test for nonresponse bias and find evidence of substantial bias. Next, we apply a range of existing methods that account for nonresponse bias and find they produce bounds (or point estimates) that are either wide or far from the ground truth. We investigate the failure of these methods by taking a closer look at the determinants of participation, finding that the composition of participants changes in opposite directions in response to incentives and reminder emails. We develop a model of participation that allows for two dimensions of unobserved heterogeneity in the participation decision. Applying the model to our data produces bounds (or point estimates) that are narrower and closer to the ground truth than the other methods. Our results highlight the benefits of including randomized participation incentives in surveys. Both the testing procedure and the methods for bias adjustment may be attractive tools for researchers who are able to embed randomized incentives into their survey.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3086</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3132</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdag003</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdag003</guid>
+    </item>
+    <item>
+      <title>Latent Heterogeneity in the Marginal Propensity to Consume</title>
+      <link>https://academic.oup.com/restud/article/93/5/3274/8489895?rss=1</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We estimate the unconditional distribution of the marginal propensity to consume (MPC) using clustering regression applied to the 2008 economic stimulus payments. By deviating from the standard approach of estimating MPC heterogeneity using interactions with observables, we can recover the full distribution of MPCs. We find households spent between 4 and 133% of the rebate within a quarter, and individual households used rebates for different goods. While many observable characteristics correlate individually with our estimated MPCs, most of these relationships disappear when tested jointly. Notable exceptions are income and the average propensity to consume, which correlate positively with the MPC. Household observable characteristics explain only 8% of MPC variation, highlighting the role of latent heterogeneity.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3274</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3302</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf102</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf102</guid>
+    </item>
+    <item>
+      <title>Education and the Margins of Cyclical Adjustment in the Labour Market</title>
+      <link>https://academic.oup.com/restud/article/93/5/3023/8442448?rss=1</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Allocative wages—the labour costs considered when deciding to form or dissolve a long-term employment relationship—are more sensitive to cyclical conditions for more educated workers. Specifically, college-educated workers’ allocative wages are highly pro-cyclical, while high school dropouts’ wages exhibit only moderate cyclicality. Further, as education increases, an increasing share of the sensitivity of allocative wages is driven by the persistent scarring effects of the cyclical position at the time of hiring on the wages associated with higher levels of tenure, amounting to more than a third of the overall sensitivity for the college educated. The greater job stability of the more educated—and therefore the exposure to scarring—contributes to these differences. In addition, more significant scarring at each horizon of tenure amplifies the effect. In service of documenting these facts, I develop new methods for inferring the sensitivity of labour costs to shocks when agents are forward-looking and wages may be intertemporally smoothed.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3023</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3053</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdag002</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdag002</guid>
+    </item>
+    <item>
+      <title>Patent Term, Innovation, and the Role of Technology Disclosure Externalities</title>
+      <link>https://academic.oup.com/restud/article/93/5/2912/8429481?rss=1</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;I examine the impact of patent term on R&amp;amp;D and innovation in the presence of policy anticipation, common in real-world settings. Using a difference-in-difference design, I exploit quasi-experimental variation in US patent term across technological fields due to the ratification of TRIPs agreements in 1995. Despite a general increase in &lt;span style="font-style:italic;"&gt;average&lt;/span&gt; patent term, in most fields innovators faced a considerable probability of patent term reduction for future innovations. Three key findings emerge: (1) R&amp;amp;D and innovation accelerate more in fields with a higher probability of patent term reduction, &lt;span style="font-style:italic;"&gt;i.e.&lt;/span&gt; a shorter average patent term extension, before implementation. (2) This heightened activity persists for at least 5 years postimplementation, driven by indirect effects where the news-related acceleration fosters further innovation through technological externalities linked to cumulative knowledge creation. (3) Conversely, the &lt;span style="font-style:italic;"&gt;direct&lt;/span&gt; effect of a shorter extension in patent term would stimulate relatively &lt;span style="font-style:italic;"&gt;less&lt;/span&gt; innovation, absent the indirect effects of anticipation.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">2912</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">2949</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdag005</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdag005</guid>
+    </item>
+    <item>
+      <title>The Illiquidity of Water Markets</title>
+      <link>https://academic.oup.com/restud/article/93/5/3054/8427442?rss=1</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We investigate the efficiency of a market relative to a non-market institution—an auction relative to a quota—as allocation mechanisms in the presence of frictions. We use data from water markets in southeastern Spain and explore a specific change in the institutions to allocate water. On the one hand, frictions arose because poor farmers were liquidity constrained. On the other hand, farmers who were part of the wealthy elite were not liquidity constrained. We estimate a structural dynamic demand model by taking advantage of the fact that water demand for both types of farmers is determined by the technological constraint imposed by the crop’s production function. This approach allows us to differentiate liquidity constraints from unobserved heterogeneity. We show that the institutional change from an auction to a quota increased total efficiency for the farmers considered. Welfare increased by 23.4 real pesetas per farmer per tree, a 6 % increase in total production relative to the market.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3054</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3085</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdag004</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdag004</guid>
+    </item>
+    <item>
+      <title>The Macroeconomics of Irreversibility</title>
+      <link>https://academic.oup.com/restud/article/93/5/2875/8424284?rss=1</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We study aggregate capital dynamics in an investment model with idiosyncratic productivity shocks, fixed capital adjustment costs, and irreversibility driven by a wedge between capital purchase and resale prices. We derive sufficient statistics that capture the role of investment frictions in aggregate capital fluctuations, measure these statistics using investment microdata, and exploit them to discipline the capital price wedge. Irreversibility doubles the persistence of capital fluctuations and is crucial for reconciling micro-level investment behaviour with macroeconomic propagation.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">2875</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">2911</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdag001</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdag001</guid>
+    </item>
+    <item>
+      <title>Markups Across Space and Time</title>
+      <link>https://academic.oup.com/restud/article/93/5/2847/8407380?rss=1</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In this article, we provide direct evidence on the behaviour of markups in the retail sector across space and time. Markups are measured using gross margins. We consider three levels of aggregation: the retail sector as a whole, the firm, and the product level. We find that: (1) markups are relatively stable over time and mildly procyclical; (2) there is a large regional dispersion in markups; (3) there is a positive cross-sectional correlation between local income and local markups; and (4) differences in markups across regions result from differences in the assortment of goods sold in different regions, not from deviations from uniform pricing. We propose a simple model consistent with these facts.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">2847</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">2874</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf098</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf098</guid>
+    </item>
+    <item>
+      <title>A Robust Test for Weak Instruments for 2SLS with Multiple Endogenous Regressors</title>
+      <link>https://academic.oup.com/restud/article/93/5/3303/8407128?rss=1</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We develop a test for instrument strength based on the bias of two-stage least squares (2SLS) that (1) generalizes Stock and Yogo’s and Sanderson and Windmeijer’s tests to be robust to heteroskedasticity and autocorrelation, and (2) extends Montiel Olea and Pflueger’s robust test for models with a single endogenous regressor to multiple endogenous regressors. Our test can be based either on an absolute bias criterion or on the 2SLS bias relative to a worst-case benchmark. We also develop extensions to test whether weak instruments cause bias in individual 2SLS coefficients. In simulations, our test controls size and is powerful, and we provide efficient code packages for its practical implementation. We demonstrate our testing procedures in the context of the estimation of state-dependent fiscal multipliers, following recent leading estimates.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3303</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3336</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf103</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf103</guid>
+    </item>
+    <item>
+      <title>The Economics of Equilibrium with Indivisible Goods</title>
+      <link>https://academic.oup.com/restud/article/93/5/3245/8407116?rss=1</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;This paper develops a theory of competitive equilibrium with indivisible goods based entirely on economic conditions on demand. The key idea is to analyze complementarity and substitutability between bundles of goods, rather than merely between goods themselves. This approach allows us to formulate sufficient and essentially necessary conditions for equilibrium existence—which unify settings with complements and settings with substitutes. Our analysis has implications for auction design.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3245</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3273</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf106</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf106</guid>
+    </item>
+    <item>
+      <title>Devaluations, Deposit Dollarization, and Household Heterogeneity</title>
+      <link>https://academic.oup.com/restud/article/93/5/3133/8404442?rss=1</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We study the aggregate and redistributive effects of currency devaluations in a small open economy model with leverage-constrained banks and heterogeneous households. Our framework captures three stylized facts about financial dollarization in emerging economies: (1) a sizable share of domestic deposits is denominated in foreign currency; (2) these deposits represent significant foreign currency liabilities for local banks; and (3) dollar deposits are mainly held by wealthier households. A devaluation increases the real burden of foreign currency debt, causing an erosion of banks’ net worth, which depresses credit supply and economic activity. While richer households are partially insulated through their dollar deposits, poorer households cut consumption sharply in response to rising borrowing costs and falling real labor income. In our model deposit, dollarization amplifies the contractionary effects of a devaluation on output, investment, and consumption, in line with new empirical evidence for emerging economies. To achieve this result, both constrained intermediaries and heterogeneous households are crucial. In our framework, regulating dollarization can result in widespread welfare gains, especially for poorer households.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3133</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3172</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf109</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf109</guid>
+    </item>
+    <item>
+      <title>Inflation Risk and the Finance-Growth Nexus</title>
+      <link>https://academic.oup.com/restud/article/93/5/2986/8404427?rss=1</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;When firms finance using long-term nominal debt issued by financial intermediaries, changes in expected inflation lead to a wealth transfer across sectors. Higher expected inflation decreases firms’ real liabilities and default risk, which helps reduce debt overhang. However, it hurts intermediaries’ real assets, leading to a contraction in credit supply. We theoretically demonstrate that intermediary financing conditions play a key role in the transmission of nominal shocks, influencing the premium investors require for bearing inflation risk. We provide empirical evidence supporting our novel inflation transmission mechanism and connect our findings to the banking stress of 2023. We also show that Taylor rules responding to both financial and real variables can help stabilise our economy.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">2986</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3022</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf108</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf108</guid>
+    </item>
+    <item>
+      <title>Bank Information Production Over the Business Cycle</title>
+      <link>https://academic.oup.com/restud/article/93/5/3209/8404305?rss=1</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;The information banks produce drives their lending decisions and macroeconomic outcomes, but this information is inherently difficult to analyse because it is private. We construct a novel measure of bank information quality from confidential regulatory data that include banks’ private risk assessments for US corporate loans. Information quality improves as local economic conditions deteriorate, particularly for new loans, large loans, and loans with higher expected losses. Information quality also declines during periods of rapid local house price appreciation. Our results provide empirical support for theories of countercyclical information production in credit markets.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3209</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3244</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf107</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf107</guid>
+    </item>
+    <item>
+      <title>Costly Multidimensional Screening</title>
+      <link>https://academic.oup.com/restud/article/93/5/3427/8404292?rss=1</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A screening instrument is &lt;span style="font-style:italic;"&gt;costly&lt;/span&gt; if it is socially wasteful and &lt;span style="font-style:italic;"&gt;productive&lt;/span&gt; otherwise. A principal screens an agent with multidimensional private information and quasilinear preferences that are additively separable across two components: a one-dimensional productive component and a multidimensional costly component. Can the principal improve upon simple one-dimensional mechanisms by also using the costly instruments? We show that if the agent has preferences between the two components that are positively correlated in a suitably defined sense, then simply screening the productive component is optimal. The result holds for general type and allocation spaces, and allows for nonlinear and interdependent valuations. We discuss applications to monopoly pricing, bundling, and labour market screening.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3427</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3461</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf105</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf105</guid>
+    </item>
+    <item>
+      <title>Bridges</title>
+      <link>https://academic.oup.com/restud/article/93/5/3394/8402958?rss=1</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;Bridges are critical but sparse links in land transport networks. I exploit quasi-experimental variation in bridge construction over major rivers in the U.S. to measure the causal effects of land transport infrastructure. Bridges are more often built upstream than downstream of tributary confluences—where smaller rivers join larger rivers—generating local differences in connectivity. Local connectivity advantages have negative effects on per capita income. In contrast, more substantial changes in connectivity arising from the opening of major bridges increase per capita economic activity. A narrative explanation that can reconcile both results is that land transport infrastructure creates productivity advantages that drive economic growth, structural transformation, and urbanization over large spatial scales, but local sorting within the cities that form around early transport routes then reverses this gradient over smaller spatial scales.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3394</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3426</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf104</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf104</guid>
+    </item>
+    <item>
+      <title>Choice and Opportunity Costs</title>
+      <link>https://academic.oup.com/restud/article/93/5/3372/8361829?rss=1</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We define the (physical) opportunity cost of a choice &lt;span style="font-style:italic;"&gt;x&lt;/span&gt; as the alternative that would be chosen if &lt;span style="font-style:italic;"&gt;x&lt;/span&gt; were not available, and the opportunity cost of any unchosen alternative as &lt;span style="font-style:italic;"&gt;x&lt;/span&gt; itself. The agent has preferences over pairs consisting of alternatives and their opportunity costs. Because costs affect choice and vice-versa, choice results from an intrapersonal &lt;span style="font-style:italic;"&gt;equilibrium&lt;/span&gt; rather than from simple maximisation. In spite of significant rationality assumptions, the resulting behaviour can be highly non-standard, allowing intransitive choices. Rational utility maximisation is ensured by an additional new consistency condition on preferences. However, we argue that the maximised utility cannot be straightforwardly interpreted as a welfare relevant “revealed preference”. A generalisation of our model accommodates additional departures from standard rationality in the form of menu effects.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3372</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3393</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf101</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf101</guid>
+    </item>
+    <item>
+      <title>Firm Quality Dynamics and the Slippery Slope of Credit Intervention</title>
+      <link>https://academic.oup.com/restud/article/93/5/3337/8349802?rss=1</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;A salient trend in crisis intervention has emerged in recent decades: government and central banks have offered funding directly to nonfinancial firms, bypassing banks and other credit intermediaries. We analyse the long-term consequences of such policies by focussing on firm quality dynamics. In a laissez-faire economy, firms with high productivity are more likely to survive crises than those with low productivity. The government funding support saves more firms but cannot be customized based on firm productivity, dampening the cleansing effect of crises. The policy distortion is self-perpetuating: a downward bias in the firm quality distribution necessitates larger interventions in future crises. Our mechanism is quantitatively important: we show that if policymakers ignore such distortionary effects on firm quality dynamics, the resultant credit intervention would almost double the optimal amount.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3337</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3371</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf100</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf100</guid>
+    </item>
+    <item>
+      <title>Life-Cycle Wages and Human Capital Investments: Selection and Missing Data</title>
+      <link>https://academic.oup.com/restud/article/93/5/3173/8328957?rss=1</link>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;We derive wage equations with individual-specific coefficients from a structural model of human capital investment over the life-cycle. This model allows for interruptions in labour market participation and deals with missing data and attrition problems. We propose a new framework that deals with missingness at random and is based on factor decompositions that allow for flexible control of selection. Our approach leads to an interactive effect wage specification, which we estimate using long administrative panel data on male wages in the private sector in France. A structural function approach shows that interruptions negatively affect average wages. Interestingly, they also negatively affect the inter-decile range of wages after twenty years. This is only partly due to the fact that interruptions are endogenous.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">3173</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">3208</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf099</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf099</guid>
+    </item>
+    <item>
+      <title>Diversification, Market Entry, and the Global Internet Backbone</title>
+      <link>https://academic.oup.com/restud/article/93/5/2950/8320390?rss=1</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+      <description>&lt;span class="paragraphSection"&gt;&lt;div class="boxTitle"&gt;Abstract&lt;/div&gt;In many industries, buyers diversify their supplier base to manage supplier disruption risk. We investigate the importance of such diversification as a determinant of demand and supplier entry in the context of the internet backbone, the worldwide network of undersea fibre-optic cables that underpins the internet. We specify a model of international bandwidth demand and cable operators’ dynamic entry and supply choices. The model is estimated using novel data on cross-border data flows, prices, cable characteristics, and disruptions. Counterfactual analysis reveals that supplier diversification accounts for a large share of entry and surplus created between 2005 and 2021. Relative to the socially optimal level of entry, distortions due to suppliers’ inability to capture fully the social benefits of diversity are as large as distortions due to business stealing.&lt;/span&gt;</description>
+      <prism:volume xmlns:prism="prism">93</prism:volume>
+      <prism:number xmlns:prism="prism">5</prism:number>
+      <prism:startingPage xmlns:prism="prism">2950</prism:startingPage>
+      <prism:endingPage xmlns:prism="prism">2985</prism:endingPage>
+      <prism:doi xmlns:prism="prism">10.1093/restud/rdaf097</prism:doi>
+      <guid>http://doi.org/10.1093/restud/rdaf097</guid>
+    </item>
+  </channel>
+</rss>

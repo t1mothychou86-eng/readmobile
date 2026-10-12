@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "papercart"
+version = "0.0.0"
+description = "PaperCart metadata aggregator skeleton"
+requires-python = ">=3.10"
+dependencies = ["httpx>=0.28,<0.29", "feedparser>=6,<7", "pyyaml>=6,<7"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10", "respx>=0.22,<0.24"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+markers = ["live: opt-in network checks (LIVE_TEST=1); never write to Zotero"]

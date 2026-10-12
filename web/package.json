@@ -1,0 +1,22 @@
+{
+  "name": "papercart-web",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run --passWithNoTests"
+  },
+  "dependencies": {
+    "idb-keyval": "^6.2.2",
+    "preact": "^10.27.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.2",
+    "typescript": "^5.9.0",
+    "vite": "^7.1.0",
+    "vite-plugin-pwa": "^1.0.3",
+    "vitest": "^4.1.11"
+  }
+}

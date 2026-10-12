@@ -1,0 +1,157 @@
+{
+  "nber": {
+    "checked_at": "2026-10-12T17:15:49.315304+00:00",
+    "url": "https://api.crossref.org/prefixes/10.3386/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:51 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-nber.json",
+    "count": 25,
+    "dois": [
+      "10.3386/w35864",
+      "10.3386/w35870",
+      "10.3386/w35856",
+      "10.3386/w35874",
+      "10.3386/w35866",
+      "10.3386/w35873",
+      "10.3386/w35865",
+      "10.3386/w35788",
+      "10.3386/w35800",
+      "10.3386/w35847",
+      "10.3386/w35861",
+      "10.3386/w35835",
+      "10.3386/w35854",
+      "10.3386/w35844",
+      "10.3386/w35837",
+      "10.3386/w35853",
+      "10.3386/w35869",
+      "10.3386/w35859",
+      "10.3386/w35871",
+      "10.3386/w35839",
+      "10.3386/w35845",
+      "10.3386/w35841",
+      "10.3386/w35851",
+      "10.3386/w35868",
+      "10.3386/w35850"
+    ],
+    "publishers": [
+      "National Bureau of Economic Research"
+    ]
+  },
+  "feds": {
+    "checked_at": "2026-10-12T17:15:52.022437+00:00",
+    "url": "https://api.crossref.org/prefixes/10.17016/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:52 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-feds.json",
+    "count": 25,
+    "dois": [
+      "10.17016/8799.1",
+      "10.17016/2380-7172.4178",
+      "10.17016/2380-7172.4191",
+      "10.17016/feds.2026.068",
+      "10.17016/2380-7172.4184",
+      "10.17016/feds.2016.085r1",
+      "10.17016/feds.2025.089r1",
+      "10.17016/feds.2025.061r1",
+      "10.17016/feds.2026.062",
+      "10.17016/2380-7172.4155",
+      "10.17016/feds.2026.066",
+      "10.17016/feds.2026.064",
+      "10.17016/feds.2026.061",
+      "10.17016/ifdp.2026.1446",
+      "10.17016/2380-7172.4156",
+      "10.17016/2380-7172.4158",
+      "10.17016/2380-7172.4147",
+      "10.17016/feds.2026.065",
+      "10.17016/2380-7172.4157",
+      "10.17016/ifdp.2026.1444",
+      "10.17016/2380-7172.4174",
+      "10.17016/2380-7172.4076",
+      "10.17016/2380-7172.4150",
+      "10.17016/2380-7172.4171",
+      "10.17016/feds.2026.067"
+    ],
+    "publishers": [
+      "Board of Governors of the Federal Reserve System"
+    ]
+  },
+  "ecta": {
+    "checked_at": "2026-10-12T17:15:53.727359+00:00",
+    "url": "https://api.crossref.org/journals/0012-9682",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:54 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-journal-ecta.json",
+    "title": "Econometrica",
+    "issns": [
+      "0012-9682",
+      "1468-0262"
+    ],
+    "total_dois": null
+  },
+  "ecta-online": {
+    "checked_at": "2026-10-12T17:15:55.294996+00:00",
+    "url": "https://api.crossref.org/journals/1468-0262",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:55 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-journal-ecta-online.json",
+    "title": "Econometrica",
+    "issns": [
+      "0012-9682",
+      "1468-0262"
+    ],
+    "total_dois": null
+  },
+  "jfe-online": {
+    "checked_at": "2026-10-12T17:15:56.793504+00:00",
+    "url": "https://api.crossref.org/journals/1879-2773",
+    "status": 404,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:57 GMT",
+      "content-type": "text/plain",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    }
+  },
+  "rfs-rss": {
+    "checked_at": "2026-10-12T17:15:58.340650+00:00",
+    "url": "https://academic.oup.com/rss/site_5511/3372.xml",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:16:00 GMT",
+      "content-type": "text/xml",
+      "access-control-allow-origin": "https://academic.oup.com",
+      "access-control-allow-headers": "accept, cache-control, content-type, authorization",
+      "access-control-allow-methods": "GET, POST, PUT, DELETE, OPTIONS"
+    },
+    "fixture": "rss-rfs-correct.xml",
+    "count": 8,
+    "valid": true,
+    "feed_title": "The Review of Financial Studies Current Issue",
+    "summaries": 8
+  }
+}

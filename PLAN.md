@@ -104,11 +104,25 @@
 - **设置页**：调用 `GET /keys/current` 校验 Key 是否有写权限并取得 userID，再用 `GET /users/{id}/collections` 列出集合供用户选择。
 - 字段名以 `GET https://api.zotero.org/items/new?itemType=…` 返回的模板为准，M0 时拉取并存为 fixture。
 
+### 1.4 M0 之后的决策（2026-10-13，依据见 `docs/SPIKES.md`）
+
+| # | 问题 | 决策 |
+|---|---|---|
+| D1 | M0 验证中发现的限制 | 接受，作为 M0 结论记录并提交 |
+| D2 | JPE、JFE 两种渠道都没有摘要 | MVP 先只显示书目信息，前端标明“无摘要”。M2 再实测 OpenAlex、Semantic Scholar 两个只读元数据 API 能补回多少摘要（只用 httpx，**不抓出版商网页**），覆盖率有意义才接入 |
+| D3 | ECTA 在 Crossref 的采样窗口为空 | 以 RSS 为主来源（摘要取自 `content:encoded`），Crossref 为辅。M1 顺带查明窗口为空的原因，例如 type 过滤或日期字段，写入 SPIKES.md |
+| D4 | RSS 摘要所在字段不统一 | 解析器同时支持 `description` 和 `content:encoded`，按 `sources.yaml` 中的 `abstract_location` 选择 |
+| D5 | BFI 没有合格的工作论文 feed | MVP 中停用（`status: disabled`），保留配置条目以后再议 |
+| D6 | ECB 条目的链接直接指向 PDF | 允许 `url` 字段为开放获取的 PDF 链接，只用于用户点击后在 Safari 中打开；聚合器和前端**都不请求**这个 URL |
+| D7 | Crossref 前缀查询会混入其他系列 | NBER 只保留 `10.3386/w<数字>`，FEDS 只保留 `10.17016/feds.` 开头的 DOI |
+| D8 | Crossref 的 `mailto` | 用用户的账号邮箱，通过环境变量 `CROSSREF_MAILTO` 注入：本地放在 shell 环境，CI 放在 GitHub Secret。**仓库里不写入** |
+
 ---
 
 ## 2. 里程碑（Codex 按顺序推进，每完成一项就勾选并写一行说明）
 
-- [ ] **M0 骨架与技术验证**
+- [x] **M0 骨架与技术验证**
+  - 完成：建立 Python/Web 骨架并录制 CORS、模板、逐源响应及摘要统计；pytest/Vitest 空套件、Web 构建和 npm ci 通过。按 D1–D8 接受限制，ECTA 以 RSS 为主、BFI 停用，详情见 `docs/SPIKES.md`。
   - **仓库骨架**：`aggregator/`（pyproject、src 布局、pytest）、`web/`（Vite + Preact + TS + Vitest）、根目录 `README.md`、`.gitignore`。
   - **验证项**，结果写入 `docs/SPIKES.md`：
     1. 用 `curl -i -X OPTIONS` 模拟预检请求（`Origin` 设为 `https://example.github.io`，`Access-Control-Request-Method: POST`，`Access-Control-Request-Headers: zotero-api-key,zotero-api-version,zotero-write-token,content-type`），确认 api.zotero.org 是否允许跨域写入；对 `GET /keys/current` 也做同样检查。
@@ -141,8 +155,8 @@
 
 | 事项 | 何时需要 |
 |---|---|
-| Crossref 请求用的 `mailto` 邮箱（会出现在发给 Crossref 的请求里） | M0 起；在此之前先用占位符 |
-| 如果 Zotero 不允许跨域：是否用 Cloudflare Worker 中转 | M0 结论出来后 |
+| ~~Crossref `mailto`~~ | 已决定：使用账号邮箱，通过环境变量注入（见 D8） |
+| ~~如果 Zotero 不允许跨域，是否用 Worker 中转~~ | 不需要：M0 实测 CORS 可行 |
 | GitHub 账号，以及新建公开仓库（私有仓库启用 Pages 需要付费套餐） | M5 |
 | Zotero API Key（勾选写权限）、目标集合（建议叫 `00 Inbox`） | M6，只在手机上输入 |
 

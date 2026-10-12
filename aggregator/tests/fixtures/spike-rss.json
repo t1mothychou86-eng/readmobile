@@ -1,0 +1,294 @@
+{
+  "aer": {
+    "checked_at": "2026-10-12T17:14:51.490679+00:00",
+    "url": "https://www.aeaweb.org/journals/aer/rss",
+    "status": 404,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:53 GMT",
+      "content-type": "text/html; charset=UTF-8"
+    }
+  },
+  "qje": {
+    "checked_at": "2026-10-12T17:14:54.842328+00:00",
+    "url": "https://academic.oup.com/rss/site_5504/3365.xml",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:57 GMT",
+      "content-type": "text/xml",
+      "access-control-allow-origin": "https://academic.oup.com",
+      "access-control-allow-headers": "accept, cache-control, content-type, authorization",
+      "access-control-allow-methods": "GET, POST, PUT, DELETE, OPTIONS"
+    },
+    "fixture": "rss-qje.xml",
+    "count": 15,
+    "feed_title": "The Quarterly Journal of Economics Current Issue",
+    "summaries": 15,
+    "valid": true,
+    "entry_titles": [
+      "Retrieval Failures and Consumption Smoothing: A Field Experiment on Seasonal Poverty*",
+      "Busing to Opportunity? The Impacts of the Metco Voluntary School Desegregation Program on Urban Students of Color",
+      "Bringing Work Home: Flexible Work Arrangements as Gateway Jobs for Women in West Bengal*"
+    ],
+    "sample_links": [
+      "https://academic.oup.com/qje/article/141/4/2735/8859066?rss=1",
+      "https://academic.oup.com/qje/article/141/4/3331/8836709?rss=1",
+      "https://academic.oup.com/qje/article/141/4/3037/8825393?rss=1"
+    ]
+  },
+  "jpe": {
+    "checked_at": "2026-10-12T17:14:58.197991+00:00",
+    "url": "https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:00 GMT",
+      "content-type": "application/xml;charset=UTF-8"
+    },
+    "fixture": "rss-jpe.xml",
+    "count": 19,
+    "feed_title": "The University of Chicago Press: Journal of Political Economy: Table of Contents",
+    "summaries": 19,
+    "valid": true,
+    "entry_titles": [
+      "From Doubt to Devotion: Trials and\n                                                  Learning-Based Pricing",
+      "Markups: A Search-Theoretic\n                                                  Perspective",
+      "Optimal Tests Following Sequential\n                                                  Experiments"
+    ],
+    "sample_links": [
+      "https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R",
+      "https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R",
+      "https://www.journals.uchicago.edu/doi/abs/10.1086/742418?af=R"
+    ]
+  },
+  "ecta": {
+    "checked_at": "2026-10-12T17:15:00.896994+00:00",
+    "url": "https://onlinelibrary.wiley.com/feed/14680262/most-recent",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:02 GMT",
+      "content-type": "application/xml;charset=UTF-8"
+    },
+    "fixture": "rss-ecta.xml",
+    "count": 14,
+    "feed_title": "Wiley: Econometrica: Table of Contents",
+    "summaries": 14,
+    "valid": true,
+    "entry_titles": [
+      "Backmatter of Econometrica Vol. 94 Iss. 5",
+      "Frontmatter of Econometrica 94 Iss. 5",
+      "Locally Robust Semiparametrically Efficient Bayesian Inference"
+    ],
+    "sample_links": [
+      "https://onlinelibrary.wiley.com/doi/10.3982/ECTA945BM?af=R",
+      "https://onlinelibrary.wiley.com/doi/10.3982/ECTA945FM?af=R",
+      "https://onlinelibrary.wiley.com/doi/10.3982/ECTA23242?af=R"
+    ]
+  },
+  "res": {
+    "checked_at": "2026-10-12T17:15:03.829568+00:00",
+    "url": "https://academic.oup.com/rss/site_5508/3369.xml",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:08 GMT",
+      "content-type": "text/xml",
+      "access-control-allow-origin": "https://academic.oup.com",
+      "access-control-allow-headers": "accept, cache-control, content-type, authorization",
+      "access-control-allow-methods": "GET, POST, PUT, DELETE, OPTIONS"
+    },
+    "fixture": "rss-res.xml",
+    "count": 18,
+    "feed_title": "The Review of Economic Studies Current Issue",
+    "summaries": 18,
+    "valid": true,
+    "entry_titles": [
+      "Selection in Surveys: Using Randomized Incentives to Detect and Account for Nonresponse Bias",
+      "Latent Heterogeneity in the Marginal Propensity to Consume",
+      "Education and the Margins of Cyclical Adjustment in the Labour Market"
+    ],
+    "sample_links": [
+      "https://academic.oup.com/restud/article/93/5/3086/8494738?rss=1",
+      "https://academic.oup.com/restud/article/93/5/3274/8489895?rss=1",
+      "https://academic.oup.com/restud/article/93/5/3023/8442448?rss=1"
+    ]
+  },
+  "jf": {
+    "checked_at": "2026-10-12T17:15:09.896422+00:00",
+    "url": "https://onlinelibrary.wiley.com/feed/15406261/most-recent",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:12 GMT",
+      "content-type": "application/xml;charset=UTF-8"
+    },
+    "fixture": "rss-jf.xml",
+    "count": 37,
+    "feed_title": "Wiley: The Journal of Finance: Table of Contents",
+    "summaries": 37,
+    "valid": true,
+    "entry_titles": [
+      "Generative AI and Firm Values",
+      "Feedback and Contagion through Distressed Competition",
+      "The Financial Premium"
+    ],
+    "sample_links": [
+      "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R",
+      "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R",
+      "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R"
+    ]
+  },
+  "jfe": {
+    "checked_at": "2026-10-12T17:15:13.620475+00:00",
+    "url": "https://rss.sciencedirect.com/publication/science/0304405X",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:15 GMT",
+      "content-type": "application/rss+xml"
+    },
+    "fixture": "rss-jfe.xml",
+    "count": 32,
+    "feed_title": "ScienceDirect Publication: Journal of Financial Economics",
+    "summaries": 32,
+    "valid": true,
+    "entry_titles": [
+      "Heterogeneous beliefs, asset prices, and business cycles",
+      "Chronologically consistent large language models",
+      "The decline of branch banking"
+    ],
+    "sample_links": [
+      "https://www.sciencedirect.com/science/article/pii/S0304405X26001534?dgcid=rss_sd_all",
+      "https://www.sciencedirect.com/science/article/pii/S0304405X26001455?dgcid=rss_sd_all",
+      "https://www.sciencedirect.com/science/article/pii/S0304405X26001546?dgcid=rss_sd_all"
+    ]
+  },
+  "rfs": {
+    "checked_at": "2026-10-12T17:15:16.221364+00:00",
+    "url": "https://academic.oup.com/rfs/rss/recent.xml",
+    "status": 404,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:17 GMT",
+      "content-type": "text/html; charset=utf-8",
+      "access-control-allow-origin": "https://academic.oup.com",
+      "access-control-allow-headers": "accept, cache-control, content-type, authorization",
+      "access-control-allow-methods": "GET, POST, PUT, DELETE, OPTIONS"
+    }
+  },
+  "nber": {
+    "checked_at": "2026-10-12T17:15:19.013836+00:00",
+    "url": "https://back.nber.org/rss/new.xml",
+    "status": 200,
+    "headers": {
+      "access-control-allow-credentials": "true",
+      "content-type": "application/xml",
+      "date": "Mon, 12 Oct 2026 17:15:20 GMT"
+    },
+    "fixture": "rss-nber.xml",
+    "count": 22,
+    "feed_title": "National Bureau of Economic Research Working Papers",
+    "summaries": 22,
+    "valid": true,
+    "entry_titles": [
+      "Survival versus Scale: The Effects of Critical Access Hospital Designation -- by Ian McCarthy, Katie Leinenbach",
+      "Indirect Variational Inference: Applications to Earnings Dynamics -- by Neele L. Balke, Stéphane Bonhomme, Thibaut Lamadon",
+      "When Does Randomized Oversight Align AI Agents That Can Conceal? -- by Joshua S. Gans, Richard T. Holden"
+    ],
+    "sample_links": [
+      "https://www.nber.org/papers/w35876#fromrss",
+      "https://www.nber.org/papers/w35877#fromrss",
+      "https://www.nber.org/papers/w35878#fromrss"
+    ]
+  },
+  "feds": {
+    "checked_at": "2026-10-12T17:15:21.732857+00:00",
+    "url": "https://www.federalreserve.gov/feeds/feds.xml",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:22 GMT",
+      "content-type": "text/xml"
+    },
+    "fixture": "rss-feds.xml",
+    "count": 15,
+    "feed_title": "FRB: Finance and Economics Discussion Series Working Papers",
+    "summaries": 15,
+    "valid": true,
+    "entry_titles": [
+      "FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?",
+      "FEDS Paper: Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity",
+      "FEDS Paper: How Did CECL Affect Bank Lending?"
+    ],
+    "sample_links": [
+      "https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm",
+      "https://www.federalreserve.gov/econres/feds/measuring-and-projecting-us-investment-in-semiconductor-manufacturing-capacity.htm",
+      "https://www.federalreserve.gov/econres/feds/how-did-cecl-affect-bank-lending.htm"
+    ]
+  },
+  "ecb": {
+    "checked_at": "2026-10-12T17:15:23.782752+00:00",
+    "url": "https://www.ecb.europa.eu/rss/wppub.html",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:15:25 GMT",
+      "content-type": "application/rss+xml"
+    },
+    "fixture": "rss-ecb.xml",
+    "count": 15,
+    "feed_title": "ECB - European Central Bank",
+    "summaries": 15,
+    "valid": true,
+    "entry_titles": [
+      "Fiscal integration as a Pareto improvement",
+      "Does shareholder diversification enhance firm investment resilience? Evidence from the euro area",
+      "Monitoring banks’ vulnerabilities using stressed depletion indices"
+    ],
+    "sample_links": [
+      "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3297~601502aed4.en.pdf",
+      "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3296~db309862b0.en.pdf",
+      "https://www.ecb.europa.eu//pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf"
+    ]
+  },
+  "bis": {
+    "checked_at": "2026-10-12T17:15:26.676190+00:00",
+    "url": "https://www.bis.org/doclist/wppubls.rss",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 14:30:04 GMT",
+      "content-type": "application/rss+xml; charset=utf-8"
+    },
+    "fixture": "rss-bis.xml",
+    "count": 25,
+    "feed_title": "BIS working papers - english",
+    "summaries": 25,
+    "valid": true,
+    "entry_titles": [
+      "Transformative AI and demand bottlenecks",
+      "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
+      "Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios"
+    ],
+    "sample_links": [
+      "https://www.bis.org/publications/working-paper-1381-transformative-ai-and-demand-bottlenecks",
+      "https://www.bis.org/publications/working-paper-1380-chasing-el-dorado-gold-under-shifting-geopolitical-and-financial-condition",
+      "https://www.bis.org/publications/working-paper-1379-unraveling-cobweb-global-imbalances-drivers-vulnerabilities-and-adjustment-scenarios"
+    ]
+  },
+  "bfi": {
+    "checked_at": "2026-10-12T17:15:32.001411+00:00",
+    "url": "https://bfi.uchicago.edu/feed/?post_type=working-paper",
+    "status": 200,
+    "headers": {
+      "content-type": "application/rss+xml; charset=UTF-8",
+      "date": "Mon, 12 Oct 2026 17:15:35 GMT"
+    },
+    "fixture": "rss-bfi.xml",
+    "count": 7,
+    "feed_title": "Becker Friedman Institute",
+    "summaries": 7,
+    "valid": true,
+    "entry_titles": [
+      "Protected:",
+      "The Surgeon Shuffle: How Moving Doctors Across Hospitals Can Save Lives",
+      "Research Fellow (Latin America), DIL"
+    ],
+    "sample_links": [
+      "https://bfi.uchicago.edu/2024/11/21/59482/",
+      "https://bfi.uchicago.edu/2024/08/01/the-surgeon-shuffle-how-moving-doctors-across-hospitals-can-save-lives/",
+      "https://bfi.uchicago.edu/research-fellow-latin-america-dil/"
+    ]
+  }
+}

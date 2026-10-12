@@ -1,0 +1,357 @@
+{
+  "aer:0002-8282": {
+    "checked_at": "2026-10-12T17:14:15.085800+00:00",
+    "url": "https://api.crossref.org/journals/0002-8282/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:17 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-aer-0002-8282.json",
+    "count": 25,
+    "abstracts": 23,
+    "journals": [
+      "American Economic Review"
+    ],
+    "issns": [
+      "0002-8282",
+      "1944-7981"
+    ]
+  },
+  "aer:1944-7981": {
+    "checked_at": "2026-10-12T17:14:18.728457+00:00",
+    "url": "https://api.crossref.org/journals/1944-7981/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:19 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-aer-1944-7981.json",
+    "count": 25,
+    "abstracts": 23,
+    "journals": [
+      "American Economic Review"
+    ],
+    "issns": [
+      "0002-8282",
+      "1944-7981"
+    ]
+  },
+  "qje:0033-5533": {
+    "checked_at": "2026-10-12T17:14:20.739951+00:00",
+    "url": "https://api.crossref.org/journals/0033-5533/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:21 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-qje-0033-5533.json",
+    "count": 19,
+    "abstracts": 18,
+    "journals": [
+      "The Quarterly Journal of Economics"
+    ],
+    "issns": [
+      "0033-5533",
+      "1531-4650"
+    ]
+  },
+  "qje:1531-4650": {
+    "checked_at": "2026-10-12T17:14:22.313124+00:00",
+    "url": "https://api.crossref.org/journals/1531-4650/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:23 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-qje-1531-4650.json",
+    "count": 19,
+    "abstracts": 18,
+    "journals": [
+      "The Quarterly Journal of Economics"
+    ],
+    "issns": [
+      "0033-5533",
+      "1531-4650"
+    ]
+  },
+  "jpe:0022-3808": {
+    "checked_at": "2026-10-12T17:14:23.991298+00:00",
+    "url": "https://api.crossref.org/journals/0022-3808/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:24 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-jpe-0022-3808.json",
+    "count": 25,
+    "abstracts": 0,
+    "journals": [
+      "Journal of Political Economy"
+    ],
+    "issns": [
+      "0022-3808",
+      "1537-534X"
+    ]
+  },
+  "jpe:1537-534X": {
+    "checked_at": "2026-10-12T17:14:25.581827+00:00",
+    "url": "https://api.crossref.org/journals/1537-534X/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:26 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-jpe-1537-534X.json",
+    "count": 25,
+    "abstracts": 0,
+    "journals": [
+      "Journal of Political Economy"
+    ],
+    "issns": [
+      "0022-3808",
+      "1537-534X"
+    ]
+  },
+  "ecta:0012-9682": {
+    "checked_at": "2026-10-12T17:14:27.332600+00:00",
+    "url": "https://api.crossref.org/journals/0012-9682/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:28 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-ecta-0012-9682.json",
+    "count": 0,
+    "abstracts": 0,
+    "journals": [],
+    "issns": []
+  },
+  "ecta:1468-0262": {
+    "checked_at": "2026-10-12T17:14:29.224389+00:00",
+    "url": "https://api.crossref.org/journals/1468-0262/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:29 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-ecta-1468-0262.json",
+    "count": 0,
+    "abstracts": 0,
+    "journals": [],
+    "issns": []
+  },
+  "res:0034-6527": {
+    "checked_at": "2026-10-12T17:14:30.755999+00:00",
+    "url": "https://api.crossref.org/journals/0034-6527/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:31 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-res-0034-6527.json",
+    "count": 25,
+    "abstracts": 25,
+    "journals": [
+      "Review of Economic Studies"
+    ],
+    "issns": [
+      "0034-6527",
+      "1467-937X"
+    ]
+  },
+  "res:1467-937X": {
+    "checked_at": "2026-10-12T17:14:32.572113+00:00",
+    "url": "https://api.crossref.org/journals/1467-937X/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:33 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-res-1467-937X.json",
+    "count": 25,
+    "abstracts": 25,
+    "journals": [
+      "Review of Economic Studies"
+    ],
+    "issns": [
+      "0034-6527",
+      "1467-937X"
+    ]
+  },
+  "jf:0022-1082": {
+    "checked_at": "2026-10-12T17:14:34.506965+00:00",
+    "url": "https://api.crossref.org/journals/0022-1082/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:35 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-jf-0022-1082.json",
+    "count": 25,
+    "abstracts": 22,
+    "journals": [
+      "The Journal of Finance"
+    ],
+    "issns": [
+      "0022-1082",
+      "1540-6261"
+    ]
+  },
+  "jf:1540-6261": {
+    "checked_at": "2026-10-12T17:14:36.124437+00:00",
+    "url": "https://api.crossref.org/journals/1540-6261/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:36 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-jf-1540-6261.json",
+    "count": 25,
+    "abstracts": 22,
+    "journals": [
+      "The Journal of Finance"
+    ],
+    "issns": [
+      "0022-1082",
+      "1540-6261"
+    ]
+  },
+  "jfe:0304-405X": {
+    "checked_at": "2026-10-12T17:14:38.268365+00:00",
+    "url": "https://api.crossref.org/journals/0304-405X/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:39 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-jfe-0304-405X.json",
+    "count": 25,
+    "abstracts": 0,
+    "journals": [
+      "Journal of Financial Economics"
+    ],
+    "issns": [
+      "0304-405X"
+    ]
+  },
+  "jfe:1879-2773": {
+    "checked_at": "2026-10-12T17:14:40.802672+00:00",
+    "url": "https://api.crossref.org/journals/1879-2773/works",
+    "status": 404,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:41 GMT",
+      "content-type": "application/json;charset=utf-8",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    }
+  },
+  "rfs:0893-9454": {
+    "checked_at": "2026-10-12T17:14:42.375301+00:00",
+    "url": "https://api.crossref.org/journals/0893-9454/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:43 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-rfs-0893-9454.json",
+    "count": 25,
+    "abstracts": 25,
+    "journals": [
+      "The Review of Financial Studies"
+    ],
+    "issns": [
+      "0893-9454",
+      "1465-7368"
+    ]
+  },
+  "rfs:1465-7368": {
+    "checked_at": "2026-10-12T17:14:44.994225+00:00",
+    "url": "https://api.crossref.org/journals/1465-7368/works",
+    "status": 200,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:46 GMT",
+      "content-type": "application/json",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    },
+    "fixture": "crossref-rfs-1465-7368.json",
+    "count": 25,
+    "abstracts": 25,
+    "journals": [
+      "The Review of Financial Studies"
+    ],
+    "issns": [
+      "0893-9454",
+      "1465-7368"
+    ]
+  },
+  "nber": {
+    "checked_at": "2026-10-12T17:14:47.217825+00:00",
+    "url": "https://api.crossref.org/prefixes/10.3386/works",
+    "status": 400,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:48 GMT",
+      "content-type": "application/json;charset=utf-8",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    }
+  },
+  "feds": {
+    "checked_at": "2026-10-12T17:14:48.939228+00:00",
+    "url": "https://api.crossref.org/prefixes/10.17016/works",
+    "status": 400,
+    "headers": {
+      "date": "Mon, 12 Oct 2026 17:14:49 GMT",
+      "content-type": "application/json;charset=utf-8",
+      "access-control-expose-headers": "Link",
+      "access-control-allow-headers": "X-Requested-With, Accept, Accept-Encoding, Accept-Charset, Accept-Language, Accept-Ranges, Cache-Control",
+      "access-control-allow-origin": "*"
+    }
+  }
+}

@@ -1,0 +1,263 @@
+# M0 observations only; status=passed means endpoint/identity verified, not runtime implemented.
+# verified is the Asia/Singapore verification date; null means not verified.
+# checked records an attempt, including failures. Candidate values are not usable endpoints.
+schema: 1
+sources:
+- id: aer
+  name: American Economic Review
+  short: AER
+  group: econ-top5
+  kind: journal
+  verified: '2026-10-13'
+  status: limited
+  crossref:
+    issn: 0002-8282
+    verified: '2026-10-13'
+    status: passed
+    evidence: crossref-aer-0002-8282.json
+    online_issn: 1944-7981
+  rss:
+    url: null
+    verified: null
+    checked: '2026-10-13'
+    status: failed
+    candidate_url: https://www.aeaweb.org/journals/aer/rss
+    reason: Candidate HTTP 404; no official journal eTOC feed confirmed. AEA Research
+      Highlights is not an AER eTOC feed.
+- id: qje
+  name: The Quarterly Journal of Economics
+  short: QJE
+  group: econ-top5
+  kind: journal
+  verified: '2026-10-13'
+  status: passed
+  crossref:
+    issn: 0033-5533
+    verified: '2026-10-13'
+    status: passed
+    evidence: crossref-qje-0033-5533.json
+    online_issn: 1531-4650
+  rss:
+    url: https://academic.oup.com/rss/site_5504/3365.xml
+    verified: '2026-10-13'
+    status: passed
+    evidence: rss-qje.xml
+    abstract_location: description
+- id: jpe
+  name: Journal of Political Economy
+  short: JPE
+  group: econ-top5
+  kind: journal
+  verified: '2026-10-13'
+  status: limited
+  crossref:
+    issn: 0022-3808
+    verified: '2026-10-13'
+    status: passed
+    evidence: crossref-jpe-0022-3808.json
+    online_issn: 1537-534X
+  rss:
+    url: https://www.journals.uchicago.edu/action/showFeed?type=etoc&feed=rss&jc=jpe
+    verified: '2026-10-13'
+    status: passed
+    evidence: rss-jpe.xml
+    abstract_location: null
+    reason: Valid journal feed, but descriptions/content contain bibliographic metadata
+      only, no paper abstracts.
+- id: ecta
+  primary: rss
+  name: Econometrica
+  short: ECTA
+  group: econ-top5
+  kind: journal
+  verified: '2026-10-13'
+  status: limited
+  crossref:
+    issn: 0012-9682
+    verified: '2026-10-13'
+    status: no_recent_items
+    evidence: crossref-journal-ecta.json
+    reason: Both ISSNs identify Econometrica, but the 2026-06-15 onward works samples
+      contain zero items.
+    online_issn: 1468-0262
+  rss:
+    url: https://onlinelibrary.wiley.com/feed/14680262/most-recent
+    verified: '2026-10-13'
+    status: passed
+    evidence: rss-ecta.xml
+    abstract_location: content:encoded
+    reason: Abstracts are in content:encoded; description alone only contains bibliographic
+      metadata.
+- id: res
+  name: The Review of Economic Studies
+  short: RES
+  group: econ-top5
+  kind: journal
+  verified: '2026-10-13'
+  status: passed
+  crossref:
+    issn: 0034-6527
+    verified: '2026-10-13'
+    status: passed
+    evidence: crossref-res-0034-6527.json
+    online_issn: 1467-937X
+  rss:
+    url: https://academic.oup.com/rss/site_5508/3369.xml
+    verified: '2026-10-13'
+    status: passed
+    evidence: rss-res.xml
+    abstract_location: description
+- id: jf
+  name: The Journal of Finance
+  short: JF
+  group: finance
+  kind: journal
+  verified: '2026-10-13'
+  status: passed
+  crossref:
+    issn: 0022-1082
+    verified: '2026-10-13'
+    status: passed
+    evidence: crossref-jf-0022-1082.json
+    online_issn: 1540-6261
+  rss:
+    url: https://onlinelibrary.wiley.com/feed/15406261/most-recent
+    verified: '2026-10-13'
+    status: passed
+    evidence: rss-jf.xml
+    abstract_location: content:encoded
+    reason: Abstracts are in content:encoded; description alone only contains bibliographic
+      metadata.
+- id: jfe
+  name: Journal of Financial Economics
+  short: JFE
+  group: finance
+  kind: journal
+  verified: '2026-10-13'
+  status: limited
+  crossref:
+    issn: 0304-405X
+    verified: '2026-10-13'
+    status: passed
+    evidence: crossref-jfe-0304-405X.json
+    rejected_candidates:
+    - issn: 1879-2773
+      verified: null
+      checked: '2026-10-13'
+      reason: Crossref journal and works endpoints both return HTTP 404; this does
+        not prove the ISSN itself invalid.
+  rss:
+    url: https://rss.sciencedirect.com/publication/science/0304405X
+    verified: '2026-10-13'
+    status: passed
+    evidence: rss-jfe.xml
+    abstract_location: null
+    reason: Valid journal feed, but descriptions/content contain bibliographic metadata
+      only, no paper abstracts.
+- id: rfs
+  name: The Review of Financial Studies
+  short: RFS
+  group: finance
+  kind: journal
+  verified: '2026-10-13'
+  status: passed
+  crossref:
+    issn: 0893-9454
+    verified: '2026-10-13'
+    status: passed
+    evidence: crossref-rfs-0893-9454.json
+    online_issn: 1465-7368
+  rss:
+    url: https://academic.oup.com/rss/site_5511/3372.xml
+    verified: '2026-10-13'
+    status: passed
+    evidence: rss-rfs-correct.xml
+    abstract_location: description
+- id: nber
+  name: National Bureau of Economic Research
+  short: NBER
+  group: working-paper
+  kind: working-paper
+  verified: '2026-10-13'
+  status: passed
+  crossref:
+    prefix: '10.3386'
+    verified: '2026-10-13'
+    doi_pattern: ^10\.3386/w[0-9]+$
+    evidence: crossref-nber.json
+    reason: Use /w<number> working-paper suffixes; the prefix is not itself a series
+      filter.
+  rss:
+    url: https://back.nber.org/rss/new.xml
+    verified: '2026-10-13'
+    status: passed
+    abstract_location: description
+    evidence: rss-nber.xml
+- id: feds
+  name: Finance and Economics Discussion Series
+  short: FEDS
+  group: working-paper
+  kind: working-paper
+  verified: '2026-10-13'
+  status: passed
+  crossref:
+    prefix: '10.17016'
+    verified: '2026-10-13'
+    doi_pattern: ^10\.17016/feds\.
+    evidence: crossref-feds.json
+    reason: Prefix is shared; restrict to working-paper DOI suffixes. FEDS sample
+      matches 10 of 25 items.
+  rss:
+    url: https://www.federalreserve.gov/feeds/feds.xml
+    verified: '2026-10-13'
+    status: passed
+    abstract_location: description
+    evidence: rss-feds.xml
+- id: ecb
+  name: European Central Bank Working Papers
+  short: ECB WP
+  group: working-paper
+  kind: working-paper
+  verified: '2026-10-13'
+  status: passed
+  rss:
+    url: https://www.ecb.europa.eu/rss/wppub.html
+    verified: '2026-10-13'
+    checked: '2026-10-13'
+    status: passed
+    evidence: rss-ecb.xml
+    abstract_location: description
+    reason: D6 permits storing this open-access PDF link for user clicks only;
+      programs must never request it.
+- id: bis
+  name: BIS Working Papers
+  short: BIS WP
+  group: working-paper
+  kind: working-paper
+  verified: '2026-10-13'
+  status: passed
+  rss:
+    url: https://www.bis.org/doclist/wppubls.rss
+    verified: '2026-10-13'
+    checked: '2026-10-13'
+    status: passed
+    evidence: rss-bis.xml
+    abstract_location: description
+- id: bfi
+  primary: rss
+  name: Becker Friedman Institute Working Papers
+  short: BFI WP
+  group: working-paper
+  kind: working-paper
+  verified: null
+  status: disabled
+  rss:
+    url: null
+    verified: null
+    checked: '2026-10-13'
+    status: failed
+    evidence: rss-bfi.xml
+    candidate_url: https://bfi.uchicago.edu/feed/?post_type=working-paper
+    reason: HTTP 200 and parseable RSS, but entries are protected posts, news and
+      jobs, not a working-paper series; query appears ineffective. No suitable official
+      WP RSS confirmed.
