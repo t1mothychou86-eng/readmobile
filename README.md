@@ -3,7 +3,7 @@
 文献购物车：定时聚合元数据，供 iPhone PWA 浏览，并把选中的条目加入 Zotero。
 完整范围和里程碑见 [PLAN.md](PLAN.md)，工作约定见 [AGENTS.md](AGENTS.md)。
 
-目前完成 M0–M4：元数据聚合、Zotero 映射，以及中文移动端 PWA（信息流、购物车、设置、IndexedDB 和离线缓存）。CI/CD 与真机联调留给 M5/M6。
+目前完成 M0–M4，以及 M5 的工作流和本地验证：元数据聚合、Zotero 映射、中文移动端 PWA 和 CI/CD 配置。真实 GitHub Pages 部署待公开仓库创建后验证，真机联调留给 M6。
 技术验证、失败原因和需要用户决定的事项见 [docs/SPIKES.md](docs/SPIKES.md)。
 
 ## Python（≥3.10）
@@ -39,6 +39,38 @@ Vitest 使用 mock fetch 和 mock IndexedDB 适配器，默认不访问网络。
 页面支持 `#feed`、`#cart`、`#settings`。存储或 feed 初始化失败/超时会显示明确错误并提供重试；本地存储不可用时可以浏览，无法保存设置或加购。
 Key 在设置页输入并校验，集合默认选 `00 Inbox`（若存在）。Key、集合、标签、筛选、已读、购物车、写入批次及冷却时间均存于本机 IndexedDB。
 写入未确认时重试沿用原正文和 Token；412 需先在 Zotero 核对，界面阻止重发。真实 Key 校验及写入仅供后续真机联调，本次测试没有调用授权接口。
+
+## GitHub Actions / Pages 部署（M5）
+
+1. 创建公开 GitHub 仓库，由协调方审查并推送代码到默认分支（这里不执行提交或推送）。
+2. 在 **Settings → Secrets and variables → Actions → Secrets** 新建仓库 Secret `CROSSREF_MAILTO`，填写用于 Crossref 的联系邮箱。不要写进仓库、日志或 workflow 文件。未设置时聚合器会警告并使用 `papercart@example.invalid`。
+3. 在 **Settings → Pages → Build and deployment** 把 **Source** 设为 **GitHub Actions**。
+4. 在 **Actions → Publish → Run workflow** 选择默认分支，手动触发首次发布。成功后从 `github-pages` environment 的链接打开站点。
+5. 如需自定义恢复地址，在 **Settings → Secrets and variables → Actions → Variables** 设置 `SITE_URL` 为站点根地址（例如 `https://example.github.io/papercart`，不要附加 `/data/state.json`）。未设置时使用官方 `configure-pages` 的 `base_url`，支持项目子路径、用户主页仓库和已配置的自定义域名。URL 必须为 HTTPS；切换域名前可先指定旧站点地址恢复历史 state。
+
+`test.yml` 在 push 和 pull_request 时运行 Python 3.12 的离线 pytest，以及 Node 24 的 `npm ci`、Vitest 和生产构建。pip/npm 缓存分别按 `aggregator/pyproject.toml` 和 `web/package-lock.json` 失效。
+`publish.yml` 每天 UTC 00:17、06:17、12:17、18:17 运行，也可手动触发；同一仓库的 Pages 发布串行执行，不取消进行中的发布。计划任务使用默认分支；第一次启用前必须先推送 workflow 并完成上述 Pages 设置。
+
+发布步骤为：配置 Pages → 用 curl 恢复已发布的 `data/state.json` → 聚合生成 feed/state → 发布校验 → 安装依赖并构建 Web → 再校验构建产物 → 官方 Pages artifact 上传/部署。
+state 与 feed 同批发布，包含公开文献元数据、first_seen、摘要及 Semantic Scholar 缓存/冷却时间；前端不读取 state，Service Worker 也不缓存它。下载失败（包括首次部署、404、连接失败或超时）删除临时内容并从空 state 开始；成功下载但损坏的 state 会导致构建失败，避免静默重置历史。
+state 使用字段白名单，并检查原始 JSON 中的个人邮箱、编码邮箱和请求凭据，确认安全后才允许上传；仅允许脱敏占位地址。请勿向 state 添加请求头、邮箱、账号配置或密钥。
+单源抓取失败会在 feed 的源状态/错误字段中记录，其余来源及已有 state 历史仍可发布；总条数为 0、schema 错误或敏感信息检查失败时，workflow 在上传前失败，保持线上站点。
+
+本地模拟（最后不上传或部署；可将输出路径放在临时 Web 副本中）：
+
+```bash
+SITE_URL=https://example.github.io/papercart bash scripts/restore-state.sh web/public/data/state.json
+aggregator/.venv/bin/python -m papercart.build --out web/public/data/feed.json --state web/public/data/state.json
+aggregator/.venv/bin/python -m papercart.publish_check --feed web/public/data/feed.json --state web/public/data/state.json
+cd web
+npm ci
+npm run build
+cd ..
+aggregator/.venv/bin/python -m papercart.publish_check --feed web/dist/data/feed.json --state web/dist/data/state.json
+```
+
+`feed.json` 与 `state.json` 均为生成文件，已被 git 忽略。公开仓库尚未创建，因此实际 Actions、Pages URL、跨部署 state 恢复仍待首次真实部署验收；M6 真机测试没有在本阶段进行。
+官方 action 的 URL 输出与权限配置见 [configure-pages](https://github.com/actions/configure-pages) 和 [deploy-pages](https://github.com/actions/deploy-pages)。
 
 ## 重现 M0 网络采样
 
@@ -102,7 +134,7 @@ Semantic Scholar 补回 NBER/JPE 的缺失摘要（可用 --no-enrich 关闭）�
 OpenAlex 暂不接入；后续可用性验证/接入需要用户决定是否申请免费 API key，以免依赖本机已经耗尽的匿名共享 IP 预算。政策和覆盖率见 SPIKES.md。
 
 唯一运行状态文件默认 aggregator/state/state.json（git 忽略），可通过 --state 指定。paper 记录和 S2 缓存/冷却都在该文件中；不再写独立 abstracts.json。
-首次使用默认 state 时，会导入已有的旧 S2 缓存，成功保存新 state/feed 后删除旧缓存文件。state 损坏时失败，不静默清空首次发现时间。M5 再处理 CI 中的持久化。
+首次使用默认 state 时，会导入已有的旧 S2 缓存，成功保存新 state/feed 后删除旧缓存文件。state 损坏时失败，不静默清空首次发现时间。CI 持久化方式见下方部署说明。
 
 ```bash
 aggregator/.venv/bin/python -m papercart.build --out web/public/data/feed.json \

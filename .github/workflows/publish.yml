@@ -1,0 +1,65 @@
+name: Publish
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: aggregator/pyproject.toml
+      - run: python -m pip install -e './aggregator[test]'
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v6
+      - name: Restore published state
+        env:
+          SITE_URL: ${{ vars.SITE_URL || steps.pages.outputs.base_url }}
+        run: bash scripts/restore-state.sh web/public/data/state.json
+      - name: Aggregate metadata
+        env:
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+        run: python -m papercart.build --out web/public/data/feed.json --state web/public/data/state.json
+      - name: Check publication data
+        run: python -m papercart.publish_check --feed web/public/data/feed.json --state web/public/data/state.json
+      - run: npm ci
+        working-directory: web
+      - run: npm run build
+        working-directory: web
+      - name: Check built publication data
+        run: python -m papercart.publish_check --feed web/dist/data/feed.json --state web/dist/data/state.json
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: web/dist
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

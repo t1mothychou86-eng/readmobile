@@ -12,3 +12,4 @@ aggregator/state/
 .env.*
 !.env.example
 web/public/data/feed.json
+web/public/data/state.json

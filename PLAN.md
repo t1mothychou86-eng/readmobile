@@ -160,9 +160,12 @@
   - manifest、图标、Service Worker 缓存 feed；
   - Vitest：Zotero client 的写入 Token 复用、退避逻辑、结果解析（mock 掉 fetch）。
 - [ ] **M5 CI/CD**：GitHub Actions 包括两个 workflow：
-  - `test.yml`：每次 push 时跑 pytest 和 vitest；
-  - `publish.yml`：cron 每 6 小时一次，外加手动触发；依次执行聚合、`npm run build`，然后部署到 GitHub Pages。
-  - **前置条件**：需要用户先创建 GitHub 仓库。
+  - [x] `test.yml`：push / pull_request 跑 Python 3.12 pytest，以及 Node 24 的 npm ci、Vitest、build；pip/npm 使用依赖文件缓存。
+  - [x] `publish.yml`：每 6 小时（UTC 分钟 17）及手动触发，恢复 state → 聚合 → 校验 → Web 构建 → 校验产物 → 官方 Pages 上传/部署；Secret 注入 mailto，最小权限及串行部署已配置。
+  - [x] state 随站点发布为 data/state.json，从 SITE_URL 或 Pages base_url 恢复，下载失败从空 state 开始；原始 state 敏感信息/字段白名单校验和回归测试完成，前端及 SW 不读取/缓存 state。
+  - [x] 单源失败可继续发布；空 feed、schema 错误或敏感 state 会阻止上传，README 已写明部署步骤。
+  - [x] 本地工作流校验与无部署模拟：actionlint 1.7.12 通过，真实 curl 下载失败回退后从空 state 聚合 586 条；源数据/构建产物校验、npm ci、36 项 Vitest、Web build 均通过，218 项 Python 离线测试（含 17 项发布回归）通过，本地 Python 3.10 / CI 配置 3.12。S2 429 按既有冷却处理，不影响产出；未请求 PDF/全文或 Zotero 写入，未提交。
+  - [ ] 真实部署与跨部署 state 恢复验收：待用户创建公开仓库、设置 Secret/Pages 后由协调方推送并手动触发。M5 总项保留未完成，不开始 M6。
 - [ ] **M6 真机与国内访问**：在 iPhone 上添加到主屏幕，走通“刷新 → 加购 → 电脑端出现条目”；如果 GitHub Pages 在国内访问不稳定，就评估 Cloudflare Pages 或其他托管方式，结论交给用户决定。
 - [ ] **M7（可选）**：远端去重（在 Zotero 中按 DOI 查询）；增加 JFQA、RF 等源；关键词高亮。
 
