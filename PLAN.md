@@ -1,0 +1,157 @@
+# PaperCart：iOS 文献“购物车”（路线 A：PWA + 定时聚合）
+
+> 目标链路：iPhone 刷最新标题和摘要 → 一键加入购物车 → 电脑端 Zotero 指定文件夹自动出现条目 → 回到电脑上，在校园网或 WebVPN 下用“查找可用 PDF”拿全文精读。
+> 实施由 Codex 推进，约定见 [AGENTS.md](AGENTS.md)。不需要 Mac，也不需要 Apple 开发者账号。
+
+---
+
+## 0. 范围
+
+**MVP 包含**
+- 定时抓取期刊和工作论文，生成静态 `feed.json`；
+- PWA 信息流（按来源筛选、已读状态、离线缓存）；
+- 一键把条目写入 Zotero 指定集合；
+- 点标题后用 Safari 打开原文页。
+
+**MVP 不包含**
+- 机构认证；
+- PDF 下载或上传；
+- 推送通知；
+- 多用户。
+
+---
+
+## 1. 架构
+
+```
+┌──── GitHub Actions（cron，每 6 小时一次，Linux）──────────────────┐
+│ aggregator/（Python ≥3.10）                                         │
+│   sources.yaml ──► CrossrefFetcher（按 ISSN 或 DOI 前缀）           │
+│                └─► RSSFetcher（feedparser）                         │
+│   ──► normalize（统一 Paper 模型，去 JATS 标签，过滤非论文条目）    │
+│   ──► dedupe（以 DOI 为主，其次规范化 URL）──► zotero_map           │
+│   ──► web/public/data/feed.json（保留最近 120 天）                  │
+│ web/（Vite + Preact + TS + vite-plugin-pwa）build ──► 静态站点部署  │
+└─────────────────────────────────────────────────────────────────────┘
+                 │ HTTPS 静态文件
+┌──── iPhone Safari →“添加到主屏幕” ──────────────────────────────────┐
+│ 读取 feed.json → 信息流 → 点“加购”                                  │
+│   → 在 zotero 字段的基础上补上 collections 和 tags                  │
+│   → 浏览器直接 POST 到 api.zotero.org（如果 CORS 不通，走 Worker 中转）│
+│ API Key、目标集合、已读和购物车状态全部存在 IndexedDB，只留在本机    │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**设计原则**
+- **元数据转换只在 Python 端做一次**：聚合器直接输出 Zotero item JSON（不含 collections），前端只负责“补上集合，然后 POST”。这样字段映射集中在一处，可以用 pytest 做快照测试。
+- **整个仓库不含任何密钥**：Zotero Key 只在手机设置页里输入；CI 只需要 Crossref 的 `mailto`，而且它不是机密。
+- **配置外置**：`sources.yaml` 里每个源都带 `verified: YYYY-MM-DD` 字段。
+
+### 1.1 `feed.json` 结构（schema 版本 1）
+
+```json
+{
+  "schema": 1,
+  "generated_at": "2026-10-13T06:00:00Z",
+  "sources": [{"id": "jf", "name": "Journal of Finance", "short": "JF", "group": "finance", "kind": "journal"}],
+  "papers": [{
+    "id": "doi:10.1111/jofi.xxxxx",
+    "doi": "10.1111/jofi.xxxxx",
+    "source": "jf",
+    "kind": "journalArticle",
+    "title": "...",
+    "authors": [{"given": "...", "family": "..."}],
+    "abstract": "纯文本或 null",
+    "published": "2026-10-01",
+    "url": "https://doi.org/10.1111/jofi.xxxxx",
+    "wp_number": null,
+    "zotero": {"itemType": "journalArticle", "title": "...", "creators": [], "...": "..."}
+  }]
+}
+```
+
+`group` 字段的取值为 `econ-top5`、`finance`、`working-paper`。
+
+### 1.2 数据源策略
+
+| 来源 | 策略 | 说明 |
+|---|---|---|
+| AER、QJE、JPE、ECTA、RES、JF、JFE、RFS | Crossref `/journals/{ISSN}/works`，参数为 `filter=from-pub-date:…,type:journal-article`、`sort=published`、`mailto=…` | 过滤掉 front matter、勘误、编辑报告、致审稿人名单等条目 |
+| 期刊摘要缺失时 | 用出版商 eTOC RSS 的 description 补全，按 DOI 匹配 | 实测各家的覆盖率 |
+| NBER、FEDS | 优先用 Crossref 的 `/prefixes/{prefix}/works`，其次用官方 RSS | DOI 前缀需要实测确认 |
+| ECB WP、BIS WP、BFI WP | 官方 RSS | 没有 DOI 时用规范化 URL 作为 id |
+
+**候选 ISSN（print/online），使用前必须实测：**
+
+| 期刊 | ISSN |
+|---|---|
+| AER | 0002-8282 / 1944-7981 |
+| QJE | 0033-5533 / 1531-4650 |
+| JPE | 0022-3808 / 1537-534X |
+| ECTA | 0012-9682 / 1468-0262 |
+| RES | 0034-6527 / 1467-937X |
+| JF | 0022-1082 / 1540-6261 |
+| JFE | 0304-405X / 1879-2773 |
+| RFS | 0893-9454 / 1465-7368 |
+
+### 1.3 Zotero 映射与写入
+
+- **期刊论文**：`itemType` 为 `journalArticle`，包含 `title`、`creators`（`creatorType: author`）、`abstractNote`、`publicationTitle`、`journalAbbreviation`、`volume`、`issue`、`pages`、`date`、`DOI`、`ISSN`、`url`。
+- **工作论文**：`itemType` 为 `report`，并设置 `reportType: "Working Paper"`、`institution`（例如 National Bureau of Economic Research）、`reportNumber`、`seriesTitle`。
+- **写入接口**：`POST https://api.zotero.org/users/{userID}/items`，请求头带 `Zotero-API-Key`、`Zotero-API-Version: 3`、`Zotero-Write-Token`（32 位十六进制随机串，重试时复用同一个）。
+- **结果解析**：检查响应中的 `successful`、`unchanged`、`failed` 三项。
+- **限流**：遵守 `Backoff` 和 `Retry-After` 响应头，遇到 429 或 503 时做指数退避，最多重试 3 次。
+- **设置页**：调用 `GET /keys/current` 校验 Key 是否有写权限并取得 userID，再用 `GET /users/{id}/collections` 列出集合供用户选择。
+- 字段名以 `GET https://api.zotero.org/items/new?itemType=…` 返回的模板为准，M0 时拉取并存为 fixture。
+
+---
+
+## 2. 里程碑（Codex 按顺序推进，每完成一项就勾选并写一行说明）
+
+- [ ] **M0 骨架与技术验证**
+  - **仓库骨架**：`aggregator/`（pyproject、src 布局、pytest）、`web/`（Vite + Preact + TS + Vitest）、根目录 `README.md`、`.gitignore`。
+  - **验证项**，结果写入 `docs/SPIKES.md`：
+    1. 用 `curl -i -X OPTIONS` 模拟预检请求（`Origin` 设为 `https://example.github.io`，`Access-Control-Request-Method: POST`，`Access-Control-Request-Headers: zotero-api-key,zotero-api-version,zotero-write-token,content-type`），确认 api.zotero.org 是否允许跨域写入；对 `GET /keys/current` 也做同样检查。
+    2. 确认 api.crossref.org 是否返回 CORS 头（仅作记录，前端并不直接调用 Crossref）。
+    3. 逐个实测 8 本期刊的 ISSN、NBER 和 FEDS 的 DOI 前缀，以及各工作论文 RSS 和期刊 eTOC RSS 的 URL，写入 `aggregator/sources.yaml`，并标注 `verified` 日期。
+    4. 按 1.2 的参数抓取期刊样本，统计各期刊返回的摘要条数，写入 `SPIKES.md`。
+    5. 拉取 `journalArticle` 和 `report` 两种条目模板，存为 fixture。
+  - **验收**：`SPIKES.md` 对每一项都给出明确结论；两边的空测试都能跑通。
+  - **CORS 判定**：如果 Zotero 不允许跨域，**停下来报告**，由用户决定是否改走 Cloudflare Worker 中转。
+- [ ] **M1 Crossref 抓取**：实现 fetcher、normalize、非论文过滤和 JATS 标签清理；用录制的 fixture 做单元测试。
+- [ ] **M2 RSS 抓取与合并**：实现 RSS fetcher、URL 规范化、以 DOI 优先的去重、摘要回填；输出 `feed.json` 并按 schema 校验。
+  - 命令行入口：`python -m papercart.build --out web/public/data/feed.json`。
+- [ ] **M3 Zotero 映射**：实现 `zotero_map`，对每种来源各做一条快照测试，并断言产出的字段名都在 M0 拉取的模板字段集合内。
+- [ ] **M4 PWA 界面**：
+  - 信息流：按 group 和来源筛选，未读优先，点击展开摘要；
+  - 加购：每条一个按钮，状态依次为“未加购 → 写入中 → 已入库 / 失败可重试”；
+  - 购物车页；设置页（输入 Key 并校验、选择集合、可选默认标签）；
+  - manifest、图标、Service Worker 缓存 feed；
+  - Vitest：Zotero client 的写入 Token 复用、退避逻辑、结果解析（mock 掉 fetch）。
+- [ ] **M5 CI/CD**：GitHub Actions 包括两个 workflow：
+  - `test.yml`：每次 push 时跑 pytest 和 vitest；
+  - `publish.yml`：cron 每 6 小时一次，外加手动触发；依次执行聚合、`npm run build`，然后部署到 GitHub Pages。
+  - **前置条件**：需要用户先创建 GitHub 仓库。
+- [ ] **M6 真机与国内访问**：在 iPhone 上添加到主屏幕，走通“刷新 → 加购 → 电脑端出现条目”；如果 GitHub Pages 在国内访问不稳定，就评估 Cloudflare Pages 或其他托管方式，结论交给用户决定。
+- [ ] **M7（可选）**：远端去重（在 Zotero 中按 DOI 查询）；增加 JFQA、RF 等源；关键词高亮。
+
+---
+
+## 3. 需要用户提供或决定的事项
+
+| 事项 | 何时需要 |
+|---|---|
+| Crossref 请求用的 `mailto` 邮箱（会出现在发给 Crossref 的请求里） | M0 起；在此之前先用占位符 |
+| 如果 Zotero 不允许跨域：是否用 Cloudflare Worker 中转 | M0 结论出来后 |
+| GitHub 账号，以及新建公开仓库（私有仓库启用 Pages 需要付费套餐） | M5 |
+| Zotero API Key（勾选写权限）、目标集合（建议叫 `00 Inbox`） | M6，只在手机上输入 |
+
+## 4. 风险与合规
+
+- 只抓取元数据，**不抓全文、不批量下载 PDF**。全文都在电脑端由用户逐篇手动获取。
+- Crossref 请求要带 `mailto`，频率控制在每 6 小时一次，每个源分页上限 2 页。
+- RSS 和 API 的格式会变化：CI 中如果某个源失败，只把该源标记为不可用，不影响其他源的产出，并且在 `feed.json` 中记录失败原因。
+
+## 5. 以后的扩展
+
+PWA 不够用时，可以改走原生路线：TestFlight 加云端 macOS 编译（需要付费开发者账号）。`sources.yaml`、`feed.json` 和 Zotero 映射都可以直接复用。
