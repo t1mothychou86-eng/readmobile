@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>FRB: Finance and Economics Discussion Series Working Papers</title>
+        <link><![CDATA[https://www.federalreserve.gov/feeds/feeds.htm]]></link>
+        <description><![CDATA[Staff working papers in the Finance and Economics Discussion Series (FEDS) are preliminary materials circulated to stimulate discussion and critical comment. The analysis and conclusions set forth are those of the authors and do not indicate concurrence by other members of the research staff or the Board of Governors. References in publications to the Finance and Economics Discussion Series (other than acknowledgment) should be cleared with the author(s) to protect the tentative character of these papers.]]></description>
+        <language>en</language>
+        
+        <item>
+            <title>FEDS Paper: Bells and Whistles of Nowcasting Models: Which Matter and When?</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/bells-and-whistles-of-nowcasting-models-which-matter-and-when.htm]]></guid>
+            <description><![CDATA[Freddy Garc&iacute;a-Alb&aacute;n and <a href="https://www.federalreserve.gov/econres/manuel-p-gonzalez-astudillo.htm">Manuel Gonz&aacute;lez-Astudillo</a><br><br>This paper investigates which features of a Bayesian dynamic factor model improve U.S. GDP nowcasts and whether their contribution varies across historical episodes. Using pseudo-real-time information sets for 25 series, we estimate 16 combinations of dynamic heterogeneity, stochastic volatility, time-varying long-run growth, and a multiplicative outlier adjustment. We evaluate their marginal contributions to point, density, and quantile score forecasts using balanced paired factorial contrasts. Dynamic heterogeneity improves point, density, and tail forecasts, and it is the only feature that helps consistently across all three criteria. Stochastic volatility improves density and tail forecasts in some periods but not point forecasts consistently. Time-varying long-run growth lowers squared-error loss in some periods but worsens tail forecasts. The outlier adjustment does not improve point or density forecasts overall, has favorable but imprecisely estimated effects on upper-tail quantile scores during the pandemic, and worsens those scores afterward.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Fri, 2 Oct 2026 18:16:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/measuring-and-projecting-us-investment-in-semiconductor-manufacturing-capacity.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/measuring-and-projecting-us-investment-in-semiconductor-manufacturing-capacity.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/david-m-byrne.htm">David M. Byrne</a>, <a href="https://www.federalreserve.gov/econres/robert-j-kurtzman.htm">Robert Kurtzman</a>, and Heidi L. Williams<br><br>We consider official and alternative data sources for measuring and projecting the role of U.S. manufacturing in the global semiconductor manufacturing industry. We find that the government sources we consider face significant limitations for tracking semiconductor fab investment in real time: they use industry and product categories that are too broad, and come with substantial publication lags. We then analyze project-level alternative data from Semiconductor Equipment and Materials International (SEMI), which provides quarterly tracking of individual fab projects with greater timeliness and specificity. Comparing SEMI data with official statistics through 2023, we find broad consistency in investment levels, validating SEMI as a credible supplement to official statistics. This work provides both a practical guide for tracking real-time trends in semiconductor manufacturing and a case study in synthesizing government and alternative data sources.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Tue, 29 Sep 2026 13:35:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: How Did CECL Affect Bank Lending?</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/how-did-cecl-affect-bank-lending.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/how-did-cecl-affect-bank-lending.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/ben-ranish.htm">Ben Ranish</a>&nbsp;and <a href="https://www.federalreserve.gov/econres/cindy-m-vojtech.htm">Cindy M. Vojtech</a><br><br>Adoption of the current expected credit losses (CECL) methodology for loan loss provisioning significantly altered how banks recognize loan losses in their capital calculations. Because capital is a more costly funding source for banks, the accounting change affects banks&#39; cost of funding loans. Using variation in the timing and effect of CECL implementation across firms and loan types, this paper finds that loan loss allowances have a similar causal effect on credit supply as capital requirements. Within our sample, the effect of CECL adoption on loan allowances reduced loan growth by approximately 77 basis points annually in the years following adoption. We find no significant effect of CECL on capital distributions.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Fri, 25 Sep 2026 19:00:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Beyond Financial Conditions: Measuring Structural Vulnerabilities in the U.S. Financial System</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/beyond-financial-conditions-measuring-structural-vulnerabilities-in-the-us-financial-system.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/beyond-financial-conditions-measuring-structural-vulnerabilities-in-the-us-financial-system.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/michele-modugno.htm">Michele Modugno</a>, Benjamin Roscoe, <a href="https://www.federalreserve.gov/econres/sarah-zoi.htm">Sarah Zoi</a><br><br>We introduce the Financial Vulnerability Index (FVI), a novel indicator of financial vulnerabilities in the U.S. Unlike financial condition indices, which measure current credit market conditions and spike during periods of financial turmoil, the FVI displays the gradual build-up of structural financial weaknesses and declines as such episodes materialize. We demonstrate that the FVI exhibits properties consistent with theoretical mechanisms of financial vulnerabilities. When the index is high, adverse shocks are substantially amplified, generating larger declines in consumption and investment. We provide new empirical evidence that monetary tightening is associated with gradual declines in the FVI, with this effect substantially delayed, taking a few years to fully materialize. Moreover, monetary policy transmission to prices depends on the state of financial vulnerabilities, with significantly stronger effects when vulnerabilities are low.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Mon, 21 Sep 2026 19:15:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Optimal Pooling in Taylor Rule Estimation with Multiple-Horizon Forecast Panels</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/optimal-pooling-in-taylor-rule-estimation-with-multiple-horizon-forecast-panels.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/optimal-pooling-in-taylor-rule-estimation-with-multiple-horizon-forecast-panels.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/edward-p-herbst.htm">Edward Herbst</a> and Karen Page<br><br>Multiple-horizon forecast panels are increasingly used to infer perceived monetary policy rules, but inference depends on how coefficients are pooled across forecasters, dates, and horizons. We treat this pooling structure as the object of inference. In a participant-date-horizon Taylor-rule regression model, we compare pooling patterns using Bayesian marginal likelihoods, applying the framework to the Blue Chip Financial Forecasts, Survey of Professional Forecasters, and the Summary of Economic Projections. The preferred specifications place much of the systematic variation in policy-rate forecasts in intercepts that vary across forecast horizons and survey dates. Evidence of "changing perceptions" of monetary policy via economically meaningful time-varying response coefficients is weak overall.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Fri, 18 Sep 2026 20:10:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Premiums or Peril</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/premiums-or-peril.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/premiums-or-peril.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/erik-a-heitfield.htm">Erik Heitfield</a>, Mallick Hossain, and Katie Merritt<br><br>Using fine-grained data on 465,000 Florida home sales over twelve years and semiparametric machine learning methods, we examine how home prices respond to weather-related risk factors. After controlling for geography, home characteristics, and transaction features, we find that home prices are negatively related to property-level expected weather losses derived from catastrophe models, insurance premiums, and exposure to recent hurricanes, but with notably different magnitudes. Expected weather losses show the strongest association with prices and are consistent with markets rationally capitalizing anticipated future losses into current property valuations. Insurance premiums have a statistically significant but economically more modest negative effect on home prices, suggesting that housing market participants may view premium differences across properties as more transitory. Recent hurricane exposure has only a marginal effect on house prices, suggesting that hurricane risk is well-understood in Florida so that realized weather events convey little new information about future losses.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Fri, 18 Sep 2026 13:30:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: The Flight to Affordability: Effects of Pandemic Rent Increases on Renters By Geography</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/the-flight-to-affordability-effects-of-pandemic-rent-increases-on-renters-by-geography.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/the-flight-to-affordability-effects-of-pandemic-rent-increases-on-renters-by-geography.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/erin-troland.htm">Erin Troland</a>, Isabella Agnes, <a href="https://www.federalreserve.gov/econres/jessica-c-liu.htm">Jessica Liu</a>, Fatimah Shalaan, Michelle Tran, and <a href="https://www.federalreserve.gov/econres/douglas-a-webber.htm">Douglas Webber</a><br><br>In the pandemic era, people moved from high-density, expensive areas to more affordable areas, putting upward pressure on local housing prices. We examine the geographic distribution of rent growth during this time and its effects on renters. We use administrative new lease data from RealPage and household-level data on rent and income from the American Community Survey. We analyze rents and incomes using Public Use Microdata Areas grouped in two ways: by prepandemic rent levels and by pre-pandemic rent-to-income ratios. Rents grew more in areas with lower pre-pandemic rents but not in areas with lower rent-to-income ratios, consistent with higher-income remote workers moving away from high rent areas to more affordable areas. Lower-income households experienced larger increases in rent relative to their income compared to the median renter. However, area-level rent-to-income ratios reflect both compositional changes in renter populations from mobility and changes in local rents. We highlight the need for future work to track affordability for the same households over time to fully understand pandemic era affordability trends.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Thu, 3 Sep 2026 15:00:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Linear and Nonlinear Econometric Models versus Machine-Learning Models: Evidence from Realized-Volatility Forecasting(Revised)</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/linear-and-nonlinear-econometric-models-against-machine-learning-models.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/linear-and-nonlinear-econometric-models-against-machine-learning-models.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/rehim-kilic.htm">Rehim Kilic</a><br><br>This paper examines which representations of persistence and nonlinearity are most useful for forecasting realized volatility and whether machine learning adds value beyond econometric models designed for long memory and regime dependence. We compare HAR, ARFIMA, threshold HAR, smooth-transition HAR, and Markov-switching HAR with XGBoost and several neural-network models for the S&amp;P 500 and 40 U.S. equities. Models are evaluated under a baseline information set using realized-volatility history and an extended set of predictors selected by Elastic Net. Forecast performance is assessed using MSFE, MAE, QLIKE, Model Confidence Sets, Diebold&#8211;Mariano tests, realized utility, and filtered-historical-simulation VaR and expected shortfall. The results reveal a robust horizon-dependent ranking: Markov-switching HAR performs best at short horizons, ARFIMA generally leads at the monthly horizon, and the five-day horizon is intermediate. Machine-learning models sometimes improve on HAR but do not systematically outperform the broader econometric set. These findings are robust across estimation windows, re-estimation frequencies, richer information sets, log-volatility targets, and individual equities; stock-level results are also robust to an alternative realized-volatility measure. Overall, forecast performance depends primarily on capturing the persistence and nonlinear dynamics most relevant at each horizon.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Wed, 2 Sep 2026 15:30:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Risks and Uncertainty in Monetary Policy</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/risks-and-uncertainty-in-monetary-policy.htm]]></guid>
+            <description><![CDATA[Tobias Adrian, Domenico Giannone, <a href="https://www.federalreserve.gov/econres/matteo-luciani.htm">Matteo Luciani</a>, and Mike West<br><br>Central banks monitor macroeconomic risk through two traditions: scenario analysis, regularly used since the mid-1990s, and distributional forecasting, practiced since the late 1960s. The two are complementary but separate: scenarios provide narratives without probabilities, while predictive distributions provide probabilities with limited economic interpretation. Treating baseline forecasts and scenarios as conditional predictive densities, and distributional forecasts as reference predictive distributions, places both within a common framework and clarifies their roles. The Scenario Synthesis assigns weights to scenarios consistent with the reference distribution, offering a practical and reproducible tool for risk assessment and policy deliberation under deep uncertainty.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Tue, 1 Sep 2026 19:56:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: United States of U-Star</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/united-states-of-u-star.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/united-states-of-u-star.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/hie-joo-ahn.htm">Hie Joo Ahn</a> and <a href="https://www.federalreserve.gov/econres/jeremy-rudd.htm">Jeremy Rudd</a><br><br>This paper estimates state-level trend unemployment rates (trend U-star) based on the trend components of unemployment inflows and outflows across unemployment durations. The estimated trend U-stars, particularly the portions attributable to long-termunemployment, have levels and dynamics that vary substantially across states. Long-termunemployment makes a relatively small contribution to trend U-star in agricultural states, but takes a larger share for Rust Belt states and several states in the Sun Belt. While higher educational attainment and population aging put downward pressure on U-star, the effects of industrial structure and labor-market rigidities are mixed. Using the estimates of state-level trend U-star, we revisit previous work on state-level Phillips curves and find that the estimated slopes of forward-looking inflation equations are driven bymovements in trend U-star rather than by cyclical variation in the unemployment rate.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Mon, 31 Aug 2026 17:31:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Characterizing the Conditional Pricing Kernel: A New Approach</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/characterizing-the-conditional-pricing-kernel-a-new-approach.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/hyung-joo-kim.htm">Hyung Joo Kim</a><br><br>I propose a novel method to reliably estimate the conditional pricing kernel by incorporating conditioning variables. The VIX and the term spread are most informative variables for identifying state prices. The conditional kernel estimate exhibits significant time variation: the more favorable market expectations, the higher state prices in negative return states. During bad times, the equity premium implied by the conditional kernel is fully attributable to compensation for left-tail scenarios, in contrast to findings from the unconditional kernel. Lastly, the conditional kernel estimate yields superior out-of-sample option pricing performance compared to the unconditional kernel estimate.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Mon, 24 Aug 2026 17:00:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Beyond the Unemployment Rate: A Structural Labor Market Indicator</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/beyond-the-unemployment-rate-a-structural-labor-market-indicator.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/beyond-the-unemployment-rate-a-structural-labor-market-indicator.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/isabel-cairo.htm">Isabel Cair&oacute;</a>, <a href="https://www.federalreserve.gov/econres/hess-t-chung.htm">Hess Chung</a>, <a href="https://www.federalreserve.gov/econres/francesco-ferrante.htm">Francesco Ferrante</a>, <a href="https://www.federalreserve.gov/econres/cristina-fuentes-albero.htm">Cristina Fuentes-Albero</a>, <a href="https://www.federalreserve.gov/econres/camilo-morales-jimenez.htm">Camilo Morales-Jimenez</a>, and Damjan Pfajfar<br><br>Labor market variables frequently send conflicting signals about the degree of slack or tightness, often complicating policy assessments at critical junctures. This paper develops a Structural Labor Market Indicator (SLMI) for the U.S. economy that addresses the limitations of existing univariate measures or atheoretical statistical approaches that synthesize multiple labor market indicators but cannot distinguish between supply and demand driving forces. We construct the SLMI using a medium scale New Keynesian DSGE model featuring search and matching frictions, endogenous labor force participation, and variable hours. The model is disciplined by a comprehensive dataset that includes not only labor market variables but also other macroeconomic aggregates. The SLMI synthesizes model-implied gaps across multiple labor market dimensions using principal component analysis. We show that GDP growth and inflation provide substantial information about labor market slack beyond what labor market variables contain, validating our multi-variable structural approach. Relative to alternative measures, the SLMI often provides earlier warnings of deteriorating conditions at recession onset but recovers more gradually during expansions.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Thu, 20 Aug 2026 13:40:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Government bond-backed repo markets: between resilience and vulnerability</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/government-bond-backed-repo-markets-between-resilience-and-vulnerability.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/ayelen-banegas.htm">Ayelen Banegas</a>, Lucas Devigne, Mulalo Mamburu, Kleopatra Nikolaou, Anna Samarina, Fabio Tamburrini<br><br>This paper synthesizes the literature on vulnerabilities in government bond-backed repo markets, focusing on the features that contribute to both the fragility and stability of these markets. The literature shows that the same features that enable efficient liquidity provision, including short-term funding, dealer intermediation, extensive collateral reuse, and low haircuts, can also create channels for rapid transmission of stress. The review documents tight linkages between repo and government bond markets, highlighting how repos are key to the build-up of leverage and can propagate stress across funding, cash, and derivatives markets, particularly through dealers and nonbank financial intermediaries such as investment firms, hedge funds, and money market funds. Evidence from recent stress episodes illustrates how these vulnerabilities materialize in practice. The review also examines post-crisis regulatory reforms and central bank interventions, identifying how these measures have enhanced market resilience while also creating trade-offs for market dynamics, with implications for liquidity and collateral availability.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Wed, 12 Aug 2026 12:30:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: CRE Development Potential and the Selection of Opportunity Zones</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/cre-development-potential-and-the-selection-of-opportunity-zones.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/cre-development-potential-and-the-selection-of-opportunity-zones.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/david-p-glancy.htm">David Glancy</a>, <a href="https://www.federalreserve.gov/econres/robert-j-kurtzman.htm">Robert Kurtzman</a>, Lara Loewenstein<br><br>Place-based policies are often caught between two potentially conflicting aims: (i) directing aid to needy communities and (ii) spurring investment. We study this tradeoff in the context of the Opportunity Zones (OZ) program. Leveraging unique phase-level microdata on commercial construction projects, we show that US state governors prioritized designating tracts where construction projects were already being planned. About two-thirds of the greater construction growth in OZs can be attributed to this selection. States prioritizing tracts with greater investment opportunities observed larger construction increases in designated tracts. We calibrate a structural model to quantify the effects of the program and examine counterfactuals under alternative preferences or eligibility criteria.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Tue, 11 Aug 2026 12:50:00 GMT]]></pubDate>
+        </item>
+        
+        <item>
+            <title>FEDS Paper: Inflation Uncertainty and Endogenous Planning Horizons</title>
+            <link><![CDATA[https://www.federalreserve.gov/econres/feds/inflation-uncertainty-and-endogenous-planning-horizons.htm]]></link>
+            <guid><![CDATA[https://www.federalreserve.gov/econres/feds/inflation-uncertainty-and-endogenous-planning-horizons.htm]]></guid>
+            <description><![CDATA[<a href="https://www.federalreserve.gov/econres/christopher-j-gust.htm">Christopher Gust</a>, <a href="https://www.federalreserve.gov/econres/edward-p-herbst.htm">Edward Herbst</a>, and David L&oacute;pez-Salido<br><br>We develop a finite-horizon planning model in which firms choose how far ahead to plan when setting prices. Planning further ahead improves a firm&#39;s pricing decision but requires cognitive effort. We derive analytical solutions for a firm&#39;s chosen planning horizon and show that large and persistent aggregate demand or supply disturbances induce firms to plan further ahead, making inflation more sensitive to shocks and generating endogenous movements in inflation uncertainty. Quantitatively, we show that the model matches the positive relationship between the size of inflation forecast revisions and inflation uncertainty observed in the data.]]></description>
+            <category>FEDS Paper</category>
+            <pubDate><![CDATA[Thu, 6 Aug 2026 14:36:00 GMT]]></pubDate>
+        </item>
+        
+    </channel>
+</rss>

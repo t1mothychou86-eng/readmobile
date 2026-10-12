@@ -6,6 +6,9 @@ __pycache__/
 node_modules/
 dist/
 coverage/
+aggregator/.cache/
+aggregator/state/
 .env
 .env.*
 !.env.example
+web/public/data/feed.json

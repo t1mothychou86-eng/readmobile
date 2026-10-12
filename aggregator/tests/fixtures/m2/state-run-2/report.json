@@ -1,0 +1,518 @@
+{
+  "generated_at": "2026-10-12T18:26:56.644983Z",
+  "paper_count": 610,
+  "sources": [
+    {
+      "id": "aer",
+      "name": "American Economic Review",
+      "short": "AER",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 45,
+      "abstract_count": 42,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 49,
+          "filtered": 4,
+          "error": null
+        },
+        "rss": {
+          "status": "not_applicable",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "qje",
+      "name": "The Quarterly Journal of Economics",
+      "short": "QJE",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 18,
+      "abstract_count": 18,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 19,
+          "filtered": 1,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 15,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "jpe",
+      "name": "Journal of Political Economy",
+      "short": "JPE",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 61,
+      "abstract_count": 7,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 64,
+          "filtered": 3,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 19,
+          "filtered": 1,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 54,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "ecta",
+      "name": "Econometrica",
+      "short": "ECTA",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 12,
+      "abstract_count": 12,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "empty",
+          "pages": 1,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 14,
+          "filtered": 2,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "res",
+      "name": "The Review of Economic Studies",
+      "short": "RES",
+      "group": "econ-top5",
+      "kind": "journal",
+      "status": "ok",
+      "count": 54,
+      "abstract_count": 54,
+      "excluded_date_count": 18,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 54,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 18,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "jf",
+      "name": "The Journal of Finance",
+      "short": "JF",
+      "group": "finance",
+      "kind": "journal",
+      "status": "ok",
+      "count": 34,
+      "abstract_count": 33,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 38,
+          "filtered": 6,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 37,
+          "filtered": 3,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "jfe",
+      "name": "Journal of Financial Economics",
+      "short": "JFE",
+      "group": "finance",
+      "kind": "journal",
+      "status": "ok",
+      "count": 62,
+      "abstract_count": 0,
+      "excluded_date_count": 36,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 66,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 32,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "rfs",
+      "name": "The Review of Financial Studies",
+      "short": "RFS",
+      "group": "finance",
+      "kind": "journal",
+      "status": "ok",
+      "count": 37,
+      "abstract_count": 37,
+      "excluded_date_count": 7,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 37,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 8,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "nber",
+      "name": "National Bureau of Economic Research",
+      "short": "NBER",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 222,
+      "abstract_count": 42,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 2,
+          "received": 200,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 22,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 180,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "feds",
+      "name": "Finance and Economics Discussion Series",
+      "short": "FEDS",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 30,
+      "abstract_count": 30,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "ok",
+          "pages": 1,
+          "received": 62,
+          "filtered": 33,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 15,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "ecb",
+      "name": "European Central Bank Working Papers",
+      "short": "ECB WP",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 14,
+      "abstract_count": 14,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "not_applicable",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 15,
+          "filtered": 1,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "bis",
+      "name": "BIS Working Papers",
+      "short": "BIS WP",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "ok",
+      "count": 21,
+      "abstract_count": 21,
+      "excluded_date_count": 4,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "not_applicable",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "ok",
+          "pages": 1,
+          "received": 25,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    },
+    {
+      "id": "bfi",
+      "name": "Becker Friedman Institute Working Papers",
+      "short": "BFI WP",
+      "group": "working-paper",
+      "kind": "working-paper",
+      "status": "disabled",
+      "count": 0,
+      "abstract_count": 0,
+      "excluded_date_count": 0,
+      "errors": [],
+      "backends": {
+        "crossref": {
+          "status": "disabled",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        },
+        "rss": {
+          "status": "disabled",
+          "pages": 0,
+          "received": 0,
+          "filtered": 0,
+          "error": null
+        }
+      },
+      "enrichment": {
+        "pages": 0,
+        "requested": 0,
+        "matched": 0,
+        "filled": 0,
+        "cache_hits": 0,
+        "deferred": 0,
+        "error": null
+      }
+    }
+  ],
+  "nber_first_seen_ids": [
+    "doi:10.3386/w35897",
+    "doi:10.3386/w35896",
+    "doi:10.3386/w35895",
+    "doi:10.3386/w35894",
+    "doi:10.3386/w35893",
+    "doi:10.3386/w35892",
+    "doi:10.3386/w35891",
+    "doi:10.3386/w35890",
+    "doi:10.3386/w35889",
+    "doi:10.3386/w35888",
+    "doi:10.3386/w35887",
+    "doi:10.3386/w35886",
+    "doi:10.3386/w35885",
+    "doi:10.3386/w35884",
+    "doi:10.3386/w35883",
+    "doi:10.3386/w35882",
+    "doi:10.3386/w35881",
+    "doi:10.3386/w35880",
+    "doi:10.3386/w35879",
+    "doi:10.3386/w35878",
+    "doi:10.3386/w35877",
+    "doi:10.3386/w35876"
+  ],
+  "reuse_checks": {
+    "first_seen_unchanged": true,
+    "abstracts_unchanged": true,
+    "semantic_scholar_http_requests": 0
+  },
+  "first_seen_sha256": "f7183900eedf3fe4ea1d4336b66a6f033ee2c751c0f8f566617dea13e1ac808e",
+  "abstracts_sha256": "f70299851bacf4e0a9fc69c6f68a4ea59ccdc137599fcf5dd814458c4dc7b46c"
+}

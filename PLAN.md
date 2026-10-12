@@ -63,6 +63,8 @@
     "authors": [{"given": "...", "family": "..."}],
     "abstract": "纯文本或 null",
     "published": "2026-10-01",
+    "first_seen": "2026-10-13T06:00:00Z",
+    "date_precision": "published",
     "url": "https://doi.org/10.1111/jofi.xxxxx",
     "wp_number": null,
     "zotero": {"itemType": "journalArticle", "title": "...", "creators": [], "...": "..."}
@@ -71,6 +73,7 @@
 ```
 
 `group` 字段的取值为 `econ-top5`、`finance`、`working-paper`。
+`date_precision` 表示用于排序和保留的日期来源：`published` 或 `first_seen`。没有发表日期时 `published` 为 null，使用持久化首次发现时间，不伪造发表日期。年月精度仍保留在 `published` 本身。
 
 ### 1.2 数据源策略
 
@@ -109,13 +112,23 @@
 | # | 问题 | 决策 |
 |---|---|---|
 | D1 | M0 验证中发现的限制 | 接受，作为 M0 结论记录并提交 |
-| D2 | JPE、JFE 两种渠道都没有摘要 | MVP 先只显示书目信息，前端标明“无摘要”。M2 再实测 OpenAlex、Semantic Scholar 两个只读元数据 API 能补回多少摘要（只用 httpx，**不抓出版商网页**），覆盖率有意义才接入 |
+| D2 | JPE、JFE 两种渠道都没有摘要 | MVP 先只显示书目信息，前端标明“无摘要”。M2 实测 OpenAlex、Semantic Scholar 元数据 API；后续补全范围与持久化按 E3–E5 执行，**不抓出版商网页** |
 | D3 | ECTA 在 Crossref 的采样窗口为空 | 以 RSS 为主来源（摘要取自 `content:encoded`），Crossref 为辅。M1 顺带查明窗口为空的原因，例如 type 过滤或日期字段，写入 SPIKES.md |
 | D4 | RSS 摘要所在字段不统一 | 解析器同时支持 `description` 和 `content:encoded`，按 `sources.yaml` 中的 `abstract_location` 选择 |
 | D5 | BFI 没有合格的工作论文 feed | MVP 中停用（`status: disabled`），保留配置条目以后再议 |
 | D6 | ECB 条目的链接直接指向 PDF | 允许 `url` 字段为开放获取的 PDF 链接，只用于用户点击后在 Safari 中打开；聚合器和前端**都不请求**这个 URL |
 | D7 | Crossref 前缀查询会混入其他系列 | NBER 只保留 `10.3386/w<数字>`，FEDS 只保留 `10.17016/feds.` 开头的 DOI |
 | D8 | Crossref 的 `mailto` | 用用户的账号邮箱，通过环境变量 `CROSSREF_MAILTO` 注入：本地放在 shell 环境，CI 放在 GitHub Secret。**仓库里不写入** |
+
+### 1.5 M2 审查决策（协调方确认）
+
+| # | 决策 |
+|---|---|
+| E1 | ECB 只保留 Working Paper Series，排除 Discussion Papers 等其他系列 |
+| E2 | 无日期条目以 state 中不可重置的 first_seen 排序并保留 120 天；feed 增加 first_seen 和 date_precision（published/first_seen）。build 支持 --state，默认 aggregator/state/state.json，git 忽略，CI 持久化留待 M5。NBER 从 /papers/w<n> 推出已验证 DOI，与 Crossref 按 DOI 合并，以 RSS 摘要为准 |
+| E3 | 所有已获取摘要写入 state 跨运行保留；S2 缓存与冷却同在 state，不再独立保存缓存文件 |
+| E4 | S2 回填 NBER 中仍缺摘要的条目，最新优先；默认全运行请求上限 2，可配置，遵守 429 冷却。JPE 保留既有补全能力 |
+| E5 | JFE 暂接受缺摘要，不请求 S2 补全；OpenAlex 暂不接入，后续需要免费 API key，由用户决定是否申请 |
 
 ---
 
@@ -134,7 +147,8 @@
   - **CORS 判定**：如果 Zotero 不允许跨域，**停下来报告**，由用户决定是否改走 Cloudflare Worker 中转。
 - [x] **M1 Crossref 抓取**：实现 fetcher、normalize、非论文过滤和 JATS 标签清理；用录制的 fixture 做单元测试。
   - 完成：实现限两页且间隔至少一秒的 Crossref 抓取、Paper 规范化、非论文/JATS 清理、NBER/FEDS 系列过滤和邮箱脱敏；查明 ECTA 年份日期导致空窗口并记录在 SPIKES.md。82 项离线 fixture 测试通过，真实 AER 两页及 NBER/FEDS 抓取复验通过，未开始 M2。
-- [ ] **M2 RSS 抓取与合并**：实现 RSS fetcher、URL 规范化、以 DOI 优先的去重、摘要回填；输出 `feed.json` 并按 schema 校验。
+- [x] **M2 RSS 抓取与合并**：实现 RSS fetcher、URL 规范化、以 DOI 优先的去重、摘要回填；输出 `feed.json` 并按 schema 校验。
+  - 完成：落实 D2/D4/D6 与 E1–E5，实现 RSS 合并、统一 state/首次发现日期/摘要持久化、NBER 优先补全和全运行请求上限；143 项离线测试通过，连续两次真实 build 各输出 610 条并通过 schema，NBER 各 222 条/42 条有摘要，第二次 S2 请求 0 且 first_seen/摘要未改变。未提交、未开始 M3，详情见 SPIKES.md。
   - 命令行入口：`python -m papercart.build --out web/public/data/feed.json`。
 - [ ] **M3 Zotero 映射**：实现 `zotero_map`，对每种来源各做一条快照测试，并断言产出的字段名都在 M0 拉取的模板字段集合内。
 - [ ] **M4 PWA 界面**：

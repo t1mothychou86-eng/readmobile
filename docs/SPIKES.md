@@ -183,3 +183,136 @@ RSS 将该论文列在 2026 年 9 月刊；Crossref 元数据没有这层月日�
 最终验证：`python -m pytest aggregator -q` **82 passed**（Python 3.10）；源码与诊断脚本编译检查通过。真实抓取器的 AER 分页复验为两页、4 条接收/保留，记录在 `crossref-m1-aer-page-1.json`、`crossref-m1-aer-page-2.json`、`spike-m1-pagination.json`。仓库文本与全部 JSON fixture 检查通过，真实 CROSSREF_MAILTO 及其 URL 编码形式均不存在于文件中。
 
 本次环境的原仓库 `.git` 为只读挂载，正常 git add/commit 因不能创建 index.lock 而失败。为保持里程碑提交顺序，在 `/tmp/papercart-milestones` 的独立 Git 仓库生成 M0、M1 提交，代码保存在原工作区，另交付 bundle 供可写 Git 环境导入；没有替换原仓库 `.git` 或修改其分支。
+
+
+## 9. M2：补全 API 当前政策与实测（D2）
+
+验证日期：2026-10-13（Asia/Singapore）；只请求只读元数据 API，未请求论文页面、全文、PDF、snippets、数据集或内容下载端点。
+
+| API | 当前官方政策与本机响应 | M2 处理 |
+|---|---|---|
+| OpenAlex | [鉴权说明](https://help.openalex.org/api/authentication/)（2026-08-19）允许无 Key 基础查询；[费用实例](https://help.openalex.org/access/example-costs/)（2026-10-09）说明匿名 $0.10/天、免费 Key $1/天，list/filter 每次 $0.0001、singleton 免费，速率上限 100 请求/秒。实测批量 DOI filter 返回 429，响应明确说匿名额度由网络 IP 共享且剩余为 0，Retry-After 为约 22129 秒。 | 不接入生产，不申请账号、Key 或付费；没有重试循环。未取得匹配结果，摘要覆盖率无法计算，不能宣称 0%。 |
+| Semantic Scholar | [官方产品页](https://webflow.semanticscholar.org/product/api)说明大部分端点可匿名访问，匿名共享 1000 RPS 池，高峰还会额外限流；Key 的初始速率为 1 RPS，不是给每个匿名用户承诺的速率。按[官方 API 文档](https://api.semanticscholar.org/api-docs/)批量论文查询最多 500 ID，POST /graph/v1/paper/batch 是只读查询。 | 实测匿名 batch 200、有少量摘要收益，接入为可关闭的补充；保守请求间隔至少 1 秒，每源最多两批，缓存并在 429/503 时停止该 host，保存冷却期。 |
+
+没有使用旧版的 OpenAlex “每天 100000 次/必须 Key”或第三方的 Semantic Scholar “100 次/5 分钟”等数字替代当前官方政策。政策查询也没有抓出版商页面；网页来源只用于核实 API 政策。
+
+D2 使用 M0 已录制 Crossref 样本，排除 front matter 后取所有缺摘要条目：
+
+| 期刊 | 样本 DOI 数 | OpenAlex | Semantic Scholar 匹配条数 | S2 有摘要 | 占待补回样本 |
+|---|---:|---|---:|---:|---:|
+| JPE | 24 | HTTP 429、未获结果 | 15 | 4 | 16.7% |
+| JFE | 25 | HTTP 429、未获结果 | 18 | 2 | 8.0% |
+| 合计 | 49 | 无法计算覆盖率 | 33 | 6 | 12.2% |
+
+OpenAlex 的首次两刊探测均遇到预算耗尽；此后不再请求该服务。S2 的收益小但为真实 DOI 匹配的 6 条，两次批量请求即可取得，故接入为补充而不作为必要成功条件。每条返回的 externalIds.DOI 必须与请求 DOI 严格一致，不按位置、标题或作者猜测。没有 API Key、邮箱或全文请求。
+
+证据：`aggregator/tests/fixtures/m2/d2-openalex-{jpe,jfe}.json`、`d2-probe-summary.json`、`d2-semantic-scholar-{jpe,jfe}.json`、`d2-semantic-summary.json`。官方政策链接与本机配额错误都明确写出匿名预算共享 IP 的实际限制。要对 OpenAlex 测得覆盖率，需等预算重置，或用户另行批准使用其自己的 Key；本次没有扩大鉴权需求。
+
+## 10. M2 首轮实现（E1–E5 之前的历史记录）
+
+- D4：按已验证配置选 description/content:encoded；ECTA/JF 从 content 取得真实摘要，JPE/JFE 不把书目信息当摘要。RSS 解析只处理已取到的字节，不将 item link 交给 HTTP client 或 feedparser 抓取。
+- D6：ECB 链接保留为公开 PDF URL，并规范化重复斜杠、跟踪参数等；所有请求只面向 RSS/元数据 API。测试验证即使客户端默认允许跳转，也不会请求 PDF/全文 Location。
+- 去重以 DOI 为主、规范化 URL/元数据别名为辅，保留重要 query 参数、删除跟踪参数。不同 DOI 不因共同 URL 合并；不按标题模糊匹配。摘要回填只发生于相同 DOI。Crossref 可补齐 RSS 中没有的作者和书目字段；同年份可补日期精度，不伪造发表日期。
+- ECTA 优先 RSS，其他源优先 Crossref；NBER 从官方 /papers/w<number> 识别已验证系列 DOI，FEDS 使用 Crossref 的真实 DOI 与原始 landing-page 元数据进行 URL 去重。BFI 始终停用。
+- 日期范围为 build 的 UTC 日期向前 120 天。完整日必须落入窗口，年月/年份按其可能日期区间是否与窗口相交保留；输出继续保留原精度。无日期且无法在相同条目合并中补齐的记录被排除，计入 excluded_date_count；未将“抓到的时间”假装成发表日期。
+- 重用上一版 feed 中仍在窗口内的记录，避免单源暂时失败或 current-issue RSS 换期时清空历史；当前无 Key 缓存只含 DOI 摘要、缺失标记、到期时间及 S2 冷却期。
+- feed.schema.json 定义 schema 1；标准库校验器实现其中实际使用的 JSON Schema 关键词，并检查 source 引用、ID 唯一性、DOI/URL 身份及真实日期。没有引入 jsonschema 依赖。zotero 为 `{}`，M3 尚未开始，当前输出不能当作完整 Zotero 写入负载。
+- 每个 Crossref fetch 最多两页（100 条/页），每个 RSS 只取一页、没有跟随 pagination/item/全文链接。完整 build 全部服务共享至少 1 秒的请求间隔。429/503 熔断 host；S2 冷却和 Retry-After 跨 build 保存。白名单依赖不变，Python 3.10 兼容。
+
+## 11. M2 首轮完整真实 build（E1–E5 之前）
+
+命令：
+
+```bash
+LIVE_TEST=1 aggregator/.venv/bin/python -m papercart.build \
+  --out web/public/data/feed.json \
+  --record-fixtures aggregator/tests/fixtures/m2/build
+```
+
+真实 build 完成时间：2026-10-12T18:04:08.105723Z（UTC）；保留窗口起点 2026-06-14，窗口终点 2026-10-12。共 24 次元数据 HTTP 请求；输出 **589 条**，schema 校验通过。录制 manifest 列出每次请求的安全地址、非敏感参数、状态及 fixture，删去 mailto；Crossref fixture 是保留真实消费字段的投影，删除未使用的参考文献/许可/资助字段。
+
+| 源 | 最终条数 | 有摘要 | 覆盖率 | 日期排除条数 | 失败原因/状态 |
+|---|---:|---:|---:|---:|---|
+| AER | 45 | 42 | 93.3% | 0 | 无请求失败 |
+| QJE | 18 | 18 | 100.0% | 0 | 无请求失败 |
+| JPE | 61 | 7 | 11.5% | 0 | 无请求失败 |
+| ECTA | 12 | 12 | 100.0% | 0 | 无请求失败 |
+| RES | 54 | 54 | 100.0% | 18 | 无请求失败 |
+| JF | 34 | 33 | 97.1% | 0 | 无请求失败 |
+| JFE | 62 | 0 | 0.0% | 36 | Semantic Scholar HTTP 429 |
+| RFS | 37 | 37 | 100.0% | 7 | 无请求失败 |
+| NBER | 200 | 0 | 0.0% | 22 | 无请求失败 |
+| FEDS | 30 | 30 | 100.0% | 0 | 无请求失败 |
+| ECB | 15 | 15 | 100.0% | 0 | 无请求失败 |
+| BIS | 21 | 21 | 100.0% | 4 | 无请求失败 |
+| BFI | 0 | 0 | — | 0 | 停用 |
+
+上述百分比是本轮输出记录的覆盖率，不是期刊所有论文的普查。跨源/渠道去重及 120 天过滤后才计数。
+
+真实 build 的 S2：JPE 请求 61 个 DOI、匹配 35、补回 7 条；JFE 请求 48 个缺摘要 DOI 时返回 429，未取得该批次摘要，保留原书目并标记 partial。限流响应没有 Retry-After，使用至少 60 秒冷却，不自动重试。与 D2 小样本的 2/25 不矛盾：该样本曾成功，本轮完整 build 因共享池节流失败；不把失败当作无摘要的证据。
+
+NBER：Crossref 两页上限接收并保留 200 条（端点更多结果未取），本轮没有 abstract；当前 RSS 22 条无日期，DOI 均为更晚的新工作论文，与这两页 Crossref 无交集，无法确认它们属于 120 天窗口，因此均作为无日期排除。没有从 NBER 网页补日期，也没有把运行日期赋给论文。该限制需要后续来源元数据改善；当前 source 后端正常不等于数据完整。
+
+AER 没有已验证 eTOC，RSS 后端 not_applicable，不重复请求已失败候选；ECTA Crossref 空窗口已知，RSS 12 条均有摘要；JFE RSS 没有 DOI，无法按标题与 Crossref 猜测合并/回填；RES/RFS current-issue RSS 有早于窗口的论文，保留 Crossref 时间窗记录而排除过期 RSS。BFI 为用户决定的 disabled，非运行故障。
+
+## 12. M2 首轮验证及已解决的审查事项
+
+- 离线 `python -m pytest aggregator -q`：**128 passed**，使用真实 fixture；默认 socket guard 阻止网络。完整 build 可以通过 24 次真实响应的 manifest 离线重放，源计数、S2 成功/失败、PDF 链接留存与最终 feed 校验可复现。
+- 覆盖 description/content、DOI/URL 合并、跨别名去重、禁止不同 DOI/标题回填、日期精度/时间窗、旧 feed 保留、源失败隔离、API 缓存/429 冷却、schema 错误和原子写入失败保护。没有任何 Zotero 写入。
+- **首轮新发现，现已由 E1 决定**：ECB “working papers” RSS 含 `ecb.dp32`，其标题 Artificial intelligence and financial markets；[ECB 官方页面](https://www.ecb.europa.eu/home/html/index.fi.html)明确列为 Discussion Paper Series No.32。其余 14 条是 wp 编号。首轮原始 build 包含该条；协调方随后决定仅保留 Working Paper Series，最终版本已过滤其他系列，见 §13。
+- 不提交 git；提交由协调方审查后执行。没有开始 M3。
+
+
+## 13. M2 审查后收尾：E1–E5 与统一 state
+
+E1–E5 均已由协调方明确授权并记录在 PLAN.md §1.5；没有待确认的系列范围，也没有提交 git 或开始 M3。
+
+- **E1**：ECB 只接受 PDF 链接中的 ecb.wp<数字>，Discussion/其他系列被过滤（真实 RSS 15 条取 14 条 WP）。只是检查元数据字符串，程序不请求 PDF；旧 feed/state 中混入的 dp32 也不会再输出。
+- **E2**：--state 默认 `aggregator/state/state.json`，目录已 git 忽略。state 为每个身份记录 first_seen；feed 新增 first_seen 与 date_precision（published/first_seen）。无日期条目 published 仍为 null，使用 first_seen 参与排序与 120 天保留。已过期无日期身份仍保留首次观测标记，不能因再次出现在 RSS 中而刷新寿命。后来补齐真实发表日期时切换到 published，first_seen 不变。
+- **E2/NBER**：从已验证的 /papers/w<n> 构造 10.3386/w<n>，与 Crossref 按 DOI 合并；RSS 的摘要优先，同一条目的 Crossref 作者/日期/书目仍可补齐。本轮 22 条新 RSS DOI 与 Crossref 两页无交集，现在全部以 first_seen 保留，不再因无日期丢弃。
+- **E3**：state.papers 保存元数据和已获取摘要，RSS/Crossref/S2 摘要均可跨运行复用；state.semantic_scholar 保存 DOI 查询缓存和 blocked_until，已经没有第二个正在使用的缓存文件。成功摘要持久保留，缺失结果缓存一天；首次默认状态构建导入旧缓存，保存成功后删除旧 abstracts.json。state 损坏时失败，不默默重置 first_seen。
+- **E4**：S2 仅补 NBER/JPE，NBER 优先，最新日期优先，同月 NBER DOI 以数字工作论文号优先。默认全运行最多 2 个批量请求（--abstract-max-requests 可配置），每批至多 500 DOI、每源至多两批。正/负缓存均不重复查询；429/503 保存冷却，Retry-After 从响应到达时起计算，避免慢 build 的起始时间使冷却提前过期。
+- **E5**：JFE 暂接受缺摘要，不再消耗 S2 配额。OpenAlex 不接入；后续稳定实测/接入**需要申请免费 API key**以避开已耗尽的共享 IP 预算，是否申请由用户以后决定。此为本项目的接入前置条件，不改写 §9 中官方允许受限匿名查询的事实；本次没有账号、密钥或费用需求。
+
+旧版 feed 的已知观测时间可以由其 generated_at 迁移为 first_seen；不把该时间写成 published。state 持久化与新字段不会触发 Zotero 映射，zotero 仍为 {}；CI 中的 state 持久化留待 M5。
+
+## 14. 连续两次完整真实 build 与 state 复用
+
+连续执行（同一默认 state 和 out，分别录制响应）：
+
+```bash
+LIVE_TEST=1 aggregator/.venv/bin/python -m papercart.build \
+  --out web/public/data/feed.json \
+  --record-fixtures aggregator/tests/fixtures/m2/state-run-1
+LIVE_TEST=1 aggregator/.venv/bin/python -m papercart.build \
+  --out web/public/data/feed.json \
+  --record-fixtures aggregator/tests/fixtures/m2/state-run-2
+```
+
+第 1 次：2026-10-12T18:24:47.784110Z，23 次元数据 HTTP 请求，其中 1 次 S2 批量查询；第 2 次：2026-10-12T18:26:56.644983Z，22 次元数据 HTTP 请求，**S2 请求 0 次**。两次各 610 条、均通过新 schema。
+
+| 来源 | 第1次条数 | 有摘要 | 覆盖率 | 第2次条数 | 有摘要 | 覆盖率 |
+|---|---:|---:|---:|---:|---:|---:|
+| AER | 45 | 42 | 93.3% | 45 | 42 | 93.3% |
+| QJE | 18 | 18 | 100.0% | 18 | 18 | 100.0% |
+| JPE | 61 | 7 | 11.5% | 61 | 7 | 11.5% |
+| ECTA | 12 | 12 | 100.0% | 12 | 12 | 100.0% |
+| RES | 54 | 54 | 100.0% | 54 | 54 | 100.0% |
+| JF | 34 | 33 | 97.1% | 34 | 33 | 97.1% |
+| JFE | 62 | 0 | 0.0% | 62 | 0 | 0.0% |
+| RFS | 37 | 37 | 100.0% | 37 | 37 | 100.0% |
+| NBER | 222 | 42 | 18.9% | 222 | 42 | 18.9% |
+| FEDS | 30 | 30 | 100.0% | 30 | 30 | 100.0% |
+| ECB | 14 | 14 | 100.0% | 14 | 14 | 100.0% |
+| BIS | 21 | 21 | 100.0% | 21 | 21 | 100.0% |
+| BFI | 0 | 0 | — | 0 | 0 | — |
+
+**NBER**：200 条 Crossref + 22 条新 RSS，共 222 条。首次 RSS 提供 22 条摘要；S2 请求 200 个仍缺摘要 DOI，匹配 174、补回 20 条，因此最终 42/222（18.9%）。第二次保持 42 条摘要，剩余 180 个缺摘要 DOI 命中负缓存，没有再次请求；22 条无日期 RSS 的首次发现时间保持不变。
+
+JPE 原有 7 条摘要跨运行保留，54 条仍缺摘要的 DOI 命中既有查询缓存，两次都无需再查询。JFE 0/62 是 E5 接受的摘要缺失，不是这两次运行的失败。所有当前可用后端均成功；ECTA Crossref 仍是已知空窗口，AER 没有可用 RSS，BFI 为已决定的 disabled。未请求任何论文 URL 或 PDF。
+
+两次所有 610 个 paper 的 first_seen 映射完全一致；所有已获取摘要也完全一致。report.json 中保存 first_seen/摘要映射的 SHA-256，两次摘要和首次发现哈希相同，第二次 reuse_checks 为 true。manifest.json 证明第二次没有 POST/S2 请求；S2 成功响应、各 RSS 与 Crossref 元数据均已脱敏录制。实际 state 文件被 git 忽略，不作为 fixture 提交。
+
+最终 **143 项离线测试通过**（Python 3.10），覆盖无日期保留/过期不重置、URL 到 DOI 身份升级、真实日期替代 first_seen、RSS 摘要优先、从 state 独立恢复元数据/摘要、S2 正负缓存跨进程复用、最新优先/全局请求预算、响应时刻冷却、E1 系列过滤及 E5 不请求 JFE。原有 schema、限流、源失败、PDF/全文红线测试也通过。源码和脚本编译检查、最终 feed schema 校验及真实邮箱/编码形式文件检查通过。
+
+遗留属于后续里程碑：M3 完整 Zotero 映射；M5 为 state 配置 CI 持久化。NBER Crossref 两页上限和 API 索引/摘要覆盖率限制仍存在，当前覆盖率是这次产出数据的覆盖率，不是所有 NBER 论文的普查。OpenAlex 免费 Key 由用户以后决定，当前 M2 无需新决定。

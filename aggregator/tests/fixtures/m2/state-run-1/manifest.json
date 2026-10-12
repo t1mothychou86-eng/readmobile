@@ -1,0 +1,258 @@
+[
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0002-8282/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0002-8282-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0033-5533/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0033-5533-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://academic.oup.com/rss/site_5504/3365.xml",
+    "params": {},
+    "status": 200,
+    "fixture": "academic.oup.com-rss-site-5504-3365.xml-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0022-3808/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0022-3808-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://www.journals.uchicago.edu/action/showFeed",
+    "params": {
+      "type": "etoc",
+      "feed": "rss",
+      "jc": "jpe"
+    },
+    "status": 200,
+    "fixture": "www.journals.uchicago.edu-action-showFeed-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0012-9682/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0012-9682-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://onlinelibrary.wiley.com/feed/14680262/most-recent",
+    "params": {},
+    "status": 200,
+    "fixture": "onlinelibrary.wiley.com-feed-14680262-most-recent-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0034-6527/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0034-6527-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://academic.oup.com/rss/site_5508/3369.xml",
+    "params": {},
+    "status": 200,
+    "fixture": "academic.oup.com-rss-site-5508-3369.xml-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0022-1082/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0022-1082-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://onlinelibrary.wiley.com/feed/15406261/most-recent",
+    "params": {},
+    "status": 200,
+    "fixture": "onlinelibrary.wiley.com-feed-15406261-most-recent-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0304-405X/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0304-405X-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://rss.sciencedirect.com/publication/science/0304405X",
+    "params": {},
+    "status": 200,
+    "fixture": "rss.sciencedirect.com-publication-science-0304405X-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/journals/0893-9454/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14,type:journal-article",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-journals-0893-9454-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://academic.oup.com/rss/site_5511/3372.xml",
+    "params": {},
+    "status": 200,
+    "fixture": "academic.oup.com-rss-site-5511-3372.xml-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/prefixes/10.3386/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-prefixes-10.3386-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/prefixes/10.3386/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "100"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-prefixes-10.3386-works-2.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://back.nber.org/rss/new.xml",
+    "params": {},
+    "status": 200,
+    "fixture": "back.nber.org-rss-new.xml-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://api.crossref.org/prefixes/10.17016/works",
+    "params": {
+      "filter": "from-pub-date:2026-06-14",
+      "sort": "published",
+      "order": "desc",
+      "rows": "100",
+      "offset": "0"
+    },
+    "status": 200,
+    "fixture": "api.crossref.org-prefixes-10.17016-works-1.json",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://www.federalreserve.gov/feeds/feds.xml",
+    "params": {},
+    "status": 200,
+    "fixture": "www.federalreserve.gov-feeds-feds.xml-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://www.ecb.europa.eu/rss/wppub.html",
+    "params": {},
+    "status": 200,
+    "fixture": "www.ecb.europa.eu-rss-wppub.html-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "GET",
+    "url": "https://www.bis.org/doclist/wppubls.rss",
+    "params": {},
+    "status": 200,
+    "fixture": "www.bis.org-doclist-wppubls.rss-1.xml",
+    "headers": {}
+  },
+  {
+    "method": "POST",
+    "url": "https://api.semanticscholar.org/graph/v1/paper/batch",
+    "params": {
+      "fields": "externalIds,abstract,title"
+    },
+    "status": 200,
+    "fixture": "api.semanticscholar.org-graph-v1-paper-batch-1.json",
+    "headers": {}
+  }
+]

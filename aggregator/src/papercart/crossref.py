@@ -29,7 +29,7 @@ class FetchResult:
 
 class CrossrefFetcher:
     def __init__(self, client: httpx.Client | None = None, *, rows: int = 100, max_pages: int = 2,
-                 sleep: Callable[[float], None] = time.sleep, clock: Callable[[], float] = time.monotonic):
+                 sleep: Callable[[float], None] = time.sleep, clock: Callable[[], float] = time.monotonic, pacer=None):
         if not 1 <= max_pages <= 2 or not 1 <= rows <= 1000:
             raise ValueError("Use 1–2 pages and 1–1000 rows")
         protect_http_logs()
@@ -38,6 +38,7 @@ class CrossrefFetcher:
         self.rows, self.max_pages = rows, max_pages
         self.sleep, self.clock = sleep, clock
         self._next_request = 0.0
+        self.pacer = pacer
         self._mailto = os.environ.get("CROSSREF_MAILTO") or PLACEHOLDER
         if not os.environ.get("CROSSREF_MAILTO"):
             LOGGER.warning("CROSSREF_MAILTO 未设置，使用 papercart@example.invalid")
@@ -72,10 +73,11 @@ class CrossrefFetcher:
                 self.sleep(delay)
             result.pages += 1
             try:
-                response = self.client.get(url, params={
+                params = {
                     "filter": filter_value, "sort": "published", "order": "desc",
                     "rows": self.rows, "offset": page * self.rows, "mailto": self._mailto,
-                }, follow_redirects=False)
+                }
+                response = self.pacer.request(self.client, "GET", url, params=params) if self.pacer else self.client.get(url, params=params, follow_redirects=False)
             except httpx.HTTPError:
                 result.error = "Crossref network request failed"
                 break

@@ -1,1 +1,1 @@
-"""PaperCart metadata aggregator. Crossref retrieval and normalization (M1)."""
+"""PaperCart metadata aggregator: Crossref/RSS retrieval, merging and feed build."""

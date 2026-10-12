@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://back.nber.org/rss/new.xml" rel="self" type="application/rss+xml" />
+<title>National Bureau of Economic Research Working Papers</title>
+<description>The Latest NBER Working Papers</description>  
+<link>http://www.nber.org/new.html</link>
+<item>
+<title>Survival versus Scale: The Effects of Critical Access Hospital Designation -- by Ian McCarthy, Katie Leinenbach</title>
+<description>The Critical Access Hospital (CAH) program, established under the Balanced Budget Act of 1997, provides cost-based Medicare reimbursement to small rural hospitals in exchange for limits on inpatient capacity and service scope. We estimate the effects of CAH designation on hospital finances, capacity, and organizational outcomes using a synthetic difference-in-differences design that exploits the staggered 1999– 2002 rollout of state-level CAH availability. We find that CAH designation raises operating margins by three to four percentage points, with no change in liquidity or capital investment, as cost-based reimbursement sustains revenue while expenses fall with scale. Designation also reduces inpatient scale, with significant declines in total beds, obstetric capacity, and nursing staff. Emergency department visits also decline meaningfully, while outpatient volume is largely unchanged. At the same time, CAH designation reduces hospital closures, with no meaningful effect on mergers. These results point to a “survival versus scale” tradeoff across hospitals within a state, wherein designation-based subsidies avert closure for a small number of hospitals while inducing widespread inpatient downsizing among the many more hospitals that convert. Because converting hospitals shed more inpatient capacity than averted closures preserve, the program may reduce aggregate rural inpatient capacity even as it keeps hospitals open.</description>
+<link>https://www.nber.org/papers/w35876#fromrss</link>
+<guid>https://www.nber.org/papers/w35876#fromrss</guid>
+</item>
+<item>
+<title>Indirect Variational Inference: Applications to Earnings Dynamics -- by Neele L. Balke, Stéphane Bonhomme, Thibaut Lamadon</title>
+<description>Latent-variable models are central to economics but often entail intractable integration. Variational inference (VI), widely used in machine learning, turns this integration into tractable, differentiable optimization by replacing the likelihood with a variational objective. However, guarantees of recovering the true parameters remain limited when the variational family is insufficiently flexible—a key obstacle to the adoption of VI in economics. We first evaluate VI in models of earnings dynamics and show that the choice of variational posterior is crucial. We then introduce indirect variational inference (IVI), which treats VI as an auxiliary model and corrects the bias induced by the variational approximation. IVI retains much of VI’s tractability because it does not require computing the likelihood. We apply these methods to models allowing for nonlinear persistence, non-Gaussian and serially correlated transitory shocks, and latent heterogeneity. Across simulated and empirical applications, flexible variational families combined with IVI deliver reliable estimates.</description>
+<link>https://www.nber.org/papers/w35877#fromrss</link>
+<guid>https://www.nber.org/papers/w35877#fromrss</guid>
+</item>
+<item>
+<title>When Does Randomized Oversight Align AI Agents That Can Conceal? -- by Joshua S. Gans, Richard T. Holden</title>
+<description>Oversight changes the evidence it relies on. We ask when randomized audits and scoring align AI agents that can conceal misconduct and alter records. Stronger auditing makes undeterred violations better hidden. Because the provider writes the agent’s objective, sanctions need not stop at forfeiture, and rare audits deter every type of agent if evidence survives concealment and audit draws cannot be learned in advance. When evidence can be erased, deterrence must come from lower gains from violation, such as credit for stopping, or from costlier or fewer ways to conceal. These conditions identify what failed when agents in OpenAI’s cybersecurity evaluations compromised parts of Hugging Face’s infrastructure in July 2026.</description>
+<link>https://www.nber.org/papers/w35878#fromrss</link>
+<guid>https://www.nber.org/papers/w35878#fromrss</guid>
+</item>
+<item>
+<title>How Knowledge Crosses Borders: Evidence from Semiconductor Manufacturing -- by Pinelopi K. Goldberg, Réka Juhász, Giulia Lo Forte, Jeff Thurk</title>
+<description>We show that cross-border learning is an important feature of modern semiconductor manufacturing and that several important channels – such as knowledge sharing along global supply chains, the movement of engineers within multinational firms, and foreign direct investment – operate through market mechanisms rather than anonymous technological spillovers. These findings have significant policy implications. When cross-border learning is mediated by purposeful economic relationships, access to frontier knowledge is neither automatic nor guaranteed. Firms and governments can facilitate - or restrict - the international diffusion of technology, implying that policies to foster domestic technological upgrading are likely to be most effective when coupled with continued access to global sources of frontier knowledge.</description>
+<link>https://www.nber.org/papers/w35879#fromrss</link>
+<guid>https://www.nber.org/papers/w35879#fromrss</guid>
+</item>
+<item>
+<title>The Relationship between Income and Health: Evidence from Nationwide Health Exams in Korea -- by Liran Einav, Amy Finkelstein, Sehyun Hong</title>
+<description>We examine how physical health, health behaviors, and mortality vary with income for prime-age adults. To do so, we leverage population-wide, individual-level cardiovascular health exams linked to income tax records and subsequent mortality for a representative sample of about 350,000 Koreans aged 47--57. For both men and women, there is a negative disease-income gradient for high blood pressure, high blood glucose, and high body mass index, but not for high cholesterol. Disease-income gradients are steeper for women than men, and tend to be concentrated in the top half of the income distribution; similar patterns hold for health behavior-income gradients. Subsequent mortality-income gradients are also concentrated in the top half of the income distribution, but are steeper for men than women. Although physical health and behavior measures are highly predictive of subsequent mortality, differences in these measures by income explain very little of the income-mortality gradient, even for cardiovascular mortality. Our findings suggest that something other than differences in disease burden at prime age drives most of the income-mortality gradient at older ages.</description>
+<link>https://www.nber.org/papers/w35880#fromrss</link>
+<guid>https://www.nber.org/papers/w35880#fromrss</guid>
+</item>
+<item>
+<title>Does Remote Work Increase Fertility? -- by Andrew C. Johnston</title>
+<description>Does working from home increase fertility? I study the 2020 expansion of remote work by comparing changes in births across U.S. college graduates whose majors differed in pre-pandemic teleworkability. Measuring exposure by college major avoids relying on occupations workers may have chosen in response to the expansion. Among married women, a one-standard-deviation increase in teleworkability reduced annual birth rates by 2 percent and increased full-time employment by 1.3 percent. I find no statistically significant effects on fertility among men or unmarried women, or on marriage or divorce. Accounting exercises suggest that increased employment can explain about half of the decline in births. The results suggest that returning to pre-pandemic telework levels would raise the total fertility rate by 0.09 births per woman.</description>
+<link>https://www.nber.org/papers/w35881#fromrss</link>
+<guid>https://www.nber.org/papers/w35881#fromrss</guid>
+</item>
+<item>
+<title>What Can (and Cannot) Be Learned about Systemic Racial Discrimination from Randomized Controlled Trials? -- by Dania V. Francis, Rob Gillezeau, Damon Jones, Angelino Viceisza</title>
+<description>Randomized Controlled Trials (RCTs) have played a major role in detecting direct forms of racial discrimination. In this essay, we ask whether RCTs can (or cannot) play an equally important role in the case of systemic racial discrimination. We propose a conceptual model of systemic racial discrimination drawing from prior definitions of systemic racism. We then consider a range of possibilities and limitations for how RCTs can help understand systemic racial discrimination, including: (1) the feasibility of manipulating systemic racial discrimination on a large scale; (2) smaller scale approaches; (3) conducting RCTs across different structural settings; (4) the manipulation of the salience of systemic forces; (5) the role of information in reducing systemic discrimination; (6) the manipulation of the salience of racial identity; and, finally, (7) examination of strategic responses to systemic racial discrimination. In discussing limitations, we point to other approaches that may fill in the gaps left by RCTs in studying systemic racial discrimination.</description>
+<link>https://www.nber.org/papers/w35882#fromrss</link>
+<guid>https://www.nber.org/papers/w35882#fromrss</guid>
+</item>
+<item>
+<title>Producing to Signal: Private Information in Dynamic Quantity Competition -- by Andrew Sweeting, Xuezhen Tao, Qian Wang</title>
+<description>We model a finite-horizon game of repeated oligopoly competition in which sellers choose quantities of a homogeneous product with linear demand and have private information about their own marginal costs, which are serially correlated over time. Focusing on fully separating equilibria, we provide conditions for existence and uniqueness. Relative to static complete- and incomplete-information benchmarks, sellers' incentives to signal low costs can substantially affect output, productive efficiency, and welfare, even when there are ten or more sellers.  We apply the model to the global oil market, and compare predictions to a model where sellers can make quantity commitments.</description>
+<link>https://www.nber.org/papers/w35883#fromrss</link>
+<guid>https://www.nber.org/papers/w35883#fromrss</guid>
+</item>
+<item>
+<title>Learning About Outgroups: The Impact of Broad Versus Deep Interactions -- by Anujit Chakraborty, Arkadev Ghosh, Matt Lowe, Gareth Nellis</title>
+<description>We hypothesize that broad contact, involving brief interactions with multiple outgroup members, and deep contact, meaning longer interactions with a single outgroup member, play distinct roles in shaping intergroup relations. We set up a factory in India and recruited Hindu and Muslim men to work in pairs on joint production tasks. We randomly assigned participants to work either with the same ingroup or outgroup partner daily (deep contact), a different outgroup partner each day (broad contact), or to a control group. Deep contact strengthens social and economic ties with the outgroup partner. But only broad contact reduces the majority group's misperceptions about outgroup strangers. Using within-treatment variation in partners’ pre-treatment productivity, we show that participants in both arms learn about their partners, but broad participants also generalize these belief updates to strangers. These findings align with a model in which independent sampling promotes learning about outgroups more than prolonged interaction with a single individual does. Nevertheless, neither type of contact changes behavior toward the wider outgroup.</description>
+<link>https://www.nber.org/papers/w35884#fromrss</link>
+<guid>https://www.nber.org/papers/w35884#fromrss</guid>
+</item>
+<item>
+<title>Explaining Realized Returns: Roll’s R2 40 Years Later -- by Bryan T. Kelly, Yinan Su, Chao Zhang</title>
+<description>Can we explain asset price movements even with ex post observations of their drivers? Reinterpreting Roll’s (1988) AFA Presidential Address, “R2,” as a modern empirical exercise, we show that conventional macroeconomic, cash-flow, expectations, and flow variables deliver out-of-sample R2 values that are often negative and otherwise below 10% for monthly U.S. equity returns and are unavailable at the daily frequency. We use generative AI to extract newspaper-stated reasons from Wall Street Journal market summaries and filter out price and return language. These reasons explain around 30–40% of daily and monthly returns out of sample. Their content maps to interpretable themes, including corporate news, macroeconomic conditions, monetary policy, sentiment, and geopolitics.</description>
+<link>https://www.nber.org/papers/w35885#fromrss</link>
+<guid>https://www.nber.org/papers/w35885#fromrss</guid>
+</item>
+<item>
+<title>The Impact of Central Bank Stock Purchases: Evidence from Discontinuities in Policy Rules -- by Masao Fukui, Masayuki Yagasaki</title>
+<description>We trace the impact of central bank stock purchases by exploiting discontinuities in the Bank of Japan's policy rule, which triggers purchases when stock market index movements fall below a threshold. In normal times, the purchases raise the long-term interest rate while leaving no detectable impact on stock prices. After the introduction of yield curve control, which pegs the long-term yield at 0%, interest rates stop responding and stock prices rise robustly following the purchases. Although these results are inconsistent with the inelastic market hypothesis in its original form, general equilibrium extensions with endogenous interest rates explain our findings.</description>
+<link>https://www.nber.org/papers/w35886#fromrss</link>
+<guid>https://www.nber.org/papers/w35886#fromrss</guid>
+</item>
+<item>
+<title>Road Pricing under Heterogeneity -- by Itai Ater, Brad Ross, Adi Shany, Shoshana Vasserman</title>
+<description>Congestion pricing policies are widely debated and critics often argue that toll costs outweigh congestion relief. We show theoretically that welfare gains depend on two forces: the extent of driver heterogeneity—both in preferences and in exposure to highly demanded roads and times of day—and the extent of revenue recycling. We quantify the impact of both forces using data from a large-scale experiment that tracked driving behavior with and without usage-based congestion pricing incentives for nearly 10,000 drivers over two years. Using a model of time-varying traffic equilibrium with heterogeneous drivers and a granular road network, we show that a congestion pricing policy using the experiment's price schedule would raise welfare by as much as adding a new lane to every highway and would raise enough revenue to fully compensate losers. Moreover, the extent of driver heterogeneity entails that optimal prices can improve net welfare with only a small fraction of toll revenue.</description>
+<link>https://www.nber.org/papers/w35887#fromrss</link>
+<guid>https://www.nber.org/papers/w35887#fromrss</guid>
+</item>
+<item>
+<title>Access to Capital and the IPO Decision: An Analysis of US Private Firms -- by Andres Almazan, Nathan Swem, Sheridan Titman, Gregory Weitzner</title>
+<description>We analyze firms’ IPO decisions using detailed financial data on US private firms. Firms with higher external capital needs are more likely to go public. Following the IPO, firms increase investment and debt issuance, leaving their leverage ratios un-changed from pre-IPO levels. Finally, newly public firms borrow from an expanded pool of lenders on improved terms, and the within-firm dispersion in banks’ private risk assessments declines. Our analysis suggests that firms go public to improve their access to capital, which is facilitated by reduced asymmetric information, and that the benefit extends beyond the IPO itself to new sources of debt.</description>
+<link>https://www.nber.org/papers/w35888#fromrss</link>
+<guid>https://www.nber.org/papers/w35888#fromrss</guid>
+</item>
+<item>
+<title>Industrial Policy via the IPO Market -- by Zhiguo He, Yiming Qian, Xi Sun, Wang Renxuan</title>
+<description>This paper studies how China uses access to public equity markets as an instrument of industrial policy. We find that policy-favored status, rather than industry Tobin's Q, predicts IPO activity, in contrast to the United States. The effect is economically large: our estimates imply that favored industries had 287% more IPOs and 148% higher IPO proceeds than non-favored industries over 2002 to 2022. We develop a framework to interpret these findings: the government shapes the number of listing opportunities available across industries, while market forces determine which firms obtain these opportunities based on firm fundamentals. Consistent with our framework, policy favor also predicts a valuation premium which persists after listing.</description>
+<link>https://www.nber.org/papers/w35889#fromrss</link>
+<guid>https://www.nber.org/papers/w35889#fromrss</guid>
+</item>
+<item>
+<title>Gains from Trade in Gun Policy: A Compensation-Based Benchmark -- by Bradley Shapiro, Sara Drango, Sarah Moshary</title>
+<description>Policies restricting gun sales face substantial political opposition and constitutional constraints. In this paper, we ask how costly it would be to induce potential hand-gun buyers to choose less lethal alternatives. Pairing stated-choice experiments with a behavioral model of firearm choice, we estimate the payments required to induce substitution away from handguns toward long guns or no gun purchase. We then compare these payments with the resulting mortality benefits. We find substantial gains from trade: many prospective handgun buyers require relatively little compensation to switch and targeted compensation can avert homicides at a social cost well below conventional estimates of the value of a statistical life. The extent to which these gains can be realized through compensation, however, depends on the state’s information about which consumers would change their choices and at what price. Without this information, uniform subsidies pay consumers who would choose an alternative anyway and overcompensate those willing to switch for less, sharply increasing government expenditure and reducing the optimal scale of compensation.</description>
+<link>https://www.nber.org/papers/w35890#fromrss</link>
+<guid>https://www.nber.org/papers/w35890#fromrss</guid>
+</item>
+<item>
+<title>Measurement Error in Self-Reported Data on Stigmatized Behavior: Experimental Evidence on Intimate Partner Violence -- by Jorge M. Agüero, Ursula T. Aldana, Erica M. Field, Veronica Frisancho, Ignacio Rodriguez Hurtado, Javier Romero</title>
+<description>Error in the measurement of key development outcomes affects our understanding of socioeconomic phenomena and their policy implications. This paper focuses on measuring intimate partner violence (IPV), a public health issue affecting women globally. We introduce a novel, privacy-enhancing data collection method using a ballot, comparing it to standard survey techniques in which responses are not kept private from enumerators, and list experiments, an approach ensuring complete anonymity. Our findings show that improved privacy yields higher and more accurate IPV reports than both, especially among women with low education. By linking our data with two natural experiments, we demonstrate that the non-random nature of underreporting with standard methods can lead to biased estimates of IPV determinants.</description>
+<link>https://www.nber.org/papers/w35891#fromrss</link>
+<guid>https://www.nber.org/papers/w35891#fromrss</guid>
+</item>
+<item>
+<title>Strategic Complementarity and Persistence in Linear-Quadratic Mean Field Games -- by Fernando E. Alvarez, David Argente</title>
+<description>We study the relation between strategic complementarities and aggregate persistence in linear-quadratic mean field games with interactions in states and actions. The framework provides local approximations to common macroeconomic problems, including capital accumulation and multiproduct pricing. We show that the equilibrium aggregate dynamics coincide with those of a single-agent linear-quadratic control problem in which state and action curvatures are adjusted for strategic interactions. This result gives conditions for equilibrium existence, establishes uniqueness, and links strategic interactions to aggregate adjustment. We establish conditions under which stronger state complementarities increase persistence, while stronger action complementarities reduce it, even in multidimensional problems whose underlying matrices are not simultaneously diagonalizable. Under these conditions, internalizing state complementarities makes the utilitarian planner’s allocation more persistent, while internalizing action complementarities makes it less persistent. With common shocks, we give conditions under which individual and aggregate dynamics can be combined to identify strategic interactions and model parameters. Finally, we extend the analysis to interactions through higher moments of the state distribution.</description>
+<link>https://www.nber.org/papers/w35892#fromrss</link>
+<guid>https://www.nber.org/papers/w35892#fromrss</guid>
+</item>
+<item>
+<title>Affirmative Action in Centralized College Admissions Systems -- by Nano Barahona, Cauê Dobbin, Sebastián Otero</title>
+<description>We study the consequences of affirmative action in college admissions. We develop an empirical framework that distinguishes the effects on marginally benefited and displaced students from the overall effects of the policy. The overall effects include equilibrium reallocations as benefited students leave seats that others fill and displaced students take seats elsewhere, displacing others in turn. We apply this framework to a large-scale policy in Brazil that required all federal institutions to reserve half their seats for racially and socioeconomically disadvantaged applicants. Exploiting admissions cutoffs, we find that marginally benefited targeted students attend and graduate from higher-quality programs. Their graduation gains are about twice the losses of marginally displaced non-targeted students, reflecting targeted students’ weaker outside options. To evaluate the overall effects, we estimate a model of degree choices and potential outcomes. Among all reallocated students, benefited students still gain nearly twice what displaced students lose, but equilibrium reallocations make the policy displace about 30% more students than it benefits. Non-targeted students’ losses therefore offset about two-thirds of targeted students’ graduation gains, leaving a modest net gain across all students.</description>
+<link>https://www.nber.org/papers/w35893#fromrss</link>
+<guid>https://www.nber.org/papers/w35893#fromrss</guid>
+</item>
+<item>
+<title>Estimating the Impact of Targeted Public Policies with Limited Data -- by Kelly M. Jones, Mayra Pineda-Torres</title>
+<description>Many public policies aim to support (or change the behavior of) a specific, targeted sub-group of the population. To measure the causal impacts of such policies, social scientists use quasi-experimental methods of policy evaluation, but are often hampered by data availability issues, especially regarding targeted populations, who are often disadvantaged and/or vulnerable. We use power calculations to quantify the challenge of detecting a policy’s impact on a small minority population based on population level data, using the impact of abortion bans on economic welfare as an example. We provide insight into this challenge and a roadmap for how researchers can calculate, ex-ante, whether their study is sufficiently powered to detect reasonably meaningful effect sizes.</description>
+<link>https://www.nber.org/papers/w35894#fromrss</link>
+<guid>https://www.nber.org/papers/w35894#fromrss</guid>
+</item>
+<item>
+<title>Do Judges Move Markets? Ideological Shifts in the Supreme Court and Macroeconomic Expectations -- by Thomas Drechsel, Naixin Zhang</title>
+<description>This paper studies how judicial ideology shapes financial markets' expectations about the macroeconomy. We use unexpected deaths of U.S. Supreme Court Justices as quasi-experimental shifts in the Court's ideological balance. High-frequency asset price responses reveal how markets perceive the macroeconomic consequences of these ideological shifts. We find that a more conservative Court is associated with lower inflation expectations, lower real activity expectations, and lower bond yields. A shift towards a more liberal Court induces the opposite responses. The finding that inflation and activity expectations respond with the same sign suggests that markets revise their expectations about aggregate demand, rather than aggregate supply. Moreover, contrasting the yield responses with estimates from studies of fiscal policy news indicates that a more conservative (liberal) Court leads markets to expect tighter (looser) future fiscal policy. We validate our quasi-experimental setup with sectoral asset price dynamics, such as high-frequency responses of clean energy and health care stocks. Taken together, our findings are consistent with markets interpreting changes in the Supreme Court's ideological composition as news about future fiscal expansions or contractions.</description>
+<link>https://www.nber.org/papers/w35895#fromrss</link>
+<guid>https://www.nber.org/papers/w35895#fromrss</guid>
+</item>
+<item>
+<title>When Cash Flows Turn Negative: Liquidity-Driven Selling by Pension Funds -- by Aleksandar Andonov, Kristy A. E. Jansen, Joshua Rauh</title>
+<description>Pension funds are long-horizon investors with predictable liability structures. As such, they are often perceived as investors who can provide liquidity and stabilize markets. However, pension funds increasingly face negative operating cash flows as benefit payments exceed contributions. Using aggregate data on U.S. public pension funds combined with granular holdings obtained through public records requests, we document three findings that challenge the conventional view of pension funds as stabilizing investors. First, pension funds with more negative cash flows do not adjust their target asset allocations and maintain low allocations to safe and liquid assets. Second, because of these limited safe asset buffers, pension funds meet cash flow shocks primarily by selling equities, absorbing $0.67 per dollar of shock through equity sales. At the security level, pension funds sell across equities rather than following a safe and liquid-assets-first approach. Third, pension funds sell equities even when equity returns are negative, indicating that these trades reflect liquidity needs rather than portfolio rebalancing. Together, these findings show that pension funds have become regular sellers in equity markets rather than contrarian, stabilizing investors.</description>
+<link>https://www.nber.org/papers/w35896#fromrss</link>
+<guid>https://www.nber.org/papers/w35896#fromrss</guid>
+</item>
+<item>
+<title>Inverted Gravity -- by James E. Anderson, Mario Larch, Yoto V. Yotov</title>
+<description>We invert structural gravity to recover trade cost changes delivering targeted outcomes. For attainable welfare targets, one instrument per target yields a unique solution. At unchanged producer prices and to first order, each instrument must change by the welfare target divided by its own expenditure share; the required domestic change is about the size of the target, while the import change is several times larger. Inverting observed trade flows gives a separate trade cost change for each of the two directions in which a pair of countries trades. Applications to NAFTA and world trade illustrate the benefits of our approach.</description>
+<link>https://www.nber.org/papers/w35897#fromrss</link>
+<guid>https://www.nber.org/papers/w35897#fromrss</guid>
+</item>
+</channel>
+</rss>

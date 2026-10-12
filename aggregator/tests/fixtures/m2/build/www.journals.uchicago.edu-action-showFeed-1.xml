@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel rdf:about="https://www.journals.uchicago.edu/loi/jpe?af=R">
+      <title>The University of Chicago Press: Journal of Political Economy: Table of Contents</title>
+      <description>Table of Contents for Journal of Political Economy. List of articles from both the latest and ahead of print issues.</description>
+      <link>https://www.journals.uchicago.edu/loi/jpe?af=R</link>
+      <dc:title>The University of Chicago Press: Journal of Political Economy: Table of Contents</dc:title>
+      <dc:publisher>The University of Chicago Press</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742418?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742423?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742435?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742421?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742424?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/744158?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/744159?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/743929?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742714?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742713?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742725?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742716?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R"/>
+            <rdf:li rdf:resource="https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="http://www.atypon.com/images/atypon_logo_small.gif">
+      <title>Journal of Political Economy</title>
+      <url>http://www.atypon.com/images/atypon_logo_small.gif</url>
+      <link>https://www.journals.uchicago.edu/loi/jpe?af=R</link>
+   </image>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R">
+      <title>From Doubt to Devotion: Trials and
+                                                  Learning-Based Pricing</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2683-2739, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2683-2739, September 2026. &lt;br/&gt;</description>
+      <dc:title>From Doubt to Devotion: Trials and
+                                                  Learning-Based Pricing</dc:title>
+      <dc:identifier>doi:10.1086/742434</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-08-13T03:04:17Z</dc:date>
+      <dc:creator>Tan GanNicholas WuLondon School of EconomicsYale University</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2683</prism:startingPage>
+      <prism:endingPage>2739</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742434</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742434?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R">
+      <title>Markups: A Search-Theoretic
+                                                  Perspective</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2871-2925, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2871-2925, September 2026. &lt;br/&gt;</description>
+      <dc:title>Markups: A Search-Theoretic
+                                                  Perspective</dc:title>
+      <dc:identifier>doi:10.1086/742420</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-07-31T07:13:07Z</dc:date>
+      <dc:creator>Guido MenzioNew York University and National Bureau of Economic Research</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2871</prism:startingPage>
+      <prism:endingPage>2925</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742420</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742420?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742418?af=R">
+      <title>Optimal Tests Following Sequential
+                                                  Experiments</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742418?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2778-2823, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2778-2823, September 2026. &lt;br/&gt;</description>
+      <dc:title>Optimal Tests Following Sequential
+                                                  Experiments</dc:title>
+      <dc:identifier>doi:10.1086/742418</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-07-29T03:40:41Z</dc:date>
+      <dc:creator>Karun AdusumilliUniversity of Pennsylvania</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2778</prism:startingPage>
+      <prism:endingPage>2823</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742418</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742418?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R">
+      <title>Rent Guarantee
+                                                  Insurance</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2557-2601, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2557-2601, September 2026. &lt;br/&gt;</description>
+      <dc:title>Rent Guarantee
+                                                  Insurance</dc:title>
+      <dc:identifier>doi:10.1086/742422</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-08-10T08:28:19Z</dc:date>
+      <dc:creator>Boaz AbramsonStijn Van NieuwerburghColumbia Business SchoolColumbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2557</prism:startingPage>
+      <prism:endingPage>2601</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742422</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742422?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742423?af=R">
+      <title>The Effect of Education Policy on
+                                                  Crime: An Intergenerational
+                                                  Perspective</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742423?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2602-2638, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2602-2638, September 2026. &lt;br/&gt;</description>
+      <dc:title>The Effect of Education Policy on
+                                                  Crime: An Intergenerational
+                                                  Perspective</dc:title>
+      <dc:identifier>doi:10.1086/742423</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-08-10T08:29:15Z</dc:date>
+      <dc:creator>Ulrika AhrsjöCostas MeghirMårten PalmeMarieke SchnabelStockholm School of EconomicsYale University, Institute for Fiscal Studies, National Bureau of Economic
+          Research, Institute of Labor Economics, Centre for Economic Policy Research, and Institute
+          for Evaluation of Labour Market and Education PolicyStockholm University, CESifo, Institute for Fiscal Studies, Institute for
+          Labor Economics, and Rockwool FoundationUniversity College London</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2602</prism:startingPage>
+      <prism:endingPage>2638</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742423</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742423?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742435?af=R">
+      <title>Illiquid Lemon Markets and the
+                                                  Macroeconomy</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742435?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2824-2870, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2824-2870, September 2026. &lt;br/&gt;</description>
+      <dc:title>Illiquid Lemon Markets and the
+                                                  Macroeconomy</dc:title>
+      <dc:identifier>doi:10.1086/742435</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-07-27T07:04:53Z</dc:date>
+      <dc:creator>Aimé BierdelAndres DrenikJuan HerreñoPablo OttonelloBain and CompanyUniversity of Texas at Austin and National Bureau of Economic ResearchUniversity of California, San Diego, and National Bureau of Economic ResearchUniversity of Maryland, Federal Reserve Bank of Minneapolis, and National Bureau of Economic Research</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2824</prism:startingPage>
+      <prism:endingPage>2870</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742435</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742435?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742421?af=R">
+      <title>Mis(sed) Diagnosis: Physician
+                                                  Decision-Making and ADHD</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742421?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2639-2682, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2639-2682, September 2026. &lt;br/&gt;</description>
+      <dc:title>Mis(sed) Diagnosis: Physician
+                                                  Decision-Making and ADHD</dc:title>
+      <dc:identifier>doi:10.1086/742421</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-02T02:02:55Z</dc:date>
+      <dc:creator>Kelli MarquardtFederal Reserve Bank of Chicago</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2639</prism:startingPage>
+      <prism:endingPage>2682</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742421</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742421?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742424?af=R">
+      <title>Debiasing and
+                                                  t-Tests for Synthetic Control
+                                                  Inference on Average Causal
+                                                  Effects</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742424?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2740-2777, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2740-2777, September 2026. &lt;br/&gt;</description>
+      <dc:title>Debiasing and
+                                                  t-Tests for Synthetic Control
+                                                  Inference on Average Causal
+                                                  Effects</dc:title>
+      <dc:identifier>doi:10.1086/742424</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-08-21T03:21:23Z</dc:date>
+      <dc:creator>Victor ChernozhukovKaspar WüthrichYinchu ZhuMassachusetts Institute of Technology and University College LondonUniversity of MichiganBrandeis University</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2740</prism:startingPage>
+      <prism:endingPage>2777</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/742424</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742424?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/744158?af=R">
+      <title>Front Matter</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/744158?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page Inside front cover-i, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page Inside front cover-i, September 2026. &lt;br/&gt;</description>
+      <dc:title>Front Matter</dc:title>
+      <dc:identifier>doi:10.1086/744158</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-28T05:05:35Z</dc:date>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage/>
+      <prism:endingPage/>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/744158</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/744158?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/744159?af=R">
+      <title>Recent Referees</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/744159?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page Inside back cover-Inside back cover, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page Inside back cover-Inside back cover, September 2026. &lt;br/&gt;</description>
+      <dc:title>Recent Referees</dc:title>
+      <dc:identifier>doi:10.1086/744159</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-28T05:05:35Z</dc:date>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage/>
+      <prism:endingPage/>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/744159</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/744159?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/743929?af=R">
+      <title>JPE Turnaround Times</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/743929?af=R</link>
+      <content:encoded>Journal of Political Economy, &lt;a href="https://www.journals.uchicago.edu/toc/jpe/2026/134/9"&gt;Volume 134, Issue 9&lt;/a&gt;, Page 2926-2926, September 2026. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Volume 134, Issue 9, Page 2926-2926, September 2026. &lt;br/&gt;</description>
+      <dc:title>JPE Turnaround Times</dc:title>
+      <dc:identifier>doi:10.1086/743929</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-28T05:05:35Z</dc:date>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:volume>134</prism:volume>
+      <prism:number>9</prism:number>
+      <prism:startingPage>2926</prism:startingPage>
+      <prism:endingPage>2926</prism:endingPage>
+      <prism:coverDate>2026-09-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2026-09-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1086/743929</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/743929?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742714?af=R">
+      <title>Peer Effects and Rank Concerns in the Classroom</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742714?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Peer Effects and Rank Concerns in the Classroom</dc:title>
+      <dc:identifier>doi:10.1086/742714</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-03T06:05:07Z</dc:date>
+      <dc:creator>Michela M. TincaniUniversity College London (UCL), Institute for Fiscal Studies, Stone Centre at
+          UCL, CESifo, Human Capital and Economic Opportunity Global Working Group, and
+          INSPIRE</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742714</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742714?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742713?af=R">
+      <title>Environmental Consequences of Hydrocarbon Infrastructure Policy</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742713?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Environmental Consequences of Hydrocarbon Infrastructure Policy</dc:title>
+      <dc:identifier>doi:10.1086/742713</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-04T02:44:34Z</dc:date>
+      <dc:creator>Thomas R. CovertRyan KelloggAirbnbHarris School of Public Policy, University of Chicago; and National Bureau of
+          Economic Research</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742713</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742713?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742725?af=R">
+      <title>Regulatory Competition in the US Life Insurance Industry</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742725?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Regulatory Competition in the US Life Insurance Industry</dc:title>
+      <dc:identifier>doi:10.1086/742725</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-15T04:50:37Z</dc:date>
+      <dc:creator>Johnny TangCornell University</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742725</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742725?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742716?af=R">
+      <title>Quota Mechanisms: Finite-Sample Optimality and Robustness</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742716?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Quota Mechanisms: Finite-Sample Optimality and Robustness</dc:title>
+      <dc:identifier>doi:10.1086/742716</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-17T03:10:50Z</dc:date>
+      <dc:creator>Ian BallDeniz KattwinkelMassachusetts Institute of TechnologyUniversity College London</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742716</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742716?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R">
+      <title>Silence to Solidarity: How Communication about a Minority Affects Discrimination</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Silence to Solidarity: How Communication about a Minority Affects Discrimination</dc:title>
+      <dc:identifier>doi:10.1086/742724</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-22T04:46:33Z</dc:date>
+      <dc:creator>Duncan WebbNova School of Business and Economics</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742724</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742724?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R">
+      <title>Why Is Intermediating Houses So Difficult? Evidence from iBuyers</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Why Is Intermediating Houses So Difficult? Evidence from iBuyers</dc:title>
+      <dc:identifier>doi:10.1086/742710</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-25T03:50:46Z</dc:date>
+      <dc:creator>Greg BuchakGregor MatvosTomasz PiskorskiAmit SeruStanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic ResearchNorthwestern University and National Bureau of Economic ResearchColumbia University and National Bureau of Economic ResearchStanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742710</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742710?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R">
+      <title>Online Business Models, Digital Ads, and User Welfare</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>Online Business Models, Digital Ads, and User Welfare</dc:title>
+      <dc:identifier>doi:10.1086/742715</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-09-30T06:57:09Z</dc:date>
+      <dc:creator>Daron AcemogluDaniel HuttenlocherAsuman OzdaglarJames SideriusMassachusetts Institute of TechnologyTuck School of Business at Dartmouth</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742715</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742715?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+   <item rdf:about="https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R">
+      <title>The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining</title>
+      <link>https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R</link>
+      <content:encoded>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</content:encoded>
+      <description>Journal of Political Economy, Ahead of Print. &lt;br/&gt;</description>
+      <dc:title>The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining</dc:title>
+      <dc:identifier>doi:10.1086/742712</dc:identifier>
+      <dc:source>Journal of Political Economy</dc:source>
+      <dc:date>2026-08-25T04:57:53Z</dc:date>
+      <dc:creator>David A. GreenBen M. SandIain G. SnoddyJeanne TschoppUniversity of British Columbia and Institute for Fiscal StudiesYork UniversityAnalysis GroupUniversity of Bern</dc:creator>
+      <prism:publicationName>Journal of Political Economy</prism:publicationName>
+      <prism:startingPage>000</prism:startingPage>
+      <prism:endingPage>000</prism:endingPage>
+      <prism:doi>10.1086/742712</prism:doi>
+      <prism:url>https://www.journals.uchicago.edu/doi/abs/10.1086/742712?af=R</prism:url>
+      <prism:copyright/>
+   </item>
+</rdf:RDF>

@@ -74,7 +74,7 @@ NON_PAPER = re.compile(
 @dataclass(frozen=True)
 class Paper:
     id: str
-    doi: str
+    doi: str | None
     source: str
     kind: str
     title: str
@@ -93,9 +93,14 @@ class Paper:
     series_title: str | None = None
     # M3 populates Zotero fields. M1 does not perform Zotero mapping.
     zotero: dict = field(default_factory=dict)
+    aliases: list[str] = field(default_factory=list)
+    first_seen: str | None = None
+    date_precision: str = "published"
 
     def to_dict(self) -> dict:
-        return asdict(self)
+        data = asdict(self)
+        data.pop("aliases")  # URL aliases are internal merge metadata, not fetch targets.
+        return data
 
 
 def publication_date(item: dict) -> str | None:
@@ -168,4 +173,5 @@ def normalize_crossref(item: dict, source: Source) -> Paper | None:
         pages=str(item.get("page") or item.get("article-number")) if item.get("page") or item.get("article-number") else None,
         issn=_first(item.get("ISSN")) or (source.crossref.issn if source.crossref else None) if journal else None,
         institution=institution, series_title=source.name if not journal else None,
+        aliases=[v for v in (item.get("URL"), (item.get("resource") or {}).get("primary", {}).get("URL")) if isinstance(v, str)],
     )

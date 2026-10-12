@@ -1,0 +1,487 @@
+[
+  {
+    "paperId": "5656f71cf0f1827346f938f81297c58abb32e43b",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104358",
+      "CorpusId": 291846016
+    },
+    "title": "The value of trademarks",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104358",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104358?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104358, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2057113172",
+        "name": "P. Desai"
+      },
+      {
+        "authorId": "1572578787",
+        "name": "E. Gavrilova"
+      },
+      {
+        "authorId": "2110784979",
+        "name": "Rui Silva"
+      },
+      {
+        "authorId": "2192118643",
+        "name": "Margarida Soares"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "60b2b1cf9fd220a079aae2c90b74d4fe47121217",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104355",
+      "CorpusId": 291782927
+    },
+    "title": "Signaling with debt currency choice",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104355?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104355, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "97130185",
+        "name": "E. Eren"
+      },
+      {
+        "authorId": "2772316",
+        "name": "S. Malamud"
+      },
+      {
+        "authorId": "2049457437",
+        "name": "Hao-Nan Zhou"
+      }
+    ],
+    "abstract": "We document that firms in emerging markets borrow more in foreign currency when the local currency actually provides a better hedge in downturns. Motivated by this fact, we develop an international corporate finance model in which firms facing adverse selection choose the foreign currency share of their debt. In the unique separating equilibrium, good firms optimally expose themselves to currency risk to signal their type. Crucially, the nature of this equilibrium depends on the co-movement between cash flows and the exchange rate. We provide extensive empirical evidence for this signaling channel using a granular dataset including more than 4,800 firms in 19 emerging markets between 2005 and 2021. Our results have implications for evaluating and mitigating risks arising from currency mismatches in corporate balance sheets."
+  },
+  null,
+  {
+    "paperId": "c3ac4165649dea686e18fbd20497f351fd63922b",
+    "externalIds": {
+      "ArXiv": "2502.21206",
+      "DOI": "10.1016/j.jfineco.2026.104374",
+      "CorpusId": 276724662
+    },
+    "title": "Chronologically consistent large language models",
+    "openAccessPdf": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304405X26001455/pdf",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2502.21206, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2290008651",
+        "name": "Songrun He"
+      },
+      {
+        "authorId": "2289307099",
+        "name": "Linying Lv"
+      },
+      {
+        "authorId": "119201762",
+        "name": "Asaf Manela"
+      },
+      {
+        "authorId": "2348121283",
+        "name": "Jimmy Wu"
+      }
+    ],
+    "abstract": "Large language models are increasingly used in social sciences, but their training data can introduce lookahead bias and training leakage. A good chronologically consistent language model requires efficient use of training data to maintain accuracy despite time-restricted data. Here, we overcome this challenge by training a suite of chronologically consistent large language models, ChronoBERT and ChronoGPT, which incorporate only the text data that would have been available at each point in time. Despite this strict temporal constraint, our models achieve strong performance on natural language processing benchmarks, outperforming or matching widely used models (e.g., BERT), and remain competitive with larger open-weight models. Lookahead bias is model and application-specific because even if a chronologically consistent language model has poorer language comprehension, a regression or prediction model applied on top of the language model can compensate. In an asset pricing application predicting next-day stock returns from financial news, we find that ChronoBERT and ChronoGPT's real-time outputs achieve Sharpe ratios comparable to a much larger Llama model, indicating that lookahead bias is modest. Our results demonstrate a scalable, practical framework to mitigate training leakage, ensuring more credible backtests and predictions across finance and other social science domains."
+  },
+  {
+    "paperId": "9dff47c58211594f90461b0b378d089e675ac3e2",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104364",
+      "CorpusId": 292215926
+    },
+    "title": "Discounting timing strategies",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104364",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104364?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104364, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "4958613",
+        "name": "Toomas Laarits"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "228b9c5d66bc4b227b3216fc0c05deebea6241a1",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104353",
+      "CorpusId": 291786213
+    },
+    "title": "Removing the fine print: Disclosure, standardized products, and consumer outcomes",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104353",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104353?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104353, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "152516246",
+        "name": "Sheisha Kulkarni"
+      },
+      {
+        "authorId": "122543817",
+        "name": "Santiago Truffa"
+      },
+      {
+        "authorId": "119035317",
+        "name": "Gonzalo Iberti"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "12bfca45c665966eb29a606aed9924ed098e1c55",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104380",
+      "CorpusId": 292370806
+    },
+    "title": "Bankruptcy lawyers and credit recovery",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104380",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104380?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104380, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2272530275",
+        "name": "B. Lee"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7822a7dedadab25f3904f957a855fc63d02fa514",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104350",
+      "CorpusId": 291918335
+    },
+    "title": "AI and perception biases in investments: An experimental study",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104350?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104350, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3042015",
+        "name": "A. Fedyk"
+      },
+      {
+        "authorId": "2187597",
+        "name": "A. Kakhbod"
+      },
+      {
+        "authorId": "2297354644",
+        "name": "Pei-Yao Li"
+      },
+      {
+        "authorId": "2297302446",
+        "name": "Ulrike Malmendier"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "38e1445bb21dd7a63a307b689cf92902a994cbc1",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104362",
+      "CorpusId": 291983714
+    },
+    "title": "True liquidity and fundamental prices: U.S. tick size pilot",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104362?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104362, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2087593086",
+        "name": "Rohit Allena"
+      },
+      {
+        "authorId": "104633810",
+        "name": "T. Chordia"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0ed9c408540dcb3d3dd7b5237bd14baa6f6912d8",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104378",
+      "CorpusId": 292369140
+    },
+    "title": "What can macro-active bond funds tell us about monetary policy change?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104378",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104378?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104378, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3750230",
+        "name": "C. Hong"
+      },
+      {
+        "authorId": "144656245",
+        "name": "Jun Pan"
+      },
+      {
+        "authorId": "2149512721",
+        "name": "Shi-Wen Tian"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6045657a8ddea4032992dae7dafc13d9bdc67611",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104357",
+      "CorpusId": 292377076
+    },
+    "title": "Sustainable organizations",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104357",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104357?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104357, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "84089187",
+        "name": "Thomas A. Geelen"
+      },
+      {
+        "authorId": "123586623",
+        "name": "Jakub Hajda"
+      },
+      {
+        "authorId": "123592761",
+        "name": "J. Starmans"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "9765cf478f7036efdd8c20d5801372f79633e28a",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104360",
+      "CorpusId": 292213347
+    },
+    "title": "Do rights offerings reduce bargaining complexity in Chapter 11?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104360",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104360?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104360, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40496367",
+        "name": "Gunjan Seth"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "956f285e4a57aa6bff01f0aac1d94a5e78c0112f",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104354",
+      "CorpusId": 291948756
+    },
+    "title": "Great Recession babies: How are startups shaped by macro conditions at birth?",
+    "openAccessPdf": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304405X2600125X/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104354?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104354, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "119559087",
+        "name": "D. Bias"
+      },
+      {
+        "authorId": "47991350",
+        "name": "Alexander P. Ljungqvist"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5d1beacb2b336f759c8ec01aed17242b604acf58",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104361",
+      "CorpusId": 292313595
+    },
+    "title": "Machine-learning about ESG preferences: Evidence from fund flows",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104361",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104361?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104361, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "11777361",
+        "name": "George O. Aragon"
+      },
+      {
+        "authorId": "2143505154",
+        "name": "Shuai Chen"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  null,
+  {
+    "paperId": "7b21a6f9a4e27af547062abc2775444ca0f1f821",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104325",
+      "CorpusId": 291522845
+    },
+    "title": "Do proprietary traders provide liquidity?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.2139/ssrn.3724327",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104325?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104325, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "46232215",
+        "name": "Nittai K. Bergman"
+      },
+      {
+        "authorId": "2104839",
+        "name": "Ohad Kadan"
+      },
+      {
+        "authorId": "11037233",
+        "name": "R. Michaely"
+      },
+      {
+        "authorId": "104587556",
+        "name": "P. Moulton"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "91e5ab825edf687c1a65bd91c255df4fb8d31226",
+    "externalIds": {
+      "DOI": "10.1016/s0304-405x(26)00139-x",
+      "CorpusId": 291855165
+    },
+    "title": "Editorial Board",
+    "openAccessPdf": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304405X2600139X/pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/s0304-405x(26)00139-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/s0304-405x(26)00139-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "6600db0ae47378914db7d0472f7c546c021dc868",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104352",
+      "CorpusId": 291449886
+    },
+    "title": "Macroprudential regulation and banks’ supply of liquidity services",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.17632/m4nd49dg3z",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104352?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104352, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "46948212",
+        "name": "Josef Schroth"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "a62654179b913b6a252223c4fa272f1a34ca1fec",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104338",
+      "CorpusId": 290279994
+    },
+    "title": "Strategic communication among banks",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jfineco.2026.104338",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104338?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104338, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2080753764",
+        "name": "C. Bittner"
+      },
+      {
+        "authorId": "119154181",
+        "name": "Falko Fecht"
+      },
+      {
+        "authorId": "2147078927",
+        "name": "Melissa Pala"
+      },
+      {
+        "authorId": "143675651",
+        "name": "F. Saidi"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2454e65f183a718407a6daa95e3c46fb4861bf26",
+    "externalIds": {
+      "DOI": "10.1016/j.jfineco.2026.104349",
+      "CorpusId": 290880281
+    },
+    "title": "Institutional investor mandates, securities lending, and short-selling constraints",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.2139/ssrn.4627075",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jfineco.2026.104349?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jfineco.2026.104349, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2106737267",
+        "name": "T. Sikorskaya"
+      }
+    ],
+    "abstract": null
+  }
+]

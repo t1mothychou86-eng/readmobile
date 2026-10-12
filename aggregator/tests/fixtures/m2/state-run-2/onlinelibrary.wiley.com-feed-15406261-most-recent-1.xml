@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     version="2.0">
+   <channel>
+      <title>Wiley: The Journal of Finance: Table of Contents</title>
+      <link>https://onlinelibrary.wiley.com/journal/15406261?af=R</link>
+      <description>Table of Contents for The Journal of Finance. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© American Finance Association</copyright>
+      <managingEditor>papercart@example.invalid (Wiley Online Library)</managingEditor>
+      <pubDate>Mon, 12 Oct 2026 08:19:21 +0000</pubDate>
+      <lastBuildDate>Mon, 12 Oct 2026 08:19:21 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: The Journal of Finance: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>The Journal of Finance</prism:publicationName>
+      <atom:link href="https://onlinelibrary.wiley.com/journal/15406261?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: The Journal of Finance: Table of Contents</title>
+         <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15406261.jpg</url>
+         <link>https://onlinelibrary.wiley.com/journal/15406261?af=R</link>
+      </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R</link>
+         <pubDate>Thu, 08 Oct 2026 23:37:24 -0700</pubDate>
+         <dc:date>2026-10-08T11:37:24-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70089</guid>
+         <title>Generative AI and Firm Values</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure of firms' workforce exposures to Generative AI and show that an “Artificial‐Minus‐Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor‐exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor‐technology substitution channel.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure of &lt;i&gt;firms' workforce exposures&lt;/i&gt; to Generative AI and show that an “Artificial-Minus-Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor-exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor-technology substitution channel.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+ANDREA L. EISFELDT, 
+GREGOR SCHUBERT, 
+MIAO BEN ZHANG, 
+BLEDI TASKA
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Generative AI and Firm Values</dc:title>
+         <dc:identifier>10.1111/jofi.70089</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70089</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R</link>
+         <pubDate>Thu, 08 Oct 2026 04:21:27 -0700</pubDate>
+         <dc:date>2026-10-08T04:21:27-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70080</guid>
+         <title>Feedback and Contagion through Distressed Competition</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+Firms tend to compete more aggressively when facing financial distress. This intensified competition reduces profit margins, pushing them further into distress and adversely affecting their industry peers. To study such feedback and contagion effects, we incorporate strategic competition in a dynamic model with long‐term defaultable debt, exploring various peer interactions such as predation and price wars. The feedback effect represents a novel source of financial distress costs associated with leverage, which helps explain the negative profitability‐leverage relation across industries. Owing to the contagion effect, firms' optimal leverage is often excessively high from an industry perspective, undermining the industry's financial stability.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Firms tend to compete more aggressively when facing financial distress. This intensified competition reduces profit margins, pushing them further into distress and adversely affecting their industry peers. To study such feedback and contagion effects, we incorporate strategic competition in a dynamic model with long-term defaultable debt, exploring various peer interactions such as predation and price wars. The feedback effect represents a novel source of financial distress costs associated with leverage, which helps explain the negative profitability-leverage relation across industries. Owing to the contagion effect, firms' optimal leverage is often excessively high from an industry perspective, undermining the industry's financial stability.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+HUI CHEN, 
+WINSTON WEI DOU, 
+HONGYE GUO, 
+YAN JI
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Feedback and Contagion through Distressed Competition</dc:title>
+         <dc:identifier>10.1111/jofi.70080</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70080</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R</link>
+         <pubDate>Thu, 08 Oct 2026 00:21:20 -0700</pubDate>
+         <dc:date>2026-10-08T12:21:20-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70084</guid>
+         <title>The Financial Premium</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+We show that bonds issued by financial firms have higher spreads than bonds issued by industrial firms with the same rating and maturity, a difference that we refer to as the financial premium. Over the period 1987 to 2020, in the United States, this premium is 43 basis points on average, with the premium higher for lower ratings, higher during financial crises, and increasing in bond beta. We derive a model that explains the financial premium: banks hold diversified portfolios of nonfinancial debt, and bank debt therefore reflects more systematic risk than nonfinancial debt.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We show that bonds issued by financial firms have higher spreads than bonds issued by industrial firms with the same rating and maturity, a difference that we refer to as the financial premium. Over the period 1987 to 2020, in the United States, this premium is 43 basis points on average, with the premium higher for lower ratings, higher during financial crises, and increasing in bond beta. We derive a model that explains the financial premium: banks hold diversified portfolios of nonfinancial debt, and bank debt therefore reflects more systematic risk than nonfinancial debt.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+JENS DICK‐NIELSEN, 
+PETER FELDHÜTTER, 
+DAVID LANDO
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Financial Premium</dc:title>
+         <dc:identifier>10.1111/jofi.70084</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70084</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R</link>
+         <pubDate>Wed, 07 Oct 2026 23:32:15 -0700</pubDate>
+         <dc:date>2026-10-07T11:32:15-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70083</guid>
+         <title>Flow‐Driven ESG Returns</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACTI show that the recent returns to environmental, social, and governance (ESG) investing are strongly driven by price impact from flows toward ESG portfolios. Using data on trades, I estimate the market's ability to accommodate ESG flows, which is given by the elasticity of substitution between ESG and other stocks. I show that every dollar flowing toward a representative ESG portfolio increases the market value of ESG stocks by $0.8. The growing institutional flows into the ESG portfolio are the main driver of ESG returns and have caused an annual flow‐driven return of 1.9%. In the absence of flows, ESG stocks would not have outperformed the market from 2012 to 2023.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;&lt;p&gt;I show that the recent returns to environmental, social, and governance (ESG) investing are strongly driven by price impact from flows toward ESG portfolios. Using data on trades, I estimate the market's ability to accommodate ESG flows, which is given by the elasticity of substitution between ESG and other stocks. I show that every dollar flowing toward a representative ESG portfolio increases the market value of ESG stocks by $0.8. The growing institutional flows into the ESG portfolio are the main driver of ESG returns and have caused an annual flow-driven return of 1.9%. In the absence of flows, ESG stocks would not have outperformed the market from 2012 to 2023.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+PHILIPPE VAN DER BECK
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Flow‐Driven ESG Returns</dc:title>
+         <dc:identifier>10.1111/jofi.70083</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70083</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R</link>
+         <pubDate>Wed, 07 Oct 2026 07:00:54 -0700</pubDate>
+         <dc:date>2026-10-07T07:00:54-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70085</guid>
+         <title>When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock‐bond covariance into terms corresponding to the convenience yield, the frictionless risk‐free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock-bond covariance into terms corresponding to the convenience yield, the frictionless risk-free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+VIRAL V. ACHARYA, 
+TOOMAS LAARITS
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective</dc:title>
+         <dc:identifier>10.1111/jofi.70085</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70085</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70090?af=R</link>
+         <pubDate>Wed, 07 Oct 2026 02:01:17 -0700</pubDate>
+         <dc:date>2026-10-07T02:01:17-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70090</guid>
+         <title>Targeted Philanthropy: Evidence from M&amp;As</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+I show how firms optimize the allocation of charitable funds around investments that require external stakeholder support, such as mergers and acquisitions. Acquirers increase donations to target‐related charities before making a takeover offer, but scale funds back after withdrawing from a deal. Firms redistribute funds from nontakeover‐related areas to target insider–affiliated charities, employee communities, and counties with a regulatory presence. Targeted donations that encourage blockholder reciprocity and employee commitment are associated with better deal performance through decreased merger premiums and lower integration costs. Overall, the results highlight firms’ use of philanthropy to manage stakeholder relations in takeover decisions.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;I show how firms optimize the allocation of charitable funds around investments that require external stakeholder support, such as mergers and acquisitions. Acquirers increase donations to target-related charities before making a takeover offer, but scale funds back after withdrawing from a deal. Firms redistribute funds from nontakeover-related areas to target insider–affiliated charities, employee communities, and counties with a regulatory presence. Targeted donations that encourage blockholder reciprocity and employee commitment are associated with better deal performance through decreased merger premiums and lower integration costs. Overall, the results highlight firms’ use of philanthropy to manage stakeholder relations in takeover decisions.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+CARA VANSTEENKISTE
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Targeted Philanthropy: Evidence from M&amp;As</dc:title>
+         <dc:identifier>10.1111/jofi.70090</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70090</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70090?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70092?af=R</link>
+         <pubDate>Wed, 30 Sep 2026 00:19:52 -0700</pubDate>
+         <dc:date>2026-09-30T12:19:52-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70092</guid>
+         <title>The Real Channel for Nominal Bond‐Stock Puzzles</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+We document that the nature of aggregate consumption dynamics changes when the bond‐stock correlation switches sign. We identify three regimes in a real‐time, sequential learning framework: two highly persistent regimes where permanent or transitory consumption shocks are more dominant, and a largely transitory disaster regime. We study the implications for asset prices. The transition from the second to the first regime in the late 1990s makes the correlation between equities and real bonds switch from positive to negative as in the data, providing an explanation from the perspective of real consumption dynamics. The findings extend to the international setting.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We document that the nature of aggregate consumption dynamics changes when the bond-stock correlation switches sign. We identify three regimes in a real-time, sequential learning framework: two highly persistent regimes where permanent or transitory consumption shocks are more dominant, and a largely transitory disaster regime. We study the implications for asset prices. The transition from the second to the first regime in the late 1990s makes the correlation between equities and real bonds switch from positive to negative as in the data, providing an explanation from the perspective of real consumption dynamics. The findings extend to the international setting.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+MIKHAIL CHERNOV, 
+LARS A. LOCHSTOER, 
+DONGHO SONG
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Real Channel for Nominal Bond‐Stock Puzzles</dc:title>
+         <dc:identifier>10.1111/jofi.70092</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70092</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70092?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70091?af=R</link>
+         <pubDate>Wed, 30 Sep 2026 00:18:43 -0700</pubDate>
+         <dc:date>2026-09-30T12:18:43-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70091</guid>
+         <title>Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+Using a novel data set of multi‐country credit registers and an institutional change from national to supranational supervision, we show that supranational banking supervision can increase credit supply while mitigating excessive risk‐taking. Supranational supervision increases credit supply only in financially stressed countries while reducing the credit supply to the riskiest (zombie) firms. These improved lending effects stem from weaker national institutions, differential national supervisory incentives, lower national supervisory abilities, and weaker national insolvency laws. Moreover, improved access to external finance from wholesale and bond markets as well as lower risk‐weighted assets allow supranationally supervised banks to expand the supply of credit. Overall, despite some supranational supervisory arbitrage, supranational supervision decreases firm‐level credit to the riskiest firms while increasing firm‐level credit availability in stressed countries without reducing it in nonstressed countries.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Using a novel data set of multi-country credit registers and an institutional change from national to supranational supervision, we show that supranational banking supervision can increase credit supply while mitigating excessive risk-taking. Supranational supervision increases credit supply only in financially stressed countries while reducing the credit supply to the riskiest (zombie) firms. These improved lending effects stem from weaker national institutions, differential national supervisory incentives, lower national supervisory abilities, and weaker national insolvency laws. Moreover, improved access to external finance from wholesale and bond markets as well as lower risk-weighted assets allow supranationally supervised banks to expand the supply of credit. Overall, despite some supranational supervisory arbitrage, supranational supervision decreases firm-level credit to the riskiest firms while increasing firm-level credit availability in stressed countries without reducing it in nonstressed countries.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+CARLO ALTAVILLA, 
+MIGUEL BOUCINHA, 
+MARTINA JASOVA, 
+JOSÉ‐LUIS PEYDRÓ, 
+FRANK SMETS
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers</dc:title>
+         <dc:identifier>10.1111/jofi.70091</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70091</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70091?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70087?af=R</link>
+         <pubDate>Wed, 30 Sep 2026 00:02:10 -0700</pubDate>
+         <dc:date>2026-09-30T12:02:10-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70087</guid>
+         <title>Mind the App: Mobile Access to Financial Information and Consumer Behavior</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+We study whether easier monitoring of personal finances affects consumer spending. We use transaction data from an account aggregation company to study consumers who installed the mobile app after using the same service on a personal computer for several months. We utilize the staggered release of the apps on different devices (iPhone, iPad, and Android) to identify a causal effect conditional on adoption of the mobile app. Consumers decrease their discretionary spending following the installation of the mobile app. The decrease is larger during evening hours and among individuals with lower proxies of self‐control, patterns consistent with a monitoring/self‐regulation channel and with benchmark models of costly self‐control.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We study whether easier monitoring of personal finances affects consumer spending. We use transaction data from an account aggregation company to study consumers who installed the mobile app after using the same service on a personal computer for several months. We utilize the staggered release of the apps on different devices (iPhone, iPad, and Android) to identify a causal effect conditional on adoption of the mobile app. Consumers decrease their discretionary spending following the installation of the mobile app. The decrease is larger during evening hours and among individuals with lower proxies of self-control, patterns consistent with a monitoring/self-regulation channel and with benchmark models of costly self-control.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+YARON LEVI, 
+SHLOMO BENARTZI
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Mind the App: Mobile Access to Financial Information and Consumer Behavior</dc:title>
+         <dc:identifier>10.1111/jofi.70087</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70087</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70087?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093?af=R</link>
+         <pubDate>Wed, 30 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-30T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70093</guid>
+         <title>The Politicization of Social Responsibility</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+Institutional investors are less likely to support shareholder proposals on environmental and social issues for firms headquartered in Republican‐led states. The decline in support has become more pronounced in recent years, aligning with politicians emphasizing companies’ social responsibility efforts, and among firms receiving state‐level subsidies and tax breaks. Investor support also varies with shifts in state leadership, dropping by 12 percentage points in the same state when Republicans are in control instead of Democrats. The findings indicate that institutional investors prioritize maximizing shareholder value and that politicians can influence investor votes by altering the value implications of shareholder proposals.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Institutional investors are less likely to support shareholder proposals on environmental and social issues for firms headquartered in Republican-led states. The decline in support has become more pronounced in recent years, aligning with politicians emphasizing companies’ social responsibility efforts, and among firms receiving state-level subsidies and tax breaks. Investor support also varies with shifts in state leadership, dropping by 12 percentage points in the same state when Republicans are in control instead of Democrats. The findings indicate that institutional investors prioritize maximizing shareholder value and that politicians can influence investor votes by altering the value implications of shareholder proposals.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+TODD A. GORMLEY, 
+MANISH JHA, 
+MENG WANG
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Politicization of Social Responsibility</dc:title>
+         <dc:identifier>10.1111/jofi.70093</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70093</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70094?af=R</link>
+         <pubDate>Tue, 29 Sep 2026 23:32:44 -0700</pubDate>
+         <dc:date>2026-09-29T11:32:44-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70094</guid>
+         <title>Money to Burn: Crowdfunding Wildfire Recovery</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+Person‐to‐person crowdfunding is an increasingly important form of disaster relief, yet its distribution is poorly understood. Linking GoFundMe campaigns from a major wildfire to property and household credit records, we find that higher‐income households are 12 pp more likely to have campaigns and raise over 25% more, holding property losses constant. These disparities reflect unequal access to social capital: broader donor bases, more nonlocal ties, greater advocacy by friends, and more generous donors. Donors appear influenced by social pressure in online crowdfunding. These mechanisms mirror national patterns and underscore crowdfunding's limitations as a tool for equitable disaster relief.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Person-to-person crowdfunding is an increasingly important form of disaster relief, yet its distribution is poorly understood. Linking GoFundMe campaigns from a major wildfire to property and household credit records, we find that higher-income households are 12 pp more likely to have campaigns and raise over 25% more, holding property losses constant. These disparities reflect unequal access to social capital: broader donor bases, more nonlocal ties, greater advocacy by friends, and more generous donors. Donors appear influenced by social pressure in online crowdfunding. These mechanisms mirror national patterns and underscore crowdfunding's limitations as a tool for equitable disaster relief.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+J. ANTHONY COOKSON, 
+EMILY A. GALLAGHER, 
+PHILIP MULDER
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Money to Burn: Crowdfunding Wildfire Recovery</dc:title>
+         <dc:identifier>10.1111/jofi.70094</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70094</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70094?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70088?af=R</link>
+         <pubDate>Mon, 28 Sep 2026 06:57:16 -0700</pubDate>
+         <dc:date>2026-09-28T06:57:16-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70088</guid>
+         <title>An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+I develop a control function methodology robust to endogenous or mismeasured regressors in hazard models. Applying the estimator to the subprime mortgage crisis, I quantify what caused the foreclosure rate to triple across the 2003 to 2007 subprime cohorts. To identify the elasticity of default to housing prices, I use various home price instruments including historical variation in home price cyclicality. Loose credit played a significant role in the crisis, but much of the increase in defaults across cohorts was caused by price declines unrelated to lending standards, with a 10% price decline increasing subprime mortgage default rates by 50%.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;I develop a control function methodology robust to endogenous or mismeasured regressors in hazard models. Applying the estimator to the subprime mortgage crisis, I quantify what caused the foreclosure rate to triple across the 2003 to 2007 subprime cohorts. To identify the elasticity of default to housing prices, I use various home price instruments including historical variation in home price cyclicality. Loose credit played a significant role in the crisis, but much of the increase in defaults across cohorts was caused by price declines unrelated to lending standards, with a 10% price decline increasing subprime mortgage default rates by 50%.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+CHRISTOPHER J. PALMER
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts</dc:title>
+         <dc:identifier>10.1111/jofi.70088</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70088</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70088?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70019?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70019</guid>
+         <title>ANNOUNCEMENTS</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 3127-3127, October 2026. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Announcement</category>
+         <dc:title>ANNOUNCEMENTS</dc:title>
+         <dc:identifier>10.1111/jofi.70019</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70019</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70019?af=R</prism:url>
+         <prism:section>Announcement</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70063?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70063</guid>
+         <title>Jay R. Ritter</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2489-2492, October 2026. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>AFA Fellow of the Year</category>
+         <dc:title>Jay R. Ritter</dc:title>
+         <dc:identifier>10.1111/jofi.70063</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70063</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70063?af=R</prism:url>
+         <prism:section>AFA Fellow of the Year</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.13354?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.13354</guid>
+         <title>AMERICAN FINANCE ASSOCIATION</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 3128-3129, October 2026. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>ISSUE INFORMATION</category>
+         <dc:title>AMERICAN FINANCE ASSOCIATION</dc:title>
+         <dc:identifier>10.1111/jofi.13354</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.13354</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.13354?af=R</prism:url>
+         <prism:section>ISSUE INFORMATION</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70040?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70040</guid>
+         <title>Learning in the Limit: Income Inference from Credit Extensions</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2729-2772, October 2026. </description>
+         <dc:description>
+ABSTRACT
+Combining a randomized controlled trial with administrative and survey data, this paper shows that credit limit extensions significantly increase total spending and income expectations. By controlling for changes in personal income expectations, the spending response to credit limit extensions weakens by approximately 30%. For financially unconstrained consumers, expectation changes account for around two‐thirds of the spending responses to limit extensions. These findings are consistent with consumers inferring future income from credit supply.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Combining a randomized controlled trial with administrative and survey data, this paper shows that credit limit extensions significantly increase total spending and income expectations. By controlling for changes in personal income expectations, the spending response to credit limit extensions weakens by approximately 30%. For financially unconstrained consumers, expectation changes account for around two-thirds of the spending responses to limit extensions. These findings are consistent with consumers inferring future income from credit supply.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+XIAO YIN
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Learning in the Limit: Income Inference from Credit Extensions</dc:title>
+         <dc:identifier>10.1111/jofi.70040</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70040</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70040?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70058</guid>
+         <title>Twin Defaults and Bank Capital Requirements</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2887-2932, October 2026. </description>
+         <dc:description>
+ABSTRACT
+We examine optimal capital requirements in a quantitative general equilibrium model with banks exposed to nondiversifiable borrower default risk. Contrary to standard models of bank default risk, our framework captures the limited upside, but significant downside risk of loan portfolio returns. This helps to reproduce the frequency and severity of twin defaults: simultaneously high firm and bank defaults. Hence, the optimal bank capital requirement, which trades off a lower frequency of twin defaults against restricting credit provision, is higher than under default risk models which underestimate the impact of borrower default on bank solvency.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We examine optimal capital requirements in a quantitative general equilibrium model with banks exposed to nondiversifiable borrower default risk. Contrary to standard models of bank default risk, our framework captures the limited upside, but significant downside risk of loan portfolio returns. This helps to reproduce the frequency and severity of &lt;i&gt;twin defaults&lt;/i&gt;: simultaneously high firm and bank defaults. Hence, the optimal bank capital requirement, which trades off a lower frequency of twin defaults against restricting credit provision, is higher than under default risk models which underestimate the impact of borrower default on bank solvency.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+CATERINA MENDICINO, 
+KALIN NIKOLOV, 
+JUAN RUBIO‐RAMIREZ, 
+JAVIER SUAREZ, 
+DOMINIK SUPERA
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Twin Defaults and Bank Capital Requirements</dc:title>
+         <dc:identifier>10.1111/jofi.70058</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70058</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70062?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70062</guid>
+         <title>Learning to Navigate a New Financial Technology</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2687-2728, October 2026. </description>
+         <dc:description>
+ABSTRACT
+We present results from a field experiment that introduced digital payroll accounts to unbanked factory workers to examine how inexperienced consumers learn to use a new financial technology. We find that exposure to payroll accounts leads to increased account use, accelerated learning, and avoidance of common consumer protection risks. Those receiving electronic wage payments gradually build trust in the technology, learn to use accounts without assistance, and avoid illicit fees. Using experimental variation in assignment to bank versus mobile money accounts, we show that these impacts are concentrated in mobile money accounts, the newer, more complex, and less trusted financial technology.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We present results from a field experiment that introduced digital payroll accounts to unbanked factory workers to examine how inexperienced consumers learn to use a new financial technology. We find that exposure to payroll accounts leads to increased account use, accelerated learning, and avoidance of common consumer protection risks. Those receiving electronic wage payments gradually build trust in the technology, learn to use accounts without assistance, and avoid illicit fees. Using experimental variation in assignment to bank versus mobile money accounts, we show that these impacts are concentrated in mobile money accounts, the newer, more complex, and less trusted financial technology.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+EMILY BREZA, 
+MARTIN KANZ, 
+LEORA KLAPPER
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Learning to Navigate a New Financial Technology</dc:title>
+         <dc:identifier>10.1111/jofi.70062</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70062</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70062?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70064</guid>
+         <title>Personal Costs of Executive Turnovers</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2649-2686, October 2026. </description>
+         <dc:description>
+ABSTRACT
+This study examines the income loss following forced CEO turnovers using income data from the official records at the Danish Tax Authority. We find that dismissed CEOs’ personal income is 40% lower in the five years following forced turnovers. The decline is driven by labor market outcomes: labor and entrepreneurial incomes decline, while other sources of income increase. We find larger declines in income for executives with poor performance during their tenures, consistent with the executive labor market being the main channel for the lower income. Overall, the findings suggest that executives face significant personal costs from forced turnovers.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;This study examines the income loss following forced CEO turnovers using income data from the official records at the Danish Tax Authority. We find that dismissed CEOs’ personal income is 40% lower in the five years following forced turnovers. The decline is driven by labor market outcomes: labor and entrepreneurial incomes decline, while other sources of income increase. We find larger declines in income for executives with poor performance during their tenures, consistent with the executive labor market being the main channel for the lower income. Overall, the findings suggest that executives face significant personal costs from forced turnovers.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+KASPER MEISNER NIELSEN
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Personal Costs of Executive Turnovers</dc:title>
+         <dc:identifier>10.1111/jofi.70064</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70064</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70065</guid>
+         <title>M&amp;As, Employee Costs, and Labor Reallocation</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2595-2648, October 2026. </description>
+         <dc:description>
+ABSTRACT
+Mergers are associated with large and persistent earnings declines for incumbent employees in target firms. Linking employer‐employee administrative data with information on merger activity in Brazil, I find the negative effects concentrate on employees who exit target firms and reflect displacement in the short run and wage declines in the long run. Low‐skilled, managerial, and older employees fare worse. Overall, I conclude that mergers are followed by substantial reallocation costs reflecting losses of firm‐specific wage premiums, matching inefficiencies, and industry‐specific human capital depreciation, with employees transitioning to lower paying firms considered to be of lower productivity and employment value.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Mergers are associated with large and persistent earnings declines for incumbent employees in target firms. Linking employer-employee administrative data with information on merger activity in Brazil, I find the negative effects concentrate on employees who exit target firms and reflect displacement in the short run and wage declines in the long run. Low-skilled, managerial, and older employees fare worse. Overall, I conclude that mergers are followed by substantial reallocation costs reflecting losses of firm-specific wage premiums, matching inefficiencies, and industry-specific human capital depreciation, with employees transitioning to lower paying firms considered to be of lower productivity and employment value.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+SPYRIDON LAGARAS
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>M&amp;As, Employee Costs, and Labor Reallocation</dc:title>
+         <dc:identifier>10.1111/jofi.70065</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70065</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70067</guid>
+         <title>The Cross‐Section of Household Preferences</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2773-2808, October 2026. </description>
+         <dc:description>
+ABSTRACT
+This paper estimates the cross‐sectional distribution of Epstein‐Zin preferences using the wealth and risky portfolio shares of a large panel of Swedish households. We find modestly heterogeneous risk aversion (standard deviation 0.97, median 7.50) and a meaningfully heterogeneous and right‐skewed time preference rate (TPR; standard deviation 7.31%, median 4.08%) and elasticity of intertemporal substitution (EIS; standard deviation 3.17, median 0.70). Risk aversion and the EIS are only very weakly negatively correlated. We estimate lower risk aversion for households with riskier labor income, and a higher TPR and lower EIS for households that enter our sample with low wealth.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;This paper estimates the cross-sectional distribution of Epstein-Zin preferences using the wealth and risky portfolio shares of a large panel of Swedish households. We find modestly heterogeneous risk aversion (standard deviation 0.97, median 7.50) and a meaningfully heterogeneous and right-skewed time preference rate (TPR; standard deviation 7.31%, median 4.08%) and elasticity of intertemporal substitution (EIS; standard deviation 3.17, median 0.70). Risk aversion and the EIS are only very weakly negatively correlated. We estimate lower risk aversion for households with riskier labor income, and a higher TPR and lower EIS for households that enter our sample with low wealth.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+LAURENT E. CALVET, 
+JOHN Y. CAMPBELL, 
+FRANCISCO GOMES, 
+PAOLO SODINI
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Cross‐Section of Household Preferences</dc:title>
+         <dc:identifier>10.1111/jofi.70067</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70067</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70068</guid>
+         <title>Sequential Search for Corporate Bonds</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 3035-3086, October 2026. </description>
+         <dc:description>
+ABSTRACT
+Customers in over‐the‐counter (OTC) markets must find a counterparty to trade. Little is known about this process, however, because existing data consist of transaction records, which only reveal the outcome of a search. Using data from a trading platform for corporate bonds, we unpack the search process. We analyze how long it takes customers to trade and how dealers' offers evolve across repeated inquiries. We estimate that it takes two to three days to complete a transaction after an unsuccessful attempt, with substantial variation across trade and customer characteristics. Our analysis offers insights into the sources of trading delays in OTC markets.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Customers in over-the-counter (OTC) markets must find a counterparty to trade. Little is known about this process, however, because existing data consist of transaction records, which only reveal the &lt;i&gt;outcome&lt;/i&gt; of a search. Using data from a trading platform for corporate bonds, we unpack the search process. We analyze how long it takes customers to trade and how dealers' offers evolve across repeated inquiries. We estimate that it takes two to three days to complete a transaction after an unsuccessful attempt, with substantial variation across trade and customer characteristics. Our analysis offers insights into the sources of trading delays in OTC markets.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+MAHYAR KARGAR, 
+BENJAMIN LESTER, 
+SÉBASTIEN PLANTE, 
+PIERRE‐OLIVIER WEILL
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Sequential Search for Corporate Bonds</dc:title>
+         <dc:identifier>10.1111/jofi.70068</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70068</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70071</guid>
+         <title>Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2985-3034, October 2026. </description>
+         <dc:description>
+ABSTRACT
+How does demand uncertainty affect firms' investment decisions? We examine this question in the context of electricity‐producing firms' planned investments in new power plants. We measure uncertainty about future electricity demand using plausibly exogenous variation in temperature projections across scientific climate models. The results show that uncertainty increases investment in power plants with flexible production technologies, while reducing investment in less flexible technologies. Overall, the net effect of uncertainty on investment is positive when firms have access to flexible investment opportunities. These findings are consistent with models in which production flexibility shapes the investment response to demand uncertainty.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;How does demand uncertainty affect firms' investment decisions? We examine this question in the context of electricity-producing firms' planned investments in new power plants. We measure uncertainty about future electricity demand using plausibly exogenous variation in temperature projections across scientific climate models. The results show that uncertainty increases investment in power plants with flexible production technologies, while reducing investment in less flexible technologies. Overall, the net effect of uncertainty on investment is positive when firms have access to flexible investment opportunities. These findings are consistent with models in which production flexibility shapes the investment response to demand uncertainty.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+CHEN LIN, 
+THOMAS SCHMID, 
+MICHAEL S. WEISBACH
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants</dc:title>
+         <dc:identifier>10.1111/jofi.70071</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70071</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70072</guid>
+         <title>Board Dynamics over the Startup Life Cycle</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2543-2594, October 2026. </description>
+         <dc:description>
+ABSTRACT
+We explore the dynamics of venture capital (VC)‐backed startup boards using novel data on director entry, exit, and characteristics. At formation, a typical board is entrepreneur‐controlled. Independent directors join the median board after the second financing and hold a tie‐breaking vote. Their presence is particularly likely when potential VC‐entrepreneur conflicts are larger. At later stages, control switches to VCs and independent director characteristics change. These patterns align with key financial contracting theories, but also highlight unique roles of independent directors over the life cycle: mediation followed by advising. Independent directors thus represent another potential source of value‐add to startup performance.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We explore the dynamics of venture capital (VC)-backed startup boards using novel data on director entry, exit, and characteristics. At formation, a typical board is entrepreneur-controlled. Independent directors join the median board after the second financing and hold a tie-breaking vote. Their presence is particularly likely when potential VC-entrepreneur conflicts are larger. At later stages, control switches to VCs and independent director characteristics change. These patterns align with key financial contracting theories, but also highlight unique roles of independent directors over the life cycle: mediation followed by advising. Independent directors thus represent another potential source of value-add to startup performance.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+MICHAEL EWENS, 
+NADYA MALENKO
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Board Dynamics over the Startup Life Cycle</dc:title>
+         <dc:identifier>10.1111/jofi.70072</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70072</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70074</guid>
+         <title>Marginal Q</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2853-2886, October 2026. </description>
+         <dc:description>
+ABSTRACT
+We propose a new method to estimate the marginal value of capital under minimal assumptions. By combining asset prices with fundamentals, our method provides a quasi‐model‐free marginal q together with a simple correction for measurement error in (average) Tobin's Q using linear regressions. Marginal q yields plausible and robust estimates of adjustment costs and investment sensitivities to fundamentals. The widening gap between marginal q and Tobin's Q is driven primarily by market power and intangible capital. Our novel findings strongly support the neoclassical theory of investment and challenge the widespread use of Tobin's Q as proxy for investment opportunities.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We propose a new method to estimate the marginal value of capital under minimal assumptions. By combining asset prices with fundamentals, our method provides a quasi-model-free marginal q together with a simple correction for measurement error in (average) Tobin's Q using linear regressions. Marginal q yields plausible and robust estimates of adjustment costs and investment sensitivities to fundamentals. The widening gap between marginal q and Tobin's Q is driven primarily by market power and intangible capital. Our novel findings strongly support the neoclassical theory of investment and challenge the widespread use of Tobin's Q as proxy for investment opportunities.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+VITO D. GALA, 
+JOAO F. GOMES, 
+TONG LIU
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Marginal Q</dc:title>
+         <dc:identifier>10.1111/jofi.70074</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70074</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70076</guid>
+         <title>Can Small Businesses Survive Chapter 11?</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2493-2542, October 2026. </description>
+         <dc:description>
+ABSTRACT
+A majority of small U.S. businesses attempting to reorganize in bankruptcy fail to do so. Subchapter V of Chapter 11 (SubV) streamlines bankruptcy for small firms by reducing bankruptcy costs and negotiation frictions, and enables entrepreneurs to retain ownership. We show that many businesses reorganize under SubV that otherwise would liquidate. Creditor recoveries and postbankruptcy survival rates are at least as high in SubV as in traditional Chapter 11s. Our results show the increase in reorganizations is not associated with continuation of unviable firms, and that creditors are not harmed by a shift in bargaining power toward small business owners.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;A majority of small U.S. businesses attempting to reorganize in bankruptcy fail to do so. Subchapter V of Chapter 11 (SubV) streamlines bankruptcy for small firms by reducing bankruptcy costs and negotiation frictions, and enables entrepreneurs to retain ownership. We show that many businesses reorganize under SubV that otherwise would liquidate. Creditor recoveries and postbankruptcy survival rates are at least as high in SubV as in traditional Chapter 11s. Our results show the increase in reorganizations is not associated with continuation of unviable firms, and that creditors are not harmed by a shift in bargaining power toward small business owners.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+EDITH HOTCHKISS, 
+BENJAMIN IVERSON, 
+XIANG ZHENG
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Can Small Businesses Survive Chapter 11?</dc:title>
+         <dc:identifier>10.1111/jofi.70076</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70076</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70046?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70046</guid>
+         <title>The Equilibrium Effects of Eviction Policies</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2809-2852, October 2026. </description>
+         <dc:description>
+ABSTRACT
+I propose a dynamic equilibrium model of rental markets that endogenously gives rise to defaults on rents and evictions. In the model, eviction protections make it harder to evict delinquent renters, but higher default costs to landlords increase equilibrium rents. I quantify the model using micro data on evictions, rents, and homelessness. I find that stronger eviction protections exacerbate housing insecurity and lower welfare. The key empirical driver of this result is the persistent nature of risk underlying rent delinquencies. Rental assistance reduces housing insecurity and improves welfare because it lowers the likelihood that renters default ex ante.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;I propose a dynamic equilibrium model of rental markets that endogenously gives rise to defaults on rents and evictions. In the model, eviction protections make it harder to evict delinquent renters, but higher default costs to landlords increase equilibrium rents. I quantify the model using micro data on evictions, rents, and homelessness. I find that stronger eviction protections exacerbate housing insecurity and lower welfare. The key empirical driver of this result is the persistent nature of risk underlying rent delinquencies. Rental assistance reduces housing insecurity and improves welfare because it lowers the likelihood that renters default ex ante.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+BOAZ ABRAMSON
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Equilibrium Effects of Eviction Policies</dc:title>
+         <dc:identifier>10.1111/jofi.70046</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70046</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70046?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70066?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70066</guid>
+         <title>The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2933-2984, October 2026. </description>
+         <dc:description>
+ABSTRACT
+Banks adjust loan spreads after observing natural disasters linked to climate change. We isolate this updating process by identifying loans to borrowers at risk of, but not directly affected by, such disasters. Loan spreads for these borrowers spike in both primary and secondary markets, while no such updating occurs for non–climate‐related disasters. Evidence suggests a heightened perceived credit risk, which nonetheless cannot fully explain the increase in rates. Taken altogether, increased spreads are explained primarily by salience bias, as they are short‐lived and amplified by media attention. This salience impacts financial decisions at bank‐dependent firms.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Banks adjust loan spreads after observing natural disasters linked to climate change. We isolate this updating process by identifying loans to borrowers at risk of, but not directly affected by, such disasters. Loan spreads for these borrowers spike in both primary and secondary markets, while no such updating occurs for non–climate-related disasters. Evidence suggests a heightened perceived credit risk, which nonetheless cannot fully explain the increase in rates. Taken altogether, increased spreads are explained primarily by salience bias, as they are short-lived and amplified by media attention. This salience impacts financial decisions at bank-dependent firms.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+RICARDO CORREA, 
+AI HE, 
+CHRISTOPH HERPFER, 
+UGUR LEL
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing</dc:title>
+         <dc:identifier>10.1111/jofi.70066</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70066</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70066?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.70069</guid>
+         <title>Dynamic Self‐Fulfilling Fire Sales</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 3087-3126, October 2026. </description>
+         <dc:description>
+ABSTRACT
+Why do fire sales occur if many risks are hedgeable? We study a version of Brunnermeier and Sannikov (2014, American Economic Review 104, 379–421) in which all fundamental risks can be hedged frictionlessly. Our analysis shows that fire sales are inherently self‐fulfilling. Fundamental shocks can never cause fire sales, and an efficient, safe equilibrium exists. On the other hand, there exists an equilibrium in which agents coordinate fire sales on nonfundamental shocks. A simple refinement based on vanishingly small perceived fundamental risk eliminates the safe equilibrium and selects the fire‐sale equilibrium as the unique outcome.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Why do fire sales occur if many risks are hedgeable? We study a version of Brunnermeier and Sannikov (2014, &lt;i&gt;American Economic Review&lt;/i&gt; 104, 379–421) in which all fundamental risks can be hedged frictionlessly. Our analysis shows that fire sales are inherently self-fulfilling. Fundamental shocks can never cause fire sales, and an efficient, safe equilibrium exists. On the other hand, there exists an equilibrium in which agents coordinate fire sales on nonfundamental shocks. A simple refinement based on vanishingly small perceived fundamental risk eliminates the safe equilibrium and selects the fire-sale equilibrium as the unique outcome.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+PAYMON KHORRAMI, 
+FERNANDO MENDO
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Dynamic Self‐Fulfilling Fire Sales</dc:title>
+         <dc:identifier>10.1111/jofi.70069</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70069</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.13353?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 05:53:35 -0700</pubDate>
+         <dc:date>2026-09-22T05:53:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Thu, 01 Oct 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1111/jofi.13353</guid>
+         <title>ISSUE INFORMATION</title>
+         <description>The Journal of Finance, Volume 81, Issue 5, Page 2485-2487, October 2026. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>ISSUE INFORMATION</category>
+         <dc:title>ISSUE INFORMATION</dc:title>
+         <dc:identifier>10.1111/jofi.13353</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.13353</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.13353?af=R</prism:url>
+         <prism:section>ISSUE INFORMATION</prism:section>
+         <prism:volume>81</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70081?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 04:42:38 -0700</pubDate>
+         <dc:date>2026-09-22T04:42:38-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70081</guid>
+         <title>Justice Good as Random?</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+The random assignment of judges promotes fairness and underpins causal identification across the social sciences. Analyzing Chapter 11 bankruptcies, we find sophisticated parties “judge‐shop”: relative to secured hedge fund creditors, cases involving unsecured hedge fund creditors and equity holders are assigned judges with lower past conversion rates and higher unsecured recovery rates. Experienced legal counsel similarly influences assignment. Because judges are not assigned consecutive large cases, knowledgeable parties can judge‐shop by timing the filing date. We develop a method to measure the resulting bias and demonstrate the need for controls and bounded instrumental variable specifications in judge/examiner designs.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;The random assignment of judges promotes fairness and underpins causal identification across the social sciences. Analyzing Chapter 11 bankruptcies, we find sophisticated parties “judge-shop”: relative to secured hedge fund creditors, cases involving unsecured hedge fund creditors and equity holders are assigned judges with lower past conversion rates and higher unsecured recovery rates. Experienced legal counsel similarly influences assignment. Because judges are not assigned consecutive large cases, knowledgeable parties can judge-shop by timing the filing date. We develop a method to measure the resulting bias and demonstrate the need for controls and bounded instrumental variable specifications in judge/examiner designs.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+NIKLAS HÜTHER, 
+KRISTOPH KLEINER
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Justice Good as Random?</dc:title>
+         <dc:identifier>10.1111/jofi.70081</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70081</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70081?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70073?af=R</link>
+         <pubDate>Thu, 03 Sep 2026 23:27:23 -0700</pubDate>
+         <dc:date>2026-09-03T11:27:23-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70073</guid>
+         <title>Discretionary Announcement Timing and Stock Returns</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+Discretionary announcement timing generates high conditional risk premia of stock returns and a pattern of negative drifts followed by positive jumps. Average announcement returns are much larger than unconditional risk premia. Capital Asset Pricing Model alphas turn negative when conditioning on nondisclosure because betas rise faster than risk premia prior to disclosures, but average announcement returns may appear to be too large relative to market risk when betas are estimated from past returns. The effects are amplified when multiple firms exercise discretion over the timing of correlated announcements. We present evidence that firms time earnings announcements in a manner consistent with our model.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Discretionary announcement timing generates high conditional risk premia of stock returns and a pattern of negative drifts followed by positive jumps. Average announcement returns are much larger than unconditional risk premia. Capital Asset Pricing Model alphas turn negative when conditioning on nondisclosure because betas rise faster than risk premia prior to disclosures, but average announcement returns may appear to be too large relative to market risk when betas are estimated from past returns. The effects are amplified when multiple firms exercise discretion over the timing of correlated announcements. We present evidence that firms time earnings announcements in a manner consistent with our model.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+KERRY BACK, 
+BRUCE I. CARLIN, 
+SEYED M. KAZEMPOUR, 
+CHLOE L. XIE
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Discretionary Announcement Timing and Stock Returns</dc:title>
+         <dc:identifier>10.1111/jofi.70073</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70073</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70073?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70077?af=R</link>
+         <pubDate>Tue, 25 Aug 2026 22:37:56 -0700</pubDate>
+         <dc:date>2026-08-25T10:37:56-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70077</guid>
+         <title>Longevity, Health, and Housing Risk Management in Retirement</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+Annuities, long‐term care insurance, and reverse mortgages remain puzzlingly unpopular to manage post‐retirement longevity, health, and housing price risks. We use a flexible life‐cycle model structurally estimated with a unique stated‐preference survey experiment of Canadian households to understand why. Key factors include high risk aversion, concern over long‐run risks, strong discounting of valuation in disability states, imperfect housing substitutability, and bequest motives. The remaining disinterest is accounted for by information frictions and inertia. We also document evidence of public insurance crowding out, spousal co‐insurance, and responsiveness to product bundling.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Annuities, long-term care insurance, and reverse mortgages remain puzzlingly unpopular to manage post-retirement longevity, health, and housing price risks. We use a flexible life-cycle model structurally estimated with a unique stated-preference survey experiment of Canadian households to understand why. Key factors include high risk aversion, concern over long-run risks, strong discounting of valuation in disability states, imperfect housing substitutability, and bequest motives. The remaining disinterest is accounted for by information frictions and inertia. We also document evidence of public insurance crowding out, spousal co-insurance, and responsiveness to product bundling.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+PIERRE‐CARL MICHAUD, 
+PASCAL ST‐AMOUR
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Longevity, Health, and Housing Risk Management in Retirement</dc:title>
+         <dc:identifier>10.1111/jofi.70077</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70077</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70077?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70078?af=R</link>
+         <pubDate>Tue, 25 Aug 2026 03:17:37 -0700</pubDate>
+         <dc:date>2026-08-25T03:17:37-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70078</guid>
+         <title>The Market for ESG Ratings</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+We present a model of competition between environmental, social, and governance (ESG) raters who acquire information about multiple unrelated categories and sell ratings. Raters specializing in different categories maximize the amount of information transmitted and surplus, and can be an equilibrium outcome. When investors place a high value on ESG performance across multiple categories, the unique equilibrium is for the raters to generalize—splitting their effort among the categories, resulting in less informative ratings. Greenwashing by firms can make generalization the only equilibrium. We also demonstrate that specialization maximizes ratings disagreement, and thus empirical measures of disagreement may be poor measures of surplus.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We present a model of competition between environmental, social, and governance (ESG) raters who acquire information about multiple unrelated categories and sell ratings. Raters specializing in different categories maximize the amount of information transmitted and surplus, and can be an equilibrium outcome. When investors place a high value on ESG performance across multiple categories, the unique equilibrium is for the raters to generalize—splitting their effort among the categories, resulting in less informative ratings. Greenwashing by firms can make generalization the only equilibrium. We also demonstrate that specialization maximizes ratings disagreement, and thus empirical measures of disagreement may be poor measures of surplus.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+EHSAN AZARMSA, 
+JOEL SHAPIRO
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Market for ESG Ratings</dc:title>
+         <dc:identifier>10.1111/jofi.70078</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70078</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70078?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70079?af=R</link>
+         <pubDate>Sat, 22 Aug 2026 00:03:17 -0700</pubDate>
+         <dc:date>2026-08-22T12:03:17-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70079</guid>
+         <title>Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+This paper studies asset pricing under expectations‐based reference‐dependent preferences in a general equilibrium framework. We show that reference‐dependent preferences can generate self‐fulfilling risk panics, producing sentiment‐driven asset price fluctuations through a feedback loop between current prices and perceived future downside risk—dynamics impossible under standard expected utility. The model helps explain empirical puzzles including (i) excess volatility, (ii) asymmetric volatility, (iii) asymmetric sentiment over the business cycle, (iv) excess asset price comovement, and (v) weak correlations between stock returns and economic fundamentals, alongside a sizable equity premium. Additional empirical evidence based on closed‐end fund discounts and quantitative analysis support the theory.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;This paper studies asset pricing under expectations-based reference-dependent preferences in a general equilibrium framework. We show that reference-dependent preferences can generate self-fulfilling risk panics, producing sentiment-driven asset price fluctuations through a feedback loop between current prices and perceived future downside risk—dynamics impossible under standard expected utility. The model helps explain empirical puzzles including (i) excess volatility, (ii) asymmetric volatility, (iii) asymmetric sentiment over the business cycle, (iv) excess asset price comovement, and (v) weak correlations between stock returns and economic fundamentals, alongside a sizable equity premium. Additional empirical evidence based on closed-end fund discounts and quantitative analysis support the theory.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+JESS BENHABIB, 
+ZHAORUI LI, 
+XUEWEN LIU, 
+PENGFEI WANG
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices</dc:title>
+         <dc:identifier>10.1111/jofi.70079</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70079</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70079?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70075?af=R</link>
+         <pubDate>Fri, 21 Aug 2026 06:08:29 -0700</pubDate>
+         <dc:date>2026-08-21T06:08:29-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70075</guid>
+         <title>The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+How did #MeToo alter collaboration between women and men? I show junior female researchers start fewer projects after #MeToo. A decrease in collaborations with male coauthors—especially new senior male coauthors at the same institution—largely explains the decline. The decrease is larger at universities with higher perceived harassment accusation risk and smaller where both women and men publicly express greater awareness of gender issues. I find no evidence that reduced collaboration improves research outcomes for junior female researchers. The results suggest that #MeToo led to a breakdown in trust that came at a cost for junior women's career opportunities.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;How did #MeToo alter collaboration between women and men? I show junior female researchers start fewer projects after #MeToo. A decrease in collaborations with male coauthors—especially new senior male coauthors at the same institution—largely explains the decline. The decrease is larger at universities with higher perceived harassment accusation risk and smaller where both women and men publicly express greater awareness of gender issues. I find no evidence that reduced collaboration improves research outcomes for junior female researchers. The results suggest that #MeToo led to a breakdown in trust that came at a cost for junior women's career opportunities.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+MARINA GERTSBERG
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance</dc:title>
+         <dc:identifier>10.1111/jofi.70075</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70075</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70075?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70070?af=R</link>
+         <pubDate>Thu, 23 Jul 2026 00:31:09 -0700</pubDate>
+         <dc:date>2026-07-23T12:31:09-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15406261?af=R">Wiley: The Journal of Finance: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1111/jofi.70070</guid>
+         <title>Do Equity and Options Markets Agree about Volatility?</title>
+         <description>The Journal of Finance, EarlyView. </description>
+         <dc:description>
+ABSTRACT
+We derive tight pricing kernel restrictions from options with same‐day expiration (“0DTEs”). These restrictions concern the volatility of small and frequent asset price moves that the equity and options markets must agree on in a frictionless economy. Their violation leads to pseudo‐arbitrage opportunities, characterized by nontrivial reward‐to‐risk ratios over arbitrarily short horizons and achieved by a combined position in 0DTEs and the underlying asset. Empirically, we find no evidence of feasible pseudo‐arbitrage opportunities, as transaction costs, estimation risk, and short‐term volatility risk prevent investors from taking advantage of small and infrequent disagreements about volatility between equity and options markets.</dc:description>
+         <content:encoded>
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;We derive tight pricing kernel restrictions from options with same-day expiration (“0DTEs”). These restrictions concern the volatility of small and frequent asset price moves that the equity and options markets must agree on in a frictionless economy. Their violation leads to pseudo-arbitrage opportunities, characterized by nontrivial reward-to-risk ratios over arbitrarily short horizons and achieved by a combined position in 0DTEs and the underlying asset. Empirically, we find no evidence of feasible pseudo-arbitrage opportunities, as transaction costs, estimation risk, and short-term volatility risk prevent investors from taking advantage of small and infrequent disagreements about volatility between equity and options markets.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+CARSTEN H. CHONG, 
+VIKTOR TODOROV
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Do Equity and Options Markets Agree about Volatility?</dc:title>
+         <dc:identifier>10.1111/jofi.70070</dc:identifier>
+         <prism:publicationName>The Journal of Finance</prism:publicationName>
+         <prism:doi>10.1111/jofi.70070</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1111/jofi.70070?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+      </item>
+   </channel>
+</rss>

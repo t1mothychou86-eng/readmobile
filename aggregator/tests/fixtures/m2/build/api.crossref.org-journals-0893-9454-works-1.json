@@ -1,0 +1,4020 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 37,
+    "items": [
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using résumé data on over 20 million U.S. workers, we find that the flow of employees between a pair of firms sharply drops by about 20% during periods in which the firms share a board director. This relationship is stronger in settings where firms have greater potential gains from limiting worker mobility and is most pronounced for higher-skilled employees. Moreover, we find more connected firms have lower rates of internal promotion and no improvements in employee satisfaction. The evidence is consistent with shared directors serving as a mechanism for labor market coordination. (JEL G34, G38, J42, J62, J08, K21, K31, M50)</jats:p>",
+        "DOI": "10.1093/rfs/hhag090",
+        "type": "journal-article",
+        "title": [
+          "Directing the Labor Market: Shared Directors and Employee Flows"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Taylor A",
+            "family": "Begley",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Kentucky ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Peter",
+            "family": "Haslag",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Tennessee, Vanderbilt University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Weagley",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Tennessee ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag090/8869020"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag090",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ]
+        },
+        "article-number": "hhag090"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Central banks increasingly disclose their private information regarding the economy’s current and future state (CBET). Consistent with CBET shifting investors’ collection and pricing of aggregate-level (where managers do not have an information advantage) toward firm-level (where managers do have an information advantage) information, we find that CBET reduces managers’ learning from stock price. The results are (1) pronounced when firms do not provide guidance and when noise trading in firms’ stock is low, and (2) robust to using the 2013–2014 amendments to the Bank of England’s Inflation Report as an exogenous shock. Additional evidence suggests that CBET lowers investment efficiency. (JEL E22, E52, M41)</jats:p>",
+        "DOI": "10.1093/rfs/hhag089",
+        "type": "journal-article",
+        "title": [
+          "Central Bank Economic Transparency and Managerial Learning"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Oliver",
+            "family": "Binz",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "ESMT Berlin,",
+                "place": [
+                  "Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Elia",
+            "family": "Ferracuti",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Duke University Fuqua School of Business, ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gary",
+            "family": "Lind",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Pittsburgh Katz Graduate School of Business, ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag089/8869021"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag089",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ]
+        },
+        "article-number": "hhag089"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce a nonlinear covariance shrinkage method for building optimal portfolios. Our universal portfolio shrinkage approximator (UPSA) is built from closed-form basis portfolios, is cheap to implement, and improves on existing shrinkage methods. Rather than uniformly penalizing all principal components of returns or discarding low-variance ones, UPSA instead reweights components to explicitly optimize expected out-of-sample portfolio performance. In empirical applications using a large cross-section of anomaly factors, it delivers robust improvements over alternative shrinkage methods in the literature.</jats:p>",
+        "DOI": "10.1093/rfs/hhag084",
+        "type": "journal-article",
+        "title": [
+          "Universal Portfolio Shrinkage"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Bryan",
+            "family": "Kelly",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Yale School of Management, AQR Capital Management, and NBER , the",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Semyon",
+            "family": "Malamud",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Swiss Finance Institute and EPFL , Switzerland, and , London"
+              },
+              {
+                "name": "CEPR , Switzerland, and , London"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mo",
+            "family": "Pourmohammadi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Yale School of Management , the",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fabio",
+            "family": "Trojani",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Geneva and Swiss Finance Institute ,",
+                "place": [
+                  "Switzerland"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag084/8835505"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag084",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "article-number": "hhag084"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper shows that high market concentration in the U.S. manufactured home loan market allows lenders to charge markedly higher interest rates than in the mortgage market for site-built homes. Borrowers in counties with higher lender concentration face significantly higher rates, and evidence from bunching at a regulatory rate threshold, an instrumental variable analysis, and a difference-in-differences analysis suggests a causal link. Integrated lenders, which play an outsized role in this market, charge particularly high rates, and we provide evidence suggesting that these lenders exploit their market power over borrowers. We discuss factors that may explain limited lender entry.</jats:p>",
+        "DOI": "10.1093/rfs/hhag087",
+        "type": "journal-article",
+        "title": [
+          "Affordable Housing, Unaffordable Credit? Concentration and High-Cost Lending for Manufactured Homes"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Sebastian",
+            "family": "Doerr",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Bank for International Settlements , Switzerland, and CEPR"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Andreas",
+            "family": "Fuster",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Zurich and Swiss Finance Institute , Switzerland, and CEPR"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag087/8834170"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag087",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "article-number": "hhag087"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We highlight the role of duration and exchange rate risks on portfolio flows by using a unique and comprehensive database of U.S. investor flows into emerging market government bonds denominated in local currency. Borrowing long-term mitigates rollover risk but amplifies valuation changes that further interact with currency movements. Our analysis highlights the double-edged nature of long-term borrowing and draws attention to market stress dynamics due to strategic complementarities among mutual fund investors.</jats:p>",
+        "DOI": "10.1093/rfs/hhag088",
+        "type": "journal-article",
+        "title": [
+          "Original Sin Redux: Role of Duration Risk*"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Carol",
+            "family": "Bertaut",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Federal Reserve Board , the United States"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Valentina",
+            "family": "Bruno",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "American University and NBER , the United States, and CEPR"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hyun Song",
+            "family": "Shin",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Bank for International Settlements , Switzerland"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag088/8834171"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag088",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              24
+            ]
+          ]
+        },
+        "article-number": "hhag088"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Many economic questions require estimating the price effect of demand shifts (multipliers) in the bond market. Corporate bonds have salient characteristics that distinguish between close and distant substitutes. We show that accounting for heterogeneous substitutability between bonds is critical for correctly estimating multipliers. We find that security-level multipliers are very small. In fact, an order of magnitude smaller than the estimate ignoring heterogeneous substitutability. Nonetheless, portfolio multipliers are substantially larger and monotonically increase with the aggregation level. Furthermore, we find that the multiplier is larger for high-yield bonds, longer-maturity bonds, and bonds with greater arbitrage risks.</jats:p>",
+        "DOI": "10.1093/rfs/hhag082",
+        "type": "journal-article",
+        "title": [
+          "Corporate Bond Multipliers: Substitutes Matter"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Manav",
+            "family": "Chaudhary",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "London School of Economics ,",
+                "place": [
+                  "the United Kingdom"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Julie Zhiyu",
+            "family": "Fu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Washington University in St. Louis, Olin Business School ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jian",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Columbia Business School ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag082/8820496"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag082",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              19
+            ]
+          ]
+        },
+        "article-number": "hhag082"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In a dynamic setting, high-quality firms may tolerate current adverse selection when raising financing because they expect future opportunities to profitably acquire assets from failed lower-quality firms. But search frictions in asset trading impede efficiency, inviting government intervention. Anticipation of such intervention affects ex ante adverse selection and project investment because it reduces buyers’ ex post trading profits. Depending on parameter values, this anticipation can have either pernicious or salutary effects. The pernicious effect reduces participation by high-quality firms, worsens adverse selection, and depresses project investment, potentially triggering investment-enhancing government assistance (an “intervention trap”). The salutary effect mitigates adverse selection and increases project investment.</jats:p>",
+        "DOI": "10.1093/rfs/hhag081",
+        "type": "journal-article",
+        "title": [
+          "Adverse Selection and the Government Intervention Trap"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Fenghua",
+            "family": "Song",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Pennsylvania State University and FTG ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anjan",
+            "family": "Thakor",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Washington University in St. Louis, ECGI, and FTG ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag081/8820494"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag081",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              19
+            ]
+          ]
+        },
+        "article-number": "hhag081"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Using the Duke Survey data on firms’ internal plans, we show that over 80% of Chief Financial Officer (CFO) forecasts align closely with simple heuristics taught in MBA textbooks. We introduce forecast coherence—internal consistency across forecasts of jointly determined variables—as a benchmark for evaluating these heuristics. Nearly half of CFOs issue forecasts closely aligned with incoherent heuristics. Such forecasts are associated with predictable reversals in forecast errors, lower firm performance, and underinvestment. We develop a parsimonious model illustrating how reliance on restricted forecasting heuristics can generate incoherence and resource misallocation within firms, consistent with our evidence</jats:p>",
+        "DOI": "10.1093/rfs/hhag086",
+        "type": "journal-article",
+        "title": [
+          "The Coherence Side of Rationality: Theory and Evidence from Firm Plans"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Pamela",
+            "family": "Giustinelli",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Padova , , CESifo, and IZA@LISER",
+                "place": [
+                  "Italy"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stefano",
+            "family": "Rossi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Bocconi University , , CEPR, and ECGI",
+                "place": [
+                  "Italy"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag086/8817224"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag086",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "article-number": "hhag086"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study a dynamic trade-off model where shareholders can freely adjust debt but lack commitment to future debt policies. A debt policy is time-consistent if shareholders prefer it to deviating and losing credibility ex post. We characterize the optimal time-consistent policy in a class. It includes a stable regime, where shareholders actively manage liabilities to maintain the target interest coverage ratio, and a distress regime triggered by large negative shocks, where shareholders temporarily abandon the target. This policy has realistic properties and bridges the gap between the static trade-off theory of debt and theory based on the leverage ratchet effect.</jats:p>",
+        "DOI": "10.1093/rfs/hhag083",
+        "type": "journal-article",
+        "title": [
+          "Optimal Time-Consistent Debt Policies"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Andrey",
+            "family": "Malenko",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Boston College , the United States"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anton",
+            "family": "Tsoy",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Toronto ,",
+                "place": [
+                  "Canada"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag083/8817223"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag083",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "article-number": "hhag083"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We examine how corporate financial constraints shape firms’ employment responses to minimum wage policies. Exploiting the federal minimum wage increase during the financial crisis and variation in firms’ debt maturity structures at the crisis onset, we find that financially constrained firms significantly reduce employment. To assess external validity, we analyze staggered state-level minimum wage increases over time. Consistent with the crisis evidence, employment declines in establishments of constrained firms, whereas unconstrained firms expand in areas with a larger supply of minimum-wage workers and higher turnover. Our results highlight the central role of financial constraints in mediating labor policy effects.</jats:p>",
+        "DOI": "10.1093/rfs/hhag075",
+        "type": "journal-article",
+        "title": [
+          "Corporate Financial Constraints, Minimum Wage Policies, and Employment"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Alona",
+            "family": "Bilokha",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of North Florida ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Iftekhar",
+            "family": "Hasan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Fordham University, the United States, Bank of Finland , , and ,",
+                "place": [
+                  "Finland Australia"
+                ]
+              },
+              {
+                "name": "University of Sydney , , and ,",
+                "place": [
+                  "Finland Australia"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stefano",
+            "family": "Manfredonia",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Fordham University ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ronald W",
+            "family": "Masulis",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of New South Wales ,",
+                "place": [
+                  "Australia"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag075/8790600"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag075",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "article-number": "hhag075"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Stablecoins are cryptoassets designed to be pegged to the dollar, but they are backed by imperfectly liquid USD assets. We show that stablecoins feature concentrated arbitrage: the largest issuer, Tether, allows only six agents in an average month to redeem stablecoins for cash. We argue that the issuers’ choice of arbitrage concentration reflects a trade-off: efficient arbitrage improves stablecoin price stability in secondary markets but amplifies run risks by reducing investors’ price impact from selling stablecoins. Our findings imply that policies designed to improve stablecoin price stability may have the unintended consequence of increasing stablecoin run risks.</jats:p>",
+        "DOI": "10.1093/rfs/hhag072",
+        "type": "journal-article",
+        "title": [
+          "Stablecoin Runs and the Centralization of Arbitrage"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Yiming",
+            "family": "Ma",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Columbia Business School and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yao",
+            "family": "Zeng",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Wharton School, University of Pennsylvania, and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anthony Lee",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Booth School of Business, University of Chicago ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag072/8782924"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag072",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "article-number": "hhag072"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Performance chasing is pervasive in active mutual funds, index mutual funds, and ETFs, with positive flow-performance sensitivity evident in both broad-based and niche funds and for the skill and nonskill components of returns. The sensitivity of ETFs is greatest, with insignificant differences between active and index mutual funds. The heightened sensitivity of ETFs is not explained by benchmark design or exchange trading, and is amplified by institutional ownership. Institutional trading of ETFs follows a momentum strategy, rather than flow management or benchmarking. Institutional herding and the outsourcing of investment management to model portfolios heightens the performance sensitivity of ETF flows.</jats:p>",
+        "DOI": "10.1093/rfs/hhag080",
+        "type": "journal-article",
+        "title": [
+          "Flow"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Caitlin",
+            "family": "Dannhauser",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Villanova University ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jeffrey",
+            "family": "Pontiff",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Boston College ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag080/8778553"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag080",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "article-number": "hhag080"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper proposes a new channel through which long-term interest rates transmit to credit spreads. When life insurers carry negative duration gaps, higher rates reduce their liabilities more than assets. Rate increases therefore boost equity and risk-bearing capacity, lowering equilibrium credit spreads. Empirically, I test this channel with bond-level yields and a maturity-based discontinuity in bond ownership. Insurers’ trades confirm the mechanism: after rates rise, insurers shift portfolios towards riskier, high-yield bonds. As rates increase, bonds more heavily held by life insurers experience greater spread reductions. The results show that institutional duration mismatch shapes credit spreads and corporate financing conditions.</jats:p>",
+        "DOI": "10.1093/rfs/hhag079",
+        "type": "journal-article",
+        "title": [
+          "Long Rates, Life Insurers, and Credit Spreads"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Ziang",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Imperial College London ,",
+                "place": [
+                  "UK"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag079/8777198"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag079",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "hhag079"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study how firm-level carbon emissions affect bank lending and real outcomes in a sample of global firms with syndicated loans. We exploit bank-level climate commitments as firm-level shocks to lending relationships, using firms' prior credit exposures to identify credit supply effects. Firms with higher emissions that previously borrowed from committed banks receive less bank credit. Evidence from lending volumes, prices, and within-firm-time loan-level data indicates a supply-side shift away from high-emission firms, not explained by borrower risk. Affected firms reduce debt, leverage, size, and investment, yet we find no reduction in future emissions, instead documenting evidence consistent with greenwashing.</jats:p>",
+        "DOI": "10.1093/rfs/hhag078",
+        "type": "journal-article",
+        "title": [
+          "Carbon Emissions and the Bank-Lending Channel"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Marcin",
+            "family": "Kacperczyk",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Imperial College London, UK, CEPR, and ECGI"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "José-Luis",
+            "family": "Peydró",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Luiss University, Italy, EIEF, and CEPR"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              20
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag078/8767551"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              20
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag078",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              20
+            ]
+          ]
+        },
+        "article-number": "hhag078"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do so few women become CEOs? To understand this glass ceiling, we estimate a dynamic model of the CEO gender decision, which contains perceived gender productivity differences, search costs reflecting limited female labor supply, and employer disutility from discrimination. The key factor is the shortage of suitable female candidates, as boards prefer hiring women, and productivity differences between genders are minimal. We find no evidence of a glass cliff in which women become CEOs just as firms are failing. While better governance is associated with women becoming CEOs, the importance of limited female labor supply is unrelated to governance.</jats:p>",
+        "DOI": "10.1093/rfs/hhag077",
+        "type": "journal-article",
+        "title": [
+          "Underrepresentation of Women CEOs"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Li",
+            "family": "He",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "EDHEC , France"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5998-4647",
+            "authenticated-orcid": false,
+            "given": "Toni M",
+            "family": "Whited",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Michigan and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag077/8764152"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag077",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ]
+        },
+        "article-number": "hhag077"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the real effects of environmental activist investing. Using plant-chemical-level data, we find that targeted firms reduce their production-related emissions. Air quality improvements in the vicinity of targeted plants suggest potentially significant externalities for local economies. Reductions come from increased abatement expenditures and on-site source reduction initiatives, which negatively affect the financial performance of targeted firms. We rule out alternative explanations, including declines in production and plant closures, and provide evidence that firms respond to the specific demands of activists. Our findings suggest that environmental activism is an effective tool for long-term shareholders to address climate change risks.</jats:p>",
+        "DOI": "10.1093/rfs/hhag073",
+        "type": "journal-article",
+        "title": [
+          "The Real Effects of Environmental Activist Investing"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "S Lakshmi",
+            "family": "Naaraayanan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "London Business School , , and",
+                "place": [
+                  "UK"
+                ]
+              },
+              {
+                "name": "CEPR , , and",
+                "place": [
+                  "UK"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kunal",
+            "family": "Sachdeva",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Michigan ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Varun",
+            "family": "Sharma",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Indiana University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              14
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag073/8761699"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              14
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag073",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              14
+            ]
+          ]
+        },
+        "article-number": "hhag073"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Do impact investors seek impact, or merely “impact wash”? We provide systematic evidence on the nonfinancial determinants of impact investing. Impact investors focus on firms aligned with the priorities of the federal government and disproportionately invest in economically disadvantaged regions. While we find high levels of coinvestment between impact and traditional investors, we also show that impact investors influence the strategies of their traditional coinvestors, are more likely to fund firms in nascent industries, and invest countercyclically. Finally, we characterize investment heterogeneity based on a novel classification of impact investment theses, with a focus on climate, environment, and jobs and equity.</jats:p>",
+        "DOI": "10.1093/rfs/hhag074",
+        "type": "journal-article",
+        "title": [
+          "What Do Impact Investors Do Differently?"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Shawn",
+            "family": "Cole",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Harvard University and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Leslie",
+            "family": "Jeng",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Josh",
+            "family": "Lerner",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard University and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Natalia",
+            "family": "Rigol",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard University and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Benjamin N",
+            "family": "Roth",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag074/8759985"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag074",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ]
+        },
+        "article-number": "hhag074"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Increasing personal bankruptcy protection raises consumers’ desire to borrow and lenders’ cost of extending credit; the impact on equilibrium borrowing is ambiguous. Using bankruptcy protection changes between 1999 and 2005 across U.S. states, we find that borrowers respond to greater protection by increasing their unsecured debt. Border county estimates suggest that local economic conditions do not drive these results. Borrowers pay more for protection through higher interest rates, yet delinquency is unaffected. Our results indicate that rising borrower demand outstripped decreasing supply. Increased protections did not reduce the aggregate level of household debt but affected the composition of borrowing.</jats:p>",
+        "DOI": "10.1093/rfs/hhag076",
+        "type": "journal-article",
+        "title": [
+          "Personal Bankruptcy Protection and Household Debt"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Felipe",
+            "family": "Severino",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Dartmouth College ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Meta",
+            "family": "Brown",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ohio State University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rajashri",
+            "family": "Chakrabarti",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Federal Reserve Bank of New York ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag076/8759537"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag076",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ]
+        },
+        "article-number": "hhag076"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We introduce the nonlinear arbitrage correction (NAC), the residual that renders a linear benchmark model arbitrage-free while preserving the law of one price. The price of NAC captures the marginal Sharpe ratio increase consistent with no-arbitrage and upper-bounds the constrained Hansen–Jagannathan distance. Using four decades of international equity, currency, and factor returns, NAC is strongly countercyclical, peaking during crises when linear models turn negative. The implied Sharpe ratio increase reaches 0.3, underscoring its economic relevance. While linear models perform well on average, they fail in distressed states, underpricing nonlinear payoffs. Incorporating NAC restores positivity and stabilizes pricing across regimes.</jats:p>",
+        "DOI": "10.1093/rfs/hhag054",
+        "type": "journal-article",
+        "title": [
+          "International Arbitrage Premia"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Mirela",
+            "family": "Sandulescu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of North Carolina at Chapel Hill ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Paul",
+            "family": "Schneider",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "USI Lugano and Swiss Finance Institute ,",
+                "place": [
+                  "Switzerland"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag054/8753148"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag054",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              6
+            ]
+          ]
+        },
+        "article-number": "hhag054"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We argue that heightened regulation on large banks contributed to the rise in fragility of smaller banks revealed by the 2023 regional bank crisis. In 2018, regulators restricted Wells Fargo, the third largest U.S. bank, from growing its total assets. We estimate this asset cap led Wells Fargo to give up deposits amounting to 2.2% of aggregate bank deposits. These deposits, primarily uninsured, were reallocated to banks geographically proximate to Wells Fargo, including smaller, less regulated banks. In turn, these banks experienced higher deposit outflows once monetary tightening commenced and saw their stock prices plummet during the 2023 stress.</jats:p>",
+        "DOI": "10.1093/rfs/hhag071",
+        "type": "journal-article",
+        "title": [
+          "Size-Based Regulation and Bank Fragility: Evidence from the Wells Fargo Asset Cap"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Tianyue",
+            "family": "Ruan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Faculty of Business and Economics, University of Hong Kong , Hong Kong SAR,",
+                "place": [
+                  "China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Siddharth",
+            "family": "Vij",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Terry College of Business, University of Georgia ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag071/8750114"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag071",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              3
+            ]
+          ]
+        },
+        "article-number": "hhag071"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Our study provides the first causal test of classical and behavioral asset pricing models that incorporate skewness pricing. In line with these models, our experimental markets show that skewness is systematically priced. Our findings also reveal that positively skewed assets available in small supply exhibit negative expected returns, which is consistent with prospect theory, but not with expected utility models. Furthermore, in line with the mechanism underlying prospect theory, we show that the negative returns of the positively skewed asset are most pronounced during market sessions where traders overweight the low probability of receiving a large payoff.</jats:p>",
+        "DOI": "10.1093/rfs/hhag070",
+        "type": "journal-article",
+        "title": [
+          "Stocks as Lotteries? An Experimental Test of Expected Utility versus Behavioral Models"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0086-8523",
+            "authenticated-orcid": false,
+            "given": "Brice",
+            "family": "Corgnet",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Emlyon Business School, CNRS, Université Lumière Lyon 2, Université Jean Monnet Saint-Etienne ,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yao Thibaut",
+            "family": "Kpegli",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Université de Pau et des Pays de l’Adour ,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jacopo",
+            "family": "Magnani",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Norwegian University of Science and Technology ,",
+                "place": [
+                  "Norway"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag070/8747385"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag070",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              30
+            ]
+          ]
+        },
+        "article-number": "hhag070"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper studies how investing in venture capital (VC) affects the entrepreneurial outcomes of individual limited partners (LPs). Using comprehensive administrative data on entrepreneurial activities and VC fundraising and investments in China, we find that after investing in a successfully launched VC fund, individual LPs create significantly more ventures than do LPs in funds that failed to launch. These new ventures tend to be high-tech firms with better employment outcomes and more patent activity. Our results suggest that venture investments are a channel through which individual LPs learn. (JEL D83, G23, G24, L25, L26)</jats:p>",
+        "DOI": "10.1093/rfs/hhag069",
+        "type": "journal-article",
+        "title": [
+          "Learning by Investing: Entrepreneurial Spillovers from Venture Capital"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Josh",
+            "family": "Lerner",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Harvard University and National Bureau of Economic Research ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jinlin",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "China Institute of Finance and Capital Markets , China Securities Regulatory Commission,",
+                "place": [
+                  "China"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tong",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "MIT Sloan School of Management ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              29
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag069/8746783"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              29
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag069",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              29
+            ]
+          ]
+        },
+        "article-number": "hhag069"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Pension funds use interest rate swaps to hedge the interest rate risk arising from their liabilities. Analyzing regulatory data on Dutch pension funds, we show that pension funds with worse funding ratios, indicating greater fragility, use swaps more aggressively. These swap positions expose pension funds to the risk of margin calls, which can exceed 6% of their total assets, when interest rates rise. Pension funds respond to realized margin calls by selling safe government bonds with medium-term maturities. This procyclical selling behavior adversely affects the prices of the sold bonds and thereby exposes pension funds to market liquidity risk.</jats:p>",
+        "DOI": "10.1093/rfs/hhag068",
+        "type": "journal-article",
+        "title": [
+          "Pension Liquidity Risk"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Kristy A E",
+            "family": "Jansen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Marshall School of Business, University of Southern California, CEPR, and De Nederlandsche Bank , USA and Netherlands"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sven",
+            "family": "Klingler",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Frankfurt School of Finance and Management ,",
+                "place": [
+                  "Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Angelo",
+            "family": "Ranaldo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Basel and Swiss Finance Institute ,",
+                "place": [
+                  "Switzerland"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Patty",
+            "family": "Duijm",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "De Nederlandsche Bank ,",
+                "place": [
+                  "Netherlands"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag068/8742317"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag068",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              27
+            ]
+          ]
+        },
+        "article-number": "hhag068"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We collect and analyze detailed filings from global institutional investors to estimate foreign investors’ U.S. dollar (USD) security holdings and currency hedging. Over two decades, foreign USD holdings grew sixfold, while hedge ratios rose by 15 percentage points after the 2008–2009 crisis. Currency hedging across mutual funds, pensions, and insurance reached $2 trillion by 2019. Hedging demand varies across investors, currency areas, and banking systems. We show that expected FX returns, beyond variance minimization, drive currency exposure in portfolios. Finally, we demonstrate and quantify how aggregate hedging demand affects hedging costs in the presence of constrained intermediaries.</jats:p>",
+        "DOI": "10.1093/rfs/hhag067",
+        "type": "journal-article",
+        "title": [
+          "Dollar Asset Holdings and Hedging around the Globe"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Wenxin",
+            "family": "Du",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Harvard Business School and NBER ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amy W",
+            "family": "Huber",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The Wharton School of the University of Pennsylvania ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag067/8742316"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag067",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              27
+            ]
+          ]
+        },
+        "article-number": "hhag067"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Sovereign debt yields have undergone a historic decline over the last half century. Standard explanations, including aging populations and increases in asset demand from abroad, encounter difficulties when confronted with the full range of evidence. We propose an explanation based on a decline in inflation and default risk. We show that a model with sovereign default captures the decline in interest rates, the stability of equity valuation ratios, and the reduction in investment and output growth. Calibrations of the model post-COVID suggest that sovereign default risk may have returned.</jats:p>",
+        "DOI": "10.1093/rfs/hhag025",
+        "type": "journal-article",
+        "title": [
+          "Sovereign Default and the Decline in Interest Rates"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Max",
+            "family": "Miller",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Finance Unit, Harvard Business School, Harvard University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "James D",
+            "family": "Paron",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Stanford University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jessica A",
+            "family": "Wachter",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Wharton School, University of Pennsylvania ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag025/8739943"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag025",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              22
+            ]
+          ]
+        },
+        "article-number": "hhag025"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "issue": "10",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We measure the nature and severity of a variety of belief distortions in market reactions to hundreds of economic news events by synthesizing structural estimation with algorithmic machine learning to quantify bias. We find that investors systematically overreact to perceptions about multiple fundamental shocks, a phenomenon we show often dampens rather than amplifies market volatility via a “shock composition effect.” Such effects imply that the stock market can underreact to news, even when investors overreact to all shocks.</jats:p>",
+        "DOI": "10.1093/rfs/hhag062",
+        "type": "journal-article",
+        "page": "3191-3239",
+        "title": [
+          "What Hundreds of Economic News Events Say About Belief Overreaction in the Stock Market"
+        ],
+        "prefix": "10.1093",
+        "volume": "39",
+        "author": [
+          {
+            "given": "Francesco",
+            "family": "Bianchi",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Johns Hopkins, CEPR, and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sydney C",
+            "family": "Ludvigson",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "NYU, CEPR, and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sai",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Federal Reserve Board ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/article/39/10/3191/8739216"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag062",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Government intervention in the financial market through its own trading fundamentally changes the market’s structure, function, and outcome. I develop a general equilibrium framework to study the impact of government trading on investor welfare. I show that with incompleteness and information asymmetry, the market equilibrium is in general suboptimal, and government intervention can potentially improve investor welfare even with no additional information. However, the actual welfare impact of government intervention is sensitive to the details of the economy and the policy design. Popular policy targets such as price stability, market liquidity, and informational efficiency can have different welfare implications.</jats:p>",
+        "DOI": "10.1093/rfs/hhag058",
+        "type": "journal-article",
+        "title": [
+          "Government Intervention in the Financial Market"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Jiang",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology and NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag058/8735255"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag058",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "article-number": "hhag058"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Traditionally, fund managers cast votes on behalf of fund investors. Recently, there is a shift toward “pass-through voting,” with funds offering investors a choice: delegate votes to the fund or vote themselves. We develop a framework to study the implications of voting choice. While it helps reflect heterogeneous investor preferences, it also shapes the informational content of the vote, and these forces can conflict. When interests are aligned, voting choice improves information aggregation and investor welfare. With preference heterogeneity or costly information, however, it can make investors worse off by weakening informed decision making and fund managers’ incentives to acquire information.</jats:p>",
+        "DOI": "10.1093/rfs/hhag065",
+        "type": "journal-article",
+        "title": [
+          "Voting Choice"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Andrey",
+            "family": "Malenko",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Boston College ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nadya",
+            "family": "Malenko",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Boston College ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag065/8733400"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              13
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag065",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              13
+            ]
+          ]
+        },
+        "article-number": "hhag065"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Generative artificial intelligence (AI) is increasingly consuming and producing huge amounts of data. We propose a social learning model of AI, emphasizing a data-AI feedback loop: data quality affects AI productivity, which influences AI adoption and, consequently, the composition (AI versus human-generated) and quality of future data. Calibrated to evidence on synthetic training loops, the model predicts hump-shaped labor dynamics—short-term displacement that partially reverses as data quality deteriorates. A Grossman–Stiglitz-style externality emerges: AI adopters free-ride on the human-generated actions that supply the novel information on which AI itself relies. In a competitive market, AI should be taxed to correct the data-quality externality; a concentrated AI industry overcorrects, making a subsidy optimal.</jats:p>",
+        "DOI": "10.1093/rfs/hhag064",
+        "type": "journal-article",
+        "title": [
+          "Generative AI and Data Quality: Implications for Productivity, Labor Displacement, and Policy"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Zhifeng",
+            "family": "Cai",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Rutgers University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              13
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag064/8733256"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              13
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag064",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              13
+            ]
+          ]
+        },
+        "article-number": "hhag064"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We build a novel data set of time-stamped corporate decarbonization commitments—green pledges—for U.S. public firms by classifying news articles with large language models and human validation. Firms announcing green pledges tend to be larger and browner than other firms, both within and across industries. Green pledges significantly raise stock prices, consistent with a reduction in the carbon premium, and predict sizable declines in future carbon emissions and emission intensities. These effects tend to be strongest for firms in brown industries. Green pledges thus appear credible, convey relevant new information to investors, and provide meaningful financial incentives to decarbonize.</jats:p>",
+        "DOI": "10.1093/rfs/hhag063",
+        "type": "journal-article",
+        "page": "2729-2768",
+        "title": [
+          "Corporate Green Pledges"
+        ],
+        "prefix": "10.1093",
+        "volume": "39",
+        "author": [
+          {
+            "given": "Michael",
+            "family": "Bauer",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Federal Reserve Bank of San Francisco , ; CEPR",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Huber",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Arval BNP Paribas ,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Eric",
+            "family": "Offner",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Frankfurt School of Finance and Management ,",
+                "place": [
+                  "Germany"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ole",
+            "family": "Wilms",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Hamburg and Tilburg University , and",
+                "place": [
+                  "Germany the Netherlands"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              9
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/article/39/9/2729/8729057"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag063",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study privatization and corporate ownership in transportation infrastructure, focusing on global airports. Privatization in general does not improve performance. However, private equity (PE) ownership has strong and persistent positive effects on efficiency, volume, and quality, with positive externalities for the local economy. We address selection using close auctions where PE and non-PE firms bid. PE funds expand physical capacity and encourage larger planes while adding low-cost carriers and international routes. They are especially effective in countries with more corruption or state-owned flag carriers. In contrast, the poorer performance of non-PE acquirers may reflect private benefits and historical state ties.</jats:p>",
+        "DOI": "10.1093/rfs/hhag023",
+        "type": "journal-article",
+        "title": [
+          "All Clear for Takeoff: Evidence from Airports on the Effects of Infrastructure Privatization"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Sabrina T",
+            "family": "Howell",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Harvard Business School & NBER ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yeejin",
+            "family": "Jang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of New South Wales ,",
+                "place": [
+                  "Australia"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hyeik",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of California , Riverside,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael S",
+            "family": "Weisbach",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ohio State University, NBER, & ECGI ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              6
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag023/8725473"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              6
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag023",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              6
+            ]
+          ]
+        },
+        "article-number": "hhag023"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>There are two major institutional investors in the syndicated loan market: collateralized loan obligations (CLOs) and loan mutual funds. CLOs are closed-end funds while loan funds are open-end funds that issue claims that are redeemable on demand. In this paper, we examine whether CLOs provide arbitrage capital that contributes to the resilience of loan funds. We find that CLOs act as shock absorbers, providing liquidity through par-building trades when loan funds experience large outflows. However, CLO-provided liquidity is limited to par build–eligible loans, leading to potential flow-induced fire sales among par build–ineligible loans.</jats:p>",
+        "DOI": "10.1093/rfs/hhag056",
+        "type": "journal-article",
+        "title": [
+          "Institutional Synergies and the Fragility of Loan Funds"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Mustafa",
+            "family": "Emin",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Culverhouse College of Business, University of Alabama ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher",
+            "family": "James",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Warrington College of Business, University of Florida ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tao",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Warrington College of Business, University of Florida , , and",
+                "place": [
+                  "USA"
+                ]
+              },
+              {
+                "name": "ECGI , , and",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jing",
+            "family": "Lu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of New South Wales ,",
+                "place": [
+                  "Australia"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag056/8724515"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag056",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              3
+            ]
+          ]
+        },
+        "article-number": "hhag056"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Numerous trading strategies examined in options research exhibit remarkably high mean returns and Sharpe ratios. We show some of these seemingly “good deals” are due to look-ahead biases. These biases stem from using information unavailable at the portfolio formation time to filter out observations suspected of being noisy or erroneous. Our results suggest that elevated Sharpe ratios may serve as potential indicators of such look-ahead biases. Furthermore, deviating from previous literature findings, we show that illiquidity is not strongly priced in stock options and that only a small set of stock characteristics are in fact associated with option expected returns.</jats:p>",
+        "DOI": "10.1093/rfs/hhag061",
+        "type": "journal-article",
+        "title": [
+          "Too Good to Be True: Look-Ahead Bias in Empirical Options Research"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Jefferson",
+            "family": "Duarte",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Jesse H. Jones School of Business, Rice University ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher S",
+            "family": "Jones",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Marshall School of Business, University of Southern California ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mehdi",
+            "family": "Khorram",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ivy College of Business, Iowa State University ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Haitao",
+            "family": "Mo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Business, University of Kansas ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Junbo L",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Ourso College of Business, Louisiana State University ,",
+                "place": [
+                  "the United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag061/8722307"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag061",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              30
+            ]
+          ]
+        },
+        "article-number": "hhag061"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study the interaction between firms, which can invest in green technologies, and a government, which can impose emission caps but has limited commitment power. Investment in green technologies generates innovation spillovers, reducing the cost of further investments. Spillovers generate intertemporal strategic complementarities between firms and government, and equilibrium multiplicity. In a “green equilibrium”, firms, anticipating caps, invest in green technologies, which reduces the cost of further investment, making the government willing to cap emissions. In a “brown equilibrium”, firms, anticipating no caps, don’t invest, so green technologies remain costly and the government gives up on emission caps.</jats:p>",
+        "DOI": "10.1093/rfs/hhag060",
+        "type": "journal-article",
+        "page": "2691-2728",
+        "title": [
+          "Emission Caps and Investment in Green Technologies"
+        ],
+        "prefix": "10.1093",
+        "volume": "39",
+        "author": [
+          {
+            "given": "Bruno",
+            "family": "Biais",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "HEC Paris ,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Augustin",
+            "family": "Landier",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "HEC Paris ,",
+                "place": [
+                  "France"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              27
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/article/39/9/2691/8721315"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              27
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag060",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We show that positive flows to active mutual funds with high recent returns partially reverse at longer horizons. This outcome is robust across a broad range of alternative specifications. Reversal occurs from greater outflows associated with high prior returns, not reduced inflows. We test theories to explain the reversal: investment life cycles, tax loss selling, and a behavioral “disappointment” hypothesis based on investors’ overreaction to positive returns. While both tax loss selling and short investor life cycles can contribute, the evidence supports a role for investor disappointment, whereby investors redeem their capital when return performance fails to meet expectations.</jats:p>",
+        "DOI": "10.1093/rfs/hhag059",
+        "type": "journal-article",
+        "title": [
+          "Mutual Fund Flows at Long Horizons"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Hendrik",
+            "family": "Bessembinder",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "W. P. Carey School of Business, Arizona State University ,",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shuaiyu",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Darden School of Business, University of Virginia ,",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael J",
+            "family": "Cooper",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "David Eccles School of Business, University of Utah ,",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jinming",
+            "family": "Xue",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Cox School of Business, Southern Methodist University ,",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Feng",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Cox School of Business, Southern Methodist University ,",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              26
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag059/8719053"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              26
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag059",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              26
+            ]
+          ]
+        },
+        "article-number": "hhag059"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A core responsibility of the Federal Reserve is to ensure financial stability by acting as the lender of last resort through its Discount Window (DW). The DW, however, has not been effective because its usage is stigmatized. In this paper, we use theory and experiments to study how such stigma can be cured. We find that behavioral inertia makes it difficult to fix a stigmatized DW, but adding a new backstop facility can help mitigate stigma. These results are consistent with the Federal Reserve’s experience.</jats:p>",
+        "DOI": "10.1093/rfs/hhag013",
+        "type": "journal-article",
+        "title": [
+          "Can Discount Window Stigma Be Cured? An Experimental Investigation"
+        ],
+        "prefix": "10.1093",
+        "author": [
+          {
+            "given": "Olivier",
+            "family": "Armantier",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Economic Science Institute, Chapman University ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Charles",
+            "family": "Holt",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Virginia ,",
+                "place": [
+                  "USA"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag013/8713225"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag013",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              19
+            ]
+          ]
+        },
+        "article-number": "hhag013"
+      },
+      {
+        "publisher": "Oxford University Press (OUP)",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A fundamental concern about green investing is that it may crowd out political support for public policies addressing negative externalities. We examine this concern in a preregistered experiment conducted shortly before a real referendum on a climate law in Switzerland. We find that offering an opportunity to invest in a climate-friendly fund does not reduce individual support for climate regulation, measured by political donations and voting intentions. A replication of the experiment in the United Kingdom yields similar results. Our estimates reject a crowding-out effect, suggesting instead a modest crowding-in effect of green investing on political support for green policies.</jats:p>",
+        "DOI": "10.1093/rfs/hhag055",
+        "type": "journal-article",
+        "page": "2769-2820",
+        "title": [
+          "Green Investing and Political Behavior"
+        ],
+        "prefix": "10.1093",
+        "volume": "39",
+        "author": [
+          {
+            "given": "Florian",
+            "family": "Heeb",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Leibniz Institute for Financial Research SAFE, Goethe University Frankfurt, Germany, and ,",
+                "place": [
+                  "United States"
+                ]
+              },
+              {
+                "name": "MIT Sloan Frankfurt, Germany, and ,",
+                "place": [
+                  "United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Julian F",
+            "family": "Kölbel",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of St. Gallen, Swiss Finance Institute , , and ,",
+                "place": [
+                  "Switzerland United States"
+                ]
+              },
+              {
+                "name": "MIT Sloan , , and ,",
+                "place": [
+                  "Switzerland United States"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stefano",
+            "family": "Ramelli",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of St. Gallen and Swiss Finance Institute ,",
+                "place": [
+                  "Switzerland"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anna",
+            "family": "Vasileva",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Zurich ,",
+                "place": [
+                  "Switzerland"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "The Review of Financial Studies"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://academic.oup.com/rfs/article/39/9/2769/8711468"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1093/rfs/hhag055",
+        "ISSN": [
+          "0893-9454",
+          "1465-7368"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              18
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 100,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

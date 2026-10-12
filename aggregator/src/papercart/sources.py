@@ -4,6 +4,7 @@ from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
 import re
+from urllib.parse import urlsplit
 
 import yaml
 
@@ -31,6 +32,26 @@ class CrossrefConfig:
 
 
 @dataclass(frozen=True)
+class RSSConfig:
+    url: str
+    abstract_location: str | None
+
+    def __post_init__(self):
+        target = urlsplit(self.url)
+        # Configured feed URLs are the only publisher URLs the program requests.
+        # Validate even a "verified" config to guard against accidental PDF edits.
+        if target.scheme != "https" or not target.hostname or target.username or target.password:
+            raise ValueError("RSS needs a public HTTPS feed URL")
+        if re.search(r"(?:\.pdf(?:$|[/?])|/(?:pdf|full|fulltext)(?:/|$))", target.path, re.I):
+            raise ValueError("PDF/full-text URLs cannot be RSS endpoints")
+        if not (re.search(r"(?:/rss(?:/|$)|/feed(?:/|$)|/showFeed$|\.(?:rss|xml)$)", target.path, re.I) or
+                (target.hostname == "rss.sciencedirect.com" and re.fullmatch(r"/publication/science/[0-9X]+", target.path))):
+            raise ValueError("RSS URL must identify a metadata feed")
+        if self.abstract_location not in {None, "description", "content:encoded"}:
+            raise ValueError("Unknown RSS abstract location")
+
+
+@dataclass(frozen=True)
 class Source:
     id: str
     name: str
@@ -41,6 +62,7 @@ class Source:
     status: str
     primary: str
     crossref: CrossrefConfig | None = None
+    rss: RSSConfig | None = None
 
     @property
     def active(self) -> bool:
@@ -83,5 +105,9 @@ def load_sources(path: str | Path = DEFAULT_CONFIG) -> list[Source]:
         primary = entry.get("primary", "crossref" if config else "rss")
         if primary not in {"crossref", "rss"}:
             raise ValueError(f"Source {source_id}: invalid primary")
-        sources.append(Source(source_id, entry["name"], entry["short"], entry["group"], entry["kind"], verified, entry["status"], primary, config))
+        rss = None
+        raw_rss = entry.get("rss")
+        if isinstance(raw_rss, dict) and raw_rss.get("status") == "passed" and raw_rss.get("verified") and raw_rss.get("url"):
+            rss = RSSConfig(raw_rss["url"], raw_rss.get("abstract_location"))
+        sources.append(Source(source_id, entry["name"], entry["short"], entry["group"], entry["kind"], verified, entry["status"], primary, config, rss))
     return sources

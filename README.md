@@ -3,7 +3,7 @@
 文献购物车：定时聚合元数据，供 iPhone PWA 浏览，并把选中的条目加入 Zotero。
 完整范围和里程碑见 [PLAN.md](PLAN.md)，工作约定见 [AGENTS.md](AGENTS.md)。
 
-目前完成 M0 骨架与技术验证、M1 Crossref 抓取及规范化。RSS、摘要补全、去重、Zotero 映射、IndexedDB、PWA 和 CI 留待对应后续里程碑。
+目前完成 M0–M2：Crossref/RSS、合并、DOI 摘要补全、持久化 state 和 feed 校验。Zotero 映射、IndexedDB、PWA 和 CI 留待对应后续里程碑。
 技术验证、失败原因和需要用户决定的事项见 [docs/SPIKES.md](docs/SPIKES.md)。
 
 ## Python（≥3.10）
@@ -74,4 +74,49 @@ LIVE_TEST=1 aggregator/.venv/bin/python aggregator/scripts/verify_crossref.py pa
 LIVE_TEST=1 aggregator/.venv/bin/python aggregator/scripts/verify_crossref.py prefixes
 ```
 
-这些命令保存脱敏的 Crossref 响应，不保存请求中真实的 mailto。M2 必须另行指派。
+这些命令保存脱敏的 Crossref 响应，不保存请求中真实的 mailto。
+
+## M2 构建信息流
+
+```bash
+aggregator/.venv/bin/python -m papercart.build --out web/public/data/feed.json
+```
+
+构建按源合并 Crossref 与 RSS；ECTA 和 NBER 优先 RSS（NBER 以 RSS 摘要为准），其他源优先 Crossref，BFI 停用。ECB 仅保留 Working Paper Series，排除 Discussion Papers 等其他系列。
+RSS 只请求配置中已验证的 feed 地址，解析 description 或 content:encoded；不请求条目链接。
+先按 DOI 合并，再按规范化 URL/元数据 URL 别名去重；摘要回填只用相同 DOI，禁止标题近似匹配。
+ECB PDF 链接仅保存为 url；下载/请求 PDF 或全文的代码不存在。
+
+保留发表日期范围与最近 120 天重叠的条目，保留年月日期精度、不伪造日。无日期条目使用持久化 first_seen 参与排序和保留，published 仍为 null。
+每条 feed 记录增加 first_seen（UTC 时间戳）和 date_precision（published 或 first_seen，表示日期来源）。同一条目重复出现不会重置 first_seen；120 天过期后也保留其观测标记，避免旧 RSS 被重新当成新论文。
+state 保存每条 paper 的元数据、首次发现时间和已获取摘要，按身份复用，源暂时失败或 RSS 换期不会清空历史摘要。过期记录不输出到 feed；已有旧版 feed 可以迁移到新字段。
+每个 Crossref 源最多两页（每页 100 条），RSS 只取一页；同一次 build 的所有请求间隔至少一秒。429/503 时当次运行停止请求该 host。
+
+Semantic Scholar 补回 NBER/JPE 的缺失摘要（可用 --no-enrich 关闭），NBER 优先，条目按最新日期及工作论文编号优先；JFE 暂时接受缺摘要，不请求补全。
+默认全运行最多 2 个批量请求，可用 --abstract-max-requests 调整；每源至多两批，每批不超过 500 DOI。匿名元数据查询不使用 API Key，严格核对返回 DOI。
+所有来源的已获取摘要持久化保留；S2 缺失结果缓存一天，429 冷却与 Retry-After 从响应到达时起计时并跨运行保存，不反复请求已缓存 DOI。
+OpenAlex 暂不接入；后续可用性验证/接入需要用户决定是否申请免费 API key，以免依赖本机已经耗尽的匿名共享 IP 预算。政策和覆盖率见 SPIKES.md。
+
+唯一运行状态文件默认 aggregator/state/state.json（git 忽略），可通过 --state 指定。paper 记录和 S2 缓存/冷却都在该文件中；不再写独立 abstracts.json。
+首次使用默认 state 时，会导入已有的旧 S2 缓存，成功保存新 state/feed 后删除旧缓存文件。state 损坏时失败，不静默清空首次发现时间。M5 再处理 CI 中的持久化。
+
+```bash
+aggregator/.venv/bin/python -m papercart.build --out web/public/data/feed.json \
+  --state aggregator/state/state.json --abstract-max-requests 2
+```
+
+feed.schema.json 是 schema 1 的校验依据，使用白名单之外零依赖的标准库校验器验证该 schema 所用关键词，同时检查 DOI/URL 身份、日期与重复 ID。
+zotero 当前仍为 `{}`，完整模板映射属于 M3；当前 feed 尚不能直接用作 Zotero 写入负载。
+源的状态、错误、各后端计数、摘要覆盖和日期排除计数都写入 sources，单源失败不阻断其他源；输出经校验后原子替换。
+
+真实网络验证并录制脱敏响应：
+
+```bash
+LIVE_TEST=1 aggregator/.venv/bin/python -m papercart.build \
+  --out web/public/data/feed.json \
+  --record-fixtures aggregator/tests/fixtures/m2/build
+```
+
+fixture 保留实际响应的元数据；Crossref 录制删除未使用的引用/许可/资助字段以控制体积，邮箱统一脱敏。
+连续两次真实验证各生成 610 条；NBER 各 222 条、42 条有摘要，第二次 S2 HTTP 请求为 0，first_seen 和摘要未改变。两次各源统计见 SPIKES.md。
+不要执行 git commit；协调方审查后提交。M3 必须另行指派。

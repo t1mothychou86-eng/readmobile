@@ -1,0 +1,403 @@
+[
+  null,
+  null,
+  {
+    "paperId": "7f1b5cd86fe657e539d360342c4d9b9bff212e7d",
+    "externalIds": {
+      "DOI": "10.1086/742724",
+      "CorpusId": 289340460
+    },
+    "title": "Silence to Solidarity: How Communication About a Minority Affects Discrimination",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742724?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742724, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144773705",
+        "name": "D. Webb"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7df991d446490527be651740ca74a9e842541ec7",
+    "externalIds": {
+      "DOI": "10.1086/744130",
+      "CorpusId": 250085916
+    },
+    "title": "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics",
+    "openAccessPdf": {
+      "url": "https://econ-papers.upf.edu/ca/paper.php?id=1872",
+      "status": "GREEN",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/744130?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/744130, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "123951101",
+        "name": "Priit Jeenas"
+      }
+    ],
+    "abstract": "This paper evaluates the role of firms’ balance sheet liquidity in the transmission of monetary policy to investment. I estimate that in response to contractionary monetary policy shocks, both firms with higher leverage or with fewer liquid assets reduce investment relative to others. However, controlling for liquid assets, leverage loses its significance in explaining such heterogeneity while liquid assets remain important conditional on leverage. To explain these results, I introduce fixed issuance costs on long-term debt financing in an otherwise conventional general equilibrium model of heterogeneous firms and borrowing constraints. In the calibrated model, balance sheet liquidity predicts investment sensitivity to corporate debt rates better than leverage. Fixed issuance costs give rise to relatively wealthy firms who are not borrowing constrained but exhibit large marginal propensities to invest out of liquid income. This can considerably amplify the aggregate effects of shocks and policies which affect firms’ cash flows."
+  },
+  {
+    "paperId": "4931884f355985fa2003775ee7bf849b3c366362",
+    "externalIds": {
+      "DOI": "10.1086/744117",
+      "CorpusId": 292191994
+    },
+    "title": "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/744117?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/744117, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "68999797",
+        "name": "Juliano Assunção"
+      },
+      {
+        "authorId": "2461374726",
+        "name": "L. Hansen"
+      },
+      {
+        "authorId": "2072248553",
+        "name": "T. Munson"
+      },
+      {
+        "authorId": "147150936",
+        "name": "Joséa Scheinkman"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1819587f0812f35e0c92a0382493952030536169",
+    "externalIds": {
+      "DOI": "10.1086/744118",
+      "CorpusId": 292183336
+    },
+    "title": "Data, Privacy Laws and Firm Production: Evidence from the GDPR",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/744118?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/744118, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "88741890",
+        "name": "Mert Demirer"
+      },
+      {
+        "authorId": "1469088002",
+        "name": "Diego Jiménez-Hernández"
+      },
+      {
+        "authorId": "2482428737",
+        "name": "Dean Li"
+      },
+      {
+        "authorId": "2294515456",
+        "name": "Si-Da Peng"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e6e998d340f0bf2f91343d399892bcc8a47264f3",
+    "externalIds": {
+      "DOI": "10.1086/744119",
+      "CorpusId": 292184621
+    },
+    "title": "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/744119?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/744119, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "98556200",
+        "name": "E. Richert"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "202b6af0bbc0b1de8e788593c2001a8a78e240ac",
+    "externalIds": {
+      "DOI": "10.1086/742716",
+      "CorpusId": 289364155
+    },
+    "title": "Quota Mechanisms: Finite-Sample Optimality and Robustness",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742716?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742716, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "104758413",
+        "name": "Ian Ball"
+      },
+      {
+        "authorId": "104413090",
+        "name": "Deniz Kattwinkel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "35efdb9c470a12f53ff53b4a59a77b3af97e9767",
+    "externalIds": {
+      "DOI": "10.1086/742725",
+      "CorpusId": 253426216
+    },
+    "title": "Regulatory Competition in the US Life Insurance Industry",
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742725?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742725, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2148904089",
+        "name": "Johnny Tang"
+      }
+    ],
+    "abstract": "Competition between jurisdictions is a central feature of many public policy problems. I examine the consequences of such competition in the US life insurance industry, where states vie to attract insurers by setting lower capital requirements, but the costs of such actions are borne by consumers in other states. I document empirical evidence of competition between state regulators and its effects on the supply of life insurance. I then develop a quantitative model of the insurance market to evaluate the effects of this competition. I find that competition leads regulators to set lower capital requirements, which increases default risks but also increases consumer surplus by lowering prices. On net, these effects decrease regulators’ utility based on regulators’ revealed-preference objective functions. *papercart@example.invalid. Harvard University. I am deeply grateful to my advisors Andrei Shleifer, Jeremy Stein, Adi Sunderam, and Mark Egan. I have also benefited from conversations with Sam Antill, John Campbell, Antonio Coppola, Paul Fontanier, Shan Ge, Nicola Gennaioli, Ed Glaeser, Martin Grace, Robin Greenwood, Sam Hanson, Nathan Hendren, Myrto Kalouptsidi, Elisabeth Kempf, Spencer Kwon, Robin Lee, Yueran Ma, Ariel Pakes, Dev Patel, Gordon Phillips, Ken Rogoff, David Scharfstein, Dan Schwarcz, Ishita Sen, Jesse Shapiro, Emil Siriwardane, Stefanie Stantcheva, Ludwig Straub, Boris Vallee, Jonathan Wallen, Ron Yang, David Zhang, and audiences at TADC, USC Marshall Finance PhD Conference, Bank of Canada, and the Harvard finance, IO, and labor/public finance workshops. A.M. Best Company, S&P, and Compulife own the copyrights to the respective data. I thank the staff and regulators at state insurance departments, actuaries and insurance agents, and industry consultants for many helpful conversations. I acknowledge funding from the John M. Olin Fellowship at Harvard Law School. All errors are my own."
+  },
+  {
+    "paperId": "9021b0895765a4f137accc0633c18c1e40ea0c48",
+    "externalIds": {
+      "DOI": "10.1086/744012",
+      "CorpusId": 259257607
+    },
+    "title": "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/744012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/744012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "51323072",
+        "name": "Nicholas Buchholz"
+      },
+      {
+        "authorId": "46179057",
+        "name": "M. Shum"
+      },
+      {
+        "authorId": "39373727",
+        "name": "Hai-Qing Xu"
+      }
+    ],
+    "abstract": "Workers with variable earnings and flexible hours offer unique opportunities to evaluate intertemporal labor supply elasticities. Existing static analyses, however, have generated well-known puzzles, suggesting evidence of downward sloping labor supply curves. Using a large sample of shifts of New York City taxicab drivers, we estimate a dynamic optimal stopping model of drivers’ work times and quitting decisions. Our model exploits a set of sufficient statistics for equilibrium interactions between supply and demand, allowing us to estimate driver opportunity costs via a single agent problem. Our results demonstrate that several apparent behavioral biases documented in the literature can be reproduced using entirely standard preferences. We use our model to provide new estimates of individual earnings elasticities and show that taxi drivers have similar elasticities to workers in markets where experimental evidence has been obtained. Finally, we use data spanning a 2012 fare change to estimate labor supply elasticities with respect to market prices, accounting for the equilibrium impact of prices on supply and demand. We find market elasticities to be approximately a tenth of the size of individual elasticities, suggesting that existing estimates of the benefits to recent earnings legislation in the taxi and ride-hail industries"
+  },
+  {
+    "paperId": "4c310caf8cc43d7272152cfdd0995818d6a35b5d",
+    "externalIds": {
+      "DOI": "10.1086/744015",
+      "CorpusId": 291979005
+    },
+    "title": "Behavioral Attenuation",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/744015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/744015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "20609547",
+        "name": "B. Enke"
+      },
+      {
+        "authorId": "1557783246",
+        "name": "Thomas Graeber"
+      },
+      {
+        "authorId": "2279951275",
+        "name": "Ryan Oprea"
+      },
+      {
+        "authorId": "120156979",
+        "name": "Jeffrey Yang"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  null,
+  {
+    "paperId": "5dfbeb17c31f88ca8a71705283e87aa252afb891",
+    "externalIds": {
+      "DOI": "10.1086/742713",
+      "CorpusId": 264532284
+    },
+    "title": "Environmental Consequences of Hydrocarbon Infrastructure Policy",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w23855",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742713?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742713, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "95243333",
+        "name": "Thomas R. Covert"
+      },
+      {
+        "authorId": "2262034754",
+        "name": "Ryan Kellogg"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5a0d9499a609e240f6631effdaa7f6ae7c29bc7f",
+    "externalIds": {
+      "DOI": "10.1086/742714",
+      "CorpusId": 289356714
+    },
+    "title": "Peer Effects and Rank Concerns in the Classroom",
+    "openAccessPdf": {
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10221279/1/20251210_Peer_Effects_Tincani.pdf",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742714?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742714, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "145540637",
+        "name": "Michela Tincani"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  null,
+  {
+    "paperId": "908eeb6f1fd85e45e6233d493e6a83fd8893396f",
+    "externalIds": {
+      "DOI": "10.1086/742434",
+      "CorpusId": 288924346
+    },
+    "title": "From Doubt to Devotion: Trials and Learning-Based Pricing",
+    "openAccessPdf": {
+      "url": "https://arxiv.org/pdf/2311.00846",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742434?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742434, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2295732937",
+        "name": "Tan Gan"
+      },
+      {
+        "authorId": "2214599570",
+        "name": "Nicholas T. Wu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "8c4812191406bc7e267155136aef56be858ec2a1",
+    "externalIds": {
+      "DOI": "10.1086/742424",
+      "CorpusId": 288911188
+    },
+    "title": "Debiasing and T-Tests for Synthetic Control Inference on Average Causal Effects",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742424?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742424, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "26331346",
+        "name": "V. Chernozhukov"
+      },
+      {
+        "authorId": "152254378",
+        "name": "Kaspar Wuthrich"
+      },
+      {
+        "authorId": "10170636",
+        "name": "Yin-Chu Zhu"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "b0e6d968178354e10b394756605e64daf706bbe9",
+    "externalIds": {
+      "ArXiv": "2305.00403",
+      "DOI": "10.1086/742418",
+      "CorpusId": 258426477
+    },
+    "title": "Optimal Tests Following Sequential Experiments",
+    "openAccessPdf": {
+      "url": "https://arxiv.org/pdf/2305.00403",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2305.00403, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "74702731",
+        "name": "Karun Adusumilli"
+      }
+    ],
+    "abstract": "Recent years have seen tremendous advances in the theory and application of sequential experiments. While these experiments are not always designed with hypothesis testing in mind, researchers may still be interested in performing tests after the experiment is completed. The purpose of this paper is to aid in the development of optimal tests for sequential experiments by analyzing their asymptotic properties. Our key finding is that the asymptotic power function of any test can be matched by a test in a limit experiment where a Gaussian process is observed for each treatment, and inference is made for the drifts of these processes. This result has important implications, including a powerful sufficiency result: any candidate test only needs to rely on a fixed set of statistics, regardless of the type of sequential experiment. These statistics are the number of times each treatment has been sampled by the end of the experiment, along with final value of the score (for parametric models) or efficient influence function (for non-parametric models) process for each treatment. We then characterize asymptotically optimal tests under various restrictions such as unbiasedness, \\alpha-spending constraints etc. Finally, we apply our our results to three key classes of sequential experiments: costly sampling, group sequential trials, and bandit experiments, and show how optimal inference can be conducted in these scenarios."
+  },
+  null,
+  null,
+  {
+    "paperId": "84fe5e198593ad35ee76c8c7cbdd5e402b7a7b7a",
+    "externalIds": {
+      "DOI": "10.1086/742435",
+      "CorpusId": 288922101
+    },
+    "title": "Illiquid Lemon Markets and the Macroeconomy",
+    "openAccessPdf": {
+      "url": "http://dx.doi.org/10.3386/w31711",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1086/742435?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1086/742435, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2240174623",
+        "name": "Aim´e Bierdel"
+      },
+      {
+        "authorId": "152688706",
+        "name": "Andrés Drenik"
+      },
+      {
+        "authorId": "119305944",
+        "name": "J. Herreño"
+      },
+      {
+        "authorId": "51115464",
+        "name": "Pablo Ottonello"
+      }
+    ],
+    "abstract": null
+  }
+]

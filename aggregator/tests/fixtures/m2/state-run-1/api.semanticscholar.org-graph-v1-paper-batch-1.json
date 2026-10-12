@@ -1,0 +1,5083 @@
+[
+  {
+    "paperId": "1a3c635069b54a2733d8b8c2ac70d3a0b9c73626",
+    "externalIds": {
+      "DOI": "10.3386/w35875",
+      "CorpusId": 292717843
+    },
+    "title": "High and Rising Institutional Concentration of Award-Winning Economists",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35875",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35875?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35875, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2506416467",
+        "name": "Richard Freeman"
+      },
+      {
+        "authorId": "145387706",
+        "name": "Dan-Xia Xie"
+      },
+      {
+        "authorId": "2483027274",
+        "name": "Han-Zhe Zhang"
+      },
+      {
+        "authorId": "2509330319",
+        "name": "Han-Zhang Zhou"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "8d62f29de0ba1208c71f1d84ed8844da0a77f128",
+    "externalIds": {
+      "DOI": "10.3386/w35874",
+      "CorpusId": 292713222
+    },
+    "title": "Tax Planning and Multinational Behavior",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35874",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35874?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35874, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "46654718",
+        "name": "R. Altshuler"
+      },
+      {
+        "authorId": "2006207391",
+        "name": "Lysle Boller"
+      },
+      {
+        "authorId": "2146677863",
+        "name": "Kevin Roberts"
+      },
+      {
+        "authorId": "2383349403",
+        "name": "Juan Carlos Suarez-Serrato"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ec0e42b1fc4b66ac86d8845adfff02c994c8e2c5",
+    "externalIds": {
+      "DOI": "10.3386/w35873",
+      "CorpusId": 292718149
+    },
+    "title": "In Utero Exposure to the 1982 Tylenol Recall and Neurodevelopmental Outcomes",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35873",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35873?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35873, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2334779607",
+        "name": "Christopher M. Worsham"
+      },
+      {
+        "authorId": "2145600403",
+        "name": "Charles F. Bray"
+      },
+      {
+        "authorId": "2301156837",
+        "name": "Joshua M. Rothman"
+      },
+      {
+        "authorId": "2500002401",
+        "name": "Brian Kwan"
+      },
+      {
+        "authorId": "3254022",
+        "name": "A. Jena"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7758cbef999e12e4e0030ec89d22a39f7ea6b82d",
+    "externalIds": {
+      "DOI": "10.3386/w35872",
+      "CorpusId": 292718750
+    },
+    "title": "Estimating Heterogeneous Impacts with Endogenous Participation and Non-Compliance",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35872",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35872?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35872, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1381394488",
+        "name": "O. Attanasio"
+      },
+      {
+        "authorId": "1410971948",
+        "name": "Lina Cardona-Sosa"
+      },
+      {
+        "authorId": "2502594942",
+        "name": "Zi-Qian Liu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b0b98159f40511c67e2c3ca1fb620f8af9914e62",
+    "externalIds": {
+      "DOI": "10.3386/w35871",
+      "CorpusId": 292727868
+    },
+    "title": "The Effects of Long-Term Exposure to Pollution on Health",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35871",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35871?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35871, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1395581485",
+        "name": "J. G. Graff Zivin"
+      },
+      {
+        "authorId": "2391782470",
+        "name": "Johnny Huynh"
+      },
+      {
+        "authorId": "2092145226",
+        "name": "Timothy Justicz"
+      },
+      {
+        "authorId": "1397958197",
+        "name": "A. Lleras-Muney"
+      },
+      {
+        "authorId": "2356276793",
+        "name": "Matthew Neidell"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b7ac3599a60aa461abe96f2c58fe619ecddcd834",
+    "externalIds": {
+      "DOI": "10.3386/w35870",
+      "CorpusId": 292710297
+    },
+    "title": "Aligning Platform and User Incentives in Social Media Age Restrictions",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35870",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35870?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35870, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "6032139",
+        "name": "Leonardo Bursztyn"
+      },
+      {
+        "authorId": "2258159213",
+        "name": "Rafael Jiménez-Durán"
+      },
+      {
+        "authorId": "2354356931",
+        "name": "Aaron Leonard"
+      },
+      {
+        "authorId": "2354479925",
+        "name": "Filip Milojević"
+      },
+      {
+        "authorId": "2258114031",
+        "name": "Christopher Roth"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "18c78042c6d4b4ded506ceec0aa1fb0aed371bdd",
+    "externalIds": {
+      "DOI": "10.3386/w35869",
+      "CorpusId": 292722218
+    },
+    "title": "Voluntary Corporate Climate Targets in a Patchwork Policy Landscape",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35869",
+      "status": "GREEN",
+      "license": "public-domain",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35869?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35869, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2072290",
+        "name": "Joseph E. Aldy"
+      },
+      {
+        "authorId": "2508822101",
+        "name": "Michael Toffel"
+      },
+      {
+        "authorId": "2508829210",
+        "name": "Alison Ong"
+      },
+      {
+        "authorId": "2508879718",
+        "name": "Lavender Yang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "80449b222f2e99cef4d7d6cc045db900be860e2d",
+    "externalIds": {
+      "DOI": "10.3386/w35868",
+      "CorpusId": 292712098
+    },
+    "title": "Optimal Line-Drawing for Legal Rules",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35868",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35868?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35868, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "82126230",
+        "name": "Jacob S. Goldin"
+      },
+      {
+        "authorId": "2508763687",
+        "name": "David A. Weisbach"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b5c3d648925d3d92214d5d066b8a59ee96d2a230",
+    "externalIds": {
+      "DOI": "10.3386/w35867",
+      "CorpusId": 292720683
+    },
+    "title": "The Investment Channel of Monetary Policy: Disentangling Firm Heterogeneity",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35867",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35867?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35867, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2332967318",
+        "name": "Thomas Drechsel"
+      },
+      {
+        "authorId": "2353456198",
+        "name": "Davide Melcangi"
+      },
+      {
+        "authorId": "119398937",
+        "name": "Laura Pilossoph"
+      },
+      {
+        "authorId": "2116425253",
+        "name": "Daniel J. Lewis"
+      }
+    ],
+    "abstract": "To study monetary policy transmission at the firm level, researchers typically consider heterogeneity along a small number of firm characteristics, such as size or leverage. We instead estimate the full distribution of firms’ investment responses to monetary policy, using a clustering regression framework. Our novel approach captures multidimensional and unobservable heterogeneity across firms and time. We find that investment by most firms in most time periods responds little to monetary policy. Only about 5 percent of firm-time observations are associated with a strong response. We then investigate the sources of heterogeneity ex post. We find that most of the variation in investment sensitivity arises within firms over time. Although several firm characteristics predict responsiveness to monetary policy, the majority of heterogeneity remains unexplained by firm observables. We demonstrate that our empirical estimates provide new targets for disciplining structural models of firm heterogeneity."
+  },
+  null,
+  {
+    "paperId": "c073ebc158cce32b62d94267c0328c565eb644bb",
+    "externalIds": {
+      "DOI": "10.3386/w35865",
+      "CorpusId": 287633189
+    },
+    "title": "Financing the AI Buildout",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35865",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35865?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35865, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1389741208",
+        "name": "Stijn Van Nieuwerburgh"
+      }
+    ],
+    "abstract": "Artificial intelligence is driving a large expansion in data center capacity, power infrastructure, and specialized computing equipment. We estimate that a 1 GW AI campus costs about $41 billion. A 183 GW U"
+  },
+  {
+    "paperId": "a97fd4dafc7cc5c83ace0f912393407b50996870",
+    "externalIds": {
+      "DOI": "10.3386/w35864",
+      "CorpusId": 292718094
+    },
+    "title": "From Importer to Exporter: Oil Shocks and the U.S. Economy",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35864",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35864?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35864, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2476244256",
+        "name": "Diego R. Känzig"
+      },
+      {
+        "authorId": "2237733084",
+        "name": "J. Stock"
+      },
+      {
+        "authorId": "2506218540",
+        "name": "Luca Zanotti"
+      }
+    ],
+    "abstract": ","
+  },
+  {
+    "paperId": "f4e1888b983556713131202cd6b56ed28222c953",
+    "externalIds": {
+      "DOI": "10.3386/w35863",
+      "CorpusId": 292712576
+    },
+    "title": "Reassessing the 2000s Housing Cycle After Two Decades of Research",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35863",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35863?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35863, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "119376847",
+        "name": "Adam M. Guren"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1ad37f5f9a40f92ac279222c6665414fc0357bfb",
+    "externalIds": {
+      "DOI": "10.3386/w35862",
+      "CorpusId": 292723281
+    },
+    "title": "The Geopolitical Trap: How Great Power Rivalry Protects Rising Powers",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35862",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35862?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35862, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2086162307",
+        "name": "Johann Caro-Burnett"
+      },
+      {
+        "authorId": "2106056047",
+        "name": "Sebastián Galiani"
+      },
+      {
+        "authorId": "3268087",
+        "name": "Gustavo Torrens"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "3a53e8b207505b70d862bcf0e9b52507a80f59f7",
+    "externalIds": {
+      "DOI": "10.3386/w35860",
+      "CorpusId": 292726680
+    },
+    "title": "Communicating Performance: Textual and Financial Disclosures in Private Equity",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35860",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35860?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35860, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2251850144",
+        "name": "Josh Lerner"
+      },
+      {
+        "authorId": "2088477562",
+        "name": "Fiona A. Paine"
+      },
+      {
+        "authorId": "2856240",
+        "name": "A. Schoar"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "71da92fdeb6d6bafe1ebe5d8dc5435ed3847f568",
+    "externalIds": {
+      "DOI": "10.3386/w35859",
+      "CorpusId": 292717384
+    },
+    "title": "How Heavily Are PhD Students Offloading Their Scientific Writing to AI? Evidence from US STEM PhD Dissertations",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35859",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35859?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35859, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2369348510",
+        "name": "Daniel P. Gross"
+      },
+      {
+        "authorId": "2120722705",
+        "name": "Dror Shvadron"
+      },
+      {
+        "authorId": "2370137134",
+        "name": "Han-Sen Zhang"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  null,
+  {
+    "paperId": "9760c86ae32aaca4bf4cc5f18784d8ebd399eae5",
+    "externalIds": {
+      "DOI": "10.3386/w35856",
+      "CorpusId": 292717665
+    },
+    "title": "Which Workers Left the Labor Force Post-COVID Recession and Why?: Filing, Tax Credit Take-Up, and Labor Force Engagement by Occupation",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35856?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35856, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144906917",
+        "name": "Andrew C. Barr"
+      },
+      {
+        "authorId": "30939125",
+        "name": "Laura Kawano"
+      },
+      {
+        "authorId": "3687504",
+        "name": "Bruce Sacerdote"
+      },
+      {
+        "authorId": "2068347875",
+        "name": "Michael Stevens"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7604e2f3b96273ec92eaa9b873c8b132100f2983",
+    "externalIds": {
+      "DOI": "10.3386/w35855",
+      "CorpusId": 292717652
+    },
+    "title": "Physicians' Occupational Licensing and the Quantity-Quality Trade-off",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35855",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35855?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35855, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "52086722",
+        "name": "Juan Pablo Atal"
+      },
+      {
+        "authorId": "51315635",
+        "name": "T. Larroucau"
+      },
+      {
+        "authorId": "2344411163",
+        "name": "Pablo Muñoz"
+      },
+      {
+        "authorId": "2088485124",
+        "name": "Cristóbal Otero"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "f5a8c46d5964b1ba052d96d11f2caf8e7fcc8222",
+    "externalIds": {
+      "DOI": "10.3386/w35854",
+      "CorpusId": 292718335
+    },
+    "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35854",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35854?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35854, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2060563160",
+        "name": "Marius A. K. Ring"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3ffce4d0878c30ff89eedbee2a4b8fb9b2a2c2b7",
+    "externalIds": {
+      "DOI": "10.3386/w35853",
+      "CorpusId": 292726504
+    },
+    "title": "Randomized to Opportunity: Measuring Place Effects for Refugee Children",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35853",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35853?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35853, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "5980921",
+        "name": "N. Daysal"
+      },
+      {
+        "authorId": "2503021689",
+        "name": "Joseph Doyle"
+      },
+      {
+        "authorId": "2508847406",
+        "name": "Naeim Samandari"
+      },
+      {
+        "authorId": "2489227215",
+        "name": "E. Simonsen"
+      },
+      {
+        "authorId": "31931663",
+        "name": "M. Trandafir"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "010ca88856c7edb8923ef26987446c0e1bdee5a4",
+    "externalIds": {
+      "DOI": "10.3386/w35852",
+      "CorpusId": 263261858
+    },
+    "title": "Living in a Ghost Town: The Geography of Depopulation and Aging",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35852",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35852?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35852, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "120080425",
+        "name": "Elisa Giannone"
+      },
+      {
+        "authorId": "145706755",
+        "name": "Y. Miyauchi"
+      },
+      {
+        "authorId": "119683097",
+        "name": "Nuno Paixão"
+      },
+      {
+        "authorId": "2061203173",
+        "name": "Xin-Le Pang"
+      },
+      {
+        "authorId": "2279666042",
+        "name": "Yuta Suzuki"
+      }
+    ],
+    "abstract": "We study how depopulation and aging progress across regions within a country and how this process affects economic welfare across regions and generations. Using spatially disaggregated data from Japan for the last 40 years, we document that youths’ out-migration accelerated rural depopulation and aging. This process led to a decline in rural economic activity. Motivated by this evidence, we develop a dynamic life-cycle spatial equilibrium model of migration decisions. We calibrate our model to the historical spatial population changes in Japan and use this model to project future spatial patterns of depopulation and aging. We show that internal migration is crucial for the future spatial patterns of depopulation and aging, affecting aggregate and distributional welfare across regions and generations. We thank seminar participants at the Atlanta Fed, Rochester University and CURE for their thoughtful comments. We also thank Yilun Li for outstanding research assistance. The views expressed in this paper are those of the authors and do not reflect those of the Bank of Canada."
+  },
+  {
+    "paperId": "8dc95010182b3ab824170c11288b9fb9bcb54414",
+    "externalIds": {
+      "DOI": "10.3386/w35851",
+      "CorpusId": 292721517
+    },
+    "title": "Latent Human Capital: How Early Investments in Parents Buffer Against Future Schooling Shocks",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35851",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35851?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35851, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2445849031",
+        "name": "Shruti Jha"
+      },
+      {
+        "authorId": "2301914202",
+        "name": "John A. List"
+      },
+      {
+        "authorId": "2488317603",
+        "name": "R. Royer"
+      },
+      {
+        "authorId": "5309959",
+        "name": "A. Samek"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "9d5d6719007279526eb98a97cf18940dc8753f2a",
+    "externalIds": {
+      "DOI": "10.3386/w35850",
+      "CorpusId": 292709595
+    },
+    "title": "Debt Sustainability and the Range of Multiple Equilibria",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35850",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35850?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35850, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2453278250",
+        "name": "Olivier Blanchard"
+      },
+      {
+        "authorId": "2220322723",
+        "name": "Pedro Martínez-Bruera"
+      },
+      {
+        "authorId": "123439157",
+        "name": "Gonzalo Huertas"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "49f841ed3b59e3222adb1bdb011b840c4fb74d1f",
+    "externalIds": {
+      "DOI": "10.3386/w35849",
+      "CorpusId": 292724513
+    },
+    "title": "Avoiding Regulation: Evidence from Nursing Homes",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35849",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35849?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35849, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "13877202",
+        "name": "Alden Cheng"
+      },
+      {
+        "authorId": "1557332729",
+        "name": "Riley League"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0067161308d50a4aa38b8404f49bd1202268b5a0",
+    "externalIds": {
+      "DOI": "10.3386/w35848",
+      "CorpusId": 292725100
+    },
+    "title": "The Regulatory Burden of Licensure Sales Laws: New Evidence on Race and the U.S. Tobacco Market",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35848",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35848?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35848, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2285351870",
+        "name": "Dhaval Dave"
+      },
+      {
+        "authorId": "2399658215",
+        "name": "Jooyoung Kim"
+      },
+      {
+        "authorId": "2285363245",
+        "name": "Joseph J. Sabia"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "a35ebe7deafac2ca19623b52c783ecc2e8da578e",
+    "externalIds": {
+      "DOI": "10.3386/w35847",
+      "CorpusId": 292709761
+    },
+    "title": "Targeted Acceleration in Middle School Math: Impacts on College Entry, Degree Completion, and STEM",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35847",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35847?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35847, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2347251747",
+        "name": "David Card"
+      },
+      {
+        "authorId": "49224834",
+        "name": "Laura M. Giuliano"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cfc8c9c0d61bdeea5bc9d267d2e3df2e04731297",
+    "externalIds": {
+      "DOI": "10.3386/w35846",
+      "CorpusId": 292710842
+    },
+    "title": "Are Prediction Markets Politically Biased?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35846",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35846?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35846, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2508751065",
+        "name": "Eric Zitzewitz"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "67326cafa874533765a5d71a260761609f3f108a",
+    "externalIds": {
+      "DOI": "10.3386/w35845",
+      "CorpusId": 292726542
+    },
+    "title": "Limits to Arbitrage and Prediction Market Efficiency: the Case of PredictIt",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35845",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35845?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35845, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2508751065",
+        "name": "Eric Zitzewitz"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "f249c73492a3465a9cf04b15f312ad7f74306628",
+    "externalIds": {
+      "DOI": "10.3386/w35844",
+      "CorpusId": 292717126
+    },
+    "title": "Aging Out of Coverage: Lessons from the West Virginia $1,000 Adult Dental Benefit",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35844",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35844?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35844, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2506715566",
+        "name": "Daniel Grossman"
+      },
+      {
+        "authorId": "1518146090",
+        "name": "Kole Reddig"
+      },
+      {
+        "authorId": "14263579",
+        "name": "J. Ruseski"
+      },
+      {
+        "authorId": "2508795236",
+        "name": "Fotinos Panagakos"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c8b00be5572750bd4ebf2fda7d53c1dfdb8d4f1a",
+    "externalIds": {
+      "DOI": "10.3386/w35843",
+      "CorpusId": 292721340
+    },
+    "title": "Welfare Analysis with Complementarities: When Direct and Total Responses Are Sufficient",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35843",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35843?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35843, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2267353323",
+        "name": "David Argente"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "0cf762481d50915076e7e91bdb1f628c7ddc4db3",
+    "externalIds": {
+      "DOI": "10.3386/w35841",
+      "CorpusId": 292726865
+    },
+    "title": "Soft Reserves, Learning and Bid Adjustment in Advertising Auctions",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35841",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35841?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2270755268",
+        "name": "Joshua S. Gans"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "47341f95b06f7515e54a95683cf19fa891129c5d",
+    "externalIds": {
+      "DOI": "10.3386/w35840",
+      "CorpusId": 292709209
+    },
+    "title": "Asymmetric Reversals",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35840",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35840?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35840, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2508871193",
+        "name": "Federico Baldi-Lanfranchi"
+      },
+      {
+        "authorId": "1399041937",
+        "name": "Pierre Collin-Dufresne"
+      },
+      {
+        "authorId": "2270767847",
+        "name": "Kent D. Daniel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "efa3e75cec7582a08fd48c1ee2621e3a4472e9ac",
+    "externalIds": {
+      "DOI": "10.3386/w35839",
+      "CorpusId": 292727683
+    },
+    "title": "Large Language Models as Voting Mechanisms",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35839",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35839?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35839, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "4684550",
+        "name": "Raša Karapandža"
+      },
+      {
+        "authorId": "2508854731",
+        "name": "Yaw Nyarko"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "92f99bf57dc2dc763c74781cb1a111560642f660",
+    "externalIds": {
+      "DOI": "10.3386/w35838",
+      "CorpusId": 292723516
+    },
+    "title": "When Does Bad News Stick? Topic-Level Asymmetry in Narrative Dynamics",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35838",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35838?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35838, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2273587",
+        "name": "I. Agarwal"
+      },
+      {
+        "authorId": "2355786616",
+        "name": "Wen-Tong Chen"
+      },
+      {
+        "authorId": "2280231341",
+        "name": "Eswar S. Prasad"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "46c209edf716765545c42fa8492bc14374cfa88a",
+    "externalIds": {
+      "MAG": "2968432199",
+      "DOI": "10.3386/w35837",
+      "CorpusId": 92982355
+    },
+    "title": "Approximating the Equilibrium Effects of Informed School Choice",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35837",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35837?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35837, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "153086945",
+        "name": "Claudia Allende"
+      },
+      {
+        "authorId": "144872120",
+        "name": "F. Gallego"
+      },
+      {
+        "authorId": "2833001",
+        "name": "Christopher Neilson"
+      }
+    ],
+    "abstract": "This paper studies the potential small and large scale effects of a policy designed to produce more in-formed consumers in the market for primary education. We develop and test a personalized information provision intervention that targets families of public Pre-K students entering elementary schools in Chile. Using a randomized control trial, we find that the intervention shifts parentsâ€™ choices toward schools with higher average test scores, higher value added, higher prices, and schools that tend to be further from their homes. Tracking students with administrative data, we find that student academic achievement on test scores was approximately 0.2 standard deviations higher among treated families five years after the intervention. To quantitatively gauge how average treatment effects might vary in a scaled up version of this policy, we embed the randomized control trial within a structural model of school choice and competition where price and quality are chosen endogenously and schools face capacity constraints. We use the estimated model of demand and supply to simulate policy effects under different assumptions about equilibrium constraints. In counterfactual simulations, we find that capacity constraints play an important role mitigating the policy effect but in several scenarios, the supply-side response increases quality, which contributes to an overall positive average treatment effect. Finally, we show how the estimated model can inform the design of a large scale experiment such that reduced form estimates can capture equilibrium effects and spillovers."
+  },
+  null,
+  {
+    "paperId": "fc2c893d5f4544fc58d5e5e8e326975826e44f90",
+    "externalIds": {
+      "DOI": "10.3386/w35835",
+      "CorpusId": 292719668
+    },
+    "title": "Does Food Assistance Drive Spending on Sugary Foods? Evidence from the Pandemic Electronic Benefit Transfer Program",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35835",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35835?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35835, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2060840968",
+        "name": "Georgina Cisneros"
+      },
+      {
+        "authorId": "101532386",
+        "name": "Brandyn F. Churchill"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "37b350b2905182b62bd1a7236b1674413dd96b61",
+    "externalIds": {
+      "DOI": "10.3386/w35834",
+      "CorpusId": 292723236
+    },
+    "title": "A Framework for Integrating Climate Goals into Trade Agreements",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35834",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35834?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35834, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40105418",
+        "name": "Farid Farrokhi"
+      },
+      {
+        "authorId": "119096870",
+        "name": "Ahmad Lashkaripour"
+      },
+      {
+        "authorId": "2508826170",
+        "name": "Homa Taheri"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7c65566822e4ccfa67e187635476109d444b78d0",
+    "externalIds": {
+      "DOI": "10.3386/w35833",
+      "CorpusId": 292723578
+    },
+    "title": "Crowding Out Temptation: Experimental Evidence on Savings and Health Behaviors in Kenya",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35833",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35833?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35833, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2326603928",
+        "name": "Harsha Thirumurthy"
+      },
+      {
+        "authorId": "39173015",
+        "name": "Elizabeth F. Bair"
+      },
+      {
+        "authorId": "2508896345",
+        "name": "Dean Yang"
+      },
+      {
+        "authorId": "2005345433",
+        "name": "Teniola I. Egbe"
+      },
+      {
+        "authorId": "4648287",
+        "name": "B. Ayieko"
+      },
+      {
+        "authorId": "2197324153",
+        "name": "J. Wesonga"
+      },
+      {
+        "authorId": "15624831",
+        "name": "S. Napierala"
+      },
+      {
+        "authorId": "2269949573",
+        "name": "C. Celum"
+      },
+      {
+        "authorId": "2261916748",
+        "name": "Mary Putt"
+      },
+      {
+        "authorId": "5437055",
+        "name": "C. Camlin"
+      },
+      {
+        "authorId": "1490911222",
+        "name": "Mark Ayallo"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7b39e45157505578e2b6c6cb402b998aa4d5bab3",
+    "externalIds": {
+      "DOI": "10.3386/w35801",
+      "CorpusId": 292722021
+    },
+    "title": "Inference for Regression with Clustered or Spatially Correlated Data II: Spatial Correlation",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35801",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35801?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35801, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2304723549",
+        "name": "A. Cameron"
+      },
+      {
+        "authorId": "49971123",
+        "name": "Douglas L. Miller"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "9c3babc3a15a149521ac207ea874305f57e89c92",
+    "externalIds": {
+      "DOI": "10.3386/w35800",
+      "CorpusId": 292720256
+    },
+    "title": "Inference for Regression with Clustered or Spatially Correlated Data I: Framework and Clustering",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35800",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35800?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35800, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2304723549",
+        "name": "A. Cameron"
+      },
+      {
+        "authorId": "49971123",
+        "name": "Douglas L. Miller"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "407e57abed36f9d3c0bd3421e7697456155b418e",
+    "externalIds": {
+      "DOI": "10.3386/w35788",
+      "CorpusId": 292713265
+    },
+    "title": "Beliefs Over Contracts",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35788?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35788, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2411741932",
+        "name": "Francis Annan"
+      },
+      {
+        "authorId": "2296878850",
+        "name": "Collin Raymond"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b65129679b3b5270b707decec54cc55b80516d30",
+    "externalIds": {
+      "DOI": "10.3386/w35832",
+      "CorpusId": 292489338
+    },
+    "title": "Global Temperature and Global Mortality",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35832",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35832?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35832, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "122480801",
+        "name": "Adrien Bilal"
+      },
+      {
+        "authorId": "2476244256",
+        "name": "Diego R. Känzig"
+      },
+      {
+        "authorId": "2506039249",
+        "name": "Krzysztof Lisiecki"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "08dd54147f030019032c10061bd9b870fe2776f0",
+    "externalIds": {
+      "DOI": "10.3386/w35831",
+      "CorpusId": 292506469
+    },
+    "title": "Subjective Models of the Macroeconomy and the Transmission of Monetary Policy",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35831",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35831?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35831, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "102110935",
+        "name": "Francesco D'Acunto"
+      },
+      {
+        "authorId": "67037904",
+        "name": "Dimitris Georgarakos"
+      },
+      {
+        "authorId": "2278648899",
+        "name": "Geoff Kenny"
+      },
+      {
+        "authorId": "2273610623",
+        "name": "Michael Weber"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5af91e3268e8bc1b4d11129d20a73a4bb9c6a457",
+    "externalIds": {
+      "DOI": "10.3386/w35830",
+      "CorpusId": 292504326
+    },
+    "title": "Economics of Demand-Side and Supply-Side Climate Policies",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35830",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35830?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35830, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2481861596",
+        "name": "R. Kellogg"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "24f31d2fc1858d1ca479bfcc89a82020310897c1",
+    "externalIds": {
+      "DOI": "10.3386/w35829",
+      "CorpusId": 292510995
+    },
+    "title": "Importers, Market Power and Optimal Tariffs",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35829",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35829?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35829, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2465757880",
+        "name": "Jonathan D. Becker"
+      },
+      {
+        "authorId": "119000072",
+        "name": "Corina Boar"
+      },
+      {
+        "authorId": "66543726",
+        "name": "V. Midrigan"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1fd28b11dacb96055423d719cd197687d7732fc5",
+    "externalIds": {
+      "DOI": "10.3386/w35828",
+      "CorpusId": 292508608
+    },
+    "title": "Liability and Pricing of Dual-Use AI",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35828",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35828?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35828, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2270755268",
+        "name": "Joshua S. Gans"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "593229efc3e4df94d802236e1c80d9fe04a28954",
+    "externalIds": {
+      "DOI": "10.3386/w35827",
+      "CorpusId": 292505926
+    },
+    "title": "Crime in Covid Times",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35827?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35827, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2506166397",
+        "name": "Jens Ludwig"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e96c43042c710936196a893bebed750913d3c9a6",
+    "externalIds": {
+      "DOI": "10.3386/w35826",
+      "CorpusId": 292492608
+    },
+    "title": "Accounting for Cross-Country Income Differences Revisited",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35826",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35826?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35826, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "103416097",
+        "name": "David Lagakos"
+      },
+      {
+        "authorId": "80342237",
+        "name": "Todd Schoellman"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "51f89ead37d8e8a95d3aa857ce5aee99f2201b83",
+    "externalIds": {
+      "DOI": "10.3386/w35825",
+      "CorpusId": 292514330
+    },
+    "title": "The Positive Spillovers to Risky Investments in Vacant, Abandoned, and Disinvested Properties",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35825?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35825, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2506214960",
+        "name": "Edward Chen"
+      },
+      {
+        "authorId": "2506200165",
+        "name": "Reagan Lengefeld"
+      },
+      {
+        "authorId": "12928935",
+        "name": "O. Asensio"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "d4c479e264b81b5a90b8d83417ea18555d502df8",
+    "externalIds": {
+      "DOI": "10.3386/w35824",
+      "CorpusId": 292499007
+    },
+    "title": "Does Fertility Stabilize At Low Levels? Evidence from Period, Cohort, and Subnational Data",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35824",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35824?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3629604",
+        "name": "D. Coffey"
+      },
+      {
+        "authorId": "16166423",
+        "name": "Michael Geruso"
+      },
+      {
+        "authorId": "1812221",
+        "name": "D. Spears"
+      },
+      {
+        "authorId": "122844894",
+        "name": "Sangita Vyas"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "11e30d4b05275988c81ae1fe88b1eeca4300e3aa",
+    "externalIds": {
+      "DOI": "10.3386/w35823",
+      "CorpusId": 292507434
+    },
+    "title": "Optimal Population Growth in the Diamond OLG Model",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35823",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35823?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35823, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2503528",
+        "name": "L. Ball"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "41850ec424e73d3917744a76530d5264326cc793",
+    "externalIds": {
+      "DOI": "10.3386/w35822",
+      "CorpusId": 292499157
+    },
+    "title": "Financial Innovation and the International Monetary System",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35822",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35822?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35822, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "46617236",
+        "name": "Gordon Y. Liao"
+      },
+      {
+        "authorId": "2482494510",
+        "name": "E. Prasad"
+      },
+      {
+        "authorId": "2489697797",
+        "name": "Tony Zhang"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  null,
+  {
+    "paperId": "b57e8a7da96e38a8c5cf16d18386bcd63e76925e",
+    "externalIds": {
+      "DOI": "10.3386/w35819",
+      "CorpusId": 292496905
+    },
+    "title": "Timing, Trading Frictions, and the Limits of Subsidy Capture in Livestock Risk Protection",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35819",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35819?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35819, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2501714961",
+        "name": "Yi-Fei Zhang"
+      },
+      {
+        "authorId": "2482215692",
+        "name": "Andrew D. Keller"
+      },
+      {
+        "authorId": "2308561392",
+        "name": "Shawn Arita"
+      },
+      {
+        "authorId": "2249238787",
+        "name": "Sandro Steinbach"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5cbb7ddab55b07043b3a0c5a817084163e9708c9",
+    "externalIds": {
+      "DOI": "10.3386/w35818",
+      "CorpusId": 292490031
+    },
+    "title": "Windows of Opportunity in Early Childhood: A Dynamic Model of Multidimensional Development",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35818",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35818?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35818, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1381394488",
+        "name": "O. Attanasio"
+      },
+      {
+        "authorId": "2324292132",
+        "name": "Raquel Bernal"
+      },
+      {
+        "authorId": "2004923978",
+        "name": "Michele Giannola"
+      },
+      {
+        "authorId": "46189379",
+        "name": "M. Nores"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "65192ef8a0326682b49805c84a814bc33c169b42",
+    "externalIds": {
+      "DOI": "10.3386/w35816",
+      "CorpusId": 292511627
+    },
+    "title": "The Great Accretion and the Great Depression",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35816",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35816?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35816, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2506192437",
+        "name": "Harold Cole"
+      },
+      {
+        "authorId": "2506191452",
+        "name": "Stefano Cravero"
+      },
+      {
+        "authorId": "2481960147",
+        "name": "Jeremy J. D. Greenwood"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6232929ea5f5cee7637fc8794e1de253fb6cce3e",
+    "externalIds": {
+      "DOI": "10.3386/w35815",
+      "CorpusId": 292490499
+    },
+    "title": "The Commoditization of Labor",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35815",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35815?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35815, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2056069948",
+        "name": "Masao Fukui"
+      },
+      {
+        "authorId": "4621396",
+        "name": "Emi Nakamura"
+      },
+      {
+        "authorId": "9818700",
+        "name": "J. Steinsson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3a27620a2d59497f462ccd2938cd1d2705a029de",
+    "externalIds": {
+      "DOI": "10.3386/w35814",
+      "CorpusId": 292511351
+    },
+    "title": "Foreign Opportunity and Regional Revival: Evidence from the French Rust Belt",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35814?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35814, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2319355923",
+        "name": "Antoine Lévy"
+      },
+      {
+        "authorId": "2287732233",
+        "name": "Mathilde Muñoz"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "24f08efc3ae5f02167da0b100250743fec334a5a",
+    "externalIds": {
+      "DOI": "10.3386/w35813",
+      "CorpusId": 292512621
+    },
+    "title": "The Dynamics of Development in a Zero-Sum World",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35813",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35813?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35813, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "5170526",
+        "name": "Augustin Bergeron"
+      },
+      {
+        "authorId": "2240329848",
+        "name": "Jean-Paul Carvalho"
+      },
+      {
+        "authorId": "2239909091",
+        "name": "Joseph Henrich"
+      },
+      {
+        "authorId": "2239890343",
+        "name": "N. Nunn"
+      },
+      {
+        "authorId": "2239890261",
+        "name": "Jonathan L. Weigel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cd0d249862c0bddc356a39b09c59cc2250aeb22f",
+    "externalIds": {
+      "DOI": "10.3386/w35812",
+      "CorpusId": 292489493
+    },
+    "title": "Transportation Bottlenecks and Aggregate Shocks",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35812",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35812?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "153386758",
+        "name": "G. Brancaccio"
+      },
+      {
+        "authorId": "102862297",
+        "name": "Myrto Kalouptsidi"
+      },
+      {
+        "authorId": "2303530064",
+        "name": "Theodore Papageorgiou"
+      },
+      {
+        "authorId": "2505016219",
+        "name": "Yi-Xin Zhou"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "994f0064dabf5366b89a54cd79a59fc9cc13f493",
+    "externalIds": {
+      "DOI": "10.3386/w35811",
+      "CorpusId": 292044467
+    },
+    "title": "Evaluating the Spatial Consequences of a Climate Tipping Point",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35811",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35811?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35811, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2329726121",
+        "name": "Joey D. Cruz"
+      },
+      {
+        "authorId": "2763539",
+        "name": "Klaus Desmet"
+      },
+      {
+        "authorId": "1398698229",
+        "name": "E. Rossi-Hansberg"
+      }
+    ],
+    "abstract": "The Atlantic Meridional Overturning Circulation (AMOC) is a system of ocean currents that plays a key role in regulating global climate, including moderating temperatures in Europe and the North Atlantic. Its potential collapse due to global warming is widely considered one of the more likely climate tipping points. This paper examines the economic implications of such a collapse using a dynamic spatially integrated assessment model (S-IAM) of the world economy. Scandinavia and parts of Russia are predicted to experience significant losses in GDP and welfare, while southern Europe, northern Africa, and Brazil benefit from slightly colder temperatures. S-IAMs generally predict that global warming is especially harmful to low-income regions, but an AMOC collapse could mitigate some of these negative impacts in parts of the developing world while instead harming some of the more advanced economies. This lowers spatial inequality, but global welfare drops by 1.9% by 2200 under an intermediate-emissions scenario."
+  },
+  {
+    "paperId": "97b622a6c2cf7bd9f36b90b1d95c585d36ce72c0",
+    "externalIds": {
+      "DOI": "10.3386/w35810",
+      "CorpusId": 292510403
+    },
+    "title": "Like a Good Neighbor: Childhood Neighbors Influence Occupation Choice",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35810",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35810?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35810, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2480900763",
+        "name": "Michael Andrews"
+      },
+      {
+        "authorId": "2467425548",
+        "name": "R. Hill"
+      },
+      {
+        "authorId": "2506188569",
+        "name": "J. Price"
+      },
+      {
+        "authorId": "2111010279",
+        "name": "Riley Wilson"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  null,
+  {
+    "paperId": "385431e1539a53762b46f05a76d76faa8fd1214b",
+    "externalIds": {
+      "DOI": "10.3386/w35807",
+      "CorpusId": 292508291
+    },
+    "title": "Network General Equilibrium as a Threat to Identification: The Failure of Time Fixed Effects",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35807",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35807?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35807, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "119519358",
+        "name": "Bernard Herskovic"
+      },
+      {
+        "authorId": "122034098",
+        "name": "G. Segal"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "93e43f04dc5f50af79af4772e443c409339a855f",
+    "externalIds": {
+      "DOI": "10.3386/w35806",
+      "CorpusId": 292497525
+    },
+    "title": "Deep Learning as a Projection Method for Solving Economic Models",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35806",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35806?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35806, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2250358800",
+        "name": "Kenneth L. Judd"
+      },
+      {
+        "authorId": "2319660",
+        "name": "Karl Schmedders"
+      }
+    ],
+    "abstract": "The use of deep neural networks to solve dynamic economic models is increasingly described as a new paradigm, set against (and superseding) the classical projection methods of numerical economics. The most prominent and careful statement of this view is the survey of Fernández-Villaverde (2026), 4 which frames the development as a contest between deep learning and classical projection meth-ods. 5 Neural networks, in the survey’s words, “take a different approach: Instead of prescribing basis functions, they learn them,” and the exposition is organized into “fixed bases (polynomials) and learned bases (neural networks),” the latter presented as overcoming a curse of dimensionality attributed to classical techniques."
+  },
+  {
+    "paperId": "1bc74ff8db6be46925f882b5d55b7d8c7a389ede",
+    "externalIds": {
+      "DOI": "10.3386/w35805",
+      "CorpusId": 292493566
+    },
+    "title": "Foreign Tax Advantages after the U.S. Tax Reform of 2017",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35805",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35805?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35805, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2269743267",
+        "name": "Anmol Bhandari"
+      },
+      {
+        "authorId": "2792842",
+        "name": "Ellen R. Mcgrattan"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "199a68c89d17366adbfd3594bf2279315c0d4d16",
+    "externalIds": {
+      "ArXiv": "2401.12475",
+      "DOI": "10.3386/w35804",
+      "CorpusId": 267095221
+    },
+    "title": "Beveridgean Phillips Curve",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35804",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2401.12475, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2129729572",
+        "name": "Pascal Michaillat"
+      },
+      {
+        "authorId": "2280335009",
+        "name": "Emmanuel Saez"
+      }
+    ],
+    "abstract": "This paper develops a Beveridgean model of the Phillips curve. While the New Keynesian Phillips curve is based on monopolistic pricing under price-adjustment costs, the Beveridgean Phillips curve is based on directed-search pricing under price-adjustment costs. Under directed search, prices respond to slack instead of marginal costs. The resulting Phillips curve has three properties that match recent US evidence. First, it delivers the divine coincidence: inflation is on target whenever unemployment is at its efficient level---the full-employment rate of unemployment (FERU), the geometric mean of the unemployment and vacancy rates. Second, it is decreasing and convex in the unemployment-inflation plane: inflation responds more strongly to unemployment when the labor market is inefficiently tight than when it is inefficiently slack. The convexity is inherited from the Beveridge curve, which makes unemployment a decreasing and convex function of tightness. Third, shifts of the Beveridge curve move the FERU and therefore shift the unemployment-inflation Phillips curve. The model also implies that the Fed's dual mandate is internally consistent, that a soft landing from an inefficiently tight labor market is possible, and that the zero lower bound is not topsy-turvy."
+  },
+  {
+    "paperId": "3cea4a874f9725cec66f5a8027dfdae3e0c07fc3",
+    "externalIds": {
+      "DOI": "10.3386/w35803",
+      "CorpusId": 292492693
+    },
+    "title": "Injury, Workload, and the Strategic Response of Coaches in the NBA",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35803",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35803?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35803, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2243395572",
+        "name": "K. Krishna"
+      },
+      {
+        "authorId": "114559782",
+        "name": "Sergey Lychagin"
+      },
+      {
+        "authorId": "2506068014",
+        "name": "L. Mclean"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "85bdc97f66e96eea247296e66da746c6c6d67075",
+    "externalIds": {
+      "DOI": "10.3386/w35802",
+      "CorpusId": 292498296
+    },
+    "title": "The Political Foundations of Industrial Policy: Emergence, Endurance, and Exhaustion",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35802",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35802?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35802, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2506120186",
+        "name": "Lottie Field"
+      },
+      {
+        "authorId": "2506117164",
+        "name": "Réka Juhász"
+      },
+      {
+        "authorId": "2506114196",
+        "name": "Michele Zampa"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "769db2d2e1c85d79280760412f19a78f36898d6c",
+    "externalIds": {
+      "DOI": "10.3386/w35799",
+      "CorpusId": 292500331
+    },
+    "title": "The Wealth of Nations: Origins of Prosperity and Seeds of Inequality",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35799",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35799?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35799, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2251987444",
+        "name": "O. Galor"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ea0fa6a2b05a1284f48be6c00747c40a94569d56",
+    "externalIds": {
+      "DOI": "10.3386/w35798",
+      "CorpusId": 292510242
+    },
+    "title": "Are Guidelines Worth Following? Decision-Making Under Incomplete Evidence",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35798",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35798?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35798, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "4844524",
+        "name": "Jason Abaluck"
+      },
+      {
+        "authorId": "50722702",
+        "name": "Leila Agha"
+      },
+      {
+        "authorId": "2055727537",
+        "name": "David C. Chan"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3d8cabec167c888c6ca0eaf274b3994ec411b453",
+    "externalIds": {
+      "DOI": "10.3386/w35797",
+      "CorpusId": 292497442
+    },
+    "title": "Property Rights Uncertainty, Prices, and Speculation: Evidence from China's Housing Market",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35797",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35797?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35797, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3254833",
+        "name": "Han-Ming Fang"
+      },
+      {
+        "authorId": "2506280342",
+        "name": "Jing Wu"
+      },
+      {
+        "authorId": "2473159749",
+        "name": "Vincent Yao"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "60aec4985de9773234e4fa0ebcc927af96beb978",
+    "externalIds": {
+      "DOI": "10.3386/w35795",
+      "CorpusId": 292498146
+    },
+    "title": "Innovation, Business Cycles, and the Climate Transition",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35795",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35795?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35795, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2476244256",
+        "name": "Diego R. Känzig"
+      },
+      {
+        "authorId": "2049976370",
+        "name": "Maximilian Konradt"
+      },
+      {
+        "authorId": "2300576903",
+        "name": "Li-Xing Wang"
+      },
+      {
+        "authorId": "2300677620",
+        "name": "Dong-Hai Zhang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0252715fad32c2cb8c4f4379b444e9215419f2b9",
+    "externalIds": {
+      "DOI": "10.3386/w35794",
+      "CorpusId": 292513727
+    },
+    "title": "Permits as Real Options: Anticipation and Regulatory Leakage",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35794",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35794?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35794, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2481738657",
+        "name": "A.James French"
+      },
+      {
+        "authorId": "1572408168",
+        "name": "Nicholas Vreugdenhil"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "043d0eb117a6fc6b1e9a9837ac397d6dfe2da715",
+    "externalIds": {
+      "DOI": "10.3386/w35793",
+      "CorpusId": 292511611
+    },
+    "title": "The Macroeconomic Effect of AI: Sizing the Software Engineering Channel",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35793",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35793?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35793, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2492660041",
+        "name": "A. Blumenfeld"
+      },
+      {
+        "authorId": "115470805",
+        "name": "J. Hazell"
+      },
+      {
+        "authorId": "2473803093",
+        "name": "Chen Lian"
+      },
+      {
+        "authorId": "2355305509",
+        "name": "Andreas Schaab"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "08d7b0aed9c9d5598ac9b5fcc51204c1bdb5e31b",
+    "externalIds": {
+      "DOI": "10.3386/w35792",
+      "CorpusId": 292504046
+    },
+    "title": "Impact of Adults’ College Completion on their Parents’ Mortality: Evidence from the 1993 Korean Higher Education Reform",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35792",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35792?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35792, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2276538014",
+        "name": "Ah-Reum Lee"
+      },
+      {
+        "authorId": "2506154243",
+        "name": "William Dow"
+      },
+      {
+        "authorId": "2311502090",
+        "name": "Jacqueline M. Torres"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "11c29e757c45eb866f3456acffd0efd19257aa15",
+    "externalIds": {
+      "DOI": "10.3386/w35791",
+      "CorpusId": 292493888
+    },
+    "title": "Here, There, and Everywhere: Remote Work’s Impact on Employment in the UK",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35791",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35791?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35791, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "47236516",
+        "name": "I. Burn"
+      },
+      {
+        "authorId": "2485745606",
+        "name": "M. Gentry"
+      },
+      {
+        "authorId": "2411771093",
+        "name": "Joanna N. Lahey"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "eea3b344134b5bff6875567804a4f8b7d836a8f4",
+    "externalIds": {
+      "DOI": "10.3386/w35790",
+      "CorpusId": 292488076
+    },
+    "title": "Price Setting During a Currency Changeover",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35790",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35790?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35790, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "144737735",
+        "name": "F. Álvarez"
+      },
+      {
+        "authorId": "2364325046",
+        "name": "David Argente"
+      },
+      {
+        "authorId": "2239956496",
+        "name": "Alberto Cavallo"
+      },
+      {
+        "authorId": "2239973406",
+        "name": "Francesco Lippi"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "783e9fd609d73280faddc7df134925d5c664b82b",
+    "externalIds": {
+      "DOI": "10.3386/w35787",
+      "CorpusId": 292275196
+    },
+    "title": "Using Policy Functions to Estimate Merger Impacts: An Application to JetBlue-Spirit",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35787",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35787?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35787, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "4902997",
+        "name": "G. Gowrisankaran"
+      },
+      {
+        "authorId": "2502926359",
+        "name": "Christopher Bruegge"
+      },
+      {
+        "authorId": "2459514284",
+        "name": "Alex D. Gross"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "68e83903abc1f50e404b71a6415ea5f8d1177cf4",
+    "externalIds": {
+      "DOI": "10.3386/w35786",
+      "CorpusId": 292274484
+    },
+    "title": "The Macroeconomic Effect of Stimulus Checks: Evidence from Postwar Veterans’ Payments",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35786",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35786?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35786, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2087938366",
+        "name": "Joao Guerreiro"
+      },
+      {
+        "authorId": "115470805",
+        "name": "J. Hazell"
+      },
+      {
+        "authorId": "2476244256",
+        "name": "Diego R. Känzig"
+      },
+      {
+        "authorId": "2459037564",
+        "name": "Educativa Manuel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c6759f5f5eaad0252274979d45094dd2327c71c9",
+    "externalIds": {
+      "DOI": "10.3386/w35785",
+      "CorpusId": 292278148
+    },
+    "title": "The Remains of the Trade: The U.S.–China Trade War and its Aftermath",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35785",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35785?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35785, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "104157794",
+        "name": "Pol Antràs"
+      },
+      {
+        "authorId": "2106965809",
+        "name": "Adrian Kulesza"
+      },
+      {
+        "authorId": "2502968414",
+        "name": "Andrea Presbitero"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "b0c15d2a9efe1537a5f65f4a487bcff8adaf128e",
+    "externalIds": {
+      "DOI": "10.3386/w35783",
+      "CorpusId": 269767872
+    },
+    "title": "Unbundling Labor",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35783",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35783?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35783, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2411554322",
+        "name": "Chris Edmond"
+      },
+      {
+        "authorId": "119198887",
+        "name": "S. Mongey"
+      }
+    ],
+    "abstract": "This paper presents two new facts on changes in occupational skill requirements and wage inequality in US data and develops a theoretical framework to interpret these facts. First, we show that low-skill occupations have become more similar to one another in terms of skill requirements while high-skill occupations have become more different from one another. Second, we show that residual wage inequality has fallen within low-skill occupations but has risen within high-skill occupations. Our model, a generalization of Rosen (1983) and Heckman and Scheinkman (1987), shows how these facts are naturally linked. Heterogeneous workers supply an indivisible bundle of skills when they choose an occupation. In equilibrium, a given skill can command a premium in occupations that are relatively intensive in its use. As occupations become more similar in their skill requirements, the rents earned by workers with high comparative advantage in the skills hitherto most intensively used in that occupation are competed away, decreasing within-occupation wage inequality. Likewise, as occupations become more different in skill requirements, workers with high comparative advantage in intensively used skills earn even larger rents, increasing within-occupation wage inequality. We also document a number of other facts consistent with our framework: relative decreases in low-skill occupation hours premia and experience premia, and increased occupational mobility."
+  },
+  {
+    "paperId": "24e65f6faaf338db68b236a586b1118e9f888b47",
+    "externalIds": {
+      "DOI": "10.3386/w35782",
+      "CorpusId": 292498875
+    },
+    "title": "An LLM Workflow That Reproduces, Improves, and Extends Published Economics Research",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35782",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35782?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35782, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2259499502",
+        "name": "Matthew C. Schwartz"
+      },
+      {
+        "authorId": "2280670130",
+        "name": "Isaiah Andrews"
+      },
+      {
+        "authorId": "2280397596",
+        "name": "Jesse Shapiro"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "34fe813e288392d8fe2e88f74e083bb992c5e8df",
+    "externalIds": {
+      "DOI": "10.3386/w35781",
+      "CorpusId": 292275093
+    },
+    "title": "Risk Premia, Firm Insurance, and Endogenous Labor Income Risk",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35781",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35781?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35781, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "122193275",
+        "name": "Maarten Meeuwis"
+      },
+      {
+        "authorId": "2266633220",
+        "name": "Dimitris Papanikolaou"
+      },
+      {
+        "authorId": "2266637638",
+        "name": "Lawrence D. W. Schmidt"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b97b305b6ec9c1fb5171fc3ca91965435a5fc760",
+    "externalIds": {
+      "DOI": "10.3386/w35780",
+      "CorpusId": 292273546
+    },
+    "title": "Regulating Entrepreneurship: The Case of Capital Requirements",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35780",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35780?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35780, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1518067904",
+        "name": "A. Bacher"
+      },
+      {
+        "authorId": "103832064",
+        "name": "A. Fagereng"
+      },
+      {
+        "authorId": "2060563160",
+        "name": "Marius A. K. Ring"
+      },
+      {
+        "authorId": "2502912298",
+        "name": "Ella Getz Wold"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "354889f3779ee1a27f138dd1ff6fa36b76d60c2b",
+    "externalIds": {
+      "DOI": "10.3386/w35779",
+      "CorpusId": 292272675
+    },
+    "title": "Measuring and Projecting U.S. Investment in Semiconductor Manufacturing Capacity",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35779",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35779?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35779, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2459164948",
+        "name": "David E. Byrne"
+      },
+      {
+        "authorId": "2502886584",
+        "name": "R. S. Kurtzman"
+      },
+      {
+        "authorId": "2502887415",
+        "name": "Heidi L. Williams"
+      }
+    ],
+    "abstract": "We consider official and alternative data sources for measuring and projecting the role of U.S. manufacturing in the global semiconductor manufacturing industry. We find that the government sources we consider face significant limitations for tracking semiconductor fab investment in real time: they use industry and product categories that are too broad and come with substantial publication lags. We then analyze project-level alternative data from Semiconductor Equipment and Materials International (SEMI), which provides quarterly tracking of individual fab projects with greater timeliness and specificity. Comparing SEMI data with official statistics through 2023, we find broad consistency in investment levels, validating SEMI as a credible supplement to official statistics. This work provides both a practical guide for tracking real-time trends in semiconductor manufacturing and a case study in synthesizing government and alternative data sources."
+  },
+  {
+    "paperId": "04b08caab2ff384a2d407ea7a0a30ab014b31bed",
+    "externalIds": {
+      "DOI": "10.3386/w35778",
+      "CorpusId": 292278465
+    },
+    "title": "Governing Global Externalities: Investor Voice Amid Fragmented Policy",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35778",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35778?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35778, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "123805318",
+        "name": "Robin Döttling"
+      },
+      {
+        "authorId": "152160831",
+        "name": "Doron Levit"
+      },
+      {
+        "authorId": "119207644",
+        "name": "Nadya Malenko"
+      },
+      {
+        "authorId": "1578097760",
+        "name": "Magdalena Rola-Janicka"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2e36f11365c23fed0e567ff369ab18763b7e956e",
+    "externalIds": {
+      "DOI": "10.3386/w35777",
+      "CorpusId": 292273925
+    },
+    "title": "Migration, Identity and Political Economy in a Globalizing World",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35777",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35777?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35777, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "103497286",
+        "name": "Vasiliki Fouka"
+      },
+      {
+        "authorId": "107629938",
+        "name": "M. Tabellini"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b0810b37d5c1245404aafdc04cbd4114058886ec",
+    "externalIds": {
+      "DOI": "10.3386/w35776",
+      "CorpusId": 292276532
+    },
+    "title": "Can Early Exposure to the Teaching Profession Increase Teacher Supply and Diversity? New Evidence on the Teacher Pipeline",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35776",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35776?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35776, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2502940318",
+        "name": "Danielle Sanderson Edwards"
+      },
+      {
+        "authorId": "2294634297",
+        "name": "Matthew A. Kraft"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "be4c8f105c21383c8ba054c7740bbe7efefb8ac3",
+    "externalIds": {
+      "DOI": "10.3386/w35775",
+      "CorpusId": 292277308
+    },
+    "title": "When Tax Shields Shrink: Interest Deductibility Limitations and Corporate Innovation",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35775",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35775?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35775, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2499363519",
+        "name": "Xin-Ru Chen"
+      },
+      {
+        "authorId": "1732033",
+        "name": "Mara Faccio"
+      },
+      {
+        "authorId": "2389950612",
+        "name": "Stefano Manfredonia"
+      },
+      {
+        "authorId": "2312416273",
+        "name": "Jin Xu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1b50ac12e269acc3827aa80b3eada4224406f6ac",
+    "externalIds": {
+      "DOI": "10.3386/w35774",
+      "CorpusId": 292272457
+    },
+    "title": "The Returns to International Migration in a Free Mobility Setting: Evidence from Austria and Germany",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35774",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35774?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35774, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "121971705",
+        "name": "A. Weber"
+      },
+      {
+        "authorId": "31046024",
+        "name": "David E. Card"
+      },
+      {
+        "authorId": "2292656804",
+        "name": "Wolfgang Dauth"
+      },
+      {
+        "authorId": "7284263",
+        "name": "Wolfgang Frimmel"
+      },
+      {
+        "authorId": "2096444176",
+        "name": "Julia Schmieder"
+      },
+      {
+        "authorId": "1393686539",
+        "name": "R. Winter-Ebmer"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1ca6481a31d930336f7815d76dcc2f72cac7049b",
+    "externalIds": {
+      "DOI": "10.3386/w35773",
+      "CorpusId": 292273794
+    },
+    "title": "Compound Delay: The Causes and Consequences of Later Grandmotherhood",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35773",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35773?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35773, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2239110868",
+        "name": "Dora L. Costa"
+      },
+      {
+        "authorId": "2501919748",
+        "name": "M. Kahn"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "4b1551edbfd7821f2f08117f1f5c48bc2dc76e26",
+    "externalIds": {
+      "DOI": "10.3386/w35772",
+      "CorpusId": 292274552
+    },
+    "title": "Cooler Laws, Safer Workers: Evaluating California’s Heat Standard and Injury Reduction",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35772",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35772?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35772, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2502937911",
+        "name": "O. Fomenko"
+      },
+      {
+        "authorId": "2277294081",
+        "name": "Melissa P. McInerney"
+      },
+      {
+        "authorId": "2502931008",
+        "name": "Sebastian Negrusa"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "44b4b13085f9213c60e813e837e14590739532fa",
+    "externalIds": {
+      "DOI": "10.3386/w35771",
+      "CorpusId": 292275345
+    },
+    "title": "Integration Without Decentralization: The Financial Geography of U.S. Life Insurance, 1880–1940",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35771",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35771?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35771, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2346681655",
+        "name": "Pawel Janas"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "f96aeac950698e5244db14679294ce40d120184a",
+    "externalIds": {
+      "DOI": "10.3386/w35770",
+      "CorpusId": 292274061
+    },
+    "title": "Advertising Claims, Pricing, and Customer Evidence",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35770",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35770?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35770, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2270755268",
+        "name": "Joshua S. Gans"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "77727fe6ff805f68d6cd1a1e0021db64867976e4",
+    "externalIds": {
+      "DOI": "10.3386/w35769",
+      "CorpusId": 292278647
+    },
+    "title": "Diversification as a Process: Geographic Expansion and the Formation of National Insurers",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35769",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35769?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35769, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2346681655",
+        "name": "Pawel Janas"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ff8638f13a07f95e9800e9539b1cea4bffd1a407",
+    "externalIds": {
+      "DOI": "10.3386/w35768",
+      "CorpusId": 292274103
+    },
+    "title": "Money and Power: Historical Lessons for Stablecoins and U.S. Dollar Dominance",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35768",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35768?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35768, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2502894290",
+        "name": "Michael D. Bordo"
+      },
+      {
+        "authorId": "2502894557",
+        "name": "Carolyn Wilkins"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cf08c3bcb40493146c60142b597bbaa4fc49f87c",
+    "externalIds": {
+      "DOI": "10.3386/w35767",
+      "CorpusId": 234351721
+    },
+    "title": "Borrowing in the Shadow of China",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35767",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35767?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35767, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3011779",
+        "name": "Illenin O. Kondo"
+      },
+      {
+        "authorId": "1405347019",
+        "name": "César Sosa-Padilla"
+      },
+      {
+        "authorId": "2040384547",
+        "name": "Zachary Swaziek"
+      }
+    ],
+    "abstract": "Emerging economies’ debt to China is large, non-marketable, and opaque. We study the impact that such borrowing from China–which is almost completely official debt–has on the equilibrium quantities and prices for marketable sovereign debt. We use a standard sovereign debt model with long-term debt and find that following a positive inflow from China our model economy chooses to re-balance its debt portfolio by delevering from market debt. In the process it pays lower spreads and faces less volatile consumption. On the other hand, when facing a capital outflow vis-à-vis China, the economy taps international debt markets, levers up on defaultable debt, and ends up paying higher and more volatile spreads in equilibrium. We contrast the model dynamics with panel-data evidence from emerging and low-income economies, and discuss its welfare implications."
+  },
+  {
+    "paperId": "91cc25c8f6b0026e52e3ccb4465fa21ca6c215ff",
+    "externalIds": {
+      "DOI": "10.3386/w35766",
+      "CorpusId": 292275051
+    },
+    "title": "Expectations and the Term Structure of Interest Rates",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35766",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35766?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35766, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2838436",
+        "name": "Pooya Molavi"
+      },
+      {
+        "authorId": "1388327837",
+        "name": "A. Tahbaz-Salehi"
+      },
+      {
+        "authorId": "1792509",
+        "name": "A. Vedolin"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "f74d55962bd67bac4faf4aad5948387c2b8f7a98",
+    "externalIds": {
+      "DOI": "10.3386/w35765",
+      "CorpusId": 292273125
+    },
+    "title": "The Evolving Marriage Gap in Children’s Outcomes: Family Structure and Young Adult Outcomes Revisited",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35765",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35765?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35765, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "115544205",
+        "name": "M. Kearney"
+      },
+      {
+        "authorId": "2247520207",
+        "name": "Phillip B. Levine"
+      },
+      {
+        "authorId": "2502918868",
+        "name": "Alden Barson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7c2c19382f80ddc79e4b19e5c71e0590cba657e6",
+    "externalIds": {
+      "DOI": "10.3386/w35764",
+      "CorpusId": 292277431
+    },
+    "title": "Incentivizing Self-Protection From Wildfires",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35764?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35764, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "13138067",
+        "name": "Patrick Baylis"
+      },
+      {
+        "authorId": "6556937",
+        "name": "J. Boomhower"
+      },
+      {
+        "authorId": "2502971433",
+        "name": "Bob Horton"
+      },
+      {
+        "authorId": "89163069",
+        "name": "C. Mulverhill"
+      }
+    ],
+    "abstract": "This paper reports on a field experiment to incentivize homeowners to reduce their susceptibility to wildfire property damage. In partnership with a local fire district in Jackson County, Oregon, we delivered randomized treatments designed to encourage residents to utilize existing programs to increase wildfire resilience. We find that financial incentives led to significant increases in requests for free defensible space inspections, but information-only treatments did not. Surprisingly, doubling of the financial incentive from $ 250 to $ 500 did not further increase takeup. Takeup was higher for high-value homes and areas with lower social vulnerability indices, but mostly uncorrelated with wildfire hazard. These findings can inform future wildfire resilience programs and speak to the potential importance of financial incentives for achieving efficient adaptation."
+  },
+  {
+    "paperId": "9c32142821848e7acdd039bd98c4e49e8eefb5e4",
+    "externalIds": {
+      "DOI": "10.3386/w35763",
+      "CorpusId": 292277066
+    },
+    "title": "The Impact of Fertility on Mothers’ Remote Work",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35763",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35763?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35763, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2466096363",
+        "name": "Benjamin D. Cowan"
+      },
+      {
+        "authorId": "2502962291",
+        "name": "Mohamed Hafis Zida"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "704115d8201197b0271923e405b6eed7736f25c8",
+    "externalIds": {
+      "DOI": "10.3386/w35762",
+      "CorpusId": 292278381
+    },
+    "title": "Digital (Killer?) Acquisitions",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35762",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35762?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35762, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2257250484",
+        "name": "Florian Ederer"
+      },
+      {
+        "authorId": "122096715",
+        "name": "Regina Seibel"
+      },
+      {
+        "authorId": "2502968827",
+        "name": "Timothy Simcoe"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7afdc50a48db194c4437178b9e31d4c404cc0eaf",
+    "externalIds": {
+      "DOI": "10.3386/w35761",
+      "CorpusId": 292274980
+    },
+    "title": "Measuring Gender Attitudes Toward Men and Women",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35761?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35761, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2502931983",
+        "name": "Joshua Dean"
+      },
+      {
+        "authorId": "26999775",
+        "name": "C. Exley"
+      },
+      {
+        "authorId": "2853085",
+        "name": "Muriel Niederle"
+      },
+      {
+        "authorId": "2313486336",
+        "name": "Heather Sarsons"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c6013e0f99a9ef26e6986cb4b31f1bc80055993c",
+    "externalIds": {
+      "DOI": "10.3386/w35760",
+      "CorpusId": 292276398
+    },
+    "title": "Well-Being Salience in Corporate Disclosures and Worker Health",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35760",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35760?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35760, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2487103417",
+        "name": "Riccardo Di Francesco"
+      },
+      {
+        "authorId": "2473133752",
+        "name": "Peter Hull"
+      },
+      {
+        "authorId": "2502746147",
+        "name": "Seetha Menon"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "005974d3e1c993368ba63bda549492a67593f60f",
+    "externalIds": {
+      "DOI": "10.3386/w35759",
+      "CorpusId": 292272957
+    },
+    "title": "Responses to Extreme Price Changes: Evidence from the Residential Demand for Natural Gas",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35759",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35759?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35759, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "152251097",
+        "name": "A. Alberini"
+      },
+      {
+        "authorId": "2145595144",
+        "name": "Levan Bezhanishvili"
+      },
+      {
+        "authorId": "5232906",
+        "name": "Milan Ščasný"
+      },
+      {
+        "authorId": "2503908906",
+        "name": "Roberton Williams"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "d1b3d644b8c1620d1de7d729c11eb8211d92b0e6",
+    "externalIds": {
+      "DOI": "10.3386/w35757",
+      "CorpusId": 292052275
+    },
+    "title": "Buying a Station or Relaxing a Constraint? Spectrum Repacking and Dirac's Conjecture",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35757",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35757?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35757, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2499342223",
+        "name": "Alex Chan"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7995ff83377bf33c4c3fa4887070e131c3cbbc0c",
+    "externalIds": {
+      "DOI": "10.3386/w35756",
+      "CorpusId": 292052773
+    },
+    "title": "Do Social Norms Substitute for Enforcement? Evidence from Public Officials’ Home Purchases in Singapore",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35756",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35756?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35756, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2158756",
+        "name": "T. Piskorski"
+      },
+      {
+        "authorId": "97885709",
+        "name": "Amit Seru"
+      },
+      {
+        "authorId": "2493118213",
+        "name": "Jian Zhang"
+      },
+      {
+        "authorId": "2489373919",
+        "name": "Chun-De Zhao"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b6a10d46f9e565b53aa60b004220261b8e8c2baa",
+    "externalIds": {
+      "DOI": "10.3386/w35755",
+      "CorpusId": 292053025
+    },
+    "title": "The Macroeconomic Returns to School Finance Reforms: Micro-Calibrated Predictions Meet Causal Evidence",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35755",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35755?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35755, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2497440734",
+        "name": "C. Jackson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "aa4d26005c36af0303abcd53d54e8d11db1bb50c",
+    "externalIds": {
+      "DOI": "10.3386/w35754",
+      "CorpusId": 292053293
+    },
+    "title": "Asset Privatization as Intergenerational Redistribution",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35754",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35754?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35754, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2500262621",
+        "name": "Kai-Ji Chen"
+      },
+      {
+        "authorId": "2500246301",
+        "name": "Han-Ming Fang"
+      },
+      {
+        "authorId": "2488083002",
+        "name": "Yang Tang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5709ec7ac7ea2fefafa1daff23dc54ff0ffbc648",
+    "externalIds": {
+      "DOI": "10.3386/w35753",
+      "CorpusId": 292050490
+    },
+    "title": "Correlation Neglect in Asset Prices",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35753",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35753?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35753, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2375337324",
+        "name": "Hong-Ye Guo"
+      },
+      {
+        "authorId": "2257168944",
+        "name": "Jessica A. Wachter"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "a1691768f84aab3da55656154b204ebc54d2a4c6",
+    "externalIds": {
+      "DOI": "10.3386/w35752",
+      "CorpusId": 292050198
+    },
+    "title": "Did COVID Change the Black Neighborhood Startup Deficit? Evidence from the Startup Cartography Project",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35752",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35752?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35752, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "152757695",
+        "name": "Catherine Fazio"
+      },
+      {
+        "authorId": "50150409",
+        "name": "Jorge Guzmán"
+      },
+      {
+        "authorId": "49900354",
+        "name": "S. Stern"
+      },
+      {
+        "authorId": "2490803235",
+        "name": "Yan Xu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "bdd3778667b32c4420ab42d5dc1a5be218ba78e3",
+    "externalIds": {
+      "DOI": "10.3386/w35751",
+      "CorpusId": 292053189
+    },
+    "title": "Did the Affordable Care Act Save Lives?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35751",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35751?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35751, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "39927235",
+        "name": "A. Gangopadhyaya"
+      },
+      {
+        "authorId": "29434410",
+        "name": "Cuiping Schiman"
+      },
+      {
+        "authorId": "2575318",
+        "name": "R. Kaestner"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "6a95ac987aadac1b03a730684f16d2924b8beeb9",
+    "externalIds": {
+      "DOI": "10.3386/w35749",
+      "CorpusId": 292052941
+    },
+    "title": "We've Got You Covered: Establishment-Level Evidence on California's Fast-Food Minimum Wage",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35749",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35749?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35749, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2161830809",
+        "name": "Vitor Melo"
+      },
+      {
+        "authorId": "2282836590",
+        "name": "David Neumark"
+      },
+      {
+        "authorId": "3910486",
+        "name": "Liam Sigaud"
+      },
+      {
+        "authorId": "2257930169",
+        "name": "Gary A. Wagner"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c4af1d578ece3c15b9a7b75df9568c5072524c37",
+    "externalIds": {
+      "DOI": "10.3386/w35748",
+      "CorpusId": 292053480
+    },
+    "title": "Does Information Influence the Choice between Social Security Disability and Early Retirement Benefits?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35748",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35748?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35748, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2500212781",
+        "name": "Priyanka Anand"
+      },
+      {
+        "authorId": "2500224225",
+        "name": "P. T. Tran"
+      },
+      {
+        "authorId": "4477179",
+        "name": "S. Slavov"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b8b5d9f3996c441a20c26bddba319d8d24c9a5ec",
+    "externalIds": {
+      "DOI": "10.3386/w35747",
+      "CorpusId": 292053452
+    },
+    "title": "Automation and Optimal Taxation: A Task-Based Theory",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35747",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35747?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35747, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2500222268",
+        "name": "Henrik Kleven"
+      },
+      {
+        "authorId": "2500229179",
+        "name": "Owen Zidar"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "f6f1cb47a9025825be605ab2e63a1870a9a148af",
+    "externalIds": {
+      "DOI": "10.3386/w35745",
+      "CorpusId": 292053053
+    },
+    "title": "The Federal Lands: An Economic Property Rights Perspective",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35745",
+      "status": "GREEN",
+      "license": "public-domain",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35745?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35745, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "84065895",
+        "name": "G. Libecap"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "4fc5d3adeb0fc19617d9ba7be4ad237b1560b236",
+    "externalIds": {
+      "ArXiv": "2608.23524",
+      "DOI": "10.3386/w35744",
+      "CorpusId": 291327966
+    },
+    "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35744",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2608.23524, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2253743659",
+        "name": "Melissa Dell"
+      },
+      {
+        "authorId": "88738815",
+        "name": "Ashesh Rambachan"
+      }
+    ],
+    "abstract": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitive measurement feasible at scale. This shifts the bottleneck from finding any scalable measure of a phenomenon to choosing among many plausible ones, which may support different empirical conclusions. This review provides guidance for navigating that shift. We describe three stages at which AI enters the measurement pipeline---discovery, construct definition, and observation---and what each demands of researchers. We argue that credible inference with AI-generated variables requires appropriately designed validation: anchoring measurement to explicit criteria, rather than informal claims that a proxy is reasonable. We then examine how validation samples support valid inference even when AI predictions are arbitrarily biased, and what can be done when a random validation sample is unavailable."
+  },
+  {
+    "paperId": "6a5ea3b11d35fabfe39ff963cc4f54374502ef55",
+    "externalIds": {
+      "DOI": "10.3386/w35743",
+      "CorpusId": 292051876
+    },
+    "title": "Immigration and Child Mortality during the Age of Mass Migration",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35743",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35743?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35743, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2372938254",
+        "name": "Katherine Eriksson"
+      },
+      {
+        "authorId": "2500247138",
+        "name": "Peter Zhixian Lin"
+      },
+      {
+        "authorId": "51892580",
+        "name": "Gregory T. Niemesh"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "75ffae5a802a6d093f60e05b46c4f82ed08ab554",
+    "externalIds": {
+      "DOI": "10.3386/w35742",
+      "CorpusId": 292053325
+    },
+    "title": "Disappearing Dollar Convenience?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35742",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35742?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35742, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2500222850",
+        "name": "A. Krishnamurthy"
+      },
+      {
+        "authorId": "2500224392",
+        "name": "Miguel Chumbo"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b76106bf2f482ae8577e1b7054719d72b77aab2c",
+    "externalIds": {
+      "DOI": "10.3386/w35741",
+      "CorpusId": 286647673
+    },
+    "title": "Diamond-Mirrlees meets Sims: Optimal Taxation with Rational Inattention",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35741",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35741?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35741, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3084446",
+        "name": "G. Angeletos"
+      },
+      {
+        "authorId": "2294805214",
+        "name": "Matias Bayas-Erazo"
+      }
+    ],
+    "abstract": ","
+  },
+  {
+    "paperId": "fc2f3f195f83d8b2f43ef1d26e3b0bed09b3f15b",
+    "externalIds": {
+      "DOI": "10.3386/w35740",
+      "CorpusId": 292052675
+    },
+    "title": "When Resources Meet Relationships: The Returns to Personalized Supports for Low-Income Students",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35740",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35740?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35740, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40616157",
+        "name": "B. Goldman"
+      },
+      {
+        "authorId": "144620477",
+        "name": "J. Gracie"
+      },
+      {
+        "authorId": "2313834087",
+        "name": "Sonya R. Porter"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "7b4b4d90125fe26b9715df6634c22f7adc332056",
+    "externalIds": {
+      "DOI": "10.3386/w35739",
+      "CorpusId": 292053533
+    },
+    "title": "A Sin Ban, Not a Sin Tax? Consumption and Incidence of SNAP Soda Restrictions",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35739",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35739?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35739, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2500225344",
+        "name": "C. Cooper"
+      },
+      {
+        "authorId": "2500225692",
+        "name": "Katja Seim"
+      },
+      {
+        "authorId": "2500273763",
+        "name": "Jintaek Song"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e862c2116317dec7ea8b4b36ca31de9476d3dc37",
+    "externalIds": {
+      "DOI": "10.3386/w35738",
+      "CorpusId": 292053539
+    },
+    "title": "The City Through Her Eyes: Gender-Based Harassment in Public Spaces in Urban India",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35738",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35738?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35738, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "51036891",
+        "name": "Lori A. Beaman"
+      },
+      {
+        "authorId": "51016770",
+        "name": "S. Jayachandran"
+      },
+      {
+        "authorId": "2290111366",
+        "name": "Anisha Sharma"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "085c427d1adcc54d18404a24926f7778016dbf34",
+    "externalIds": {
+      "DOI": "10.3386/w35737",
+      "CorpusId": 281388051
+    },
+    "title": "Food Labeling Policies: Aggregate Impacts and Heterogeneity Across Categories",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35737",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35737?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35737, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "121230054",
+        "name": "Nano Barahona"
+      },
+      {
+        "authorId": "2088485124",
+        "name": "Cristóbal Otero"
+      },
+      {
+        "authorId": "2059580210",
+        "name": "S. Otero"
+      },
+      {
+        "authorId": "2274912771",
+        "name": "Joshua Kim"
+      }
+    ],
+    "abstract": ": We study the aggregate and heterogeneous eﬀects of a front-of-package labeling policy implemented in Chile. We ﬁnd that consumers reduced their sugar and caloric intake by 9% and 6%, respectively. On the demand side, labels prompt consumers to substitute within categories rather than switching between categories. Within-category responses are more pronounced when labels provide new information. On the supply side, we observe bunching at regulatory thresholds, with substantial heterogeneity across categories, consistent with diﬀering costs of product reformulation. We conclude that considering policy-response heterogeneity is key for eﬀective policy design"
+  },
+  {
+    "paperId": "a3560ee74c1c6a277943be2955eb50d0f5e8d9cc",
+    "externalIds": {
+      "DOI": "10.3386/w35736",
+      "CorpusId": 292052173
+    },
+    "title": "The Welfare Impacts of Urban Renewal and Forced Relocation: Evidence from Chicago’s HOPE VI Demolitions",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35736",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35736?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35736, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1404790109",
+        "name": "Milena Almagro"
+      },
+      {
+        "authorId": "6398312",
+        "name": "Eric T. Chyn"
+      },
+      {
+        "authorId": "117537185",
+        "name": "B. Stuart"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "460c66dbfc55d8b67922cc25daaa148e9f08078a",
+    "externalIds": {
+      "DOI": "10.3386/w35735",
+      "CorpusId": 292050419
+    },
+    "title": "Flowers of Invention: The Economic Impacts of Patent Rights",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35735",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35735?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35735, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "98297403",
+        "name": "Jacob Moscona"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1d2ebbe6e23fb0f5af2ca9ce8e7505ef6461628a",
+    "externalIds": {
+      "DOI": "10.3386/w35734",
+      "CorpusId": 292053304
+    },
+    "title": "Strategic Sovereignty: U.S.–Israeli Strikes and the Reversal of Anti-Regime Protest in Iran",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35734?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35734, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2500222052",
+        "name": "Sultan Mehmood"
+      },
+      {
+        "authorId": "2500222713",
+        "name": "Yaroslav Prokhorskoy"
+      },
+      {
+        "authorId": "2089574719",
+        "name": "Leonard Wantchekon"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "5c8f90b452d4fdc7a1e3c097a364adc678cd187d",
+    "externalIds": {
+      "DOI": "10.3386/w35732",
+      "CorpusId": 292052017
+    },
+    "title": "Social Capital and Innovation: Evidence from Facebook Friendship Networks",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35732",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35732?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35732, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2298366615",
+        "name": "Brad Cannon"
+      },
+      {
+        "authorId": "2413041509",
+        "name": "David Hirshleifer"
+      },
+      {
+        "authorId": "2057117608",
+        "name": "J. Thornton"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "29c5e0ae3c62127c87eb1a8ee9920c7ca41679bd",
+    "externalIds": {
+      "DOI": "10.3386/w35731",
+      "CorpusId": 292053722
+    },
+    "title": "Housing Wealth Accumulation and Electoral Representation",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35731",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35731?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35731, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1478914159",
+        "name": "C. Avenancio-León"
+      },
+      {
+        "authorId": "2500248521",
+        "name": "Yu-Tao He"
+      },
+      {
+        "authorId": "5643993",
+        "name": "Michael Reher"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1b08f264852bb36a9f754cf3dd1530fe8e9ff50b",
+    "externalIds": {
+      "DOI": "10.3386/w35730",
+      "CorpusId": 292053224
+    },
+    "title": "Beyond the Conventional Narrative: Economic Heterogeneity and Human Capital Among American Indians",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35730",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35730?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35730, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2265796975",
+        "name": "Randall Akee"
+      },
+      {
+        "authorId": "50288186",
+        "name": "E. Simeonova"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5437f94089216c837e3e7e860432f81f8dd36eeb",
+    "externalIds": {
+      "DOI": "10.3386/w35729",
+      "CorpusId": 292052718
+    },
+    "title": "When Microenterprises Grow, Are Consumers Better Off? Evidence from Large Loans to Microenterprises in Chile",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35729",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35729?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35729, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3019739",
+        "name": "D. Karlan"
+      },
+      {
+        "authorId": "104138472",
+        "name": "Natalia Rigol"
+      },
+      {
+        "authorId": "2249561993",
+        "name": "Benjamin N. Roth"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5a769cfa20498c7806395faea05c6c81cbfea88c",
+    "externalIds": {
+      "DOI": "10.3386/w35728",
+      "CorpusId": 292050365
+    },
+    "title": "Who Matters in College? Familiarity, Ability Signals, and Student Achievement",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35728",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35728?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35728, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2379394049",
+        "name": "Isaac Ahimbisibwe"
+      },
+      {
+        "authorId": "97356182",
+        "name": "Scott H. Carrell"
+      },
+      {
+        "authorId": "4216851",
+        "name": "Travis J. Lybbert"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cbfdc6a3405a77c0e064f475f26dc3aaccc6296d",
+    "externalIds": {
+      "DOI": "10.3386/w35727",
+      "CorpusId": 292052140
+    },
+    "title": "Measuring Racial Disparities in Police Stops: Evidence from Telemetric Mobility Data",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35727",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35727?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35727, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2499630727",
+        "name": "Xiao-Feng Gong"
+      },
+      {
+        "authorId": "2486250399",
+        "name": "Yu-Ling Han"
+      },
+      {
+        "authorId": "2463232135",
+        "name": "Susan Parker"
+      },
+      {
+        "authorId": "2387984072",
+        "name": "Matthew B. Ross"
+      },
+      {
+        "authorId": "2500200766",
+        "name": "Stephen Ross"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "80c6075b6f781da5e76b32497f1ad5295027ed09",
+    "externalIds": {
+      "DOI": "10.3386/w35726",
+      "CorpusId": 273550832
+    },
+    "title": "Racial Dynamics of Federal Property Buyouts in Flood-Prone Areas",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35726",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35726?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35726, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "100509642",
+        "name": "Kay Jowers"
+      },
+      {
+        "authorId": "35566719",
+        "name": "La-La Ma"
+      },
+      {
+        "authorId": "2293322140",
+        "name": "Christopher Timmins"
+      }
+    ],
+    "abstract": ","
+  },
+  {
+    "paperId": "2c175f8125d9d54cdcb2e5b98e78d9da09f7cd4c",
+    "externalIds": {
+      "DOI": "10.3386/w35725",
+      "CorpusId": 292053715
+    },
+    "title": "How Disability Benefits in Early Life Affect Adult Outcomes",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35725",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35725?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35725, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "122756775",
+        "name": "M. Deshpande"
+      },
+      {
+        "authorId": "119351294",
+        "name": "Alessandra Voena"
+      },
+      {
+        "authorId": "2096361044",
+        "name": "Jason Weitze"
+      }
+    ],
+    "abstract": "We estimate the effect of receiving Supplemental Security Income (SSI) in childhood on adult outcomes using multiple sources of variation. Using variation across and within two quasi-experiments, we find that the program has heterogeneous effects that vary with the parental earnings response to SSI benefits: the program has positive effects on children when parents do not adjust their labor supply in response to SSI income (meaning household income increases), but zero or negative effects on children when parents offset the transfer by reducing earnings (meaning household income remains constant or falls). These results suggest that, relative to parent non-work time, income is crucial in the human capital production of low-income children with disabilities. We estimate a model of maternal labor supply and child human capital formation to quantify the relative importance of these channels. Our findings indicate that 1) the income effects of SSI on children's human capital are substantial, with a limited role for perverse incentive effects from conditioning benefits on disability status"
+  },
+  {
+    "paperId": "96d3b287e375633dbc2a3899a916a886c12782ba",
+    "externalIds": {
+      "DOI": "10.3386/w35724",
+      "CorpusId": 291888897
+    },
+    "title": "Risk Perceptions of E-Cigarettes and the Evaluation of EVALI Messaging",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35724",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35724?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35724, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "10749281",
+        "name": "Lawrence J. Jin"
+      },
+      {
+        "authorId": "2287562123",
+        "name": "Donald S. Kenkel"
+      },
+      {
+        "authorId": "2346083141",
+        "name": "Alan D. Mathios"
+      },
+      {
+        "authorId": "2228794805",
+        "name": "Grace Phillips"
+      },
+      {
+        "authorId": "2230513492",
+        "name": "Revathy Suryanarayana"
+      },
+      {
+        "authorId": "2287562680",
+        "name": "Hua Wang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0f041aeabfdde2ac6ceafbb2e82e83d0ea7aa66d",
+    "externalIds": {
+      "DOI": "10.3386/w35723",
+      "CorpusId": 291898822
+    },
+    "title": "An Empirically-Grounded Theory of Voting Based on Prosocial Motives",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35723",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35723?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35723, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2261635805",
+        "name": "Dan Bernhardt"
+      },
+      {
+        "authorId": "2491668179",
+        "name": "Laurent Bouton"
+      },
+      {
+        "authorId": "2476601",
+        "name": "Stefan Krasa"
+      },
+      {
+        "authorId": "3066327",
+        "name": "Francesco Squintani"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c0b9a34cd90d744f5ed1f7eb56feedd38e5176b6",
+    "externalIds": {
+      "DOI": "10.3386/w35722",
+      "CorpusId": 291899451
+    },
+    "title": "The Multigenerational Effects of Legal Access to the Pill on Infant Health",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35722",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35722?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35722, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "1395707940",
+        "name": "H. Noghanibehambari"
+      },
+      {
+        "authorId": "2274038377",
+        "name": "D. Slusky"
+      },
+      {
+        "authorId": "2491651184",
+        "name": "Erdal Tekin"
+      },
+      {
+        "authorId": "2259539932",
+        "name": "Hoa Vu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "445f4e94d772d99f6937f00b835cde9acb65ca9c",
+    "externalIds": {
+      "DOI": "10.3386/w35721",
+      "CorpusId": 291899536
+    },
+    "title": "Politics-driven Market Access and Its Cost: Evidence from China’s Grand Canal",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35721",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35721?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35721, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "48442707",
+        "name": "Ying Bai"
+      },
+      {
+        "authorId": "2494676723",
+        "name": "Xiao-Yue Bian"
+      },
+      {
+        "authorId": "2411985126",
+        "name": "Rui-Xue Jia"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "37075a006bd662b869f62447629d789d066e8b32",
+    "externalIds": {
+      "DOI": "10.3386/w35720",
+      "CorpusId": 291889097
+    },
+    "title": "Does AI Assistance Enhance or Erode Expertise? Evidence from a Three-Month Field Experiment in Patent Drafting",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35720",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35720?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35720, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2491504548",
+        "name": "D. Autor"
+      },
+      {
+        "authorId": "2341709532",
+        "name": "Tanya Rodchenko"
+      },
+      {
+        "authorId": "2491946202",
+        "name": "Josh Martin"
+      },
+      {
+        "authorId": "118645253",
+        "name": "Zanna Iscenko"
+      },
+      {
+        "authorId": "2004108568",
+        "name": "Scott Strand"
+      },
+      {
+        "authorId": "2491517436",
+        "name": "D. Pearl"
+      },
+      {
+        "authorId": "2491515870",
+        "name": "Melissa Ferere"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "a77713e64cdb83b8991d269e63e2022e7acd4bc9",
+    "externalIds": {
+      "DOI": "10.3386/w35719",
+      "CorpusId": 291892305
+    },
+    "title": "The Utility of AI Tools in Auditing Adherence to Pre-Analysis Plans",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35719",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35719?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35719, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2328552017",
+        "name": "Jeffrey P. Clemens"
+      },
+      {
+        "authorId": "2356653708",
+        "name": "Anwita Mahajan"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6466f21adff0196b2883a85723506de4f92787f7",
+    "externalIds": {
+      "DOI": "10.3386/w35718",
+      "CorpusId": 291894946
+    },
+    "title": "Will New Transportation Technologies Increase Urban Density",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35718",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35718?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35718, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3701289",
+        "name": "E. Glaeser"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b67c0d25de645d30b99ebb2f281871c2d59d7dd4",
+    "externalIds": {
+      "DOI": "10.3386/w35717",
+      "CorpusId": 291894929
+    },
+    "title": "The No Surprises Act’s Surprises: Arbitration, Provider Network, and Insurer Pricing",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35717",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35717?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35717, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "121540376",
+        "name": "P. Barwick"
+      },
+      {
+        "authorId": "2493345590",
+        "name": "An-Ran Li"
+      },
+      {
+        "authorId": "46878327",
+        "name": "Tian-Li Xia"
+      },
+      {
+        "authorId": "2491975662",
+        "name": "Shi-Zhe Yu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0eb305df8fb25c8d52a59f8e35af96d3b6b94ee3",
+    "externalIds": {
+      "DOI": "10.3386/w35716",
+      "CorpusId": 291888100
+    },
+    "title": "Expectations-based Capital Inflow Shocks",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35716",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35716?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35716, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2325538467",
+        "name": "Jongrim Ha"
+      },
+      {
+        "authorId": "2329580026",
+        "name": "Dohan Kim"
+      },
+      {
+        "authorId": "2325590395",
+        "name": "M. A. Kose"
+      },
+      {
+        "authorId": "2491387295",
+        "name": "Francis Warnock"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ae72efb0fd4d14a32aff4fd40814e34355f34b00",
+    "externalIds": {
+      "DOI": "10.3386/w35715",
+      "CorpusId": 291896299
+    },
+    "title": "Fiscal Policy and the Saving Glut of the Rich",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35715",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35715?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35715, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2261145224",
+        "name": "Francesco Bianchi"
+      },
+      {
+        "authorId": "2428664707",
+        "name": "Nicolò Ceneri"
+      },
+      {
+        "authorId": "66994662",
+        "name": "Leonardo Melosi"
+      },
+      {
+        "authorId": "2328525867",
+        "name": "Alessandro T. Villa"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6890b6f106cfe8c6c1a4af8c8fd61c7b83eb0106",
+    "externalIds": {
+      "DOI": "10.3386/w35714",
+      "CorpusId": 291895902
+    },
+    "title": "Behavioral Signatures of Cognitive Noise",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35714",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35714?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35714, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2491594865",
+        "name": "Ryan Oprea"
+      },
+      {
+        "authorId": "2481847346",
+        "name": "Michael Woodford"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "97d5decbe7a79e82666640508db99936e8223619",
+    "externalIds": {
+      "DOI": "10.3386/w35712",
+      "CorpusId": 291892232
+    },
+    "title": "The Limits of Verifiability: Credibility and Flexibility in Communication",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35712",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35712?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35712, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2046436",
+        "name": "A. Lizzeri"
+      },
+      {
+        "authorId": "2105580013",
+        "name": "Yichuan Lou"
+      },
+      {
+        "authorId": "2375628914",
+        "name": "Jacopo Perego"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1df5a9e6fba3f2f5c0ec26693a705befaf6d6018",
+    "externalIds": {
+      "DOI": "10.3386/w35711",
+      "CorpusId": 291895977
+    },
+    "title": "The Impact of Patient Capital",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35711",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35711?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35711, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2247960251",
+        "name": "Ying-Xiang Li"
+      },
+      {
+        "authorId": "2493137627",
+        "name": "Tong Liu"
+      },
+      {
+        "authorId": "2152008964",
+        "name": "Ting Xu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "bb83c67d279ea8c8e418fa9eebfd8299c4d3dcf7",
+    "externalIds": {
+      "DOI": "10.3386/w35710",
+      "CorpusId": 291887471
+    },
+    "title": "Female Micro-Entrepreneurship and Child Development",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35710",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35710?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35710, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2445521897",
+        "name": "Andrew Foster"
+      },
+      {
+        "authorId": "25503028",
+        "name": "Moritz Poll"
+      },
+      {
+        "authorId": "2469003021",
+        "name": "Hyungil Suh"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "04d987eaac1726d116dbbee87d7e90c46769942b",
+    "externalIds": {
+      "DOI": "10.3386/w35709",
+      "CorpusId": 291887878
+    },
+    "title": "Signals, Steps, and Setbacks: Age Discrimination in a Laddered Labor Market",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35709",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35709?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35709, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2223035",
+        "name": "Shuai-Zhang Feng"
+      },
+      {
+        "authorId": "3343176",
+        "name": "L. Lefgren"
+      },
+      {
+        "authorId": "2394064662",
+        "name": "Jie-Yi Liu"
+      },
+      {
+        "authorId": "37511922",
+        "name": "Brennan C. Platt"
+      },
+      {
+        "authorId": "2476173698",
+        "name": "Xiao-Yu Xia"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6de597a08c1a20a2a583ddb9d82289016f66a763",
+    "externalIds": {
+      "DOI": "10.3386/w35708",
+      "CorpusId": 291879625
+    },
+    "title": "“Non-Marginal” Investor Beliefs",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35708",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35708?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35708, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2308158551",
+        "name": "W. Goetzmann"
+      },
+      {
+        "authorId": "1739119783",
+        "name": "Dasol Kim"
+      },
+      {
+        "authorId": "5736726",
+        "name": "R. Shiller"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "08a6ae018d8526edbc2e9436162745c19f92d132",
+    "externalIds": {
+      "DOI": "10.3386/w35706",
+      "CorpusId": 291888094
+    },
+    "title": "Meetings",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35706",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35706?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35706, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2491441585",
+        "name": "David Deming"
+      },
+      {
+        "authorId": "1411013947",
+        "name": "K. Løken"
+      },
+      {
+        "authorId": "2491440512",
+        "name": "Alexander Willén"
+      },
+      {
+        "authorId": "2006513963",
+        "name": "Ya-Ling Xu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c47952ad1be5e8c02adf800cc1a84e8a7fb44105",
+    "externalIds": {
+      "DOI": "10.3386/w35705",
+      "CorpusId": 261176673
+    },
+    "title": "Unemployment Insurance in Macroeconomic Stabilization with Imperfect Expectations",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35705",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35705?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35705, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "133692801",
+        "name": "Bence Bardóczy"
+      },
+      {
+        "authorId": "2053985390",
+        "name": "João Guerreiro"
+      }
+    ],
+    "abstract": "We study the power of state-dependent unemployment insurance (UI) to stabilize short-run fluctuations, allowing for arbitrary deviations from full information and rational expectations. Expectations are critical because higher UI generosity raises consumption, to a large extent, by lowering precautionary savings. If UI generosity is indexed to the unemployment rate, households must forecast the unemployment rate to anticipate the policy stance. We estimate unemployment expectations in response to identified aggregate shocks. We quantify the consequences of these imperfect expectations through the lens of a Heterogeneous Agent New Keynesian model. First, we work directly with the estimated forecast errors. Our methodological contribution is to use the non-parametric history of forecast errors and forecast revisions to solve dynamic decisions of optimizing agents. By doing so, we sidestep the need to choose a particular model of belief formation. The estimated model implies that imperfect anticipation substantially affects the stimulative power of UI extensions. Second, we compare alternative ways of implementing UI policies. To run counterfactuals, we estimate a structural model of belief formation. We show that a combination of noisy information and diagnostic expectations fits the data best among a large set of popular alternatives. A UI extension that is announced directly is more stimulative in the very short run than one that is indexed to the unemployment rate."
+  },
+  {
+    "paperId": "8122c6099c1106c651aced566e220c4af57aa05e",
+    "externalIds": {
+      "DOI": "10.3386/w35704",
+      "CorpusId": 291890049
+    },
+    "title": "The Allocative Cost of War: A View to a Kill...ing of Productivity",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35704",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35704?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35704, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2491538577",
+        "name": "M. Amann"
+      },
+      {
+        "authorId": "15529936",
+        "name": "Y. Gorodnichenko"
+      },
+      {
+        "authorId": "2412333610",
+        "name": "Oleksandr Talavera"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "9f24cd41808df7d78bfcd10e11afb521d0e69f72",
+    "externalIds": {
+      "DOI": "10.3386/w35703",
+      "CorpusId": 291895249
+    },
+    "title": "How Big is Small? The Economic Effects of Access to Small Business Government Support",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35703",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35703?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35703, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2255781098",
+        "name": "J. D. Brown"
+      },
+      {
+        "authorId": "48838965",
+        "name": "M. Denes"
+      },
+      {
+        "authorId": "2470546208",
+        "name": "Du-Chin Ran"
+      },
+      {
+        "authorId": "121731170",
+        "name": "John Hackney"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "4bfd93d040e4e0925b1b8dccd973380bdb70ea88",
+    "externalIds": {
+      "DOI": "10.3386/w35701",
+      "CorpusId": 291897207
+    },
+    "title": "Tracking Inequality: Teachers and the Allocation of Educational Opportunities",
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35701?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35701, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "114187319",
+        "name": "Michela Carlana"
+      },
+      {
+        "authorId": "2491651520",
+        "name": "Francesca Miserocchi"
+      },
+      {
+        "authorId": "2491677744",
+        "name": "Eleonora Patacchini"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b3f83eb539c374a709240abc15b30d47e540698b",
+    "externalIds": {
+      "ArXiv": "2608.25901",
+      "DOI": "10.3386/w35700",
+      "CorpusId": 291371149
+    },
+    "title": "Cross-Section Estimation of Long-Run Relations Using Time-Compressed Data",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35700",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2608.25901, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2312722961",
+        "name": "Serena Ng"
+      },
+      {
+        "authorId": "2323273473",
+        "name": "Nikolay Gospodinov"
+      }
+    ],
+    "abstract": "Many empirical investigations of long-run relations are based on cross-section regressions in averaged or long differenced data that effectively have the time dimension of a $T\\times N$ panel compressed. We analyze a class of time-compressed I(1) data and show that they have magnified variability stemming from the fact that the cross-section variance of a non-stationary panel `fans out'with time. Cross-section regressions in time compressed data can potentially yield estimates that are super-consistent and asymptotically normal, whether the regressors are stationary, non-stationary, or highly persistent. The fastest convergence rate of $\\sqrt{N}T$ requires a compression scheme that not only magnifies the non-stationary signal, but also dilutes the regression noise. Omitted fixed effects preclude noise dilution but the estimates remain super-consistent. However, the fanning out effect can be weakened when the data have a strong force for mean-reversion or convergence, a problem that seems relevant for temperature data. We consider three applications and find that the long-run relation between consumption and income, and between growth/inflation and demographic variables are reasonably well determined, but the estimated relation between growth and warming temperature is fragile."
+  },
+  {
+    "paperId": "e4ec2c73844d5a5b7d1f42d4d782bdc43855c64b",
+    "externalIds": {
+      "ArXiv": "2503.09907",
+      "DOI": "10.3386/w35699",
+      "CorpusId": 276961663
+    },
+    "title": "PLRD: Partially Linear Regression Discontinuity Inference",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35699",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2503.09907, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2349977768",
+        "name": "Aditya Ghosh"
+      },
+      {
+        "authorId": "47166531",
+        "name": "G. Imbens"
+      },
+      {
+        "authorId": "2275851797",
+        "name": "Stefan Wager"
+      }
+    ],
+    "abstract": "Regression discontinuity designs have become one of the most popular research designs in empirical economics. We argue, however, that the widely used approaches to building confidence intervals in regression discontinuity designs often exhibit suboptimal behavior in practice. We propose a new estimator, the partially linear regression discontinuity (PLRD) estimator that, in set of a simulation studies carefully calibrated to twelve high-profile applications of regression discontinuity designs, has substantially lower estimation error than available comparison methods. Throughout our experiments, the confidence intervals built using PLRD are both valid and short. We also provide large-sample guarantees for PLRD. Our simulation study serves as a general template for how new econometric methods can be credibly evaluated relative to the existing alternatives by constructing simulation designs that generate synthetic data indistinguishable from the original data using the Wasserstein generative adversarial network methodology."
+  },
+  {
+    "paperId": "a4659ff614b4491891e207abfd49a220bf3b0e22",
+    "externalIds": {
+      "DOI": "10.3386/w35698",
+      "CorpusId": 291879843
+    },
+    "title": "Is a Dollar a Dollar? How Transfer Design Shapes Household Spending",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35698",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35698?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35698, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2219343302",
+        "name": "T. Bonomo"
+      },
+      {
+        "authorId": "119235197",
+        "name": "Krista J. Ruffini"
+      },
+      {
+        "authorId": "88741583",
+        "name": "D. Schanzenbach"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "9c8444a723372f3f181b798f04a8fd4aedbccc8b",
+    "externalIds": {
+      "DOI": "10.3386/w35697",
+      "CorpusId": 291899508
+    },
+    "title": "Do Online Job Postings Capture Job Vacancies?",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35697",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35697?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35697, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2259287356",
+        "name": "M. Dalton"
+      },
+      {
+        "authorId": "2491653757",
+        "name": "Lisa Kahn"
+      },
+      {
+        "authorId": "2455707713",
+        "name": "Andréas Mueller"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "644d0fcefd47241cb87a0b94bda818890b9a2afb",
+    "externalIds": {
+      "DOI": "10.3386/w35696",
+      "CorpusId": 291896545
+    },
+    "title": "Loan Rates as Incentive Instruments",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35696",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35696?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35696, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "46191062",
+        "name": "K. Hachem"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  null,
+  null,
+  {
+    "paperId": "a3b6eaf69bb49162be65946670d9d9a39948279f",
+    "externalIds": {
+      "DOI": "10.3386/w35692",
+      "CorpusId": 291898772
+    },
+    "title": "Health Insurance Underwriting and the Heterogeneous Effects of the Affordable Care Act",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35692",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35692?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35692, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3451661",
+        "name": "Pietro Tebaldi"
+      },
+      {
+        "authorId": "2491654086",
+        "name": "Andrea Scalenghe"
+      },
+      {
+        "authorId": "2481237210",
+        "name": "J. Orsini"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "448af727465aef0344aaaee206b6fa32c378a69d",
+    "externalIds": {
+      "DOI": "10.3386/w35690",
+      "CorpusId": 291628113
+    },
+    "title": "Inefficiencies in Local Infrastructure: Evidence from Drinking Water in California",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35690",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35690?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35690, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2324505400",
+        "name": "Pierre Bodéré"
+      },
+      {
+        "authorId": "153386758",
+        "name": "G. Brancaccio"
+      },
+      {
+        "authorId": "46185540",
+        "name": "Karam Kang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "edf4675d324e6cee0fc9bc2f556b929f593c1765",
+    "externalIds": {
+      "DOI": "10.3386/w35678",
+      "CorpusId": 291662656
+    },
+    "title": "Smart Contracting in Network Markets",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35678",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35678?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35678, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2072102164",
+        "name": "Darrell Duffie"
+      },
+      {
+        "authorId": "2470536190",
+        "name": "Chao-Jun Wang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "98904ecfca0d2f54bc9e88ffb544df63def434a0",
+    "externalIds": {
+      "DOI": "10.3386/w35675",
+      "CorpusId": 291621436
+    },
+    "title": "The Distribution and Consequences of Natural Disasters: Evidence from U.S. Wildfire Victims",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35675",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35675?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35675, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "13138067",
+        "name": "Patrick Baylis"
+      },
+      {
+        "authorId": "6556937",
+        "name": "J. Boomhower"
+      },
+      {
+        "authorId": "104783692",
+        "name": "J. Colmer"
+      },
+      {
+        "authorId": "103178795",
+        "name": "J. Voorheis"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6eae087646fc9eb668fb250d11514bd7814c0b65",
+    "externalIds": {
+      "DOI": "10.3386/w35669",
+      "CorpusId": 291636463
+    },
+    "title": "Fool's Gold? How the USD lost its Shine",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35669",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35669?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35669, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2144107697",
+        "name": "Kai Arvai"
+      },
+      {
+        "authorId": "2074707170",
+        "name": "Nuno Coimbra"
+      },
+      {
+        "authorId": "121341201",
+        "name": "Marco Pinchetti"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "189fbfd0e3e47dcdd7af517bb0aaee77b2f8731c",
+    "externalIds": {
+      "DOI": "10.3386/w35655",
+      "CorpusId": 291379156
+    },
+    "title": "Crypto Capture of Foreign Aid",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35655",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35655?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35655, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2459355619",
+        "name": "Sumit Agarwal"
+      },
+      {
+        "authorId": "2460144129",
+        "name": "Pei-Yi Jin"
+      },
+      {
+        "authorId": "2072003517",
+        "name": "Eswar Prasad"
+      },
+      {
+        "authorId": "2260792521",
+        "name": "Daniel Rabetti"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "aecbacbd8920ea6f0ca80035c6adde16332605fb",
+    "externalIds": {
+      "DOI": "10.3386/w35653",
+      "CorpusId": 291379317
+    },
+    "title": "To Tax or To Ax? Marginal Tax and Spending Multipliers in Consolidations",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35653",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35653?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35653, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2459770673",
+        "name": "Roberto Perotti"
+      },
+      {
+        "authorId": "2459775193",
+        "name": "L. Sala"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "dd13d1d7e905bd1288113cf1e77c4b54be0369b6",
+    "externalIds": {
+      "DOI": "10.3386/w35651",
+      "CorpusId": 291381270
+    },
+    "title": "Falling Fertility: The Changing Value of Freedom, Fulfillment, and Family",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35651",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35651?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35651, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2274681942",
+        "name": "Raquel Fernández"
+      },
+      {
+        "authorId": "118757858",
+        "name": "Inés Berniell"
+      },
+      {
+        "authorId": "2384166398",
+        "name": "M. Onofri"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b3c164a082c516cc885f0e24bf81c5df2a490691",
+    "externalIds": {
+      "DOI": "10.3386/w35642",
+      "CorpusId": 291380117
+    },
+    "title": "Monetary-Fiscal Interactions: A Reappraisal",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35642",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35642?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35642, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3084446",
+        "name": "G. Angeletos"
+      },
+      {
+        "authorId": "2284791037",
+        "name": "Chen Lian"
+      },
+      {
+        "authorId": "2329467373",
+        "name": "Christian Wolf"
+      },
+      {
+        "authorId": "2400863016",
+        "name": "Dalton Rongxuan Zhang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "83e42c05d3ac89137e2c9f3cd6e26719eb88a749",
+    "externalIds": {
+      "DOI": "10.3386/w35630",
+      "CorpusId": 291225628
+    },
+    "title": "Tariffs, Investment, and the Missing Trade Collapse",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35630",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35630?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35630, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2360830918",
+        "name": "Francesco Ferrante"
+      },
+      {
+        "authorId": "119173496",
+        "name": "Andrea Prestipino"
+      },
+      {
+        "authorId": "40418918",
+        "name": "Andrea Raffo"
+      },
+      {
+        "authorId": "2075013510",
+        "name": "Michael Waugh"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "efbd84b8c0de9fbe5d0cd8627fe14fa9e5b535f7",
+    "externalIds": {
+      "DOI": "10.3386/w35627",
+      "CorpusId": 291241686
+    },
+    "title": "Provider Altruism and Medical Fraud: Evidence from an Audit Study of Malaria Treatment",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35627",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35627?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35627, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2237924777",
+        "name": "Paul Gertler"
+      },
+      {
+        "authorId": "2287246653",
+        "name": "Ada Kwan"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "58dc841de66bcbb51a466fb44c9277755e9d3eee",
+    "externalIds": {
+      "DOI": "10.3386/w35606",
+      "CorpusId": 291241071
+    },
+    "title": "Supplemental Medicare Insurance Coverage for Older Adults with Probable Dementia",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35606",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35606?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35606, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "40360755",
+        "name": "M. McInerney"
+      },
+      {
+        "authorId": "120227890",
+        "name": "L. Moreno"
+      },
+      {
+        "authorId": "4257773",
+        "name": "Jennifer M. Mellor"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "40944f9063550d82c505c7d38d2cb221fba65cb8",
+    "externalIds": {
+      "DOI": "10.3386/w35600",
+      "CorpusId": 291250713
+    },
+    "title": "Recall Fluency, Beliefs and Behavior",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35600",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35600?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35600, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "46617266",
+        "name": "P. Bordalo"
+      },
+      {
+        "authorId": "74115503",
+        "name": "Nicola Gennaioli"
+      },
+      {
+        "authorId": "2458484806",
+        "name": "M. O'Brien"
+      },
+      {
+        "authorId": "145279878",
+        "name": "A. Shleifer"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c6e0f8455fdd8f28cdea64ee9607812ff760cbfa",
+    "externalIds": {
+      "DOI": "10.3386/w35597",
+      "CorpusId": 291235815
+    },
+    "title": "AI in a Fragmenting World",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35597",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35597?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35597, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2239304637",
+        "name": "Barry Eichengreen"
+      },
+      {
+        "authorId": "2458406168",
+        "name": "George Cui"
+      },
+      {
+        "authorId": "2078598081",
+        "name": "Asmaa El-Ganainy"
+      },
+      {
+        "authorId": "2458483547",
+        "name": "Yevgeniya Koriyenko"
+      },
+      {
+        "authorId": "2458483294",
+        "name": "Elyad Shojaei"
+      },
+      {
+        "authorId": "2178444452",
+        "name": "Linyichen Zeng"
+      },
+      {
+        "authorId": "2458698087",
+        "name": "Shihangyin Zhang"
+      }
+    ],
+    "abstract": null
+  },
+  null,
+  {
+    "paperId": "338409f4eb9c32b0907be4f0acf1bb03611b2a0b",
+    "externalIds": {
+      "DOI": "10.3386/w35575",
+      "CorpusId": 291063450
+    },
+    "title": "Observability and Social Interactions in Consumption",
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3386/w35575",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3386/w35575?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3386/w35575, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "3395181",
+        "name": "T. Jappelli"
+      },
+      {
+        "authorId": "4054558",
+        "name": "Luigi Pistaferri"
+      }
+    ],
+    "abstract": null
+  }
+]

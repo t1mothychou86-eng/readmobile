@@ -1,0 +1,343 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PaperCart feed schema 1 (M2)",
+  "description": "Metadata only. Partial publication dates retain their precision; Zotero mapping belongs to M3.",
+  "type": "object",
+  "properties": {
+    "schema": {
+      "type": "integer",
+      "const": 1
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "name": {
+            "type": "string"
+          },
+          "short": {
+            "type": "string"
+          },
+          "group": {
+            "type": "string",
+            "enum": [
+              "econ-top5",
+              "finance",
+              "working-paper"
+            ]
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "journal",
+              "working-paper"
+            ]
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "ok",
+              "empty",
+              "partial",
+              "unavailable",
+              "disabled"
+            ]
+          },
+          "count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "abstract_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "excluded_date_count": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "errors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "backends": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "received": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "filtered": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "error": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "status",
+                "pages",
+                "received",
+                "filtered",
+                "error"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "enrichment": {
+            "type": "object",
+            "properties": {
+              "pages": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "requested": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "matched": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "filled": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "cache_hits": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "error": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "deferred": {
+                "type": "integer",
+                "minimum": 0
+              }
+            },
+            "required": [
+              "pages",
+              "requested",
+              "matched",
+              "filled",
+              "cache_hits",
+              "error",
+              "deferred"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "short",
+          "group",
+          "kind",
+          "status",
+          "count",
+          "abstract_count",
+          "excluded_date_count",
+          "errors",
+          "backends",
+          "enrichment"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "papers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^(doi:10\\.[0-9]{4,9}/.+|url:https?://.+)$"
+          },
+          "doi": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "pattern": "^10\\.[0-9]{4,9}/[^\\s<>]+$"
+          },
+          "source": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "journalArticle",
+              "report"
+            ]
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "authors": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "given": {
+                  "type": "string"
+                },
+                "family": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "given",
+                "family"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "abstract": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "published": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "pattern": "^[0-9]{4}(?:-[0-9]{2}(?:-[0-9]{2})?)?$"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "wp_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "zotero": {
+            "type": "object",
+            "description": "Empty until M3 adds template-verified mapping."
+          },
+          "publication_title": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "journal_abbreviation": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "volume": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "issue": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "pages": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "issn": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "institution": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "series_title": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "first_seen": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "date_precision": {
+            "type": "string",
+            "enum": [
+              "published",
+              "first_seen"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "doi",
+          "source",
+          "kind",
+          "title",
+          "authors",
+          "abstract",
+          "published",
+          "url",
+          "wp_number",
+          "zotero",
+          "publication_title",
+          "journal_abbreviation",
+          "volume",
+          "issue",
+          "pages",
+          "issn",
+          "institution",
+          "series_title",
+          "first_seen",
+          "date_precision"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schema",
+    "generated_at",
+    "sources",
+    "papers"
+  ],
+  "additionalProperties": false
+}

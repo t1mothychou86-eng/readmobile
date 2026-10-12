@@ -1,0 +1,5518 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 66,
+    "items": [
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104355",
+        "type": "journal-article",
+        "page": "104355",
+        "title": [
+          "Signaling with debt currency choice"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Egemen",
+            "family": "Eren",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-6574-7322",
+            "authenticated-orcid": false,
+            "given": "Semyon",
+            "family": "Malamud",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7084-1380",
+            "authenticated-orcid": false,
+            "given": "Haonan",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001261"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104355",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104355"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104358",
+        "type": "journal-article",
+        "page": "104358",
+        "title": [
+          "The value of trademarks"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Pranav",
+            "family": "Desai",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ekaterina",
+            "family": "Gavrilova",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rui C.",
+            "family": "Silva",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4773-969X",
+            "authenticated-orcid": false,
+            "given": "Margarida",
+            "family": "Soares",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001297"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104358",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104358"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104376",
+        "type": "journal-article",
+        "page": "104376",
+        "title": [
+          "Related exposures to distressed borrowers and bank lending"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Sumit",
+            "family": "Agarwal",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ricardo",
+            "family": "Correa",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Bernardo",
+            "family": "Morais",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jessica",
+            "family": "Roldán",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Claudia",
+            "family": "Ruiz-Ortega",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001479"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104376",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104376"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104374",
+        "type": "journal-article",
+        "page": "104374",
+        "title": [
+          "Chronologically consistent large language models"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Songrun",
+            "family": "He",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Linying",
+            "family": "Lv",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Asaf",
+            "family": "Manela",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jimmy",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001455"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104374",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104374"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104364",
+        "type": "journal-article",
+        "page": "104364",
+        "title": [
+          "Discounting timing strategies"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9592-4297",
+            "authenticated-orcid": false,
+            "given": "Toomas",
+            "family": "Laarits",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001352"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104364",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104364"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104382",
+        "type": "journal-article",
+        "page": "104382",
+        "title": [
+          "Heterogeneous beliefs, asset prices, and business cycles"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-5932-0736",
+            "authenticated-orcid": false,
+            "given": "Saki",
+            "family": "Bigio",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dejanir",
+            "family": "Silva",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Eduardo",
+            "family": "Zilberman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001534"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104382",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104382"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104353",
+        "type": "journal-article",
+        "page": "104353",
+        "title": [
+          "Removing the fine print: Disclosure, standardized products, and consumer outcomes"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Sheisha",
+            "family": "Kulkarni",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Santiago",
+            "family": "Truffa",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gonzalo",
+            "family": "Iberti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001248"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104353",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104353"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104363",
+        "type": "journal-article",
+        "page": "104363",
+        "title": [
+          "Climate regulatory risks and corporate bonds"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Lee",
+            "family": "Seltzer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Laura T.",
+            "family": "Starks",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qifei",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001340"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104363",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104363"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104380",
+        "type": "journal-article",
+        "page": "104380",
+        "title": [
+          "Bankruptcy lawyers and credit recovery"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6323-9591",
+            "authenticated-orcid": false,
+            "given": "Brian Jonghwan",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001510"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104380",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104380"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104350",
+        "type": "journal-article",
+        "page": "104350",
+        "title": [
+          "AI and perception biases in investments: An experimental study"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Anastassia",
+            "family": "Fedyk",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ali",
+            "family": "Kakhbod",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Peiyao",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ulrike",
+            "family": "Malmendier",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001212"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104350",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104350"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104375",
+        "type": "journal-article",
+        "page": "104375",
+        "title": [
+          "Debt and assets"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Efraim",
+            "family": "Benmelech",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nitish",
+            "family": "Kumar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Raghuram",
+            "family": "Rajan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001467"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104375",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104375"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104362",
+        "type": "journal-article",
+        "page": "104362",
+        "title": [
+          "True liquidity and fundamental prices: U.S. tick size pilot"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Rohit",
+            "family": "Allena",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7642-2830",
+            "authenticated-orcid": false,
+            "given": "Tarun",
+            "family": "Chordia",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001339"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104362",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104362"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104378",
+        "type": "journal-article",
+        "page": "104378",
+        "title": [
+          "What can macro-active bond funds tell us about monetary policy change?"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Claire Yurong",
+            "family": "Hong",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jun",
+            "family": "Pan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0006-7784-4588",
+            "authenticated-orcid": false,
+            "given": "Shiwen",
+            "family": "Tian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001492"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104378",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104378"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104357",
+        "type": "journal-article",
+        "page": "104357",
+        "title": [
+          "Sustainable organizations"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Thomas",
+            "family": "Geelen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-3368-1144",
+            "authenticated-orcid": false,
+            "given": "Jakub",
+            "family": "Hajda",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jan",
+            "family": "Starmans",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001285"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104357",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104357"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104360",
+        "type": "journal-article",
+        "page": "104360",
+        "title": [
+          "Do rights offerings reduce bargaining complexity in Chapter 11?"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Gunjan",
+            "family": "Seth",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001315"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104360",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104360"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104354",
+        "type": "journal-article",
+        "page": "104354",
+        "title": [
+          "Great Recession babies: How are startups shaped by macro conditions at birth?"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Daniel",
+            "family": "Bias",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alexander",
+            "family": "Ljungqvist",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X2600125X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104354",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104354"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104361",
+        "type": "journal-article",
+        "page": "104361",
+        "title": [
+          "Machine-learning about ESG preferences: Evidence from fund flows"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "George O.",
+            "family": "Aragon",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4822-6995",
+            "authenticated-orcid": false,
+            "given": "Shuaiyu",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001327"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104361",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104361"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104383",
+        "type": "journal-article",
+        "page": "104383",
+        "title": [
+          "The decline of branch banking"
+        ],
+        "prefix": "10.1016",
+        "volume": "185",
+        "author": [
+          {
+            "given": "Rajesh P.",
+            "family": "Narayanan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-9208-3047",
+            "authenticated-orcid": false,
+            "given": "Dimuthu",
+            "family": "Ratnadiwakara",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8634-6659",
+            "authenticated-orcid": false,
+            "given": "Philip E.",
+            "family": "Strahan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001546"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104383",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              11
+            ]
+          ]
+        },
+        "article-number": "104383"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104347",
+        "type": "journal-article",
+        "page": "104347",
+        "title": [
+          "Convenience lost"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Zhengyang",
+            "family": "Jiang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Robert J.",
+            "family": "Richmond",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2922-0026",
+            "authenticated-orcid": false,
+            "given": "Tony",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001182"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104347",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104347"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104325",
+        "type": "journal-article",
+        "page": "104325",
+        "title": [
+          "Do proprietary traders provide liquidity?"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Nittai K.",
+            "family": "Bergman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ohad",
+            "family": "Kadan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Roni",
+            "family": "Michaely",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pamela C.",
+            "family": "Moulton",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000966"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104325",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104325"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/s0304-405x(26)00139-x",
+        "type": "journal-article",
+        "page": "104368",
+        "title": [
+          "Editorial Board"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X2600139X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/s0304-405x(26)00139-x",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104368"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104359",
+        "type": "journal-article",
+        "page": "104359",
+        "title": [
+          "Anatomy of a run: The Terra Luna crash"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-9995-1778",
+            "authenticated-orcid": false,
+            "given": "Jiageng",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Igor",
+            "family": "Makarov",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Antoinette",
+            "family": "Schoar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001303"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104359",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104359"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104352",
+        "type": "journal-article",
+        "page": "104352",
+        "title": [
+          "Macroprudential regulation and banks’ supply of liquidity services"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7740-7018",
+            "authenticated-orcid": false,
+            "given": "Josef",
+            "family": "Schroth",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001236"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104352",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104352"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104338",
+        "type": "journal-article",
+        "page": "104338",
+        "title": [
+          "Strategic communication among banks"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Christian",
+            "family": "Bittner",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Falko",
+            "family": "Fecht",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Melissa",
+            "family": "Pala",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Farzad",
+            "family": "Saidi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001091"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104338",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104338"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104349",
+        "type": "journal-article",
+        "page": "104349",
+        "title": [
+          "Institutional investor mandates, securities lending, and short-selling constraints"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Taisiya",
+            "family": "Sikorskaya",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001200"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104349",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104349"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104337",
+        "type": "journal-article",
+        "page": "104337",
+        "title": [
+          "Short versus long-run demand elasticities in asset pricing"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Philippe",
+            "family": "van der Beck",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X2600108X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104337",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104337"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104356",
+        "type": "journal-article",
+        "page": "104356",
+        "title": [
+          "Tax loss carryforwards and firms’ risk"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Jack",
+            "family": "Favilukis",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ron",
+            "family": "Giammarino",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jose",
+            "family": "Pizarro",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mikhail",
+            "family": "Simutin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001273"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104356",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104356"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104336",
+        "type": "journal-article",
+        "page": "104336",
+        "title": [
+          "Private equity for pension plans? Evaluating private equity performance from an investor’s perspective"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Arthur",
+            "family": "Korteweg",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stavros",
+            "family": "Panageas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anand",
+            "family": "Systla",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001078"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104336",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104336"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104348",
+        "type": "journal-article",
+        "page": "104348",
+        "title": [
+          "Segmented Dollar Funding"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "given": "Pēteris",
+            "family": "Kloks",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0009-8858-7953",
+            "authenticated-orcid": false,
+            "given": "Edouard",
+            "family": "Mattille",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Angelo",
+            "family": "Ranaldo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001194"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104348",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104348"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104351",
+        "type": "journal-article",
+        "page": "104351",
+        "title": [
+          "A New Keynesian model of the term structures of equity and bond returns"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-4131-6672",
+            "authenticated-orcid": false,
+            "given": "Pierlauro",
+            "family": "Lopez",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Francisco",
+            "family": "Vazquez-Grande",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Lopez-Salido",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001224"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104351",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104351"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104334",
+        "type": "journal-article",
+        "page": "104334",
+        "title": [
+          "The passthrough of treasury supply to bank deposit funding"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-8512-1634",
+            "authenticated-orcid": false,
+            "given": "Wenhao",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yiming",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yang",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001054"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104334",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104334"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104335",
+        "type": "journal-article",
+        "page": "104335",
+        "title": [
+          "Can ChatGPT forecast stock price movements? Return predictability and large language models"
+        ],
+        "prefix": "10.1016",
+        "volume": "184",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-5133-7776",
+            "authenticated-orcid": false,
+            "given": "Alejandro",
+            "family": "Lopez-Lira",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7288-2995",
+            "authenticated-orcid": false,
+            "given": "Yuehua",
+            "family": "Tang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001066"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104335",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "article-number": "104335"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104324",
+        "type": "journal-article",
+        "page": "104324",
+        "title": [
+          "Monetary transmission and portfolio rebalancing: A cross-sectional approach"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0000-1304-1328",
+            "authenticated-orcid": false,
+            "given": "Xu",
+            "family": "Lu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0007-8134-0224",
+            "authenticated-orcid": false,
+            "given": "Lingxuan",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000954"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104324",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104324"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104310",
+        "type": "journal-article",
+        "page": "104310",
+        "title": [
+          "The impact of introducing a (nearly) redundant security: Evidence from Malaysian corporate bonds"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Antje",
+            "family": "Berndt",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jean",
+            "family": "Helwege",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amanda",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Frank",
+            "family": "Packer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000814"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104310",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104310"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104330",
+        "type": "journal-article",
+        "page": "104330",
+        "title": [
+          "Gambling away stability: Sports betting’s impact on vulnerable households"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6276-3244",
+            "authenticated-orcid": false,
+            "given": "Scott R.",
+            "family": "Baker",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Justin",
+            "family": "Balthrop",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mark J.",
+            "family": "Johnson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0370-4815",
+            "authenticated-orcid": false,
+            "given": "Jason",
+            "family": "Kotter",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kevin",
+            "family": "Pisciotta",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001017"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104330",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104330"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104321",
+        "type": "journal-article",
+        "page": "104321",
+        "title": [
+          "Blended finance"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Caroline",
+            "family": "Flammer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thomas",
+            "family": "Giroux",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Geoffrey M.",
+            "family": "Heal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000929"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104321",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104321"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/s0304-405x(26)00113-3",
+        "type": "journal-article",
+        "page": "104342",
+        "title": [
+          "Editorial Board"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001133"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/s0304-405x(26)00113-3",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104342"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104322",
+        "type": "journal-article",
+        "page": "104322",
+        "title": [
+          "Measuring firms’ capability to absorb external knowledge"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Michael",
+            "family": "Woeppel",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1715-0115",
+            "authenticated-orcid": false,
+            "given": "M. Deniz",
+            "family": "Yavuz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000930"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104322",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104322"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104332",
+        "type": "journal-article",
+        "page": "104332",
+        "title": [
+          "Board connections, firm profitability, and product market actions"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Radhakrishnan",
+            "family": "Gopalan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Renping",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alminas",
+            "family": "Žaldokas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001030"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104332",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104332"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104320",
+        "type": "journal-article",
+        "page": "104320",
+        "title": [
+          "Trade credit and relationships"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Felipe",
+            "family": "Benguria",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4248-0922",
+            "authenticated-orcid": false,
+            "given": "Alvaro",
+            "family": "Garcia-Marin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0494-9646",
+            "authenticated-orcid": false,
+            "given": "Tim",
+            "family": "Schmidt-Eisenlohr",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000917"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104320",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104320"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104327",
+        "type": "journal-article",
+        "page": "104327",
+        "title": [
+          "Forecast bias across horizons: Inflation expectations and the Treasury yields"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Hao",
+            "family": "Pang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X2600098X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104327",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104327"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104311",
+        "type": "journal-article",
+        "page": "104311",
+        "title": [
+          "Firm-to-firm financial linkages and dollar risk transmission"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-6696-983X",
+            "authenticated-orcid": false,
+            "given": "Bryan",
+            "family": "Hardy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Felipe",
+            "family": "Saffie",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0002-1046-7141",
+            "authenticated-orcid": false,
+            "given": "Ina",
+            "family": "Simonovska",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000826"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104311",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104311"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104333",
+        "type": "journal-article",
+        "page": "104333",
+        "title": [
+          "Reaching for influence: Do banks use loans to establish political connections?"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Mahsa",
+            "family": "Kaviani",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hosein",
+            "family": "Maleki",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-6038-6609",
+            "authenticated-orcid": false,
+            "given": "Pavel",
+            "family": "Savor",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001042"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104333",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104333"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104323",
+        "type": "journal-article",
+        "page": "104323",
+        "title": [
+          "Angels, entrepreneurship, and employment dynamics: Evidence from investor accreditation rules"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Laura",
+            "family": "Lindsey",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Luke C.D.",
+            "family": "Stein",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000942"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104323",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104323"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104328",
+        "type": "journal-article",
+        "page": "104328",
+        "title": [
+          "Carbon VIX: Carbon price uncertainty and decarbonization investments"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Maximilian",
+            "family": "Fuchs",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Johannes",
+            "family": "Stroebel",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Julian",
+            "family": "Terstegge",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000991"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104328",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104328"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104329",
+        "type": "journal-article",
+        "page": "104329",
+        "title": [
+          "Aggregate corporate savings, economic uncertainty, and future stock returns"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Yuanzhen",
+            "family": "Lyu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001005"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104329",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104329"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104307",
+        "type": "journal-article",
+        "page": "104307",
+        "title": [
+          "Are patents with female inventors under-cited? Evidence from text estimation"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Yael V.",
+            "family": "Hochberg",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ali",
+            "family": "Kakhbod",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Peiyao",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7739-0073",
+            "authenticated-orcid": false,
+            "given": "Kunal",
+            "family": "Sachdeva",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000784"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104307",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104307"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104319",
+        "type": "journal-article",
+        "page": "104319",
+        "title": [
+          "Asymmetric thin markets"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Vincent",
+            "family": "Fardeau",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000905"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104319",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104319"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104331",
+        "type": "journal-article",
+        "page": "104331",
+        "title": [
+          "Investor expertise and private investment selection"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0004-2667-6110",
+            "authenticated-orcid": false,
+            "given": "Shane",
+            "family": "Miller",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Emmanuel",
+            "family": "Yimfor",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ye",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26001029"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104331",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104331"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104326",
+        "type": "journal-article",
+        "page": "104326",
+        "title": [
+          "Changing the board game: Horizontal spillovers of gender quotas"
+        ],
+        "prefix": "10.1016",
+        "volume": "183",
+        "author": [
+          {
+            "given": "Luigi",
+            "family": "Guiso",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-7708-1011",
+            "authenticated-orcid": false,
+            "given": "Fabiano",
+            "family": "Schivardi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2959-0481",
+            "authenticated-orcid": false,
+            "given": "Luana",
+            "family": "Zaccaria",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000978"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104326",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "article-number": "104326"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/s0304-405x(26)00087-5",
+        "type": "journal-article",
+        "page": "104316",
+        "title": [
+          "Editorial Board"
+        ],
+        "prefix": "10.1016",
+        "volume": "182",
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000875"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/s0304-405x(26)00087-5",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "article-number": "104316"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104306",
+        "type": "journal-article",
+        "page": "104306",
+        "title": [
+          "Intellectual property protection lost and competition: An examination using large language models"
+        ],
+        "prefix": "10.1016",
+        "volume": "182",
+        "author": [
+          {
+            "given": "Utku U.",
+            "family": "Acikalin",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tolga",
+            "family": "Caskurlu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5104-9689",
+            "authenticated-orcid": false,
+            "given": "Gerard",
+            "family": "Hoberg",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-0782-2504",
+            "authenticated-orcid": false,
+            "given": "Gordon M.",
+            "family": "Phillips",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000772"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104306",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "article-number": "104306"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104293",
+        "type": "journal-article",
+        "page": "104293",
+        "title": [
+          "Government debt management and inflation with real and nominal bonds"
+        ],
+        "prefix": "10.1016",
+        "volume": "182",
+        "author": [
+          {
+            "given": "Lukas",
+            "family": "Schmid",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vytautas",
+            "family": "Valaitis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alessandro T.",
+            "family": "Villa",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000644"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104293",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "article-number": "104293"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104309",
+        "type": "journal-article",
+        "page": "104309",
+        "title": [
+          "Dirty air and green investments: The impact of pollution information on portfolio allocations"
+        ],
+        "prefix": "10.1016",
+        "volume": "182",
+        "author": [
+          {
+            "given": "Raymond",
+            "family": "Fisman",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pulak",
+            "family": "Ghosh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Arkodipta",
+            "family": "Sarkar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jian",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000802"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104309",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "article-number": "104309"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104295",
+        "type": "journal-article",
+        "page": "104295",
+        "title": [
+          "The co-pricing factor zoo"
+        ],
+        "prefix": "10.1016",
+        "volume": "182",
+        "author": [
+          {
+            "given": "Alexander",
+            "family": "Dickerson",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christian",
+            "family": "Julliard",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-8486-1777",
+            "authenticated-orcid": false,
+            "given": "Philippe",
+            "family": "Mueller",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000668"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104295",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "article-number": "104295"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104308",
+        "type": "journal-article",
+        "page": "104308",
+        "title": [
+          "Out of sight, out of mind: Divestments and the global reallocation of pollutive assets"
+        ],
+        "prefix": "10.1016",
+        "volume": "182",
+        "author": [
+          {
+            "given": "Tobias",
+            "family": "Berg",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lin",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Streitz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000796"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104308",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "article-number": "104308"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104305",
+        "type": "journal-article",
+        "page": "104305",
+        "title": [
+          "Monetary policy transmission through the exchange rate factor structure"
+        ],
+        "prefix": "10.1016",
+        "volume": "182",
+        "author": [
+          {
+            "given": "Erik",
+            "family": "Loualiche",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0008-5109-3899",
+            "authenticated-orcid": false,
+            "given": "Alexandre R.",
+            "family": "Pecora",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fabricius",
+            "family": "Somogyi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0003-4539-3370",
+            "authenticated-orcid": false,
+            "given": "Colin",
+            "family": "Ward",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000760"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104305",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "article-number": "104305"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104273",
+        "type": "journal-article",
+        "page": "104273",
+        "title": [
+          "Sustainable investing and market governance"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "given": "Alvin",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Deeksha",
+            "family": "Gupta",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jan",
+            "family": "Starmans",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000449"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104273",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104273"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104290",
+        "type": "journal-article",
+        "page": "104290",
+        "title": [
+          "Risk-averse dealers in a risk-free market—The role of trading desk risk limits"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "given": "Dan",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Lubomir",
+            "family": "Petrasek",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mary",
+            "family": "Tian",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000619"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104290",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104290"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/s0304-405x(26)00070-x",
+        "type": "journal-article",
+        "page": "104299",
+        "title": [
+          "Editorial Board"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X2600070X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/s0304-405x(26)00070-x",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104299"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104292",
+        "type": "journal-article",
+        "page": "104292",
+        "title": [
+          "Financial literacy and financial crime: A regression discontinuity approach"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "given": "Paul G.",
+            "family": "Freed",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-7661-9921",
+            "authenticated-orcid": false,
+            "given": "John",
+            "family": "Hackney",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000632"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104292",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104292"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104282",
+        "type": "journal-article",
+        "page": "104282",
+        "title": [
+          "Flying below the radar: Insider trading by executives below the top"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "given": "Hans K.",
+            "family": "Hvide",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kasper Meisner",
+            "family": "Nielsen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X2600053X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104282",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104282"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104294",
+        "type": "journal-article",
+        "page": "104294",
+        "title": [
+          "Glass box machine learning and corporate bond returns"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "given": "Sebastian",
+            "family": "Bell",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ali",
+            "family": "Kakhbod",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Martin",
+            "family": "Lettau",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Abdolreza",
+            "family": "Nazemi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000656"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104294",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104294"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104291",
+        "type": "journal-article",
+        "page": "104291",
+        "title": [
+          "Extrapolators and contrarians: Forecast bias and individual investor stock trading"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "given": "Steffen",
+            "family": "Andersen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Stephen G.",
+            "family": "Dimmock",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kasper Meisner",
+            "family": "Nielsen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kim",
+            "family": "Peijnenburg",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000620"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104291",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104291"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104279",
+        "type": "journal-article",
+        "page": "104279",
+        "title": [
+          "Government litigation risk and the decline in low-income mortgage lending"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "given": "W. Scott",
+            "family": "Frame",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kristopher",
+            "family": "Gerardi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Erik J.",
+            "family": "Mayer",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0001-9843-2041",
+            "authenticated-orcid": false,
+            "given": "Billy Y.",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lawrence Chengzhi",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000504"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104279",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104279"
+      },
+      {
+        "publisher": "Elsevier BV",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jfineco.2026.104283",
+        "type": "journal-article",
+        "page": "104283",
+        "title": [
+          "Bonding with risk: Corporate investment and savings in risky financial assets"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0004-1579-017X",
+            "authenticated-orcid": false,
+            "given": "Teng",
+            "family": "Huang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-0262-3554",
+            "authenticated-orcid": false,
+            "given": "Stefano",
+            "family": "Sacchetto",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Financial Economics"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0304405X26000541"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1016/j.jfineco.2026.104283",
+        "ISSN": [
+          "0304-405X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7
+            ]
+          ]
+        },
+        "article-number": "104283"
+      }
+    ],
+    "items-per-page": 100,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

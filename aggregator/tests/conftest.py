@@ -1,4 +1,4 @@
-"""Keep pytest's empty M0 suite successful without inventing placeholder tests."""
+"""Offline fixture tests; live checks require explicit opt-in."""
 
 import os
 from pathlib import Path

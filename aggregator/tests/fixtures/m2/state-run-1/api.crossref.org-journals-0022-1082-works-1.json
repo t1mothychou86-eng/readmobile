@@ -1,0 +1,3207 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 38,
+    "items": [
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    How do recent advances in Generative Artificial Intelligence (AI) affect firm value? We construct the first measure of\n                    <jats:italic>firms' workforce exposures</jats:italic>\n                    to Generative AI and show that an “Artificial‐Minus‐Human” portfolio earned 5% in the two weeks following the release of ChatGPT. The labor‐exposure effect is more pronounced for firms with greater data assets and is distinct from the effect of firms' product exposures to AI. We assess whether exposed workforces are substituted or complemented by Generative AI based on whether their exposed tasks are core or supplemental. Examining firms' labor demand and profitability following the release of ChatGPT supports a labor‐technology substitution channel.\n                  </jats:p>",
+        "DOI": "10.1111/jofi.70089",
+        "type": "journal-article",
+        "title": [
+          "Generative AI and Firm Values"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "ANDREA L.",
+            "family": "EISFELDT",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "GREGOR",
+            "family": "SCHUBERT",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "MIAO BEN",
+            "family": "ZHANG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "BLEDI",
+            "family": "TASKA",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70089"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70089",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "article-number": "jofi.70089"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We show that bonds issued by financial firms have higher spreads than bonds issued by industrial firms with the same rating and maturity, a difference that we refer to as the financial premium. Over the period 1987 to 2020, in the United States, this premium is 43 basis points on average, with the premium higher for lower ratings, higher during financial crises, and increasing in bond beta. We derive a model that explains the financial premium: banks hold diversified portfolios of nonfinancial debt, and bank debt therefore reflects more systematic risk than nonfinancial debt.</jats:p>",
+        "DOI": "10.1111/jofi.70084",
+        "type": "journal-article",
+        "title": [
+          "The Financial Premium"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "JENS",
+            "family": "DICK‐NIELSEN",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "PETER",
+            "family": "FELDHÜTTER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "DAVID",
+            "family": "LANDO",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70084"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70084",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "article-number": "jofi.70084"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Firms tend to compete more aggressively when facing financial distress. This intensified competition reduces profit margins, pushing them further into distress and adversely affecting their industry peers. To study such feedback and contagion effects, we incorporate strategic competition in a dynamic model with long‐term defaultable debt, exploring various peer interactions such as predation and price wars. The feedback effect represents a novel source of financial distress costs associated with leverage, which helps explain the negative profitability‐leverage relation across industries. Owing to the contagion effect, firms' optimal leverage is often excessively high from an industry perspective, undermining the industry's financial stability.</jats:p>",
+        "DOI": "10.1111/jofi.70080",
+        "type": "journal-article",
+        "title": [
+          "Feedback and Contagion through Distressed Competition"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "HUI",
+            "family": "CHEN",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "WINSTON WEI",
+            "family": "DOU",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "HONGYE",
+            "family": "GUO",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "YAN",
+            "family": "JI",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70080"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70080",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ]
+        },
+        "article-number": "jofi.70080"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We document that the convenience yield of U.S. Treasuries exhibits properties consistent with a hedging perspective of safe assets, that is, Treasuries are valued highly if they appreciate with poor aggregate shocks. In particular, the convenience yield tends to be low when the covariance of Treasury returns with the aggregate stock market returns is high. A decomposition of the aggregate stock‐bond covariance into terms corresponding to the convenience yield, the frictionless risk‐free rate, and default risk reveals that the covariance between stock returns and the convenience yield itself drives the effect in a substantive capacity.</jats:p>",
+        "DOI": "10.1111/jofi.70085",
+        "type": "journal-article",
+        "title": [
+          "When Do Treasuries Earn the Convenience Yield?—A Hedging Perspective"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "VIRAL V.",
+            "family": "ACHARYA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "TOOMAS",
+            "family": "LAARITS",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70085"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70085",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "article-number": "jofi.70085"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I show how firms optimize the allocation of charitable funds around investments that require external stakeholder support, such as mergers and acquisitions. Acquirers increase donations to target‐related charities before making a takeover offer, but scale funds back after withdrawing from a deal. Firms redistribute funds from nontakeover‐related areas to target insider–affiliated charities, employee communities, and counties with a regulatory presence. Targeted donations that encourage blockholder reciprocity and employee commitment are associated with better deal performance through decreased merger premiums and lower integration costs. Overall, the results highlight firms’ use of philanthropy to manage stakeholder relations in takeover decisions.</jats:p>",
+        "DOI": "10.1111/jofi.70090",
+        "type": "journal-article",
+        "title": [
+          "Targeted Philanthropy: Evidence from M&amp;As"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "CARA",
+            "family": "VANSTEENKISTE",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70090"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70090",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "article-number": "jofi.70090"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I show that the recent returns to environmental, social, and governance (ESG) investing are strongly driven by price impact from flows toward ESG portfolios. Using data on trades, I estimate the market's ability to accommodate ESG flows, which is given by the elasticity of substitution between ESG and other stocks. I show that every dollar flowing toward a representative ESG portfolio increases the market value of ESG stocks by $0.8. The growing institutional flows into the ESG portfolio are the main driver of ESG returns and have caused an annual flow‐driven return of 1.9%. In the absence of flows, ESG stocks would not have outperformed the market from 2012 to 2023.</jats:p>",
+        "DOI": "10.1111/jofi.70083",
+        "type": "journal-article",
+        "title": [
+          "Flow‐Driven ESG Returns"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "PHILIPPE VAN DER",
+            "family": "BECK",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70083"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70083",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ]
+        },
+        "article-number": "jofi.70083"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Using a novel data set of multi‐country credit registers and an institutional change from national to supranational supervision, we show that supranational banking supervision can increase credit supply while mitigating excessive risk‐taking. Supranational supervision increases credit supply only in financially stressed countries while reducing the credit supply to the riskiest (zombie) firms. These improved lending effects stem from weaker national institutions, differential national supervisory incentives, lower national supervisory abilities, and weaker national insolvency laws. Moreover, improved access to external finance from wholesale and bond markets as well as lower risk‐weighted assets allow supranationally supervised banks to expand the supply of credit. Overall, despite some supranational supervisory arbitrage, supranational supervision decreases firm‐level credit to the riskiest firms while increasing firm‐level credit availability in stressed countries without reducing it in nonstressed countries.</jats:p>",
+        "DOI": "10.1111/jofi.70091",
+        "type": "journal-article",
+        "title": [
+          "Supranational Banking Supervision, Credit Supply, and Risk‐Taking: European Evidence from Multi‐Country Credit Registers"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "CARLO",
+            "family": "ALTAVILLA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "MIGUEL",
+            "family": "BOUCINHA",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "MARTINA",
+            "family": "JASOVA",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "JOSÉ‐LUIS",
+            "family": "PEYDRÓ",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "FRANK",
+            "family": "SMETS",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70091"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70091",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "article-number": "jofi.70091"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We study whether easier monitoring of personal finances affects consumer spending. We use transaction data from an account aggregation company to study consumers who installed the mobile app after using the same service on a personal computer for several months. We utilize the staggered release of the apps on different devices (iPhone, iPad, and Android) to identify a causal effect conditional on adoption of the mobile app. Consumers decrease their discretionary spending following the installation of the mobile app. The decrease is larger during evening hours and among individuals with lower proxies of self‐control, patterns consistent with a monitoring/self‐regulation channel and with benchmark models of costly self‐control.</jats:p>",
+        "DOI": "10.1111/jofi.70087",
+        "type": "journal-article",
+        "title": [
+          "Mind the App: Mobile Access to Financial Information and Consumer Behavior"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "YARON",
+            "family": "LEVI",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "SHLOMO",
+            "family": "BENARTZI",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70087"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70087",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "article-number": "jofi.70087"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Institutional investors are less likely to support shareholder proposals on environmental and social issues for firms headquartered in Republican‐led states. The decline in support has become more pronounced in recent years, aligning with politicians emphasizing companies’ social responsibility efforts, and among firms receiving state‐level subsidies and tax breaks. Investor support also varies with shifts in state leadership, dropping by 12 percentage points in the same state when Republicans are in control instead of Democrats. The findings indicate that institutional investors prioritize maximizing shareholder value and that politicians can influence investor votes by altering the value implications of shareholder proposals.</jats:p>",
+        "DOI": "10.1111/jofi.70093",
+        "type": "journal-article",
+        "title": [
+          "The Politicization of Social Responsibility"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "TODD A.",
+            "family": "GORMLEY",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "MANISH",
+            "family": "JHA",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "MENG",
+            "family": "WANG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70093"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70093",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "article-number": "jofi.70093"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We document that the nature of aggregate consumption dynamics changes when the bond‐stock correlation switches sign. We identify three regimes in a real‐time, sequential learning framework: two highly persistent regimes where permanent or transitory consumption shocks are more dominant, and a largely transitory disaster regime. We study the implications for asset prices. The transition from the second to the first regime in the late 1990s makes the correlation between equities and real bonds switch from positive to negative as in the data, providing an explanation from the perspective of real consumption dynamics. The findings extend to the international setting.</jats:p>",
+        "DOI": "10.1111/jofi.70092",
+        "type": "journal-article",
+        "title": [
+          "The Real Channel for Nominal Bond‐Stock Puzzles"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "MIKHAIL",
+            "family": "CHERNOV",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "LARS A.",
+            "family": "LOCHSTOER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "DONGHO",
+            "family": "SONG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70092"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70092",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "article-number": "jofi.70092"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Person‐to‐person crowdfunding is an increasingly important form of disaster relief, yet its distribution is poorly understood. Linking GoFundMe campaigns from a major wildfire to property and household credit records, we find that higher‐income households are 12 pp more likely to have campaigns and raise over 25% more, holding property losses constant. These disparities reflect unequal access to social capital: broader donor bases, more nonlocal ties, greater advocacy by friends, and more generous donors. Donors appear influenced by social pressure in online crowdfunding. These mechanisms mirror national patterns and underscore crowdfunding's limitations as a tool for equitable disaster relief.</jats:p>",
+        "DOI": "10.1111/jofi.70094",
+        "type": "journal-article",
+        "title": [
+          "Money to Burn: Crowdfunding Wildfire Recovery"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "J. ANTHONY",
+            "family": "COOKSON",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "EMILY A.",
+            "family": "GALLAGHER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "PHILIP",
+            "family": "MULDER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70094"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70094",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ]
+        },
+        "article-number": "jofi.70094"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>I develop a control function methodology robust to endogenous or mismeasured regressors in hazard models. Applying the estimator to the subprime mortgage crisis, I quantify what caused the foreclosure rate to triple across the 2003 to 2007 subprime cohorts. To identify the elasticity of default to housing prices, I use various home price instruments including historical variation in home price cyclicality. Loose credit played a significant role in the crisis, but much of the increase in defaults across cohorts was caused by price declines unrelated to lending standards, with a 10% price decline increasing subprime mortgage default rates by 50%.</jats:p>",
+        "DOI": "10.1111/jofi.70088",
+        "type": "journal-article",
+        "title": [
+          "An IV Hazard Model of Loan Default with an Application to Subprime Mortgage Cohorts"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "CHRISTOPHER J.",
+            "family": "PALMER",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70088"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70088",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              28
+            ]
+          ]
+        },
+        "article-number": "jofi.70088"
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1111/jofi.70019",
+        "type": "journal-article",
+        "page": "3127-3127",
+        "title": [
+          "ANNOUNCEMENTS"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70019"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70019",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1111/jofi.13353",
+        "type": "journal-article",
+        "page": "2485-2487",
+        "title": [
+          "ISSUE INFORMATION"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13353"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.13353",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The random assignment of judges promotes fairness and underpins causal identification across the social sciences. Analyzing Chapter 11 bankruptcies, we find sophisticated parties “judge‐shop”: relative to secured hedge fund creditors, cases involving unsecured hedge fund creditors and equity holders are assigned judges with lower past conversion rates and higher unsecured recovery rates. Experienced legal counsel similarly influences assignment. Because judges are not assigned consecutive large cases, knowledgeable parties can judge‐shop by timing the filing date. We develop a method to measure the resulting bias and demonstrate the need for controls and bounded instrumental variable specifications in judge/examiner designs.</jats:p>",
+        "DOI": "10.1111/jofi.70081",
+        "type": "journal-article",
+        "title": [
+          "Justice Good as Random?"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "NIKLAS",
+            "family": "HÜTHER",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "KRISTOPH",
+            "family": "KLEINER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70081"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70081",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "article-number": "jofi.70081"
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1111/jofi.13354",
+        "type": "journal-article",
+        "page": "3128-3129",
+        "title": [
+          "AMERICAN FINANCE ASSOCIATION"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13354"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.13354",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Discretionary announcement timing generates high conditional risk premia of stock returns and a pattern of negative drifts followed by positive jumps. Average announcement returns are much larger than unconditional risk premia. Capital Asset Pricing Model alphas turn negative when conditioning on nondisclosure because betas rise faster than risk premia prior to disclosures, but average announcement returns may appear to be too large relative to market risk when betas are estimated from past returns. The effects are amplified when multiple firms exercise discretion over the timing of correlated announcements. We present evidence that firms time earnings announcements in a manner consistent with our model.</jats:p>",
+        "DOI": "10.1111/jofi.70073",
+        "type": "journal-article",
+        "title": [
+          "Discretionary Announcement Timing and Stock Returns"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "KERRY",
+            "family": "BACK",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "BRUCE I.",
+            "family": "CARLIN",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "SEYED M.",
+            "family": "KAZEMPOUR",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "CHLOE L.",
+            "family": "XIE",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70073"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70073",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "article-number": "jofi.70073"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Annuities, long‐term care insurance, and reverse mortgages remain puzzlingly unpopular to manage post‐retirement longevity, health, and housing price risks. We use a flexible life‐cycle model structurally estimated with a unique stated‐preference survey experiment of Canadian households to understand why. Key factors include high risk aversion, concern over long‐run risks, strong discounting of valuation in disability states, imperfect housing substitutability, and bequest motives. The remaining disinterest is accounted for by information frictions and inertia. We also document evidence of public insurance crowding out, spousal co‐insurance, and responsiveness to product bundling.</jats:p>",
+        "DOI": "10.1111/jofi.70077",
+        "type": "journal-article",
+        "title": [
+          "Longevity, Health, and Housing Risk Management in Retirement"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "PIERRE‐CARL",
+            "family": "MICHAUD",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "PASCAL",
+            "family": "ST‐AMOUR",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70077"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70077",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "article-number": "jofi.70077"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We present a model of competition between environmental, social, and governance (ESG) raters who acquire information about multiple unrelated categories and sell ratings. Raters specializing in different categories maximize the amount of information transmitted and surplus, and can be an equilibrium outcome. When investors place a high value on ESG performance across multiple categories, the unique equilibrium is for the raters to generalize—splitting their effort among the categories, resulting in less informative ratings. Greenwashing by firms can make generalization the only equilibrium. We also demonstrate that specialization maximizes ratings disagreement, and thus empirical measures of disagreement may be poor measures of surplus.</jats:p>",
+        "DOI": "10.1111/jofi.70078",
+        "type": "journal-article",
+        "title": [
+          "The Market for ESG Ratings"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "EHSAN",
+            "family": "AZARMSA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "JOEL",
+            "family": "SHAPIRO",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70078"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70078",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "article-number": "jofi.70078"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper studies asset pricing under expectations‐based reference‐dependent preferences in a general equilibrium framework. We show that reference‐dependent preferences can generate self‐fulfilling risk panics, producing sentiment‐driven asset price fluctuations through a feedback loop between current prices and perceived future downside risk—dynamics impossible under standard expected utility. The model helps explain empirical puzzles including (i) excess volatility, (ii) asymmetric volatility, (iii) asymmetric sentiment over the business cycle, (iv) excess asset price comovement, and (v) weak correlations between stock returns and economic fundamentals, alongside a sizable equity premium. Additional empirical evidence based on closed‐end fund discounts and quantitative analysis support the theory.</jats:p>",
+        "DOI": "10.1111/jofi.70079",
+        "type": "journal-article",
+        "title": [
+          "Reference‐Dependent Preferences and Sentiment‐Driven Asset Prices"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "JESS",
+            "family": "BENHABIB",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "ZHAORUI",
+            "family": "LI",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "XUEWEN",
+            "family": "LIU",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "PENGFEI",
+            "family": "WANG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70079"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70079",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              22
+            ]
+          ]
+        },
+        "article-number": "jofi.70079"
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>How did #MeToo alter collaboration between women and men? I show junior female researchers start fewer projects after #MeToo. A decrease in collaborations with male coauthors—especially new senior male coauthors at the same institution—largely explains the decline. The decrease is larger at universities with higher perceived harassment accusation risk and smaller where both women and men publicly express greater awareness of gender issues. I find no evidence that reduced collaboration improves research outcomes for junior female researchers. The results suggest that #MeToo led to a breakdown in trust that came at a cost for junior women's career opportunities.</jats:p>",
+        "DOI": "10.1111/jofi.70075",
+        "type": "journal-article",
+        "title": [
+          "The Unintended Consequences of #MeToo: Evidence from Research Collaborations in Economics and Finance"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "MARINA",
+            "family": "GERTSBERG",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70075"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70075",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              21
+            ]
+          ]
+        },
+        "article-number": "jofi.70075"
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>A majority of small U.S. businesses attempting to reorganize in bankruptcy fail to do so. Subchapter V of Chapter 11 (SubV) streamlines bankruptcy for small firms by reducing bankruptcy costs and negotiation frictions, and enables entrepreneurs to retain ownership. We show that many businesses reorganize under SubV that otherwise would liquidate. Creditor recoveries and postbankruptcy survival rates are at least as high in SubV as in traditional Chapter 11s. Our results show the increase in reorganizations is not associated with continuation of unviable firms, and that creditors are not harmed by a shift in bargaining power toward small business owners.</jats:p>",
+        "DOI": "10.1111/jofi.70076",
+        "type": "journal-article",
+        "page": "2493-2542",
+        "title": [
+          "Can Small Businesses Survive Chapter 11?"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "EDITH",
+            "family": "HOTCHKISS",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "BENJAMIN",
+            "family": "IVERSON",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "XIANG",
+            "family": "ZHENG",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70076"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70076",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We propose a new method to estimate the marginal value of capital under minimal assumptions. By combining asset prices with fundamentals, our method provides a quasi‐model‐free marginal q together with a simple correction for measurement error in (average) Tobin's Q using linear regressions. Marginal q yields plausible and robust estimates of adjustment costs and investment sensitivities to fundamentals. The widening gap between marginal q and Tobin's Q is driven primarily by market power and intangible capital. Our novel findings strongly support the neoclassical theory of investment and challenge the widespread use of Tobin's Q as proxy for investment opportunities.</jats:p>",
+        "DOI": "10.1111/jofi.70074",
+        "type": "journal-article",
+        "page": "2853-2886",
+        "title": [
+          "Marginal Q"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "VITO D.",
+            "family": "GALA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "JOAO F.",
+            "family": "GOMES",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "TONG",
+            "family": "LIU",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              19
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70074"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              19
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70074",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              19
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Customers in over‐the‐counter (OTC) markets must find a counterparty to trade. Little is known about this process, however, because existing data consist of transaction records, which only reveal the\n                    <jats:italic>outcome</jats:italic>\n                    of a search. Using data from a trading platform for corporate bonds, we unpack the search process. We analyze how long it takes customers to trade and how dealers' offers evolve across repeated inquiries. We estimate that it takes two to three days to complete a transaction after an unsuccessful attempt, with substantial variation across trade and customer characteristics. Our analysis offers insights into the sources of trading delays in OTC markets.\n                  </jats:p>",
+        "DOI": "10.1111/jofi.70068",
+        "type": "journal-article",
+        "page": "3035-3086",
+        "title": [
+          "Sequential Search for Corporate Bonds"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "MAHYAR",
+            "family": "KARGAR",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "BENJAMIN",
+            "family": "LESTER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "SÉBASTIEN",
+            "family": "PLANTE",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "PIERRE‐OLIVIER",
+            "family": "WEILL",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              10
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70068"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              10
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70068",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              10
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study examines the income loss following forced CEO turnovers using income data from the official records at the Danish Tax Authority. We find that dismissed CEOs’ personal income is 40% lower in the five years following forced turnovers. The decline is driven by labor market outcomes: labor and entrepreneurial incomes decline, while other sources of income increase. We find larger declines in income for executives with poor performance during their tenures, consistent with the executive labor market being the main channel for the lower income. Overall, the findings suggest that executives face significant personal costs from forced turnovers.</jats:p>",
+        "DOI": "10.1111/jofi.70064",
+        "type": "journal-article",
+        "page": "2649-2686",
+        "title": [
+          "Personal Costs of Executive Turnovers"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "KASPER",
+            "family": "MEISNER NIELSEN",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              8
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70064"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              8
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70064",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We explore the dynamics of venture capital (VC)‐backed startup boards using novel data on director entry, exit, and characteristics. At formation, a typical board is entrepreneur‐controlled. Independent directors join the median board after the second financing and hold a tie‐breaking vote. Their presence is particularly likely when potential VC‐entrepreneur conflicts are larger. At later stages, control switches to VCs and independent director characteristics change. These patterns align with key financial contracting theories, but also highlight unique roles of independent directors over the life cycle: mediation followed by advising. Independent directors thus represent another potential source of value‐add to startup performance.</jats:p>",
+        "DOI": "10.1111/jofi.70072",
+        "type": "journal-article",
+        "page": "2543-2594",
+        "title": [
+          "Board Dynamics over the Startup Life Cycle"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "MICHAEL",
+            "family": "EWENS",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "NADYA",
+            "family": "MALENKO",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              2
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70072"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              2
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70072",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              2
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Banks adjust loan spreads after observing natural disasters linked to climate change. We isolate this updating process by identifying loans to borrowers at risk of, but not directly affected by, such disasters. Loan spreads for these borrowers spike in both primary and secondary markets, while no such updating occurs for non–climate‐related disasters. Evidence suggests a heightened perceived credit risk, which nonetheless cannot fully explain the increase in rates. Taken altogether, increased spreads are explained primarily by salience bias, as they are short‐lived and amplified by media attention. This salience impacts financial decisions at bank‐dependent firms.</jats:p>",
+        "DOI": "10.1111/jofi.70066",
+        "type": "journal-article",
+        "page": "2933-2984",
+        "title": [
+          "The Rising Tide Lifts Some Interest Rates: Climate Change, Natural Disasters, and Loan Pricing"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "RICARDO",
+            "family": "CORREA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "AI",
+            "family": "HE",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "CHRISTOPH",
+            "family": "HERPFER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "UGUR",
+            "family": "LEL",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70066"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70066",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    Why do fire sales occur if many risks are hedgeable? We study a version of Brunnermeier and Sannikov (2014,\n                    <jats:italic>American Economic Review</jats:italic>\n                    104, 379–421) in which all fundamental risks can be hedged frictionlessly. Our analysis shows that fire sales are inherently self‐fulfilling. Fundamental shocks can never cause fire sales, and an efficient, safe equilibrium exists. On the other hand, there exists an equilibrium in which agents coordinate fire sales on nonfundamental shocks. A simple refinement based on vanishingly small perceived fundamental risk eliminates the safe equilibrium and selects the fire‐sale equilibrium as the unique outcome.\n                  </jats:p>",
+        "DOI": "10.1111/jofi.70069",
+        "type": "journal-article",
+        "page": "3087-3126",
+        "title": [
+          "Dynamic Self‐Fulfilling Fire Sales"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "PAYMON",
+            "family": "KHORRAMI",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "FERNANDO",
+            "family": "MENDO",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              28
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70069"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              28
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70069",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              28
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We derive tight pricing kernel restrictions from options with same‐day expiration (“0DTEs”). These restrictions concern the volatility of small and frequent asset price moves that the equity and options markets must agree on in a frictionless economy. Their violation leads to pseudo‐arbitrage opportunities, characterized by nontrivial reward‐to‐risk ratios over arbitrarily short horizons and achieved by a combined position in 0DTEs and the underlying asset. Empirically, we find no evidence of feasible pseudo‐arbitrage opportunities, as transaction costs, estimation risk, and short‐term volatility risk prevent investors from taking advantage of small and infrequent disagreements about volatility between equity and options markets.</jats:p>",
+        "DOI": "10.1111/jofi.70070",
+        "type": "journal-article",
+        "title": [
+          "Do Equity and Options Markets Agree about Volatility?"
+        ],
+        "prefix": "10.1111",
+        "author": [
+          {
+            "given": "CARSTEN H.",
+            "family": "CHONG",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "VIKTOR",
+            "family": "TODOROV",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70070"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70070",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        },
+        "article-number": "jofi.70070"
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>How does demand uncertainty affect firms' investment decisions? We examine this question in the context of electricity‐producing firms' planned investments in new power plants. We measure uncertainty about future electricity demand using plausibly exogenous variation in temperature projections across scientific climate models. The results show that uncertainty increases investment in power plants with flexible production technologies, while reducing investment in less flexible technologies. Overall, the net effect of uncertainty on investment is positive when firms have access to flexible investment opportunities. These findings are consistent with models in which production flexibility shapes the investment response to demand uncertainty.</jats:p>",
+        "DOI": "10.1111/jofi.70071",
+        "type": "journal-article",
+        "page": "2985-3034",
+        "title": [
+          "Climate Change, Demand Uncertainty, and Firms' Investments: Evidence from Planned Power Plants"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "CHEN",
+            "family": "LIN",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "THOMAS",
+            "family": "SCHMID",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "MICHAEL S.",
+            "family": "WEISBACH",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70071"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70071",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This paper estimates the cross‐sectional distribution of Epstein‐Zin preferences using the wealth and risky portfolio shares of a large panel of Swedish households. We find modestly heterogeneous risk aversion (standard deviation 0.97, median 7.50) and a meaningfully heterogeneous and right‐skewed time preference rate (TPR; standard deviation 7.31%, median 4.08%) and elasticity of intertemporal substitution (EIS; standard deviation 3.17, median 0.70). Risk aversion and the EIS are only very weakly negatively correlated. We estimate lower risk aversion for households with riskier labor income, and a higher TPR and lower EIS for households that enter our sample with low wealth.</jats:p>",
+        "DOI": "10.1111/jofi.70067",
+        "type": "journal-article",
+        "page": "2773-2808",
+        "title": [
+          "The Cross‐Section of Household Preferences"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "LAURENT E.",
+            "family": "CALVET",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "JOHN Y.",
+            "family": "CAMPBELL",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "FRANCISCO",
+            "family": "GOMES",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "PAOLO",
+            "family": "SODINI",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70067"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70067",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Mergers are associated with large and persistent earnings declines for incumbent employees in target firms. Linking employer‐employee administrative data with information on merger activity in Brazil, I find the negative effects concentrate on employees who exit target firms and reflect displacement in the short run and wage declines in the long run. Low‐skilled, managerial, and older employees fare worse. Overall, I conclude that mergers are followed by substantial reallocation costs reflecting losses of firm‐specific wage premiums, matching inefficiencies, and industry‐specific human capital depreciation, with employees transitioning to lower paying firms considered to be of lower productivity and employment value.</jats:p>",
+        "DOI": "10.1111/jofi.70065",
+        "type": "journal-article",
+        "page": "2595-2648",
+        "title": [
+          "M&amp;As, Employee Costs, and Labor Reallocation"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "SPYRIDON",
+            "family": "LAGARAS",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70065"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70065",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              21
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1111/jofi.70063",
+        "type": "journal-article",
+        "page": "2489-2492",
+        "title": [
+          "Jay R. Ritter"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70063"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70063",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1111/jofi.70018",
+        "type": "journal-article",
+        "page": "2479-2479",
+        "title": [
+          "ANNOUNCEMENTS"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70018"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70018",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1111/jofi.13351",
+        "type": "journal-article",
+        "page": "1801-1804",
+        "title": [
+          "ISSUE INFORMATION"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13351"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.13351",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1111/jofi.13352",
+        "type": "journal-article",
+        "page": "2480-2481",
+        "title": [
+          "AMERICAN FINANCE ASSOCIATION"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.13352"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.13352",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    We examine optimal capital requirements in a quantitative general equilibrium model with banks exposed to nondiversifiable borrower default risk. Contrary to standard models of bank default risk, our framework captures the limited upside, but significant downside risk of loan portfolio returns. This helps to reproduce the frequency and severity of\n                    <jats:italic>twin defaults</jats:italic>\n                    : simultaneously high firm and bank defaults. Hence, the optimal bank capital requirement, which trades off a lower frequency of twin defaults against restricting credit provision, is higher than under default risk models which underestimate the impact of borrower default on bank solvency.\n                  </jats:p>",
+        "DOI": "10.1111/jofi.70058",
+        "type": "journal-article",
+        "page": "2887-2932",
+        "title": [
+          "Twin Defaults and Bank Capital Requirements"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "CATERINA",
+            "family": "MENDICINO",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "KALIN",
+            "family": "NIKOLOV",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "JUAN",
+            "family": "RUBIO‐RAMIREZ",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "JAVIER",
+            "family": "SUAREZ",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "DOMINIK",
+            "family": "SUPERA",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70058"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70058",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "Wiley",
+        "issue": "5",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        },
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>We present results from a field experiment that introduced digital payroll accounts to unbanked factory workers to examine how inexperienced consumers learn to use a new financial technology. We find that exposure to payroll accounts leads to increased account use, accelerated learning, and avoidance of common consumer protection risks. Those receiving electronic wage payments gradually build trust in the technology, learn to use accounts without assistance, and avoid illicit fees. Using experimental variation in assignment to bank versus mobile money accounts, we show that these impacts are concentrated in mobile money accounts, the newer, more complex, and less trusted financial technology.</jats:p>",
+        "DOI": "10.1111/jofi.70062",
+        "type": "journal-article",
+        "page": "2687-2728",
+        "title": [
+          "Learning to Navigate a New Financial Technology"
+        ],
+        "prefix": "10.1111",
+        "volume": "81",
+        "author": [
+          {
+            "given": "EMILY",
+            "family": "BREZA",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "MARTIN",
+            "family": "KANZ",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "LEORA",
+            "family": "KLAPPER",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "The Journal of Finance"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jofi.70062"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              17
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1111/jofi.70062",
+        "ISSN": [
+          "0022-1082",
+          "1540-6261"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              17
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 100,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

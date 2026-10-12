@@ -1,0 +1,11 @@
+{
+  "error": "Rate limit exceeded",
+  "message": "Insufficient budget. This request has no API key, so it counts against the free daily budget shared by everyone on your network's IP address, and that budget is used up ($0 remaining; resets at midnight UTC). Use your own key instead: add ?api_key=YOUR_KEY to the URL, or send it as an \"Authorization: Bearer YOUR_KEY\" header. Keys are free and have their own budget: https://help.openalex.org/api/authentication/",
+  "retryAfter": 22129,
+  "costUsd": 0.0001,
+  "dailyRemainingUsd": 0,
+  "prepaidRemainingUsd": 0,
+  "creditsRequired": 1,
+  "creditsRemaining": 0,
+  "onetimeCreditsRemaining": 0
+}

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     version="2.0">
+   <channel>
+      <title>Wiley: Econometrica: Table of Contents</title>
+      <link>https://onlinelibrary.wiley.com/journal/14680262?af=R</link>
+      <description>Table of Contents for Econometrica. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© The Econometric Society</copyright>
+      <managingEditor>papercart@example.invalid (Wiley Online Library)</managingEditor>
+      <pubDate>Mon, 12 Oct 2026 07:50:18 +0000</pubDate>
+      <lastBuildDate>Mon, 12 Oct 2026 07:50:18 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: Econometrica: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>Econometrica</prism:publicationName>
+      <atom:link href="https://onlinelibrary.wiley.com/journal/14680262?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: Econometrica: Table of Contents</title>
+         <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/14680262.jpg</url>
+         <link>https://onlinelibrary.wiley.com/journal/14680262?af=R</link>
+      </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA945BM?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA945BM</guid>
+         <title>Backmatter of Econometrica Vol. 94 Iss. 5</title>
+         <description>Econometrica, Volume 94, Issue 5, Page iii-v, September 2026. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Miscellaneous back matter</category>
+         <dc:title>Backmatter of Econometrica Vol. 94 Iss. 5</dc:title>
+         <dc:identifier>10.3982/ECTA945BM</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA945BM</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA945BM?af=R</prism:url>
+         <prism:section>Miscellaneous back matter</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA945FM?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA945FM</guid>
+         <title>Frontmatter of Econometrica 94 Iss. 5</title>
+         <description>Econometrica, Volume 94, Issue 5, Page i-ii, September 2026. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Miscellaneous prelims</category>
+         <dc:title>Frontmatter of Econometrica 94 Iss. 5</dc:title>
+         <dc:identifier>10.3982/ECTA945FM</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA945FM</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA945FM?af=R</prism:url>
+         <prism:section>Miscellaneous prelims</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23242?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA23242</guid>
+         <title>Locally Robust Semiparametrically Efficient Bayesian Inference</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1761-1777, September 2026. </description>
+         <dc:description>
+We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We propose a framework for making Bayesian parametric models robust to local misspecification. Suppose in a baseline parametric model, a parameter of interest has an interpretation in an encompassing semiparametric model. Bayesian and maximum likelihood estimators are generally biased under local misspecification. We propose to augment the baseline likelihood by a multiplicative factor that involves scores for the baseline model, the efficient scores for the encompassing semiparametric model, and an auxiliary parameter that has the same dimension as the parameter of interest. We show that the marginal posterior for the parameter of interest in the augmented model is asymptotically normal with mean equal to the semiparametrically efficient estimator and variance equal to the semiparametric efficiency bound. The suggested augmentation robustifies the baseline parametric model to local misspecification, while preserving the appeal of Bayesian inference. We develop an MCMC algorithm for the augmented model and illustrate the approach in applications.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Ulrich Müller, 
+Andriy Norets
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Locally Robust Semiparametrically Efficient Bayesian Inference</dc:title>
+         <dc:identifier>10.3982/ECTA23242</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA23242</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23242?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA18759?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA18759</guid>
+         <title>Promoting Women to Managerial Roles in the Bangladeshi Garment Sector</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1685-1716, September 2026. </description>
+         <dc:description>
+Women remain disadvantaged in promotion to managerial positions. We conduct a field experiment with 24 large garment factories in Bangladesh to test for inefficient representation of women among line supervisors. We identify the marginal female and male candidates for supervisory positions and randomly assign them to manage production lines. We document four findings: (1) In contrast to widespread negative beliefs about women's ability as supervisors at baseline, female candidates selected by the factories had similar skills to males; (2) during the trial, females performed worse than males, which we show is related to negative bias against them; (3) after the trial, however, many female candidates were retained as supervisors and, conditional on that, performed similar to males; and (4) after the end of our intervention, factories permanently increased the share of women among newly appointed supervisors. A conceptual framework of experimentation over discrimination rationalizes all these facts and cautions against the standard logic to test for discrimination: when there is uncertainty about the performance of the discriminated group, equal—or even worse—performance of the marginal candidates of that group is no longer sufficient to rule out inefficient discrimination.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Women remain disadvantaged in promotion to managerial positions. We conduct a field experiment with 24 large garment factories in Bangladesh to test for inefficient representation of women among line supervisors. We identify the marginal female and male candidates for supervisory positions and randomly assign them to manage production lines. We document four findings: (1) In contrast to widespread negative beliefs about women's ability as supervisors at baseline, female candidates selected by the factories had similar skills to males; (2) during the trial, females performed worse than males, which we show is related to negative bias against them; (3) after the trial, however, many female candidates were retained as supervisors and, conditional on that, performed similar to males; and (4) after the end of our intervention, factories permanently increased the share of women among newly appointed supervisors. A conceptual framework of experimentation over discrimination rationalizes all these facts and cautions against the standard logic to test for discrimination: when there is uncertainty about the performance of the discriminated group, equal—or even worse—performance of the marginal candidates of that group is no longer sufficient to rule out inefficient discrimination.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Rocco Macchiavello, 
+Andreas Menzel, 
+Atonu Rabbani, 
+Christopher Woodruff
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Promoting Women to Managerial Roles in the Bangladeshi Garment Sector</dc:title>
+         <dc:identifier>10.3982/ECTA18759</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA18759</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA18759?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA20428?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA20428</guid>
+         <title>The Role of Trade in Premature Deindustrialization and Industry Polarization</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1779-1815, September 2026. </description>
+         <dc:description>
+We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open‐economy model with sector‐biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade‐driven specialization, as countries diverge along lines of comparative advantage.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We document two key patterns of structural change: premature deindustrialization and rising industry polarization. Using a dynamic open-economy model with sector-biased technological change (SBTC), we evaluate the role of trade in these shifts. Trade alone does not cause premature deindustrialization, but its interaction with SBTC—transmitting global technological change, amplifying the decline in manufacturing's relative price over time, and generating manufacturing trade imbalances across countries—deepens premature deindustrialization over time. Industry polarization, by contrast, emerges only through trade-driven specialization, as countries diverge along lines of comparative advantage.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Michael Sposi, 
+Kei‐Mu Yi, 
+Jing Zhang
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>The Role of Trade in Premature Deindustrialization and Industry Polarization</dc:title>
+         <dc:identifier>10.3982/ECTA20428</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA20428</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA20428?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA21366?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA21366</guid>
+         <title>Security Design Under Common‐Value Competition</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1717-1759, September 2026. </description>
+         <dc:description>
+This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;This paper studies security design by bidders with dispersed information about a common-value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed-selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private-value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Yue Yuan
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Security Design Under Common‐Value Competition</dc:title>
+         <dc:identifier>10.3982/ECTA21366</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA21366</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA21366?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA21571?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA21571</guid>
+         <title>Causal Inference for Spatial Treatments</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1529-1561, September 2026. </description>
+         <dc:description>
+Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the spatial treatment setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design‐based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high‐dimensional data in the theory, I extend a double machine learning result to the design‐based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID‐19 shelter‐in‐place policies, finding a large positive effect at very short distances, with no effect at larger distances.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the &lt;i&gt;spatial treatment&lt;/i&gt; setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design-based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high-dimensional data in the theory, I extend a double machine learning result to the design-based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID-19 shelter-in-place policies, finding a large positive effect at very short distances, with no effect at larger distances.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Michael Pollmann
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Causal Inference for Spatial Treatments</dc:title>
+         <dc:identifier>10.3982/ECTA21571</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA21571</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA21571?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA22363?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA22363</guid>
+         <title>Screening Property Rights for Innovation</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1849-1886, September 2026. </description>
+         <dc:description>
+We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&amp;D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We develop a dynamic structural model of patent screening incorporating incentives, intrinsic motivation, and multiround negotiation. We use natural language processing to create a measure of patent distance, which together with detailed data on examiner decisions, enables us to estimate the model and study strategic decisions by applicants and examiners. Using the estimated model, we quantify the effectiveness of the U.S. Patent Office and evaluate counterfactual policy reforms. We find that patent screening is moderately effective, given the existing standards for patentability. Examiners exhibit substantial intrinsic motivation that strongly improves screening quality. We quantify the annual social costs of patent screening at $15.38bn, equivalent to 5% of total private sector R&amp;amp;D in the U.S. and show that reforms limiting the number of rounds of negotiation significantly reduce social costs.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+William Matcham, 
+Mark Schankerman
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Screening Property Rights for Innovation</dc:title>
+         <dc:identifier>10.3982/ECTA22363</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA22363</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA22363?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA22524?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA22524</guid>
+         <title>Curtailing False News, Amplifying Truth</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1563-1601, September 2026. </description>
+         <dc:description>
+We develop a comprehensive framework to evaluate policy interventions aimed at curbing false news dissemination on social media. Using a randomized experiment on Twitter and X during the 2022 and 2024 U.S. elections, we assess priming for misinformation awareness, fact‐checking, confirmation clicks, and content consideration prompts. Priming proves most effective in reducing false‐news sharing while preserving true news dissemination. We build and structurally estimate a model of sharing, motivated by partisan persuasion, partisan signaling, and reputational concerns. We identify three channels through which policies influence sharing: (i) updating perceived veracity and partisanship of content, (ii) raising salience of reputation, and (iii) increasing engagement costs. Differences in the effects of policies are explained by the salience and cost channels. Content‐neutral priming is best at enhancing salience of reputation at minimal cost and almost as effective as fact‐checking in updating veracity. Salience channel is stronger when users encounter uncontroversially true content.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We develop a comprehensive framework to evaluate policy interventions aimed at curbing false news dissemination on social media. Using a randomized experiment on Twitter and X during the 2022 and 2024 U.S. elections, we assess priming for misinformation awareness, fact-checking, confirmation clicks, and content consideration prompts. Priming proves most effective in reducing false-news sharing while preserving true news dissemination. We build and structurally estimate a model of sharing, motivated by partisan persuasion, partisan signaling, and reputational concerns. We identify three channels through which policies influence sharing: (i) updating perceived veracity and partisanship of content, (ii) raising salience of reputation, and (iii) increasing engagement costs. Differences in the effects of policies are explained by the salience and cost channels. Content-neutral priming is best at enhancing salience of reputation at minimal cost and almost as effective as fact-checking in updating veracity. Salience channel is stronger when users encounter uncontroversially true content.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Sergei Guriev, 
+Emeric Henry, 
+Théo Marquis, 
+Ekaterina Zhuravskaya
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Curtailing False News, Amplifying Truth</dc:title>
+         <dc:identifier>10.3982/ECTA22524</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA22524</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA22524?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23230?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA23230</guid>
+         <title>The Random Priority Mechanism Is Uniquely Simple, Efficient, and Fair</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1603-1650, September 2026. </description>
+         <dc:description>
+Random Priority is a popular mechanism used to allocate a set of objects to a set of agents without the use of monetary transfers. Random Priority is appealing because it satisfies desirable efficiency, fairness, and incentive properties. Is it the only mechanism with these properties? We answer this long‐standing question in the positive: Random Priority is the unique mechanism that is Pareto efficient, symmetric, and obviously strategy‐proof.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Random Priority is a popular mechanism used to allocate a set of objects to a set of agents without the use of monetary transfers. Random Priority is appealing because it satisfies desirable efficiency, fairness, and incentive properties. Is it the only mechanism with these properties? We answer this long-standing question in the positive: Random Priority is the unique mechanism that is Pareto efficient, symmetric, and obviously strategy-proof.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Marek Pycia, 
+Peter Troyan
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>The Random Priority Mechanism Is Uniquely Simple, Efficient, and Fair</dc:title>
+         <dc:identifier>10.3982/ECTA23230</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA23230</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23230?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23897?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA23897</guid>
+         <title>Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1887-1906, September 2026. </description>
+         <dc:description>
+We study causal inference with high‐dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error‐in‐variable balancing weight for estimation and inference on cross‐sectional causal parameters with heterogeneous effects.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;We study causal inference with high-dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error-in-variable balancing weight for estimation and inference on cross-sectional causal parameters with heterogeneous effects.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Anish Agarwal, 
+Rahul Singh
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy</dc:title>
+         <dc:identifier>10.3982/ECTA23897</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA23897</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23897?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA24284?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA24284</guid>
+         <title>Genetic Prediction and Adverse Selection</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1817-1848, September 2026. </description>
+         <dc:description>
+Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Eduardo Azevedo, 
+Jonathan P. Beauchamp, 
+Richard Karlsson Linnér
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Genetic Prediction and Adverse Selection</dc:title>
+         <dc:identifier>10.3982/ECTA24284</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA24284</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA24284?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA20884?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA20884</guid>
+         <title>Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1489-1528, September 2026. </description>
+         <dc:description>
+This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;This paper examines how drug diversion influences the prescribing practices of physicians and the equilibrium health impacts of prescription medications. Focusing on the case of prescription opioids, a commonly prescribed and frequently diverted medication at the heart of the worst drug crisis in U.S. history, I design and estimate a model of physician behavior in the presence of a secondary market with patient search. To access prescription opioids for medical purposes or misuse, patients search over physicians on the legal primary market or turn to an illegal secondary market. Physicians, who care both about their impact on population health and their revenue from office visits, take into account the possibility that patients might resell their prescriptions on the secondary market when prescribing. The model demonstrates that the potential for diversion will tend to make strict physicians more hesitant in their prescribing while leading lenient prescribers to loosen their prescription thresholds, thereby exacerbating prescribing differences between more and less lenient physicians. Estimates reveal that the presence of a secondary market induces most physicians to be more careful in their prescribing, which brings prescriptions closer to their optimal level, but also causes harm through the reallocation of prescriptions for abuse.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Molly Schnell
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Physician Behavior in the Presence of a Secondary Market: The Case of Prescription Opioids</dc:title>
+         <dc:identifier>10.3982/ECTA20884</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA20884</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA20884?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23874?af=R</link>
+         <pubDate>Tue, 22 Sep 2026 00:00:00 -0700</pubDate>
+         <dc:date>2026-09-22T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/14680262?af=R">Wiley: Econometrica: Table of Contents</source>
+         <prism:coverDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Tue, 01 Sep 2026 00:00:00 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.3982/ECTA23874</guid>
+         <title>Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs</title>
+         <description>Econometrica, Volume 94, Issue 5, Page 1651-1684, September 2026. </description>
+         <dc:description>
+How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu‐cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch‐up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.
+</dc:description>
+         <content:encoded>
+&lt;p&gt;How costly is inflation to workers? Answers to this question have focused on the path of real wages during inflationary periods. We argue that workers must take costly actions (“conflict”) to have nominal wages catch up with inflation, meaning there are welfare costs even if real wages do not fall as inflation rises. We study a menu-cost style model, where workers choose whether to engage in conflict with employers to secure a wage increase. We show that, following a rise in inflation, wage catch-up resulting from more frequent conflict does not raise welfare. Instead, the impact of inflation on worker welfare is determined by what we call “wage erosion”—how inflation would lower real wages if workers' conflict decisions did not respond to inflation. As a result, using observed wage growth to measure worker welfare understates the costs of inflation. We conduct a survey showing that workers are willing to sacrifice around 1.75% of their wages to avoid conflict. Calibrating the model to survey data, we find that incorporating conflict significantly raises the costs of inflation for workers.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Joao Guerreiro, 
+Jonathon Hazell, 
+Chen Lian, 
+Christina Patterson
+</dc:creator>
+         <category>Original Articles</category>
+         <dc:title>Why Do Workers Dislike Inflation? Wage Erosion and Conflict Costs</dc:title>
+         <dc:identifier>10.3982/ECTA23874</dc:identifier>
+         <prism:publicationName>Econometrica</prism:publicationName>
+         <prism:doi>10.3982/ECTA23874</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.3982/ECTA23874?af=R</prism:url>
+         <prism:section>Original Articles</prism:section>
+         <prism:volume>94</prism:volume>
+         <prism:number>5</prism:number>
+      </item>
+   </channel>
+</rss>

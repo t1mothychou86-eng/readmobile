@@ -1,0 +1,5368 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 64,
+    "items": [
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742715",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "Online Business Models, Digital Ads, and User Welfare"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Daron",
+            "family": "Acemoglu",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Huttenlocher",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Asuman",
+            "family": "Ozdaglar",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "James",
+            "family": "Siderius",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Tuck School of Business at Dartmouth"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742715"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742715",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742710",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "Why Is Intermediating Houses So Difficult? Evidence from iBuyers"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Greg",
+            "family": "Buchak",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Stanford Graduate School of Business, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gregor",
+            "family": "Matvos",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Northwestern University and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tomasz",
+            "family": "Piskorski",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Columbia University and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amit",
+            "family": "Seru",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Stanford Graduate School of Business, Hoover Institution, Stanford Institute for Economic Policy Research, and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742710"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742710",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742724",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "Silence to Solidarity: How Communication about a Minority Affects Discrimination"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Duncan",
+            "family": "Webb",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Nova School of Business and Economics"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742724"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742724",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744130",
+        "type": "journal-article",
+        "title": [
+          "Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Priit",
+            "family": "Jeenas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744130"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744130",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              22
+            ]
+          ]
+        },
+        "article-number": "744130"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744117",
+        "type": "journal-article",
+        "title": [
+          "Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Juliano",
+            "family": "Assunção",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lars Peter",
+            "family": "Hansen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Todd",
+            "family": "Munson",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "José A.",
+            "family": "Scheinkman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744117"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744117",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "article-number": "744117"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744118",
+        "type": "journal-article",
+        "title": [
+          "Data, Privacy Laws and Firm Production: Evidence from the GDPR"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Mert",
+            "family": "Demirer",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Diego",
+            "family": "Jiménez-Hernández",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dean",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sida",
+            "family": "Peng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744118"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744118",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "article-number": "744118"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744119",
+        "type": "journal-article",
+        "title": [
+          "Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Eric",
+            "family": "Richert",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744119"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744119",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "article-number": "744119"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742716",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "Quota Mechanisms: Finite-Sample Optimality and Robustness"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Ian",
+            "family": "Ball",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Deniz",
+            "family": "Kattwinkel",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University College London"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742716"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742716",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742725",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "Regulatory Competition in the US Life Insurance Industry"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Johnny",
+            "family": "Tang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Cornell University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              15
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742725"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              15
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742725",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744012",
+        "type": "journal-article",
+        "title": [
+          "Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Nick",
+            "family": "Buchholz",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Matthew",
+            "family": "Shum",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Haiqing",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744012"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744012",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "article-number": "744012"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744015",
+        "type": "journal-article",
+        "title": [
+          "Behavioral Attenuation"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Benjamin",
+            "family": "Enke",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thomas",
+            "family": "Graeber",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ryan",
+            "family": "Oprea",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jeffrey",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744015"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744015",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "article-number": "744015"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744049",
+        "type": "journal-article",
+        "title": [
+          "Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Barbara",
+            "family": "Biasi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chao",
+            "family": "Fu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "John",
+            "family": "Stromme",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744049"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744049",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "article-number": "744049"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/744016",
+        "type": "journal-article",
+        "title": [
+          "Timing is Everything: Parental Professional Connections and Labor Market Entry"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Shmuel",
+            "family": "San",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744016"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744016",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              11
+            ]
+          ]
+        },
+        "article-number": "744016"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742713",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "Environmental Consequences of Hydrocarbon Infrastructure Policy"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Thomas R.",
+            "family": "Covert",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Airbnb"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ryan",
+            "family": "Kellogg",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harris School of Public Policy, University of Chicago; and National Bureau of\r          Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              4
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742713"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              4
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742713",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742714",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "Peer Effects and Rank Concerns in the Classroom"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Michela M.",
+            "family": "Tincani",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University College London (UCL), Institute for Fiscal Studies, Stone Centre at\r          UCL, CESifo, Human Capital and Economic Opportunity Global Working Group, and\r          INSPIRE"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742714"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742714",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              3
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/743929",
+        "type": "journal-article",
+        "page": "2926-2926",
+        "title": [
+          "JPE Turnaround Times"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743929"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743929",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742421",
+        "type": "journal-article",
+        "page": "2639-2682",
+        "title": [
+          "Mis(sed) Diagnosis: Physician Decision-Making and ADHD"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Kelli",
+            "family": "Marquardt",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Federal Reserve Bank of Chicago"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742421"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742421",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742434",
+        "type": "journal-article",
+        "page": "2683-2739",
+        "title": [
+          "From Doubt to Devotion: Trials and Learning-Based Pricing"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Tan",
+            "family": "Gan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "London School of Economics"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nicholas",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Yale University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742434"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742434",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742424",
+        "type": "journal-article",
+        "page": "2740-2777",
+        "title": [
+          "Debiasing and\n                    <i>t</i>\n                    -Tests for Synthetic Control Inference on Average Causal Effects"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Victor",
+            "family": "Chernozhukov",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Massachusetts Institute of Technology and University College London"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kaspar",
+            "family": "Wüthrich",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Michigan"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yinchu",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Brandeis University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742424"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742424",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742420",
+        "type": "journal-article",
+        "page": "2871-2925",
+        "title": [
+          "Markups: A Search-Theoretic Perspective"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Guido",
+            "family": "Menzio",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "New York University and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742420"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742420",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742418",
+        "type": "journal-article",
+        "page": "2778-2823",
+        "title": [
+          "Optimal Tests Following Sequential Experiments"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Karun",
+            "family": "Adusumilli",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Pennsylvania"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742418"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742418",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742423",
+        "type": "journal-article",
+        "page": "2602-2638",
+        "title": [
+          "The Effect of Education Policy on Crime: An Intergenerational            Perspective"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Ulrika",
+            "family": "Ahrsjö",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Stockholm School of Economics"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Costas",
+            "family": "Meghir",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Yale University, Institute for Fiscal Studies, National Bureau of Economic\r          Research, Institute of Labor Economics, Centre for Economic Policy Research, and Institute\r          for Evaluation of Labour Market and Education Policy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mårten",
+            "family": "Palme",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Stockholm University, CESifo, Institute for Fiscal Studies, Institute for\r          Labor Economics, and Rockwool Foundation"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Marieke",
+            "family": "Schnabel",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University College London"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742423"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742423",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/744158",
+        "type": "journal-article",
+        "title": [
+          "Front Matter"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744158"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744158",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/744159",
+        "type": "journal-article",
+        "title": [
+          "Recent Referees"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/744159"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/744159",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742435",
+        "type": "journal-article",
+        "page": "2824-2870",
+        "title": [
+          "Illiquid Lemon Markets and the Macroeconomy"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Aimé",
+            "family": "Bierdel",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Bain and Company"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Andres",
+            "family": "Drenik",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Texas at Austin and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Juan",
+            "family": "Herreño",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of California, San Diego, and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pablo",
+            "family": "Ottonello",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Maryland, Federal Reserve Bank of Minneapolis, and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742435"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742435",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "9",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742422",
+        "type": "journal-article",
+        "page": "2557-2601",
+        "title": [
+          "Rent Guarantee Insurance"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Boaz",
+            "family": "Abramson",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Columbia Business School"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Columbia Business School, National Bureau of Economic Research, Centre for Economic Policy Research, and Asian Bureau of Finance and Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742422"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742422",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743899",
+        "type": "journal-article",
+        "title": [
+          "Who Values Democracy?"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Max",
+            "family": "Miller",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743899"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743899",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743899"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743896",
+        "type": "journal-article",
+        "title": [
+          "Connecting Common Ratio and Common Consequence Preferences"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Christina",
+            "family": "McGranaghan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kirby",
+            "family": "Nielsen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ted",
+            "family": "O'Donoghue",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jason",
+            "family": "Somerville",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Charles",
+            "family": "Sprenger",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743896"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743896",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743896"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743915",
+        "type": "journal-article",
+        "title": [
+          "The Macroeconomic Dynamics of Labor Market Polices"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Erik G.",
+            "family": "Hurst",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Patrick",
+            "family": "Kehoe",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Elena",
+            "family": "Pastorino",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thomas",
+            "family": "Winberry",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743915"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743915",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743915"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743901",
+        "type": "journal-article",
+        "title": [
+          "Using Consumption Data to Derive Optimal Top Income and Capital Tax Rates"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Christian",
+            "family": "Hellwig",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nicolas",
+            "family": "Werquin",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743901"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743901",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743901"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743900",
+        "type": "journal-article",
+        "title": [
+          "Collusion through Common Leadership"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Alejandro",
+            "family": "Herrera-Caicedo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jessica",
+            "family": "Jeffers",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Elena",
+            "family": "Prager",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743900"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743900",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743900"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743898",
+        "type": "journal-article",
+        "title": [
+          "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Sonia",
+            "family": "Bhalotra",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Damian",
+            "family": "Clarke",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Atheendar",
+            "family": "Venkataramani",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743898"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743898",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743898"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743916",
+        "type": "journal-article",
+        "title": [
+          "Strategic Wishful Thinking: Implications for Forecasts"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Snehal",
+            "family": "Banerjee",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jesse",
+            "family": "Davis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Naveen",
+            "family": "Gondhi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743916"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743916",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743916"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743914",
+        "type": "journal-article",
+        "title": [
+          "Not Learning from Others"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "John",
+            "family": "Conlon",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Malavika",
+            "family": "Mani",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gautam",
+            "family": "Rao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Matthew",
+            "family": "Ridley",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Frank",
+            "family": "Schilbach",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743914"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743914",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              31
+            ]
+          ]
+        },
+        "article-number": "743914"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/742712",
+        "type": "journal-article",
+        "page": "000-000",
+        "title": [
+          "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "David A.",
+            "family": "Green",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of British Columbia and Institute for Fiscal Studies"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ben M.",
+            "family": "Sand",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "York University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Iain G.",
+            "family": "Snoddy",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Analysis Group"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Jeanne",
+            "family": "Tschopp",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Bern"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742712"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742712",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              25
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/741272",
+        "type": "journal-article",
+        "page": "2523-2554",
+        "title": [
+          "Blackwell-Monotone Updating Rules"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Mark",
+            "family": "Whitmeyer",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Arizona State University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/741272"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/741272",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/741641",
+        "type": "journal-article",
+        "page": "2488-2522",
+        "title": [
+          "Scalable Demand and Markups"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Enghin",
+            "family": "Atalay",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Federal Reserve Bank of Philadelphia"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Erika",
+            "family": "Frost",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Wisconsin–Madison"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Alan",
+            "family": "Sorensen",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Wisconsin–Madison and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher",
+            "family": "Sullivan",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Calgary"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Wanjia",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Wisconsin–Madison"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/741641"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/741641",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/741624",
+        "type": "journal-article",
+        "page": "2441-2487",
+        "title": [
+          "Exchange Rates and Asset Prices in a Global Demand System"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Ralph S. J.",
+            "family": "Koijen",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Chicago Booth School of Business, National Bureau of Economic Research, and Centre for Economic Policy Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Motohiro",
+            "family": "Yogo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Princeton University and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/741624"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/741624",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/743795",
+        "type": "journal-article",
+        "title": [
+          "Front Matter"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743795"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743795",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/741622",
+        "type": "journal-article",
+        "page": "2395-2440",
+        "title": [
+          "Optimal Queue Design"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Yeon-Koo",
+            "family": "Che",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Columbia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Olivier",
+            "family": "Tercieux",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Paris School of Economics and CNRS (Centre National de la Recherche Scientifique)"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/741622"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/741622",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740222",
+        "type": "journal-article",
+        "page": "2262-2312",
+        "title": [
+          "Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Mert",
+            "family": "Demirer",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "MIT Sloan School of Management"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Ömer",
+            "family": "Karaduman",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Stanford Graduate School of Business"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740222"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740222",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/743444",
+        "type": "journal-article",
+        "page": "2555-2555",
+        "title": [
+          "JPE Turnaround Times"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743444"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743444",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/741274",
+        "type": "journal-article",
+        "page": "2362-2394",
+        "title": [
+          "Making a Swap: Network Formation with Increasing Marginal Costs"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Evan",
+            "family": "Sadler",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Columbia University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/741274"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/741274",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740221",
+        "type": "journal-article",
+        "page": "2313-2361",
+        "title": [
+          "Sleep: Educational Impact and Habit Formation"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Osea",
+            "family": "Giuntella",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Pittsburgh, Institute of Labor Economics (IZA), and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Silvia",
+            "family": "Saccardo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Carnegie Mellon University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sally",
+            "family": "Sadoff",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of California, San Diego"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740221"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740221",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/743796",
+        "type": "journal-article",
+        "title": [
+          "Recent Referees"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743796"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743796",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/741623",
+        "type": "journal-article",
+        "page": "2223-2261",
+        "title": [
+          "Robust Estimation and Inference in Panels with Interactive Fixed Effects"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Timothy B.",
+            "family": "Armstrong",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Southern California"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Martin",
+            "family": "Weidner",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Oxford"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Andrei",
+            "family": "Zeleneev",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University College London"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/741623"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/741623",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743331",
+        "type": "journal-article",
+        "title": [
+          "From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Rodrigo",
+            "family": "Adao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Costas",
+            "family": "Arkolakis",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Sharat",
+            "family": "Ganapati",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743331"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743331",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743331"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743329",
+        "type": "journal-article",
+        "title": [
+          "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Thomas",
+            "family": "Wollmann",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743329"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743329",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743329"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743388",
+        "type": "journal-article",
+        "title": [
+          "Safe Spaces: Shelters or Tribes?"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Jean",
+            "family": "Tirole",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743388"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743388",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743388"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743333",
+        "type": "journal-article",
+        "title": [
+          "Political Parties as Drivers of U.S. Polarization: 1927-2018"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Nathan",
+            "family": "Canen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chad",
+            "family": "Kendall",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Francesco",
+            "family": "Trebbi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743333"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743333",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743333"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743332",
+        "type": "journal-article",
+        "title": [
+          "A Theory of  Redistribution and Public Good Provision Under Non-Democracy"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Nicola",
+            "family": "Persico",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743332"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743332",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743332"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743389",
+        "type": "journal-article",
+        "title": [
+          "Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "David",
+            "family": "Card",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Eric",
+            "family": "Chyn",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Laura",
+            "family": "Giuliano",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743389"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743389",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743389"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743387",
+        "type": "journal-article",
+        "title": [
+          "The Demand for Mobility: Evidence From an Experiment With Uber Riders"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Peter",
+            "family": "Christensen",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Gustavo",
+            "family": "Nino",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Adam",
+            "family": "Osman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743387"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743387",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743387"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "DOI": "10.1086/743334",
+        "type": "journal-article",
+        "title": [
+          "The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery"
+        ],
+        "prefix": "10.1086",
+        "author": [
+          {
+            "given": "Kohei",
+            "family": "Takeda",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Atsushi",
+            "family": "Yamagishi",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/743334"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/743334",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              31
+            ]
+          ]
+        },
+        "article-number": "743334"
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740226",
+        "type": "journal-article",
+        "page": "2119-2165",
+        "title": [
+          "Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo            Paga"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Juliana",
+            "family": "Londoño-Vélez",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of California, Los Angeles and National Bureau of Economic\r          Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Catherine",
+            "family": "Rodríguez",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Universidad de Los Andes"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fabio",
+            "family": "Sánchez",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Universidad de Los Andes"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Luis Esteban",
+            "family": "Álvarez-Arango",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of California, Los Angeles"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740226"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740226",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740220",
+        "type": "journal-article",
+        "page": "2074-2118",
+        "title": [
+          "The Zero-Beta Interest Rate"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Sebastian",
+            "family": "Di Tella",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Stanford University and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Benjamin",
+            "family": "Hébert",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Stanford University and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pablo",
+            "family": "Kurlat",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Southern California and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Qitong",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Southern California"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740220"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740220",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740223",
+        "type": "journal-article",
+        "page": "1967-2022",
+        "title": [
+          "A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Jason",
+            "family": "Abaluck",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Yale School of Management"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Giovanni",
+            "family": "Compiani",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Chicago Booth School of Business"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "NOVA School of Business and Economics, Universidade NOVA de Lisboa"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740223"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740223",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742834",
+        "type": "journal-article",
+        "title": [
+          "Recent Referees"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742834"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742834",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740225",
+        "type": "journal-article",
+        "page": "2215-2220",
+        "title": [
+          "The Origin of the State: Land Productivity or Appropriability? A Comment"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Nikolai",
+            "family": "Cook",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Wilfrid Laurier University"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Thibaut",
+            "family": "Duprey",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Bank of Canada"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Anthony",
+            "family": "Heyes",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Birmingham"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Martino",
+            "family": "Pelli",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Asian Development Bank"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740225"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740225",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740172",
+        "type": "journal-article",
+        "page": "2166-2214",
+        "title": [
+          "The Gas Trap: Outcompeting Coal versus Renewables"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Bård",
+            "family": "Harstad",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Stanford University, National Bureau of Economic Research, and Centre for Economic Policy Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Katinka",
+            "family": "Holtsmark",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "University of Oslo"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740172"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740172",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742464",
+        "type": "journal-article",
+        "page": "2221-2221",
+        "title": [
+          "JPE Turnaround Times"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742464"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742464",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740219",
+        "type": "journal-article",
+        "page": "1933-1966",
+        "title": [
+          "Training, Communications Patterns, and Spillovers inside Organizations"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Miguel",
+            "family": "Espinosa",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Bocconi University, Centre for Economic Policy Research, and CESifo"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Christopher",
+            "family": "Stanton",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Harvard Business School and National Bureau of Economic Research"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740219"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740219",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/742833",
+        "type": "journal-article",
+        "title": [
+          "Front Matter"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/742833"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/742833",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "publisher": "University of Chicago Press",
+        "issue": "7",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1086/740224",
+        "type": "journal-article",
+        "page": "2023-2073",
+        "title": [
+          "The Macroeconomic Consequences of Early Childhood Development Policies"
+        ],
+        "prefix": "10.1086",
+        "volume": "134",
+        "author": [
+          {
+            "given": "Diego",
+            "family": "Daruich",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "University of Southern California"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "container-title": [
+          "Journal of Political Economy"
+        ],
+        "resource": {
+          "primary": {
+            "URL": "https://www.journals.uchicago.edu/doi/10.1086/740224"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        },
+        "URL": "https://doi.org/10.1086/740224",
+        "ISSN": [
+          "0022-3808",
+          "1537-534X"
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              1
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 100,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}
