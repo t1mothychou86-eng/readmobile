@@ -33,6 +33,7 @@
 
 ## 红线
 - 不抓取全文，也不实现任何下载 PDF 的功能。程序（聚合器、前端、测试、脚本）**不得请求**任何 PDF 或全文 URL。作为链接保存或展示开放获取的 PDF 地址是允许的（见 PLAN.md D6）。
-- 仓库、日志和 fixture 里不能出现 API Key 或个人邮箱。`mailto` 从环境变量 `CROSSREF_MAILTO` 读取；未设置时用 `papercart@example.invalid` 作为占位，并输出一条警告。
+- 仓库、日志和 fixture 里不能出现 API Key 或个人邮箱。腾讯云密钥只从环境变量 `TENCENTCLOUD_SECRET_ID` 和 `TENCENTCLOUD_SECRET_KEY` 读取，不打印，也不写入 state 或 feed。
+- 不保存、不请求、不处理用户的学校账号或密码，不实现任何代为登录的功能。`mailto` 从环境变量 `CROSSREF_MAILTO` 读取；未设置时用 `papercart@example.invalid` 作为占位，并输出一条警告。
 - Zotero 请求必须遵守 `Backoff` 和 `Retry-After` 响应头，写入请求必须带 `Zotero-Write-Token`。
 - 对外请求的频率要克制：每个源每次运行最多 2 页，请求之间间隔至少 1 秒。
