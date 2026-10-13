@@ -159,14 +159,14 @@
   - 购物车页；设置页（输入 Key 并校验、选择集合、可选默认标签）；
   - manifest、图标、Service Worker 缓存 feed；
   - Vitest：Zotero client 的写入 Token 复用、退避逻辑、结果解析（mock 掉 fetch）。
-- [ ] **M5 CI/CD**：GitHub Actions 包括两个 workflow：
+- [x] **M5 CI/CD**：GitHub Actions 包括两个 workflow：
   - [x] `test.yml`：push / pull_request 跑 Python 3.12 pytest，以及 Node 24 的 npm ci、Vitest、build；pip/npm 使用依赖文件缓存。
   - [x] `publish.yml`：每 6 小时（UTC 分钟 17）及手动触发，恢复 state → 聚合 → 校验 → Web 构建 → 校验产物 → 官方 Pages 上传/部署；Secret 注入 mailto，最小权限及串行部署已配置。
   - [x] state 随站点发布为 data/state.json，从 SITE_URL 或 Pages base_url 恢复，下载失败从空 state 开始；原始 state 敏感信息/字段白名单校验和回归测试完成，前端及 SW 不读取/缓存 state。
   - [x] 单源失败可继续发布；空 feed、schema 错误或敏感 state 会阻止上传，README 已写明部署步骤。
   - [x] 本地工作流校验与无部署模拟：actionlint 1.7.12 通过，真实 curl 下载失败回退后从空 state 聚合 586 条；源数据/构建产物校验、npm ci、36 项 Vitest、Web build 均通过，218 项 Python 离线测试（含 17 项发布回归）通过，本地 Python 3.10 / CI 配置 3.12。S2 429 按既有冷却处理，不影响产出；未请求 PDF/全文或 Zotero 写入，未提交。
   - [x] 首次真实部署：2026-10-13 推送到 t1mothychou86-eng/readmobile，Test 与 Publish 均成功；站点 https://t1mothychou86-eng.github.io/readmobile/ 返回 586 条（gzip 后约 215 KB），state.json 中没有邮箱。publish 增加了 push 到 main 时的触发。
-  - [ ] 跨部署 state 恢复：待下一次定时运行后，确认日志中出现 'Published state restored.'，且 first_seen 保持不变。
+  - [x] 跨部署 state 恢复：第二次发布（feed 生成时间 01:21:16Z）保留了第一次的 first_seen（01:18:11Z），state 共 633 条。
 - [ ] **M6 真机与国内访问**：在 iPhone 上添加到主屏幕，走通“刷新 → 加购 → 电脑端出现条目”；如果 GitHub Pages 在国内访问不稳定，就评估 Cloudflare Pages 或其他托管方式，结论交给用户决定。
 - [ ] **M7（可选）**：远端去重（在 Zotero 中按 DOI 查询）；增加 JFQA、RF 等源；关键词高亮。
 
