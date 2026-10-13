@@ -165,7 +165,8 @@
   - [x] state 随站点发布为 data/state.json，从 SITE_URL 或 Pages base_url 恢复，下载失败从空 state 开始；原始 state 敏感信息/字段白名单校验和回归测试完成，前端及 SW 不读取/缓存 state。
   - [x] 单源失败可继续发布；空 feed、schema 错误或敏感 state 会阻止上传，README 已写明部署步骤。
   - [x] 本地工作流校验与无部署模拟：actionlint 1.7.12 通过，真实 curl 下载失败回退后从空 state 聚合 586 条；源数据/构建产物校验、npm ci、36 项 Vitest、Web build 均通过，218 项 Python 离线测试（含 17 项发布回归）通过，本地 Python 3.10 / CI 配置 3.12。S2 429 按既有冷却处理，不影响产出；未请求 PDF/全文或 Zotero 写入，未提交。
-  - [ ] 真实部署与跨部署 state 恢复验收：待用户创建公开仓库、设置 Secret/Pages 后由协调方推送并手动触发。M5 总项保留未完成，不开始 M6。
+  - [x] 首次真实部署：2026-10-13 推送到 t1mothychou86-eng/readmobile，Test 与 Publish 均成功；站点 https://t1mothychou86-eng.github.io/readmobile/ 返回 586 条（gzip 后约 215 KB），state.json 中没有邮箱。publish 增加了 push 到 main 时的触发。
+  - [ ] 跨部署 state 恢复：待下一次定时运行后，确认日志中出现 'Published state restored.'，且 first_seen 保持不变。
 - [ ] **M6 真机与国内访问**：在 iPhone 上添加到主屏幕，走通“刷新 → 加购 → 电脑端出现条目”；如果 GitHub Pages 在国内访问不稳定，就评估 Cloudflare Pages 或其他托管方式，结论交给用户决定。
 - [ ] **M7（可选）**：远端去重（在 Zotero 中按 DOI 查询）；增加 JFQA、RF 等源；关键词高亮。
 
@@ -177,7 +178,7 @@
 |---|---|
 | ~~Crossref `mailto`~~ | 已决定：使用账号邮箱，通过环境变量注入（见 D8） |
 | ~~如果 Zotero 不允许跨域，是否用 Worker 中转~~ | 不需要：M0 实测 CORS 可行 |
-| GitHub 账号，以及新建公开仓库（私有仓库启用 Pages 需要付费套餐） | M5 |
+| ~~GitHub 公开仓库~~ | 已完成：t1mothychou86-eng/readmobile |
 | Zotero API Key（勾选写权限）、目标集合（建议叫 `00 Inbox`） | M6，只在手机上输入 |
 
 ## 4. 风险与合规
