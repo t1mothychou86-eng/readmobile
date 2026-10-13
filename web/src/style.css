@@ -498,3 +498,42 @@ select {
 .notice button[aria-label="关闭提示"] {
   font-size:22px;
 }
+
+/* M6: title and abstract share the default reading surface. */
+main { padding-top:16px; }
+.intro { margin-bottom:16px; }
+h1 { font-size:26px; margin:6px 0; }
+.filters { margin-bottom:14px; }
+.paper { padding:16px; }
+.paper h2 { margin:10px 0 6px; font-size:18px; line-height:1.4; }
+.paper-meta { justify-content:flex-start; }
+.paper-meta > span:nth-child(2) { margin-left:auto; }
+.read-dot { width:7px; height:7px; background:var(--accent); border-radius:50%; flex-shrink:0; }
+.read-dot.seen { background:transparent; border:1px solid var(--line); }
+.title-zh { color:var(--muted); font-size:13px; margin:4px 0 8px; }
+.abstract { font-size:14px; line-height:1.6; margin:8px 0 0; }
+.abstract.preview { display:-webkit-box; -webkit-box-orient:vertical; -webkit-line-clamp:4; overflow:hidden; }
+.abstract-toggle { min-height:44px; padding:6px 0; }
+.no-abstract { color:var(--muted); font-size:13px; margin:10px 0; }
+.paper-actions { display:flex; align-items:center; gap:6px; flex-wrap:wrap; border-top:1px solid var(--line); padding-top:6px; }
+.article-link { display:inline-flex; min-height:44px; align-items:center; padding:6px 4px; color:var(--accent); font-size:12px; }
+.paper-actions .add { width:auto; margin:0 0 0 auto; min-height:44px; padding:8px 12px; font-size:13px; }
+.language-toggle { min-height:44px; color:var(--accent); }
+.guide-link { color:var(--accent); text-decoration:underline; display:inline-block; padding:10px 0; min-height:44px; }
+.checkbox-label { display:flex !important; gap:10px; align-items:center; }
+.checkbox-label input { width:22px; height:22px; min-height:22px; margin:0; }
+.publisher-index { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }
+.publisher-index button { font-size:12px; padding:8px 12px; }
+.publisher { scroll-margin-top:80px; }
+.publisher p { font-size:14px; }
+.publisher p.hint { font-size:12px; }
+.access-reminder { display:block; }
+.access-reminder p { margin:4px 0; }
+.access-reminder a { display:inline-block; min-height:44px; padding:10px 0; color:var(--accent); }
+
+.access-reminder > div { display:grid; grid-template-columns:1fr auto; column-gap:8px; }
+.access-reminder strong { grid-column:1; font-size:12px; line-height:1.5; }
+.access-reminder p { grid-column:1 / -1; font-size:12px; line-height:1.5; margin:2px 0; }
+.access-reminder a { grid-column:2; grid-row:1 / 3; font-size:12px; align-self:center; }
+.access-reminder p.hint { font-size:11px; margin-top:4px; }
+.access-reminder { padding-block:10px; margin-bottom:12px; }

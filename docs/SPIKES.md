@@ -380,3 +380,48 @@ JPE 原有 7 条摘要跨运行保留，54 条仍缺摘要的 DOI 命中既有�
 - **浏览器回归**：新增 `web/scripts/browser-check.mjs`，只用 Node 标准库/WebSocket 调用 CDP，对 vite preview 的实际 dist 检查。三个页面 × 两种主题 × 320/360/375/390/414/430px，加存储不可用/超时与 feed 失败/超时、800 字符 DOI/URL 的标题/摘要/源错误，共 **51 项布局检查**通过（scrollWidth == clientWidth；header/刷新/Tab/卡片/表单在视口内）。初次打开用隔离的新 browser context 实测 IndexedDB，故障场景在浏览器本地注入 mock；非 localhost 请求被阻止，没有 Zotero 授权、写入或 PDF 请求。
 - **截图**：逐张查看 390×844、DPR=2 的信息流/购物车/设置浅色与深色图，刷新按钮与三个 Tab 完整、无裁切。文件为 `/tmp/papercart-m4/{feed,cart,settings}-{light,dark}.png`；故障与长链接图为同目录的 `idb-unavailable.png`、`idb-timeout.png`、`feed-failed.png`、`feed-timeout.png`、`long-url.png`；测量结果 `checks.json`。截图在 /tmp，不提交仓库。
 - 仍未验证真实 iPhone safe-area/主屏幕安装、长期存储、实际 SW 离线/更新与真实 Zotero 同步；没有把 Chromium 移动视口模拟当作真机验收。M4 收尾，未开始 M5、未执行 git commit。
+
+
+## M6a / M6c：摘要卡片与机构访问（2026-10-13）
+
+本轮仅完成 M6a 和 M6c，M6b 翻译继续搁置；没有引入依赖、翻译 API、账号或密钥，没有开始 M7，也没有执行 git commit。
+
+### 卡片与原文打开
+
+- 卡片按来源/日期/未读圆点、英文标题、单行作者、四行摘要和紧凑操作行排列；点击摘要或按钮可就地展开/收起，无摘要仅显示一行弱化文字。英文保持主要阅读语言。
+- 前端类型预留可选 `title_zh` / `abstract_zh`，独立判断非空译文再显示中文标题或语言切换；当前无译文 feed 不出现这两种元素。不改变聚合器、schema、state 或 Zotero 元数据，不生成翻译。
+- 标题和“原文”保留新窗口 HTTPS/HTTP 外链；另提供 `x-safari-https://` 链接，仅转换有效 HTTPS URL，保留路径、查询和片段。设置开关默认开启，关闭后信息流和购物车都隐藏 Safari 按钮，普通外链仍可使用。仅保存/展示链接，没有预取、请求或下载论文/PDF。
+- **待 iPhone 真机验证**：Safari URL scheme 是否被当前 iOS 接受、从主屏幕 PWA 是否确实进入 Safari、是否共享 Safari 登录态。Chromium 只验证 href 和开关行为，未声称验证 iOS 跳转；可随时关闭。
+
+### 六家官方 HTML 说明页实测
+
+验证环境同前：WSL Ubuntu 经本机代理。先发现官方链接，再使用浏览工具逐页 `open`，每页均实际返回可读取的 `text/html` 说明内容；没有打开搜索结果中的 PDF，也没有跟进论文、全文、登录或注册页面。额外以 Python 标准库 GET（Accept: text/html，间隔至少一秒）实测直连；只记录状态/类型/大小，不保存含联系邮箱的 HTML 正文。浏览工具与本机直连是不同访问路径，不能把前者成功等同于所有网络可达。
+
+| 出版商 | 实测官方说明页 | 浏览工具读取 | WSL 直连 | 期限处理 |
+|---|---|---|---|---|
+| Elsevier / ScienceDirect（JFE） | [Remote access](https://www.elsevier.support/sciencedirect/answer/how-do-i-activate-and-use-remote-access-in-sciencedirect) | text/html，正文可读 | HTTP 200，text/html，127027 字节 | 官方给出 24 小时至 180 天范围，依机构设置；不默认填 180，用户记录实际期限 |
+| Wiley（JF、ECTA） | [Access Options](https://onlinelibrary.wiley.com/researchers/read/access-options) | text/html，正文可读 | HTTP 403 | 官方明确校园网登录后的个人 Wiley 账号关联方式为 60 天；提示限定适用方式，不默认填写 |
+| OUP（QJE、RES、RFS） | [Institutional access](https://academic.oup.com/pages/get-help-with-access/institutional-access) | text/html，正文可读 | HTTP 403 | 该页未给出统一配对天数，留空让用户填写 |
+| UChicago Press（JPE） | [FAQ for librarians](https://www.journals.uchicago.edu/inst/lib-faq) | text/html，正文可读 | HTTP 403 | 该页说明 IP、代理、Shibboleth，没有统一配对天数；留空 |
+| AEA（AER） | [Institutional subscriptions](https://www.aeaweb.org/journals/subscriptions) | text/html，正文可读 | 首次读取超时，第二次 HTTP 200，text/html，21438 字节 | 该页没有统一配对期限；不把订阅年费/个人会员当作配对有效期，留空 |
+| JSTOR | [Access Management Overview](https://support.jstor.org/hc/en-us/articles/115004983547-Access-Management-Overview)；[User Management Overview](https://support.jstor.org/hc/en-us/articles/7439227268887-User-Management-Overview) | 两页均 text/html，正文可读 | 两页 HTTP 200，text/html，38559 / 31131 字节 | 第二页明确个人账号配对 365 天；说明管理员可提前终止，附独立有效期来源，不默认填写 |
+
+403 说明本机直连被拒，不保证 iPhone 或国内网络能打开这些页；浏览工具成功已确认这些地址提供官方 HTML 指引。以上有效期均直接附原说明来源；没有官方统一数字的出版商不写猜测数值。校园网操作要点均依据对应官方页，校外入口仍由学校图书馆提供。未验证用户所在学校是否订阅，也未进行机构认证。
+
+### 日期与提醒
+
+- 设置页通过 `#access` 进入指南子页，提供返回设置及出版商定位按钮。每家只填写“配对日期”和正整数“有效天数”，全部初始留空，可保存、更新、删除；不提供学校账号或密码字段，也不代为登录。建议在 Safari/学校官方页面使用 iCloud 钥匙串。
+- IndexedDB 保存 Safari 开关和每个出版商的日期/天数；旧 M4 设置自动补默认值，清除本地数据同时清除这些记录。保存记录时只保留两个白名单字段。
+- 按设备本地日历计算到期日，避开时区与夏令时的小时差；到期前 7 天（含第 7 天）、当天和逾期均在信息流顶部及设置页显示提醒。每分钟和重新聚焦时刷新，提醒只是用户记录的估算，不检测 Cookie/登录状态，也不推送通知。
+
+### 自动检查与截图
+
+- `aggregator/.venv/bin/python -m pytest aggregator/tests -q`：**218 passed**，离线 fixture；没有真实 Zotero 写入。
+- `cd web && npm test`：**50 passed**（原 36 项 + 14 项）。新增缺失/null/空白译文不渲染、独立译文/中文摘要、展开/无摘要、Safari 开关/URL 保真、7 天边界/当天/逾期/闰年/非法记录、旧设置迁移/持久化/删除/清除及字段白名单测试。
+- `cd web && npm run build`（TypeScript、Vite、PWA）：通过；`/tmp/papercart-actionlint/actionlint`（1.7.12）及 `git diff --check`：通过。
+- 构建后以 `npx vite preview --port 4174 --strictPort` 服务 dist；使用用户指定 Chromium 和 LD_LIBRARY_PATH，以 CDP `Emulation.setDeviceMetricsOverride` 指定 **390×844，DPR=2，mobile=true**，不是依赖桌面 window-size。
+- 新增 `web/scripts/browser-m6.mjs`：双主题下检查卡片、展开、无摘要、指南、实际表单保存到 IndexedDB、两处提醒、Safari 开关；320/360/390/430px 三个相关页面检查无横向溢出。所有非 localhost 请求被 CDP 拦截，未点击外部原文/说明/登录链接。沿用 `browser-check.mjs` 的 **51 项 M4 布局与故障回归**亦通过。
+- 普通首屏两主题首卡 top=330.09、bottom=645.64、下一张 top=659.64、底栏 top=771 CSS px；摘要高度 89.56 ≈ 4×22.4px，完整显示标题、四行摘要和操作行并露出下一张。压缩提醒间距后，单条提醒出现时首张摘要卡片也完整位于底栏之上。
+- **逐张查看的最终截图**在 `/tmp/papercart-m6/`：`feed-{light,dark}.png`、`expanded-{light,dark}.png`、`no-abstract-{light,dark}.png`、`access-{light,dark}.png`、`reminder-{light,dark}.png`，另有设置页提醒 `reminder-settings-{light,dark}.png`，共 12 张。文本、按钮、浅/深色对比及窄屏均正常；展开后的全文允许滚动。测量在 `checks.json`，M4 回归图/测量在 `m4-regression/`；截图不提交仓库。
+
+剩余真机/实际主屏幕安装、长期存储、SW 离线/更新和授权 Zotero 同步仍属于 M7，不用 Chromium 模拟替代验收。

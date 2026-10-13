@@ -113,3 +113,25 @@ describe('first-run storage initialization', () => {
     expect(store.storageStatus).toBe('unavailable'); expect(set).not.toHaveBeenCalled();
   });
 });
+
+describe('institution dates and Safari preference', () => {
+  it('migrates old settings, persists reminders and preference, and clears both', async () => {
+    const old = new Store().state; delete old.settings.safariOpen; delete old.settings.access; db.set('papercart:v1', old);
+    const local = new Store(); await local.load(); expect(local.state.settings.safariOpen).toBe(true);
+    await local.settings({ ...local.state.settings, safariOpen: false });
+    await local.accessRecord('wiley', { pairedOn: '2026-10-13', days: 60 });
+    const reloaded = new Store(); await reloaded.load();
+    expect(reloaded.state.settings.safariOpen).toBe(false);
+    expect(reloaded.state.settings.access?.wiley).toEqual({ pairedOn: '2026-10-13', days: 60 });
+    await reloaded.accessRecord('wiley'); expect(reloaded.state.settings.access).toEqual({});
+    await reloaded.accessRecord('jstor', { pairedOn: '2026-10-13', days: 365 });
+    await reloaded.clear(); expect(reloaded.state.settings.access).toEqual({}); expect(reloaded.state.settings.safariOpen).toBe(true);
+  });
+  it('rejects invalid dates and publishers and only retains date and days', async () => {
+    const local = new Store(); await local.load();
+    await expect(local.accessRecord('wiley', { pairedOn: '2026-02-30', days: 1 })).rejects.toThrow('有效');
+    await expect(local.accessRecord('unknown', { pairedOn: '2026-10-13', days: 1 })).rejects.toThrow('有效');
+    await local.accessRecord('wiley', { pairedOn: '2026-10-13', days: 60, unrelated: 'discard' } as any);
+    expect(local.state.settings.access?.wiley).toEqual({ pairedOn: '2026-10-13', days: 60 });
+  });
+});

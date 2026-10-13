@@ -8,6 +8,6 @@ export function CartPage({ feed, add }: { feed?: Feed; add: (paper: Paper) => vo
     {(['failed', 'writing', 'added'] as const).map(status => {
       const group = entries.filter(e => e.status === status);
       return group.length > 0 && <section class="cart-group"><h2 class="section-title">{{ failed: '待处理', writing: '写入中', added: '已入库' }[status]} <span>{group.length}</span></h2>
-        {group.map(entry => <PaperCard key={entry.paper.id} paper={entry.paper} source={feed?.sources.find(s => s.id === entry.paper.source)} read={!!store.state.read[entry.paper.id]} entry={entry} busy={store.busy || store.storageStatus !== 'ready'} add={() => add(entry.paper)} />)}</section>;
+        {group.map(entry => <PaperCard safariOpen={store.state.settings.safariOpen !== false} key={entry.paper.id} paper={entry.paper} source={feed?.sources.find(s => s.id === entry.paper.source)} read={!!store.state.read[entry.paper.id]} entry={entry} busy={store.busy || store.storageStatus !== 'ready'} add={() => add(entry.paper)} />)}</section>;
     })}</>;
 }

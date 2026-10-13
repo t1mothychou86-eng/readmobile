@@ -1,10 +1,11 @@
 import { get, set, del } from 'idb-keyval';
+import { publishers, validAccess } from './access';
 import { withTimeout } from './timeout';
 import { writeToken, ZoteroClient } from './api/zotero';
-import type { Batch, ItemResult, LocalState, Paper, Settings } from './types';
+import type { AccessRecord, Batch, ItemResult, LocalState, Paper, Settings } from './types';
 const KEY = 'papercart:v1';
 export function emptyState(): LocalState {
-  return { settings: { apiKey: '', userID: null, collection: '', tags: [], collections: [] },
+  return { settings: { apiKey: '', userID: null, collection: '', tags: [], collections: [], safariOpen: true, access: {} },
     read: {}, cart: {}, batches: {}, nextRequestAt: 0, filters: { group: '', source: '' } };
 }
 export class Store {
@@ -27,6 +28,7 @@ export class Store {
         const saved = await get<LocalState>(KEY);
         if (attempt !== this.loadAttempt) throw new Error('本地存储初始化已取消');
         const next = saved ?? emptyState();
+        next.settings = { ...emptyState().settings, ...next.settings };
         // A closed tab may have sent the request: never auto-resume or replace its token.
         for (const entry of Object.values(next.cart)) {
           if (entry.status === 'writing') {
@@ -64,6 +66,14 @@ export class Store {
   }
   markRead(ids: string[]) { return this.update(s => { ids.forEach(id => { s.read[id] = true; }); }); }
   settings(settings: Settings) { return this.update(s => { s.settings = settings; }); }
+  accessRecord(id: string, record?: AccessRecord) {
+    if (!publishers.some(p => p.id === id) || (record && !validAccess(record))) return Promise.reject(new Error('请填写有效配对日期和正整数天数'));
+    return this.update(s => {
+      s.settings.access ??= {};
+      if (record) s.settings.access[id] = { pairedOn: record.pairedOn, days: record.days };
+      else delete s.settings.access[id];
+    });
+  }
   filters(group: string, source: string) {
     if (this.storageStatus !== 'ready') {
       this.state = { ...this.state, filters: { group, source } };

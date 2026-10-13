@@ -19,7 +19,7 @@ export function FeedPage({ feed, add, report }: { feed: FeedData; add: (paper: P
       <div class="filter-row"><label>来源<select value={source} onChange={e => change(group, e.currentTarget.value)}><option value="">全部来源</option>{feed.sources.filter(s => !group || s.group === group).map(s => <option value={s.id}>{s.short} · {s.name}</option>)}</select></label>
         <button class="text-button" disabled={store.storageStatus !== 'ready'} onClick={() => void store.markRead(feed.papers.map(p => p.id)).catch(() => report('已读状态保存失败'))}>全部标为已读</button></div>
     </section>
-    <div class="paper-list">{papers.map(p => <PaperCard key={p.id} paper={p} source={feed.sources.find(s => s.id === p.source)} read={!!store.state.read[p.id]} entry={store.state.cart[p.id]} busy={store.busy || store.storageStatus !== 'ready'} add={() => add(p)} markRead={store.storageStatus === 'ready' ? () => void store.markRead([p.id]).catch(() => report('已读状态保存失败')) : undefined} />)}</div>
+    <div class="paper-list">{papers.map(p => <PaperCard safariOpen={store.state.settings.safariOpen !== false} key={p.id} paper={p} source={feed.sources.find(s => s.id === p.source)} read={!!store.state.read[p.id]} entry={store.state.cart[p.id]} busy={store.busy || store.storageStatus !== 'ready'} add={() => add(p)} markRead={store.storageStatus === 'ready' ? () => void store.markRead([p.id]).catch(() => report('已读状态保存失败')) : undefined} />)}</div>
     {!papers.length && <div class="empty">这个筛选下暂无文献，试试其他来源。</div>}
   </>;
 }
